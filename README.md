@@ -1,6 +1,6 @@
 
 
-## Chain Information Managed By [Cosmos](https://github.com/cosmos) & SKIP
+## Chain Information Managed By [Cosmos](https://github.com/cosmos) & Skip Protocol
 
 - [Validator's moniker image](https://github.com/CosmosLabsKR/chainlist/tree/main#how-to-display-validator-moniker-keybase-identity)
 - [Add Asset's Info](https://github.com/CosmosLabsKR/chainlist/tree/main#how-to-add-your-asset-info)

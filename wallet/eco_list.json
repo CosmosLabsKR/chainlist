@@ -3,7 +3,7 @@
         "id": 1,
         "name": "Eigenlayer",
         "description": "EigenLayer lets Ethereum users restake assets to support other protocols and earn extra rewards.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/eigenlayer.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/eigenlayer.png",
         "link": "https://app.eigenlayer.xyz",
         "chains": [
             "ethereum"
@@ -21,7 +21,7 @@
         "id": 2,
         "name": "Etherfi",
         "description": "EtherFi is a liquid restaking on Ethereum. Stake ETH to get eETH to reward you more across DeFi.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/etherfi.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/etherfi.png",
         "link": "https://app.ether.fi",
         "chains": [
             "ethereum",
@@ -42,7 +42,7 @@
         "id": 3,
         "name": "1inch",
         "description": "The 1inch Network unites decentralized protocols whose synergy enables the most lucrative, fastest and protected operations in the DeFi space.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/1inch.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/1inch.png",
         "link": "https://app.1inch.io",
         "chains": [
             "ethereum",
@@ -72,7 +72,7 @@
         "id": 4,
         "name": "Aave",
         "description": "Aave is a decentralized finance money market protocol that allows you to lend, borrow, and earn interest on cryptocurrencies.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/aave.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/aave.png",
         "link": "https://app.aave.com/",
         "chains": [
             "ethereum",
@@ -100,7 +100,7 @@
         "id": 5,
         "name": "Uniswap",
         "description": "Uniswap V3 is a noncustodial automated market maker implemented for the Ethereum Virtual Machine. It provides increased capital efficiency, fine-tuned control of liquidity provider, and improve accuracy and convenience of its price oracle.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/uniswap.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/uniswap.png",
         "link": "https://app.uniswap.org/swap",
         "chains": [
             "ethereum",
@@ -129,7 +129,7 @@
         "id": 6,
         "name": "Ethena",
         "description": "Ethena is a DeFi platform offering secure lending, borrowing, and staking on the blockchain. It empowers users with full control over their assets.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/ethena.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/ethena.png",
         "link": "https://app.ethena.fi/",
         "chains": [
             "ethereum",
@@ -156,7 +156,7 @@
         "id": 7,
         "name": "Pendle",
         "description": "Pendle is a DeFi protocol that unlocks the potential of yield trading by enabling users to tokenize and trade future yield on various assets. It provides innovative tools to maximize yield opportunities and enhance liquidity.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/pendle.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/pendle.png",
         "link": "https://app.pendle.finance/",
         "chains": [
             "ethereum",
@@ -181,7 +181,7 @@
         "id": 8,
         "name": "Morpho",
         "description": "Morpho is a DeFi protocol that optimizes lending and borrowing on top of existing lending pools, offering improved rates through peer-to-peer matching while maintaining compatibility with major protocols like Aave and Compound.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/morpho.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/morpho.png",
         "link": "https://app.morpho.org/",
         "chains": [
             "ethereum",
@@ -204,7 +204,7 @@
         "id": 9,
         "name": "Rango Exchange",
         "description": "Rango Exchange a powerful multi-chain aggregator for DEX and bridges, based on reachability and support of top blockchains.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/rangoexchange.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/rangoexchange.png",
         "link": "https://app.rango.exchange/bridge?fromBlockchain=ETH&fromToken=ETH&toBlockchain=ETH&toToken=USDT--0xdac17f958d2ee523a2206206994597c13d831ec7",
         "chains": [
             "ethereum",
@@ -239,7 +239,7 @@
         "id": 10,
         "name": "ShapeShift",
         "description": "ShapeShift is a pioneer in self-custody for digital asset trading. Our open source platform empowers users to safely buy, hold, trade, and invest in a range of digital assets and improves access to open, decentralized financial systems.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/shapeshift.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/shapeshift.png",
         "link": "https://app.shapeshift.com/?utm_source=mainpage&utm_medium=launchdapp&utm_campaign=top#/trade",
         "chains": [
             "ethereum",
@@ -262,7 +262,7 @@
         "id": 11,
         "name": "Jumper",
         "description": "A truly multi-chain exchange. Aggregating the best in the business for bridging, swapping, onramping.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/jumper.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/jumper.png",
         "link": "https://jumper.exchange",
         "chains": [
             "ethereum",
@@ -296,7 +296,7 @@
         "id": 12,
         "name": "OpenOcean",
         "description": "OpenOcean is a leading DEX Aggregator, a cross-chain swap aggregator, and Web3 middleware developer in the crypto space, offering a suite of tools across 30+ networks and maintains strong connections with 1000+ DeFi projects.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/openocean.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/openocean.png",
         "link": "https://app.openocean.finance/eth",
         "chains": [
             "ethereum",
@@ -333,7 +333,7 @@
         "id": 13,
         "name": "Symbiosis",
         "description": "Symbiosis is a cross-chain AMM DEX that pools together liquidity from different networks: L1s and L2s, EVM and non-EVM. With Symbiosis, you can easily swap any token and move your assets across different networks.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/symbiosis.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/symbiosis.png",
         "link": "https://app.symbiosis.finance",
         "chains": [
             "ethereum",
@@ -367,7 +367,7 @@
         "id": 14,
         "name": "Rubic",
         "description": "Rubic aggregates swaps of 15,000+ assets across dozens of blockchains with the best rates, highest liquidity, and transaction speeds - in one click, thanks to the integration of 220+ DEXs and bridges.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/rubic.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/rubic.png",
         "link": "https://app.rubic.exchange",
         "chains": [
             "ethereum",
@@ -399,7 +399,7 @@
         "id": 16,
         "name": "RocketX",
         "description": "RocketX is the most advanced hybrid aggregator that simplifies access to $100B+ liquidity across 300+ DEXs & 6 Top CEXs via a Single UI and API",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/rocketx.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/rocketx.png",
         "link": "https://app.rocketx.exchange/",
         "chains": [
             "ethereum",
@@ -433,7 +433,7 @@
         "id": 17,
         "name": "Unizen",
         "description": "Unizen is a cutting-edge operating system for Web3 applications that enables users to seamlessly, cost-efficiently, and securely interact with all things Web3, including THORChain-powered cross-chain swaps.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/unizen.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/unizen.png",
         "link": "https://zcx.com/trade/",
         "chains": [
             "ethereum",
@@ -458,7 +458,7 @@
         "id": 18,
         "name": "Cacao Swap",
         "description": "Cacao Swap is a supercharged user interface for cross-chain swaps, synthetics and yield opportunities. Powered by Thorchain, Maya Protocol and ChainFlip, it offers a user-first experience for all interactions.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/cacao.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/cacao.png",
         "link": "https://cacaoswap.app/",
         "chains": [
             "ethereum",
@@ -476,7 +476,7 @@
         "id": 19,
         "name": "Hyperliquid",
         "description": "Hyperliquid is a fast and reliable crypto trading platform offering advanced tools and real-time market data. It’s designed to help users trade efficiently and manage their portfolios with ease.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/hyperliquid.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/hyperliquid.png",
         "link": "https://app.hyperliquid.xyz/",
         "chains": [
             "ethereum"
@@ -494,7 +494,7 @@
         "id": 20,
         "name": "NFT Bridge",
         "description": "Bridge your NFTs to Berachain.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/nftBridge.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/nftBridge.png",
         "link": "https://nftbridge.berachain.com/",
         "chains": [
             "ethereum",
@@ -513,7 +513,7 @@
         "id": 21,
         "name": "Sushi Swap",
         "description": "A leading multi-chain DEX deployed across 25+ blockchains, cooking up a community-built, open-source ecosystem of all the DeFi tools you need.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/sushi.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/sushi.png",
         "link": "https://www.sushi.com/swap",
         "chains": [
             "ethereum",
@@ -551,7 +551,7 @@
         "id": 22,
         "name": "Beefy Finance",
         "description": "The Multichain Yield Optimizer that autocompounds your crypto on BSC, Polygon, Fantom, HECO and Avalanche.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/beefy.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/beefy.png",
         "link": "https://app.beefy.com/",
         "chains": [
             "ethereum",
@@ -583,7 +583,7 @@
         "id": 23,
         "name": "Compound",
         "description": "Compound's V3 app is a decentralized finance (DeFi) platform that allows users to lend and borrow cryptocurrencies.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/compound.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/compound.png",
         "link": "https://v3-app.compound.finance/",
         "chains": [
             "ethereum",
@@ -605,7 +605,7 @@
         "id": 24,
         "name": "Opensea",
         "description": "OpenSea is a decentralized marketplace for buying, selling, and discovering non-fungible tokens.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/opensea.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/opensea.png",
         "link": "https://opensea.io/",
         "chains": [
             "ethereum",
@@ -630,7 +630,7 @@
         "id": 25,
         "name": "Moonwell",
         "description": "Moonwell is a decentralized finance (DeFi) platform that offers simple and secure lending services.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/moonwell.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/moonwell.png",
         "link": "https://moonwell.fi/discover",
         "chains": [
             "ethereum",
@@ -651,7 +651,7 @@
         "id": 26,
         "name": "Zora",
         "description": "Zora is a decentralized platform that allows users to create, buy, and sell NFTs.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/zora.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/zora.png",
         "link": "https://zora.co/",
         "chains": [
             "ethereum",
@@ -671,7 +671,7 @@
         "id": 27,
         "name": "Berachain Bridge",
         "description": "The canonical bridge to Berachain is the Berachain Bridge, powered by LayerZero. There are a number of source chains supporting bridging to Berachain.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/berachain-bridge.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/berachain-bridge.png",
         "link": "https://bridge.berachain.com/bridge/token",
         "chains": [
             "ethereum",
@@ -699,7 +699,7 @@
         "id": 28,
         "name": "BeraHub",
         "description": "BeraHub is the place to manage all things $BGT and access Berachain liquidity through BeraSwap.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/berahub.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/berahub.png",
         "link": "https://hub.berachain.com/",
         "chains": [
             "berachain"
@@ -717,7 +717,7 @@
         "id": 29,
         "name": "Honey Mint",
         "description": "Honey Swap enables users to trade approved stablecoins and other assets for $HONEY, Berachain's native stablecoin.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/honeymint.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/honeymint.png",
         "link": "https://honey.berachain.com/",
         "chains": [
             "berachain"
@@ -735,7 +735,7 @@
         "id": 30,
         "name": "Bera Airdrop",
         "description": "Berachain Airdrop",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/airdrop.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/airdrop.png",
         "link": "https://airdrop.berachain.com/",
         "chains": [
             "berachain"
@@ -753,7 +753,7 @@
         "id": 31,
         "name": "Exactly Protocol",
         "description": "Exactly is a decentralized finance (DeFi) platform focused on providing fixed-rate lending and borrowing solutions.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/exactly.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/exactly.png",
         "link": "https://app.exact.ly/",
         "chains": [
             "optimism"
@@ -769,7 +769,7 @@
         "id": 32,
         "name": "Stargate",
         "description": "Stargate Finance is a decentralized finance (DeFi) platform focused on providing cross-chain liquidity transfer solutions.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/stargate.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/stargate.png",
         "link": "https://stargate.finance/",
         "chains": [
             "ethereum",
@@ -810,7 +810,7 @@
         "id": 33,
         "name": "WooFi",
         "description": "WOOFi is a decentralized finance (DeFi) platform within the WOO Network that offers a variety of financial services including swapping, staking, and yield farming. It aims to provide deep liquidity, low fees, and competitive yields for users",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/woofi.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/woofi.png",
         "link": "https://fi.woo.org/swap/",
         "chains": [
             "ethereum",
@@ -837,7 +837,7 @@
         "id": 35,
         "name": "Pooltime",
         "description": "PoolTime is a decentralized finance (DeFi) platform that offers a gamified staking experience. Users can stake their digital assets to participate in lottery-style reward pools, combining the excitement of gaming with the benefits of DeFi.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/pooltogether.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/pooltogether.png",
         "link": "https://www.pooltime.app/",
         "chains": [
             "ethereum",
@@ -856,7 +856,7 @@
         "id": 36,
         "name": "IBC Eureka (Skip)",
         "description": "IBC Eureka, launched by Cosmos’ Interchain Labs, enables secure and transparent connections between blockchains—marking a key step toward building a decentralized internet.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/eureka.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/eureka.png",
         "link": "https://go.cosmos.network/",
         "chains": [
             "ethereum",
@@ -875,7 +875,7 @@
         "id": 37,
         "name": "Skip Go",
         "description": "Provides MEV solutions for Cosmos and Evm blockchains, enabling revenue generation through block space auctions and transaction prioritization.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/skip.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/skip.png",
         "link": "https://go.skip.build/",
         "chains": [
             "ethereum",
@@ -894,7 +894,7 @@
         "id": 38,
         "name": "Squid Router",
         "description": "Squid lets you swap tokens between blockchains, and unlocks access to apps across chains in 1 click ✨ EVM + Cosmos.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/squid.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/squid.png",
         "link": "https://app.squidrouter.com",
         "chains": [
             "ethereum",
@@ -911,7 +911,7 @@
         "id": 39,
         "name": "Drop Money",
         "description": "Drop is a DeFi platform focused on providing liquidity across multiple blockchain networks, enhancing interoperability and transaction efficiency.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/dropmoney.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/dropmoney.png",
         "link": "https://app.drop.money/dashboard?referral_code=dropmaga",
         "chains": [
             "cosmos",
@@ -930,7 +930,7 @@
         "id": 40,
         "name": "DaoDao",
         "description": "Platform designed for decentralized autonomous organizations (DAOs) to manage their operations.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/daodao.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/daodao.png",
         "link": "https://daodao.zone/",
         "chains": [
             "cosmos",
@@ -954,7 +954,7 @@
         "id": 41,
         "name": "pSTAKE Finance",
         "description": "A multi-chain liquid staking protocol that unlocks liquidity for your staked assets.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/pstake-finance.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/pstake-finance.png",
         "link": "https://app.pstake.finance/cosmos",
         "chains": [
             "persistence"
@@ -971,7 +971,7 @@
         "id": 42,
         "name": "Hydro",
         "description": "Hydro lets ATOM holders vote on project bids to direct liquidity and earn rewards. It’s in view-only mode, with pilot rounds ongoing.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/hydro.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/hydro.png",
         "link": "https://hydro.cosmos.network/",
         "chains": [
             "cosmos"
@@ -986,7 +986,7 @@
         "id": 43,
         "name": "Osmosis Zone",
         "description": "Interchain Liquidity Lab - Swap, earn and build on the leading decentralized Cosmos exchange.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/osmosiszone.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/osmosiszone.png",
         "link": "https://app.osmosis.zone/",
         "chains": [
             "osmosis"
@@ -1005,7 +1005,7 @@
         "id": 44,
         "name": "Neutron",
         "description": "Duality is a DEX on the Neutron network for secure and efficient crypto trading. It uses smart contracts and offers a user-friendly interface.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/neutron.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/neutron.png",
         "link": "https://app.neutron.org/",
         "chains": [
             "neutron"
@@ -1023,7 +1023,7 @@
         "id": 45,
         "name": "Astroport",
         "description": "Astroport is an AMM(Automated Market Maker)-style decentralized exchange built with CosmWasm smart contracts.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/astroport.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/astroport.png",
         "link": "https://neutron.astroport.fi/swap",
         "chains": [
             "neutron",
@@ -1042,7 +1042,7 @@
         "id": 46,
         "name": "Apollo dao",
         "description": "Optimize your DeFi yields with smart contracts-automated Apollo Vaults strategies.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/apollo.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/apollo.png",
         "link": "https://app.apollo.farm/",
         "chains": [
             "neutron",
@@ -1061,7 +1061,7 @@
         "id": 47,
         "name": "Coinhall",
         "description": "Providing real-time cryptocurrency market data, including prices, trading volumes, and market caps.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/coinhall.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/coinhall.png",
         "link": "https://coinhall.org",
         "chains": [
             "cosmos",
@@ -1081,7 +1081,7 @@
         "id": 48,
         "name": "Levana",
         "description": "Levana Trade is a decentralized platform for trading perpetual swaps with leverage on various crypto assets. It offers a user-friendly interface and tools for managing risk in a transparent, trustless environment.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/levana.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/levana.png",
         "link": "https://trade.levana.finance/neutron/trade/NTRN_USD",
         "chains": [
             "neutron"
@@ -1096,7 +1096,7 @@
         "id": 49,
         "name": "Stargaze Zone",
         "description": "Community-owned app chain designed specifically for NFTs.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/stargaze.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/stargaze.png",
         "link": "https://www.stargaze.zone/",
         "chains": [
             "stargaze"
@@ -1114,7 +1114,7 @@
         "id": 50,
         "name": "Astrovault",
         "description": "DeFi, Sustainably.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/astrovault.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/astrovault.png",
         "link": "https://astrovault.io",
         "chains": [
             "archway"
@@ -1130,7 +1130,7 @@
         "id": 51,
         "name": "Sudo Stake",
         "description": "On-chain property rights for everyone.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/sudostake.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/sudostake.png",
         "link": "https://www.sudostake.com/",
         "chains": [
             "archway"
@@ -1146,7 +1146,7 @@
         "id": 52,
         "name": "7K Aggregator",
         "description": "The Leading Liquidity Hub for Smart Traders on Sui Network.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/7k.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/7k.png",
         "link": "https://7k.ag/",
         "chains": [
             "sui"
@@ -1161,7 +1161,7 @@
         "id": 54,
         "name": "Aftermath Finance",
         "description": "CEX but on-chain. Your one-stop DeFi hub on Sui.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/aftermath.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/aftermath.png",
         "link": "https://aftermath.finance/trade",
         "chains": [
             "sui"
@@ -1177,7 +1177,7 @@
         "id": 55,
         "name": "AlphaFi",
         "description": "Smart Yield Aggregator. Best Safe Real Yields on Sui Network.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/alphafi.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/alphafi.png",
         "link": "https://alphafi.xyz/portfolio",
         "chains": [
             "sui"
@@ -1193,7 +1193,7 @@
         "id": 58,
         "name": "Scallop",
         "description": "The Next Generation Money Market Based on Sui.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/scallop.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/scallop.png",
         "link": "https://app.scallop.io/",
         "chains": [
             "sui"
@@ -1211,7 +1211,7 @@
         "id": 59,
         "name": "NAVI Protocol",
         "description": "Navi is the first Native One-Stop Liquidity Protocol on Sui. It enables users to participate as liquidity providers or borrowers within the Sui Ecosystem.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/navi.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/navi.png",
         "link": "https://app.naviprotocol.io/",
         "chains": [
             "sui"
@@ -1227,7 +1227,7 @@
         "id": 60,
         "name": "Splash Dash",
         "description": "Splash Dash is an intuitive SUI dashboard that offers SUI users an one-for-all platform for staking, investments, and asset management.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/splashdash.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/splashdash.png",
         "link": "https://dash.splash.im/mainnet/dashboard",
         "chains": [
             "sui"
@@ -1239,7 +1239,7 @@
         "id": 62,
         "name": "Babylon Labs",
         "description": "Babylon’s BTC Staking platform allows Bitcoin holders to stake their BTC natively without bridges or wrapped tokens. It offers a secure and decentralized way to earn rewards while retaining full control of their Bitcoin.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/babylon.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/babylon.png",
         "link": "https://btcstaking.babylonlabs.io/",
         "chains": [
             "bitcoin",
@@ -1259,7 +1259,7 @@
         "id": 63,
         "name": "Initia",
         "description": "Initia dApp Portal",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/appinitia.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/appinitia.png",
         "link": "https://app.initia.xyz/",
         "chains": [
             "initia"
@@ -1275,7 +1275,7 @@
         "id": 64,
         "name": "AirDrop Checker",
         "description": "Initia air drop check & claim",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/initiairdrop.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/initiairdrop.png",
         "link": "https://airdrop.initia.xyz/check",
         "chains": [
             "initia"
@@ -1291,7 +1291,7 @@
         "id": 65,
         "name": "Pulsara",
         "description": "Decentralized application exchange platform designed to provide seamless access to various DApps within the Pulsara ecosystem.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/pulsara.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/pulsara.png",
         "link": "https://dax.pulsara.io",
         "chains": [
             "coreum"
@@ -1307,7 +1307,7 @@
         "id": 66,
         "name": "Crodex",
         "description": "Crodex is a decentralized exchange (DEX) on the Cronos blockchain, offering trading, liquidity provision, and yield farming. It aims to provide a seamless DeFi experience with low fees and fast transactions.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/crodex.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/crodex.png",
         "link": "https://swap.crodex.app/#/swap",
         "chains": [
             "cronos"
@@ -1325,7 +1325,7 @@
         "id": 67,
         "name": "VVS Finance",
         "description": "VVS Finance is a decentralized finance (DeFi) platform on the Cronos blockchain. It provides users with various financial services, including swapping, staking, and yield farming.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/vvs_finance.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/vvs_finance.png",
         "link": "https://vvs.finance/",
         "chains": [
             "ethereum",
@@ -1343,7 +1343,7 @@
         "id": 68,
         "name": "Ebisus Bay",
         "description": "Ebisu's Bay is a decentralized marketplace for NFTs on the Cronos blockchain. It allows users to create, buy, sell, and trade a wide variety of non-fungible tokens (NFTs).",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/ebisusbay.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/ebisusbay.png",
         "link": "https://www.ebisusbay.com/",
         "chains": [
             "cronos"
@@ -1358,7 +1358,7 @@
         "id": 69,
         "name": "Fulcrom Finance",
         "description": "Fulcrom Finance is a decentralized finance (DeFi) platform that provides a range of financial services including swapping, staking, and liquidity provision.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/fulcrom_finance.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/fulcrom_finance.png",
         "link": "https://fulcrom.finance/",
         "chains": [
             "cronos"
@@ -1373,7 +1373,7 @@
         "id": 70,
         "name": "Wolfswap",
         "description": "WolfSwap is a decentralized finance (DeFi) platform designed for cryptocurrency trading and liquidity provision.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/wolfswap.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/wolfswap.png",
         "link": "https://wolfswap.app/",
         "chains": [
             "cronos",
@@ -1390,7 +1390,7 @@
         "id": 71,
         "name": "Shell Haqq",
         "description": "HAQQ Shell is the official web interface of the HAQQ blockchain, enabling users to easily access various features such as staking, governance participation, and account management.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/haqq.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/haqq.png",
         "link": "https://shell.haqq.network/staking",
         "chains": [
             "haqq"
@@ -1402,7 +1402,7 @@
         "id": 72,
         "name": "Kaia Potal",
         "description": "Comprehensive platform that simplifies your blockchain experience by offering features such as token swaps, cross-chain bridges, and staking opportunities. It also provides missions and rewards to enhance user engagement.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/potal_kaia.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/potal_kaia.png",
         "link": "https://portal.kaia.io/",
         "chains": [
             "kaia"
@@ -1419,7 +1419,7 @@
         "id": 73,
         "name": "Capybara",
         "description": "Capybara DEX is a decentralized exchange on the Kaia chain, offering efficient token trading with features like single-token liquidity pools and a launchpad for new projects.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/capybara.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/capybara.png",
         "link": "https://dex.capybara.exchange/",
         "chains": [
             "kaia"
@@ -1434,7 +1434,7 @@
         "id": 74,
         "name": "Lair Finance",
         "description": "Lair Finance is a decentralized liquid staking platform on the Kaia blockchain, letting users stake KAIA tokens and earn rewards with added liquidity.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/lair.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/lair.png",
         "link": "https://app.lair.fi/",
         "chains": [
             "kaia",
@@ -1451,7 +1451,7 @@
         "id": 75,
         "name": "Kaia Fun",
         "description": "KaiaFun is a memecoin launchpad on the Kaia blockchain, enabling fair-launch memecoins and supporting the DeFi ecosystem with trading liquidity.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/kaiafun.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/kaiafun.png",
         "link": "https://kaiafun.io/",
         "chains": [
             "kaia"
@@ -1466,7 +1466,7 @@
         "id": 76,
         "name": "Kaia Square",
         "description": "Kaia Square is the governance hub for the Kaia blockchain, where users discuss proposals and influence ecosystem decisions.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/square.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/square.png",
         "link": "https://square.kaia.io/",
         "chains": [
             "kaia"
@@ -1483,7 +1483,7 @@
         "id": 77,
         "name": "DEX Screener",
         "description": "Real time DEX analytics.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/dex_scanner.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/dex_scanner.png",
         "link": "https://dexscreener.com/kava",
         "chains": [
             "kava"
@@ -1500,7 +1500,7 @@
         "id": 78,
         "name": "Hover",
         "description": "Hover Market is a decentralized finance (DeFi) platform that provides an overview of various DeFi services and products.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/havor.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/havor.png",
         "link": "https://app.hover.market/overview",
         "chains": [
             "kava"
@@ -1515,7 +1515,7 @@
         "id": 79,
         "name": "Kava",
         "description": "The Kava app offers protocols decentralized lending and borrowing, liquidity mining, earning rewards with BUSD, and liquid staking of KAVA.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/kava.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/kava.png",
         "link": "https://app.kava.io/evm/wkava",
         "chains": [
             "kava"
@@ -1532,7 +1532,7 @@
         "id": 80,
         "name": "Mantra Zone",
         "description": "Bridge, Staking & Governance for Mantra.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/mantra_zone.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/mantra_zone.png",
         "link": "https://mantra.zone/",
         "chains": [
             "mantra"
@@ -1548,7 +1548,7 @@
         "id": 81,
         "name": "Persistence DEX",
         "description": "Persistence DEX is a decentralized exchange for token swapping, liquidity management, and digital asset handling.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/dexter.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/dexter.png",
         "link": "https://app.persistence.one/",
         "chains": [
             "persistence",
@@ -1567,7 +1567,7 @@
         "id": 82,
         "name": "Zeta Earn",
         "description": "ZetaEarn is the liquid staking(ZetaStake) and launchpad solution(ZetaStarter) on ZetaChain.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/zearn.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/zearn.png",
         "link": "https://zearn.xyz/",
         "chains": [
             "zeta"
@@ -1584,7 +1584,7 @@
         "id": 83,
         "name": "Guild",
         "description": "Ability to bridge assets to ZetaChain and enforce ZetaChain network requirements for Guild members.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/guild.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/guild.png",
         "link": "https://guild.xyz/",
         "chains": [
             "avalanche",
@@ -1604,7 +1604,7 @@
         "id": 84,
         "name": "NFTs2Me",
         "description": "NFTs2Me is a multichain user-friendly comprehensive platform to create, deploy and manage your NFT collection and community, 100% free with advanced functionalities.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/nfts2me.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/nfts2me.png",
         "link": "https://nfts2me.com/app/",
         "chains": [
             "ethereum",
@@ -1634,7 +1634,7 @@
         "id": 85,
         "name": "Micro3",
         "description": "Micro3 is a decentralized SocialFi NFT platform empowering the community, integrating SocialFi and NFT, utilizing #LayerZero and #Chainlink technologies.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/micro3.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/micro3.png",
         "link": "https://micro3.io/",
         "chains": [
             "arbitrum",
@@ -1665,7 +1665,7 @@
         "id": 86,
         "name": "L2Marathon",
         "description": "L2Marathon is an omnichain NFT project. It allows users to mint and bridge NFTs across multiple Layer 2 networks.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/l2marathon.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/l2marathon.png",
         "link": "https://l2marathon.com/",
         "chains": [
             "ethereum",
@@ -1692,7 +1692,7 @@
         "id": 87,
         "name": "Shido Dex",
         "description": "Your Gateway to Decentralized Finance. Shido DEX V3 is a decentralized Liquidity Protocol, DeFi Aggregator, Cross-Chain Swap and Perpetual Dex.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/shidodex.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/shidodex.png",
         "link": "https://app.shido.io/",
         "chains": [
             "shido",
@@ -1714,7 +1714,7 @@
         "id": 88,
         "name": "Shido Pool",
         "description": "Earn passive income by supplying liquidity to crypto projects. Secure, transparent, and user-friendly.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/shidopool.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/shidopool.png",
         "link": "https://pool.shido.io/",
         "chains": [
             "shido"
@@ -1726,7 +1726,7 @@
         "id": 89,
         "name": "Shidoscan",
         "description": "Shido Explorer is the main source for Shido Network to visualize blocks, transactions and blockchain metrics.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/shidoscan.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/shidoscan.png",
         "link": "https://shidoscan.net/",
         "chains": [
             "shido"
@@ -1742,7 +1742,7 @@
         "id": 90,
         "name": "Shido Finance",
         "description": "Earn passive income by supplying liquidity to crypto projects. Secure, transparent, and user-friendly.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/shidofinance.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/shidofinance.png",
         "link": "https://stake.shido.finance/",
         "chains": [
             "shido"
@@ -1759,7 +1759,7 @@
         "id": 91,
         "name": "WenMint",
         "description": "WenMint is the leading ERC20 token deployer on Shido Network.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/wenmint.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/wenmint.png",
         "link": "https://wenmint.fun",
         "chains": [
             "shido"
@@ -1776,7 +1776,7 @@
         "id": 92,
         "name": "Noble Express",
         "description": "Send USDC Anywhere",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/nobleexpress.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/nobleexpress.png",
         "link": "https://express.noble.xyz",
         "chains": [
             "ethereum",
@@ -1799,7 +1799,7 @@
         "id": 93,
         "name": "MavDeployer",
         "description": "MavDeployer is a ERC20 token deployer on Shido Network.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/mavdeployer.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/mavdeployer.png",
         "link": "https://deployer.mavnode.io",
         "chains": [
             "shido"
@@ -1811,7 +1811,7 @@
         "id": 94,
         "name": "DEXHub",
         "description": "Discover and track your favorite tokens with live prices, charts and recent swaps on Shido Dex.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/dexhub.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/dexhub.png",
         "link": "https://dexhub.mavnode.io",
         "chains": [
             "shido"
@@ -1827,7 +1827,7 @@
         "id": 95,
         "name": "Gempad",
         "description": "A launchpad, token creator and liquidity lock provider for Shido.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/gempad.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/gempad.png",
         "link": "https://gempad.app",
         "chains": [
             "ethereum"
@@ -1842,7 +1842,7 @@
         "id": 96,
         "name": "Restake",
         "description": "REStake allows validators to auto-compound your staking rewards for you.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/restake.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/restake.png",
         "link": "https://restake.app/",
         "chains": [
             "cosmos"
@@ -1854,7 +1854,7 @@
         "id": 97,
         "name": "ShidoKid",
         "description": "A set of tools for Shido Network provided by Shidokid.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/shidokid.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/shidokid.png",
         "link": "https://shidokid.com",
         "chains": [
             "shido"
@@ -1869,7 +1869,7 @@
         "id": 98,
         "name": "KenseiDAO",
         "description": "Decentralized governance for the Kensei ecosystem.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/kenseidao.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/kenseidao.png",
         "link": "https://dao.kenseishido.com",
         "chains": [
             "shido"
@@ -1881,7 +1881,7 @@
         "id": 99,
         "name": "Injective Hub",
         "description": "Access Unlimited DeFi Markets",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/hubinjective.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/hubinjective.png",
         "link": "https://hub.injective.network",
         "chains": [
             "injective"
@@ -1893,7 +1893,7 @@
         "id": 100,
         "name": "Helix",
         "description": "A Decentralized Crypto Exchange on Injective.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/helix.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/helix.png",
         "link": "https://helixapp.com/",
         "chains": [
             "injective"
@@ -1909,7 +1909,7 @@
         "id": 101,
         "name": "Talis",
         "description": "Digital marketplace for NFTs, offering a wide range of categories including digital art, animation, music, video, and photography.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/tails.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/tails.png",
         "link": "https://injective.talis.art/",
         "chains": [
             "injective"
@@ -1925,7 +1925,7 @@
         "id": 103,
         "name": "Mito",
         "description": "Offers vaults for decentralized finance (DeFi) investments. These vaults allow users to deposit cryptocurrencies to earn yields through various DeFi strategies.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/mito.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/mito.png",
         "link": "https://mito.fi/vaults/",
         "chains": [
             "injective"
@@ -1940,7 +1940,7 @@
         "id": 104,
         "name": "Blackpanther",
         "description": "Vaults platform offers a secure way for users to deposit cryptocurrencies and earn returns through automated DeFi strategies. It simplifies yield generation, helping users optimize their investments effortlessly.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/blackpanther.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/blackpanther.png",
         "link": "https://trade.blackpanther.fi/vault",
         "chains": [
             "injective"
@@ -1956,7 +1956,7 @@
         "id": 105,
         "name": "Ninja Blaze",
         "description": "Gaming platform offering various online games, including Jackpot, Roshambo, Double, and Lootbox.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/ninja-blaze.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/ninja-blaze.png",
         "link": "https://app.blaze.ninja/",
         "chains": [
             "injective"
@@ -1972,7 +1972,7 @@
         "id": 106,
         "name": "Beraborrow",
         "description": "Bera Borrow is a decentralized borrowing platform on Berachain, enabling users to access liquidity without selling their assets. Users can deposit collateral and borrow stablecoins while maintaining exposure to their crypto holdings.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/beraborrow.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/beraborrow.png",
         "link": "https://app.beraborrow.com/",
         "chains": [
             "berachain"
@@ -1987,7 +1987,7 @@
         "id": 108,
         "name": "Hydro",
         "description": "Decentralized finance platform providing various financial services, including staking and lending, powered by smart contracts.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/injhydro.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/injhydro.png",
         "link": "https://app.hydroprotocol.finance/",
         "chains": [
             "injective"
@@ -2003,7 +2003,7 @@
         "id": 109,
         "name": "Kage Finance",
         "description": "Kage Finance is a comprehensive trading platform and Telegram bot designed for the Injective blockchain.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/kagefinance.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/kagefinance.png",
         "link": "https://app.kage.finance/",
         "chains": [
             "injective"
@@ -2018,7 +2018,7 @@
         "id": 110,
         "name": "Ninjakit",
         "description": "Dashboard for managing and tracking various blockchain tools and assets.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/ninjakit.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/ninjakit.png",
         "link": "https://ninjakits.io/dashboard",
         "chains": [
             "injective"
@@ -2033,7 +2033,7 @@
         "id": 111,
         "name": "Neptune Finance",
         "description": "Neptune Finance is a decentralized finance platform offering lending, borrowing, and swapping services on the Injective blockchain.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/neptune.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/neptune.png",
         "link": "https://app.nept.finance/",
         "chains": [
             "injective"
@@ -2049,7 +2049,7 @@
         "id": 112,
         "name": "Mountain Protocol",
         "description": "Mountain Protocol provides yield-earning stablecoins such as USDM, allowing users to earn DeFi-native returns with dollar stability.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/mountain.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/mountain.png",
         "link": "https://defi.mountainprotocol.com/",
         "chains": [
             "ethereum",
@@ -2070,7 +2070,7 @@
         "id": 113,
         "name": "Gno Faucet",
         "description": "Gno Testnet faucet hub.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/faucet.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/faucet.png",
         "link": "https://faucet.gno.land/",
         "chains": [
             "gno-testnet"
@@ -2086,7 +2086,7 @@
         "id": 114,
         "name": "Gnoscan",
         "description": "Gno Testnet Explorer.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/gnoscan.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/gnoscan.png",
         "link": "https://gnoscan.io/",
         "chains": [
             "gno-testnet"
@@ -2101,7 +2101,7 @@
         "id": 115,
         "name": "Gno Playground",
         "description": "Gno Playground is a simple web interface that lets you write, test, and experiment with your Gno code to improve your understanding of the Gno language.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/playground.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/playground.png",
         "link": "https://play.gno.land/",
         "chains": [
             "gno-testnet"
@@ -2113,7 +2113,7 @@
         "id": 117,
         "name": "Venus Protocol",
         "description": "Venus is a decentralized finance (DeFi) platform on the Binance Smart Chain that allows users to lend, borrow, and earn interest on their crypto assets.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/venus.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/venus.png",
         "link": "https://app.venus.io/",
         "chains": [
             "bnb-smart-chain",
@@ -2136,7 +2136,7 @@
         "id": 118,
         "name": "PancakeSwap",
         "description": "PancakeSwap is a decentralized exchange (DEX) on the Binance Smart Chain (BSC) that allows users to swap BEP-20 tokens. It features yield farming, staking, and a lottery system, providing users with opportunities to earn rewards through liquidity provision and participation in various financial activities.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/pancakeswap.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/pancakeswap.png",
         "link": "https://pancakeswap.finance/",
         "chains": [
             "bnb-smart-chain",
@@ -2162,7 +2162,7 @@
         "id": 119,
         "name": "Apeswap",
         "description": "ApeSwap is a decentralized finance (DeFi) platform on the Binance Smart Chain that provides services such as token swapping, yield farming, and staking. It aims to offer a user-friendly experience with a focus on community-driven development and sustainability.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/apeswap.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/apeswap.png",
         "link": "https://apeswap.finance/",
         "chains": [
             "bnb-smart-chain",
@@ -2190,7 +2190,7 @@
         "id": 120,
         "name": "Usdfi",
         "description": "USDFI is a decentralized finance (DeFi) platform focused on providing stablecoin solutions.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/usdfi.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/usdfi.png",
         "link": "https://usdfi.com/",
         "chains": [
             "bnb-smart-chain",
@@ -2208,7 +2208,7 @@
         "id": 121,
         "name": "Monad Faucet",
         "description": "Monad Testnet Faucet",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/monadfaucet.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/monadfaucet.png",
         "link": "https://testnet.monad.xyz/",
         "chains": [
             "monad-testnet"
@@ -2223,7 +2223,7 @@
         "id": 122,
         "name": "GMonad",
         "description": "Network Visualization",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/gmonad.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/gmonad.png",
         "link": "https://www.gmonads.com/",
         "chains": [
             "monad-testnet"
@@ -2237,7 +2237,7 @@
         "id": 123,
         "name": "Amertis",
         "description": "Experience seamless trading with AmertisExchange, the ultimate aggregator connecting you to deep liquidity pools.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/amertis.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/amertis.png",
         "link": "https://testnet.amertis.exchange/",
         "chains": [
             "monad-testnet"
@@ -2253,7 +2253,7 @@
         "id": 124,
         "name": "Apriori",
         "description": "aPriori is an MEV infrastructure and liquid staking protocol, designed for the parallel execution era and natively built on Monad.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/apriori.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/apriori.png",
         "link": "https://stake.apr.io/",
         "chains": [
             "monad-testnet"
@@ -2265,7 +2265,7 @@
         "id": 125,
         "name": "Azaar",
         "description": "Azaar is a high-performance DEX aggregator and trading platform built for Monad.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/azaar.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/azaar.png",
         "link": "https://app-monad-testnet.azaar.com/swap",
         "chains": [
             "monad-testnet"
@@ -2281,7 +2281,7 @@
         "id": 126,
         "name": "XrplEvm Faucet",
         "description": "XrplEvm Testnet Faucet",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/xrplevmfaucet.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/xrplevmfaucet.png",
         "link": "https://faucet.xrplevm.org/",
         "chains": [
             "xrplevm-testnet"
@@ -2297,7 +2297,7 @@
         "id": 127,
         "name": "Strobe",
         "description": "Unlock new yield opportunities for XRP holders by tapping into diverse reward sources.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/strobe.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/strobe.png",
         "link": "https://strobe.finance/",
         "chains": [
             "xrplevm"
@@ -2313,7 +2313,7 @@
         "id": 128,
         "name": "Moai Finance",
         "description": "Moai Finance is on a mission to pioneer decentralized real-fi by leveraging public blockchain protocols as its foundational infrastructure.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/moai.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/moai.png",
         "link": "https://xrplevm.moai-finance.xyz/swap",
         "chains": [
             "xrplevm"
@@ -2328,7 +2328,7 @@
         "id": 129,
         "name": "Hammy Swap",
         "description": "Hammy Swap is the pioneer DEX on the XRPL EVM Sidechain. It offers seamless swap and yield-farming services, combining security, cost-effectiveness and a user-friendly experience.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/hammy.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/hammy.png",
         "link": "https://hammy.finance/",
         "chains": [
             "xrplevm"
@@ -2342,7 +2342,7 @@
         "id": 131,
         "name": "ZNS Connect",
         "description": "ZNSConnect decentralized ID platform powered by decentralized addresses",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/zns.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/zns.png",
         "link": "https://zns.bio/search",
         "chains": [
             "xrplevm-testnet"
@@ -2358,7 +2358,7 @@
         "id": 132,
         "name": "Kodiak",
         "description": "Kodiak Finance offers decentralized liquidity provisioning and trading on Berachain, helping users maximize their DeFi yields.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/kodiak.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/kodiak.png",
         "link": "https://app.kodiak.finance/",
         "chains": [
             "berachain"
@@ -2373,7 +2373,7 @@
         "id": 133,
         "name": "Berapaw",
         "description": "BeraPaw is an NFT marketplace on Berachain, empowering users to trade, collect, and explore digital assets easily.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/berapaw.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/berapaw.png",
         "link": "https://www.berapaw.com/",
         "chains": [
             "berachain"
@@ -2389,7 +2389,7 @@
         "id": 134,
         "name": "Beradrome",
         "description": "Beradrome is a decentralized exchange (DEX) and liquidity hub built on Berachain. It allows users to trade assets, provide liquidity, and participate in DeFi opportunities within the Berachain ecosystem.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/beradrome.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/beradrome.png",
         "link": "https://www.beradrome.com/",
         "chains": [
             "berachain"
@@ -2405,7 +2405,7 @@
         "id": 135,
         "name": "Tower",
         "description": "TowerSwap is a decentralized exchange (DEX) built on Berachain, enabling users to swap tokens seamlessly and efficiently. It offers a streamlined interface and supports deep liquidity for fast, low-slippage trades.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/tower.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/tower.png",
         "link": "https://app.tower.fi/",
         "chains": [
             "babylon"
@@ -2421,7 +2421,7 @@
         "id": 136,
         "name": "Escher",
         "description": "Escher Finance is a decentralized platform for liquid staking across multiple chains. It integrates with protocols like Babylon to enable secure, cross-chain staking. Users earn rewards through the ePoints system by participating in the ecosystem.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/escher.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/escher.png",
         "link": "https://app.escher.finance/",
         "chains": [
             "babylon"
@@ -2433,7 +2433,7 @@
         "id": 137,
         "name": "Bebop",
         "description": "Bebop is a decentralized trading platform that enables efficient and slippage-free token swaps across multiple assets, powered by smart order routing.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/bebop.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/bebop.png",
         "link": "https://bebop.xyz/trade",
         "chains": [
             "ethereum",
@@ -2455,7 +2455,7 @@
         "id": 138,
         "name": "castora",
         "description": "Castora is a DeFi platform that offers native yield-bearing stablecoin pools with automated strategies, enabling users to earn passive income with minimal risk.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/castora.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/castora.png",
         "link": "https://castora.xyz/pools",
         "chains": [
             "monad-testnet"
@@ -2470,7 +2470,7 @@
         "id": 139,
         "name": "Crystal",
         "description": "Crystal Exchange is a decentralized swapping platform that allows users to trade tokens across supported chains with low fees and fast execution.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/crystal.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/crystal.png",
         "link": "https://app.crystal.exchange/swap",
         "chains": [
             "monad-testnet"
@@ -2485,7 +2485,7 @@
         "id": 140,
         "name": "Dusted",
         "description": "Dusted is a portfolio cleanup tool that helps users convert small, illiquid token balances into a preferred asset, streamlining wallet management.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/dusted.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/dusted.png",
         "link": "https://www.dusted.app/",
         "chains": [
             "monad-testnet"
@@ -2500,7 +2500,7 @@
         "id": 141,
         "name": "Shmonad",
         "description": "Shmonad is an experimental on-chain game built on Berachain, combining strategy and community-driven gameplay through smart contracts.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/shmonad.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/shmonad.png",
         "link": "https://shmonad.xyz/",
         "chains": [
             "monad-testnet"
@@ -2516,7 +2516,7 @@
         "id": 142,
         "name": "Fukunad",
         "description": "Fukunad is a gamified DeFi platform on the Monad testnet, offering users the opportunity to earn yield through fair and transparent raffle pools.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/fukunad.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/fukunad.png",
         "link": "https://testnet.fukunad.xyz/",
         "chains": [
             "monad-testnet"
@@ -2531,7 +2531,7 @@
         "id": 143,
         "name": "Kintsu",
         "description": "Kintsu is a next-generation liquid staking protocol built on the Monad blockchain, enabling users to stake MON tokens and receive sMON, a liquid staking token that accrues yield over time. This approach allows users to maintain liquidity and participate in DeFi activities while earning staking rewards. Kintsu's design emphasizes composability and capital efficiency within the Monad ecosystem.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/kintsu.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/kintsu.png",
         "link": "https://kintsu.xyz/staking",
         "chains": [
             "monad-testnet"
@@ -2546,7 +2546,7 @@
         "id": 145,
         "name": "Swirl",
         "description": "Swirl is IOTA’s first liquid staking platform, allowing users to stake IOTA and receive stIOTA tokens. These tokens provide instant liquidity, enabling participation in DeFi activities like trading and lending without locking assets.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/swirl.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/swirl.png",
         "link": "https://swirlstake.com/app/",
         "chains": [
             "iota"
@@ -2561,7 +2561,7 @@
         "id": 146,
         "name": "Spaceward",
         "description": "SUnlock the Potential of Warden Protocol.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/spaceward.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/spaceward.png",
         "link": "https://spaceward.chiado.wardenprotocol.org/",
         "chains": [
             "warden-testnet"
@@ -2573,7 +2573,7 @@
         "id": 147,
         "name": "0G Faucet",
         "description": "Faucet for 0G Testnet",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/0gfaucet.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/0gfaucet.png",
         "link": "https://faucet.0g.ai//",
         "chains": [
             "zero-gravity-testnet"
@@ -2585,7 +2585,7 @@
         "id": 148,
         "name": "Juris Protocol",
         "description": "Juris Protocol is a DeFi platform on Terra Classic that offers secure lending and borrowing services.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/juris-bank.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/juris-bank.png",
         "link": "https://jurisprotocol.com/",
         "chains": [
             "terra-classic",
@@ -2603,7 +2603,7 @@
         "id": 149,
         "name": "Qubetics Faucet",
         "description": "Qubetics Testnet faucet hub.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/qubetics.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/qubetics.png",
         "link": "https://testnet.qubetics.work/faucet",
         "chains": [
             "qubetics-testnet"
@@ -2620,7 +2620,7 @@
         "id": 150,
         "name": "ZigChain Faucet",
         "description": "ZigChain Testnet faucet hub.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/zigchain.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/zigchain.png",
         "link": "https://faucet.zigchain.com/",
         "chains": [
             "zigchain-testnet"
@@ -2637,7 +2637,7 @@
         "id": 151,
         "name": "Dolomite",
         "description": "It offers advanced DeFi functionalities including isolated margin, spot trading, and composable lending — all from a single, efficient interface.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/dolomite.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/dolomite.png",
         "link": "https://app.dolomite.io/",
         "chains": [
             "arbitrum",
@@ -2653,7 +2653,7 @@
         "id": 152,
         "name": "Portal",
         "description": "Portal Bridge is a cross-chain bridge powered by Wormhole that enables seamless transfer of assets across multiple blockchains.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/portal.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/portal.png",
         "link": "https://portalbridge.com/",
         "chains": [
             "ethereum",
@@ -2751,7 +2751,7 @@
         "id": 158,
         "name": "CowSwap",
         "description": "CowSwap is a decentralized trading protocol built on top of CoW Protocol. It offers MEV-protected, gasless token swaps by matching peer-to-peer orders and aggregating DEX liquidity.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/cowswap.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/cowswap.png",
         "link": "https://swap.cow.fi/",
         "chains": [
             "ethereum",
@@ -2771,7 +2771,7 @@
         "id": 159,
         "name": "Matcha",
         "description": "Matcha is a decentralized exchange (DEX) aggregator that finds the best prices across multiple DEXs. It routes trades through platforms like Uniswap, SushiSwap, and Curve to ensure optimal execution.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/matcha.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/matcha.png",
         "link": "https://matcha.xyz/",
         "chains": [
             "ethereum",
@@ -2798,7 +2798,7 @@
         "id": 160,
         "name": "Rocketpool",
         "description": "Rocket Pool is a decentralized Ethereum staking platform where users stake ETH and receive liquid rETH. It supports both individual stakers and node operators through a shared minipool system.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/rocketpool.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/rocketpool.png",
         "link": "https://stake.rocketpool.net/",
         "chains": [
             "ethereum"
@@ -2814,7 +2814,7 @@
         "id": 161,
         "name": "Carbon",
         "description": "Carbon DeFi is a next-gen on-chain trading protocol by Bancor that supports automated limit, range, and recurring orders.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/carbondefi.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/carbondefi.png",
         "link": "https://app.carbondefi.xyz/",
         "chains": [
             "ethereum"
@@ -2830,7 +2830,7 @@
         "id": 163,
         "name": "Silo",
         "description": "Silo Finance Earn offers isolated, non-custodial money markets where users can deposit tokens to earn interest and incentives with transparent risk controls.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/silo.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/silo.png",
         "link": "https://app.silo.finance/earn",
         "chains": [
             "ethereum",
@@ -2849,7 +2849,7 @@
         "id": 164,
         "name": "Velora",
         "description": "Velora is a cross-chain DeFi trading platform that aggregates liquidity across 160+ sources. It supports fast swaps, limit orders, and advanced strategies with MEV protection.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/velora.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/velora.png",
         "link": "https://app.velora.xyz/",
         "chains": [
             "ethereum"
@@ -2866,7 +2866,7 @@
         "id": 165,
         "name": "Cream",
         "description": "C.R.E.A.M. Finance is a decentralized lending protocol on Ethereum, BNB Chain, and Fantom. Users can supply assets to earn interest or borrow against collateral.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/cream.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/cream.png",
         "link": "https://app.cream.finance/",
         "chains": [
             "ethereum",
@@ -2887,7 +2887,7 @@
         "id": 166,
         "name": "Yearn",
         "description": "Yearn Vaults are automated yield-optimizing strategies for crypto assets. Users deposit tokens, and the vaults automatically deploy them across DeFi protocols to maximize returns.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/yearn.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/yearn.png",
         "link": "https://yearn.fi/vaults",
         "chains": [
             "ethereum"
@@ -2902,7 +2902,7 @@
         "id": 167,
         "name": "DoDo",
         "description": "DODO Swap is a decentralized exchange using its proprietary Proactive Market Maker (PMM) algorithm to deliver efficient, low-slippage token swaps.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/dodo.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/dodo.png",
         "link": "https://app.dodoex.io/swap/network",
         "chains": [
             "ethereum",
@@ -2928,7 +2928,7 @@
         "id": 168,
         "name": "Loopring",
         "description": "Loopring is a zkRollup-based Layer 2 built on Ethereum, offering ultra-low fee swaps, transfers, and DEX features on L2 while retaining Ethereum-level security",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/loopring.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/loopring.png",
         "link": "https://defi.loopring.io/#/l2assets",
         "chains": [
             "ethereum",
@@ -2944,7 +2944,7 @@
         "id": 169,
         "name": "Rhino Fi",
         "description": "Rhino.fi is a fast, collateral-backed cross-chain stablecoin bridge supporting Ethereum, zkSync Era, Polygon, Arbitrum, and more with low fees and near-instant transfers",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/rhino.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/rhino.png",
         "link": "https://app.rhino.fi/bridge",
         "chains": [
             "ethereum",
@@ -2975,7 +2975,7 @@
         "id": 170,
         "name": "Synthetix",
         "description": "The 420 Pool is Synthetix’s updated staking mechanism, allowing users to stake SNX and peg protocol-issued debt within a shared protocol-controlled pool.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/synthetix.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/synthetix.png",
         "link": "https://420.synthetix.io/",
         "chains": [
             "ethereum",
@@ -2992,7 +2992,7 @@
         "id": 171,
         "name": "Quickswap",
         "description": "QuickSwap is a Polygon-based Layer‑2 AMM DEX that enables fast, low‑fee swaps of ERC‑20 tokens using liquidity pools—similar to Uniswap but on Polygon’s scalable network",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/quickswap.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/quickswap.png",
         "link": "https://dapp.quickswap.exchange/swap/",
         "chains": [
             "ethereum",
@@ -3007,7 +3007,7 @@
         "id": 172,
         "name": "Polymarket",
         "description": "Polymarket is a decentralized prediction market platform where users can trade on the outcome of real-world events using USDC. It operates on Polygon, enabling fast and low-cost transactions for forecasting events in politics, sports, crypto, and more.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/polymarket.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/polymarket.png",
         "link": "https://polymarket.com/",
         "chains": [
             "polygon"
@@ -3022,7 +3022,7 @@
         "id": 173,
         "name": "PWN",
         "description": "PWN is a permissionless, peer‑to‑peer (P2P) DeFi lending protocol that allows users to borrow or lend with any on‑chain asset as collateral—including NFTs and ERC‑20 tokens—while offering fully customizable, fixed‑rate loans.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/pwn.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/pwn.png",
         "link": "https://app.pwn.xyz/featured-strategy/all",
         "chains": [
             "ethereum",
@@ -3047,7 +3047,7 @@
         "id": 174,
         "name": "Enzyme",
         "description": "Enzyme Finance is a decentralized asset management platform built on Ethereum and Polygon. Its Discover page showcases live vaults with customizable strategies where users can explore performance, invest via ETH or MATIC, and track metrics before committing",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/enzyme.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/enzyme.png",
         "link": "https://app.enzyme.finance/discover",
         "chains": [
             "ethereum",
@@ -3066,7 +3066,7 @@
         "id": 175,
         "name": "Bean",
         "description": "Beans App (Bean.money) is a non‑custodial digital wallet built on the Stellar blockchain that enables instant, fee‑free international transfers and currency conversion at competitive rates",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/bean.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/bean.png",
         "link": "https://app.bean.money/",
         "chains": [
             "ethereum",
@@ -3083,7 +3083,7 @@
         "id": 176,
         "name": "Abracadabra",
         "description": "Abracadabra.Money is a cross-chain DeFi lending platform where users can collateralize interest-bearing tokens (ibTKNs) to mint Magic Internet Money (MIM), a USD-pegged stablecoin.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/abracadabra.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/abracadabra.png",
         "link": "https://app.abracadabra.money/#/",
         "chains": [
             "ethereum",
@@ -3109,7 +3109,7 @@
         "id": 177,
         "name": "Angle",
         "description": "Angle Protocol is a decentralized, over‑collateralized stablecoin system offering USDA and EURA, backed by assets like USDC, DAI, and more, designed for capital efficiency and high liquidity.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/angle.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/angle.png",
         "link": "https://app.angle.money/savings/usd",
         "chains": [
             "ethereum",
@@ -3136,7 +3136,7 @@
         "id": 178,
         "name": "Gearbox",
         "description": "Gearbox improves capital efficiency by providing users access to leverage on any protocol.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/gearbox.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/gearbox.png",
         "link": "https://app.gearbox.fi/dashboard",
         "chains": [
             "ethereum"
@@ -3153,7 +3153,7 @@
         "id": 179,
         "name": "Thetanuts Finance",
         "description": "Thetanuts, a DeFi protocol, helps users gain sustainable yield through various options strategies.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/thetanuts.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/thetanuts.png",
         "link": "https://app.thetanuts.finance/Vaults",
         "chains": [
             "ethereum",
@@ -3175,7 +3175,7 @@
         "id": 180,
         "name": "Alchemix",
         "description": "Alchemix allows users to take out self-paying loans after depositing cryptocurrency as collateral.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/alchemix.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/alchemix.png",
         "link": "https://alchemix.fi/",
         "chains": [
             "ethereum",
@@ -3194,7 +3194,7 @@
         "id": 182,
         "name": "Hegic",
         "description": "Hegic is an on-chain peer-to-pool options trading protocol on Arbitrum.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/hegic.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/hegic.png",
         "link": "https://www.hegic.co/app#/arbitrum/trade/new",
         "chains": [
             "ethereum",
@@ -3211,7 +3211,7 @@
         "id": 183,
         "name": "Goldfinch",
         "description": "Lend USDC for real yield, from real businesses. Really.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/goldfinch.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/goldfinch.png",
         "link": "https://prime.goldfinch.finance/",
         "chains": [
             "ethereum"
@@ -3227,7 +3227,7 @@
         "id": 184,
         "name": "Flooz",
         "description": "Flooz is a blockchain analytics platform that helps you invest with confidence.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/flooz.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/flooz.png",
         "link": "https://flooz.xyz/discover",
         "chains": [
             "ethereum",
@@ -3255,7 +3255,7 @@
         "id": 185,
         "name": "Kyber",
         "description": "KyberSwap is a non‑custodial, multi‑chain DEX aggregator that sources liquidity from 70+ exchanges across 14 EVM chains to deliver optimized swap rates and low slippage",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/kyber.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/kyber.png",
         "link": "https://kyberswap.com/",
         "chains": [
             "ethereum",
@@ -3282,7 +3282,7 @@
         "id": 186,
         "name": "Cruise Control",
         "description": "The Self-Custody Super App for Your Entire Blockchain Journey.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/cruisecontrol.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/cruisecontrol.png",
         "link": "https://app.cruise-control.xyz/dashboard",
         "chains": [
             "coreum"
@@ -3297,7 +3297,7 @@
         "id": 187,
         "name": "Coreum.fun",
         "description": "The Premier Betting Platform on Coreum.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/coreumdotfun.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/coreumdotfun.png",
         "link": "https://www.coreum.fun/",
         "chains": [
             "coreum"
@@ -3312,7 +3312,7 @@
         "id": 188,
         "name": "Gravity",
         "description": "Swap bridged ERC-20 tokens on Gravity Bridge’s Swap page.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/gravity.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/gravity.png",
         "link": "https://bridge.gravity.xyz/?tab=swap",
         "chains": [
             "ethereum",
@@ -3347,7 +3347,7 @@
         "id": 189,
         "name": "Sonic Gateway",
         "description": "Bridging from Ethereum requires the Sonic Gateway.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/gateway.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/gateway.png",
         "link": "https://gateway.soniclabs.com/",
         "chains": [
             "ethereum",
@@ -3365,7 +3365,7 @@
         "id": 190,
         "name": "Merchant Moe",
         "description": "Merchant Moe is the cornerstone DEX for Mantle Network. A trader's oasis, Moe offers seamless trading, discretized liquidity",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/merchantmoe.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/merchantmoe.png",
         "link": "https://merchantmoe.com/",
         "chains": [
             "mantle"
@@ -3381,7 +3381,7 @@
         "id": 192,
         "name": "Lagrange",
         "description": "Generalizable, non-interactive cross-chain state proofs.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/lagrange.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/lagrange.png",
         "link": "https://stake.lagrange.dev/",
         "chains": [
             "ethereum"
@@ -3397,7 +3397,7 @@
         "id": 193,
         "name": "Layer3",
         "description": "The consumer attention layer, powered by $L3. Every chain, every app, 24/7.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/layer.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/layer.png",
         "link": "https://app.layer3.xyz/discover",
         "chains": [
             "ethereum",
@@ -3429,7 +3429,7 @@
         "id": 194,
         "name": "FusionX",
         "description": "FusionX creates composable DeFi built to support and nurture the Mantle ecosystem.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/fusion.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/fusion.png",
         "link": "https://fusionx.finance/swap",
         "chains": [
             "mantle"
@@ -3446,7 +3446,7 @@
         "id": 195,
         "name": "AGNI",
         "description": "Agni is a high-capital efficiency, AMM-based decentralized exchange (DEX) and launchpad built to support the Mantle Network ecosystem.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/agni.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/agni.png",
         "link": "https://agni.finance/",
         "chains": [
             "mantle"
@@ -3463,7 +3463,7 @@
         "id": 196,
         "name": "Somnia DashBoard",
         "description": "Somnia’s official staking portal to delegate SOMI to validators, view network stats, and manage your delegations.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/somnia.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/somnia.png",
         "link": "https://staking.somnia.network/",
         "chains": [
             "somnia"
@@ -3478,7 +3478,7 @@
         "id": 197,
         "name": "Somnia Stake",
         "description": "You can stake SOMI tokens on the Somnia network and monitor validator performance and network uptime in real time, operated by B-Harvest.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/somniastake.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/somniastake.png",
         "link": "https://somniastake.xyz/stake/?validator=0xa063e77C64667C9654ef8A3eE38c8cF0613e82b2",
         "chains": [
             "somnia"
@@ -3489,7 +3489,7 @@
         "id": 198,
         "name": "Polygon Staking",
         "description": "olygon Staking is a platform where users can stake MATIC to help secure the Polygon network and earn rewards. It enables delegators to contribute to network consensus while earning staking yields.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/polygonstaking.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/polygonstaking.png",
         "link": "https://staking.polygon.technology/",
         "chains": [
             "ethereum"
@@ -3500,7 +3500,7 @@
         "id": 199,
         "name": "Linea Hub",
         "description": "The Linea Bridge Aggregator allows users to bridge assets from any blockchain by automatically finding and routing through the fastest path. It simplifies cross-chain transfers by aggregating different bridge protocols and optimizing for speed and efficiency.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/lineahub.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/lineahub.png",
         "link": "https://linea.build/hub/bridge/bridge-aggregator",
         "chains": [
             "ethereum",
@@ -3530,7 +3530,7 @@
         "id": 200,
         "name": "Myriad",
         "description": "Trade opinions on anything from crypto, politics and sports to gaming, culture and technology. Break the news. Stake the news. Make the news.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/myriad.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/myriad.png",
         "link": "https://linea.myriadprotocol.com/markets?utm_source=linea_hub",
         "chains": [
             "linea"
@@ -3544,7 +3544,7 @@
         "id": 202,
         "name": "Agentify",
         "description": "Agentify is an Ai infrastructure designed to make decentralized finance (DeFi) as easy as chatting with a friend using MCP.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/agentify.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/agentify.png",
         "link": "https://app.agentifyai.org/",
         "chains": [
             "ethereum"
@@ -3560,7 +3560,7 @@
         "id": 203,
         "name": "Astera Fi",
         "description": "Astera is a DeFi protocol designed to provide instant access to liquidity and yield for stablecoins, powered by asUSD.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/astera.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/astera.png",
         "link": "https://astera.fi/",
         "chains": [
             "ethereum",
@@ -3591,7 +3591,7 @@
         "id": 204,
         "name": "Bounce",
         "description": "Bounce Finance is a decentralized auction protocol that empowers users to create and join various types of on-chain auctions on multiple blockchain networks.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/bounce.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/bounce.png",
         "link": "https://linea.build/hub/apps/bounce",
         "chains": [
             "ethereum",
@@ -3611,7 +3611,7 @@
         "id": 205,
         "name": "Suilend",
         "description": "Suilend is a decentralized lending and borrowing protocol built on the Sui blockchain, offering users the ability to deposit assets to earn interest or use them as collateral to borrow other tokens.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/suilend.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/suilend.png",
         "link": "https://suilend.fi/",
         "chains": [
             "sui"
@@ -3626,7 +3626,7 @@
         "id": 206,
         "name": "Intento Portal",
         "description": "Intento Portal is a platform that allows users to create and manage complex on-chain flows without writing code. It provides an interface to automate actions like token transfers, swaps, and conditional executions across multiple blockchains.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/intento.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/intento.png",
         "link": "https://portal.intento.zone/",
         "chains": [
             "intento"
@@ -3643,7 +3643,7 @@
         "id": 207,
         "name": "dYdX Trading Arena",
         "description": "A competitive trading competition where traders can showcase their skills and compete for prizes.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/dydx-trading-arena.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/dydx-trading-arena.png",
         "link": "https://dydxarena.com/",
         "chains": [
             "dydx"
@@ -3658,7 +3658,7 @@
         "id": 208,
         "name": "Raydium",
         "description": "Raydium is an automated market maker (AMM) built on the Solana blockchain which leverages the central order book of the Serum decentralized exchange (DEX) to enable lightning-fast trades, shared liquidity and new features for earning yield",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/raydium.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/raydium.png",
         "link": "https://raydium.io/swap/",
         "chains": [
             "solana"
@@ -3674,7 +3674,7 @@
         "id": 209,
         "name": "Solanex",
         "description": "Solanex AI is a next-generation decentralized exchange (DEX) that leverages advanced artificial intelligence (AI) to optimize trade execution, liquidity management, and user experience. Built on the foundation of cutting-edge blockchain technology, Solanex AI aims to provide a more efficient, secure, and user-friendly trading environment compared to traditional DEX platforms",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/solanex.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/solanex.png",
         "link": "https://solanex.ai/",
         "chains": [
             "solana"
@@ -3689,7 +3689,7 @@
         "id": 210,
         "name": "Dexlab",
         "description": "Dexlab makes launching on Solana easy, with a token minting lab, a launchpad, and a dedicated DEX for all listings",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/soldexlab.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/soldexlab.png",
         "link": "https://app.dexlab.space/token/create",
         "chains": [
             "solana"
@@ -3704,7 +3704,7 @@
         "id": 211,
         "name": "Jupiter",
         "description": "Building the best exchange in crypto. Wannabe DeFi behemoth",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/jupiter.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/jupiter.png",
         "link": "https://jup.ag/",
         "chains": [
             "solana"
@@ -3720,7 +3720,7 @@
         "id": 212,
         "name": "Orca V3",
         "description": "Orca is the easiest way to exchange cryptocurrency on the Solana blockchain. Here, you can exchange tokens with minimal transaction fees and lower latency than any DEX on Ethereum, all while knowing that you’re getting a fair price. Additionally, you may provide liquidity to a trading pool to earn a share of trading fees",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/orca.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/orca.png",
         "link": "https://www.orca.so/",
         "chains": [
             "solana"
@@ -3736,7 +3736,7 @@
         "id": 213,
         "name": "1DEX.AI",
         "description": "1DEX.AI is the multichain liquidity aggregator focused on on-chain asset efficiency. Swap & bridge, dust conversion, gas top-up, token analytics",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/1dex.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/1dex.png",
         "link": "https://www.1dex.ai/swap",
         "chains": [
             "ethereum",
@@ -3770,7 +3770,7 @@
         "id": 214,
         "name": "YUPFUN Token",
         "description": "YUPFUN simplifies DeFi with seamless cross-chain swaps, low fees & secure transactions. Trade smarter across multiple blockchains—effortless & transparent",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/yup.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/yup.png",
         "link": "https://yup.fun/",
         "chains": [
             "solana"
@@ -3785,7 +3785,7 @@
         "id": 215,
         "name": "MyStonks",
         "description": "MyStonks is a decentralized digital asset trading platform that mainly provides spot and derivative trading services for digital assets such as Bitcoin and Ethereum to global users, and also provides trading services for RWA asset tokens and block/forex financial products such as financial products",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/msx.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/msx.png",
         "link": "https://msx.com/",
         "chains": [
             "solana",
@@ -3805,7 +3805,7 @@
         "id": 216,
         "name": "Pump",
         "description": "Launch a coin that is instantly tradeable for under $2 in one click.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/pump.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/pump.png",
         "link": "https://pump.fun/",
         "chains": [
             "solana"
@@ -3819,7 +3819,7 @@
         "id": 217,
         "name": "YUPFUN",
         "description": "YUPFUN simplifies DeFi with seamless cross-chain swaps, low fees & secure transactions. Trade smarter across multiple blockchains—effortless & transparent!",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/yupfun.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/yupfun.png",
         "link": "https://yup.fun/",
         "chains": [
             "solana"
@@ -3835,7 +3835,7 @@
         "id": 218,
         "name": "Renzo",
         "description": "Restake ETH & Never worry about EigenLayer caps",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/renzo.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/renzo.png",
         "link": "https://app.renzoprotocol.com/ezeth",
         "chains": [
             "solana",
@@ -3851,7 +3851,7 @@
         "id": 219,
         "name": "btcSOL",
         "description": "btcSOL is a restaking SOL protocol that rewards in Bitcoin built on top of the Zeus Ecosystem. btcSOL unlocks effortless, permissionless Bitcoin yield, built for every Solana user ready to put their assets to work.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/btcsol.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/btcsol.png",
         "link": "https://app.btcsol.co/",
         "chains": [
             "solana",
@@ -3867,7 +3867,7 @@
         "id": 220,
         "name": "what",
         "description": "What.exchange is a decentralized perpetual exchange designed to revolutionize the transaction, pricing, collateral and transparency of financial instruments.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/what.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/what.png",
         "link": "https://trade.what.exchange/",
         "chains": [
             "solana",
@@ -3893,7 +3893,7 @@
         "id": 221,
         "name": "LOTUS",
         "description": "Lotus Staker is a platform for staking SOL tokens on Solana. Users lock tokens to support network operations, earning rewards via native or liquid staking.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/lotus.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/lotus.png",
         "link": "https://stakewiz.com/",
         "chains": [
             "solana"
@@ -3908,7 +3908,7 @@
         "id": 222,
         "name": "Solana Token Vesting",
         "description": "Easily Lock and vest any Solana SPL or LP Token without Coding.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/smithii.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/smithii.png",
         "link": "https://tools.smithii.io/token-vesting/",
         "chains": [
             "solana",
@@ -3932,7 +3932,7 @@
         "id": 223,
         "name": "Save SOL",
         "description": "Save Staked SOL (saveSOL) is an LST built by the Save team. Earn staking yields by converting your SOL into saveSOL and deposit it into Save Finance as collateral.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/savesol.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/savesol.png",
         "link": "https://save.finance/saveSOL",
         "chains": [
             "solana"
@@ -3947,7 +3947,7 @@
         "id": 224,
         "name": "Solomon USDv",
         "description": "USDv is a Solana-native synthetic dollar backed by delta-hedged crypto assets, keeping a $1 peg while earning yield, which is shared with users who stake for sUSDv",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/solomon.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/solomon.png",
         "link": "https://app.solomonlabs.org/",
         "chains": [
             "solana"
@@ -3963,7 +3963,7 @@
         "id": 225,
         "name": "Glow Finance",
         "description": "Glow is a decentralized margin trading protocol designed for mature investors and large-scale users, launching a suite of financial instruments designed to maximize capital efficiency and increase earnings opportunities. Glow's cross-margin account feature allows dynamic interaction between assets, allowing users to manage, borrow and utilize positions within a unified framework.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/glow.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/glow.png",
         "link": "https://app.glowfinance.xyz/",
         "chains": [
             "solana"
@@ -3978,7 +3978,7 @@
         "id": 226,
         "name": "burnchecker",
         "description": "The best Solana token burn tracker, empowering users to burn their favorite tokens. Let’s ignite the deflationary revolution.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/burnchecker.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/burnchecker.png",
         "link": "https://burnchecker.io/",
         "chains": [
             "solana"
@@ -3992,7 +3992,7 @@
         "id": 227,
         "name": "Monorail",
         "description": "Monorail is a DEX-aggregator that unifies liquidity from AMMs and on-chain orderbooks into a single, coherent framework — delivering deep liquidity, lower slippage, and efficient trade execution.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/monorail.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/monorail.png",
         "link": "https://monorail.xyz/",
         "chains": [
             "monad",
@@ -4026,7 +4026,7 @@
         "id": 228,
         "name": "Kuru",
         "description": "Kuru is a fully on-chain order-book DEX built on the Monad blockchain, offering a hybrid CLOB-AMM model to deliver low slippage, self-custody, and composability.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/kuru.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/kuru.png",
         "link": "https://www.kuru.io/",
         "chains": [
             "monad"
@@ -4040,7 +4040,7 @@
         "id": 229,
         "name": "OROSWAP",
         "description": "OroSwap is a decentralized exchange built for the Oro Network, enabling fast and seamless token swaps with low fees. Designed for simplicity and efficiency, it provides users with a smooth trading experience across the ecosystem.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/oro.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/oro.png",
         "link": "https://app.oroswap.org/",
         "chains": [
             "zigchain"
@@ -4056,7 +4056,7 @@
         "id": 230,
         "name": "Faroswap",
         "description": "Pharos-native DEX fueling RWA-Fi with precision & depth.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/faroswap.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/faroswap.png",
         "link": "https://faroswap.xyz/swap",
         "chains": [
             "pharos-testnet"
@@ -4072,7 +4072,7 @@
         "id": 231,
         "name": "Zentra",
         "description": "Zentrafi is a decentralized finance (DeFi) platform that offers seamless cross-chain trading, lending, and asset management. It integrates liquidity from multiple blockchain ecosystems to enable efficient and low-cost financial interactions.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/zentra.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/zentra.png",
         "link": "https://app.zentrafi.xyz/",
         "chains": [
             "pharos-testnet"
@@ -4089,7 +4089,7 @@
         "id": 232,
         "name": "ThalaSwap",
         "description": "Thala Labs is a DeFi protocol powering Move Dollar, an over-collateralized stablecoin, and offering capital-efficient liquidity through a rebalancing AMM.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/thala.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/thala.png",
         "link": "https://app.thala.fi/swap",
         "chains": [
             "aptos"
@@ -4104,7 +4104,7 @@
         "id": 233,
         "name": "Cellana Finance",
         "description": "Cellana is a community-owned decentralized exchange on the Aptos network that fosters DeFi growth through a sustainable liquidity incentives model. This innovative DEX is the first ever which use the Ve(3,3) Model in Move Language.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/cellana.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/cellana.png",
         "link": "https://app.cellana.finance/",
         "chains": [
             "aptos"
@@ -4120,7 +4120,7 @@
         "id": 234,
         "name": "Earnium",
         "description": "Earnium is a decentralized trading platform built on the Aptos blockchain that supports automated market making (AMM) and centralized liquidity mechanism (CLMM). The platform allows users to provide liquidity, trade tokens, and obtain platform-incentive NFTs by destroying LP tokens.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/earnium.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/earnium.png",
         "link": "https://app.earnium.io/swap",
         "chains": [
             "aptos"
@@ -4136,7 +4136,7 @@
         "id": 235,
         "name": "Amnis Finance",
         "description": "A Pioneering Liquidity Staking on Aptos. As a foundational component of the Aptos ecosystem, Amnis Finance introduces a secure, user-friendly and innovative liquid staking protocol. Amnis Finance empowers you to effortlessly maximize returns on your APT tokens while unlocking liquidity.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/amnis.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/amnis.png",
         "link": "https://stake.amnis.finance/",
         "chains": [
             "aptos"
@@ -4152,7 +4152,7 @@
         "id": 236,
         "name": "Kofi Finance",
         "description": "Kofi Finance is transforming staking on Aptos by introducing MEV revenue sharing, ensuring that stakers earn enhanced rewards while maintaining full liquidity. Unlike traditional staking, where assets are locked, Kofi issues a liquid staking token (LST) that can be freely traded, used in DeFi, or redeemed for the underlying staked assets—allowing users to earn staking rewards without sacrificing liquidity.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/kofi.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/kofi.png",
         "link": "https://app.kofi.finance/",
         "chains": [
             "aptos"
@@ -4167,7 +4167,7 @@
         "id": 237,
         "name": "Goblin",
         "description": "Goblin is the native yield layer for Aptos Defi",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/goblin.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/goblin.png",
         "link": "https://goblin.fi/vault",
         "chains": [
             "aptos"
@@ -4183,7 +4183,7 @@
         "id": 238,
         "name": "Auro Finance",
         "description": "Auro Finance is an advanced DeFi protocol on Aptos that enables users to earn better yields and liquidity from their staked APT without any lockups. Through Auro Finance, users can borrow USDA, the decentralized stablecoin, against multiple collateral options, allowing them to utilize their holdings without selling them",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/auro.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/auro.png",
         "link": "https://app.auro.finance/",
         "chains": [
             "aptos"
@@ -4199,7 +4199,7 @@
         "id": 239,
         "name": "MoveFlow",
         "description": "MoveFlow is a token management platform for token vesting, airdrop, payroll and subscription.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/moveflow.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/moveflow.png",
         "link": "https://app.moveflow.xyz/",
         "chains": [
             "aptos",
@@ -4218,7 +4218,7 @@
         "id": 240,
         "name": "Revive Finance",
         "description": "Revive is a is a leveraged revenue mining platform on the Aptos blockchain. It integrates with the various DeFi protocols in the Aptos ecosystem to provide a seamless experience for leveraged income farming. With Revive, users can efficiently access and navigate the Aptos DeFi ecosystem on a unified platform.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/revive.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/revive.png",
         "link": "https://app.revivefi.io/",
         "chains": [
             "aptos"
@@ -4233,7 +4233,7 @@
         "id": 241,
         "name": "Aster",
         "description": "AsterDex Pro Futures is a decentralized perpetual futures platform offering on-chain leveraged trading. It provides fast execution, low fees, and secure access to a wide range of tradable assets.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/aster.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/aster.png",
         "link": "https://www.asterdex.com/en/trade/pro/futures/BTCUSDT",
         "chains": [
             "bnb-smart-chain",
@@ -4252,7 +4252,7 @@
         "id": 242,
         "name": "IotaNames",
         "description": "IOTA Names is an on-chain naming service on the IOTA mainnet that allows users to register human-readable names and link them to wallet addresses.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/iotanames.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/iotanames.png",
         "link": "https://mainnet.iotanames.com/",
         "chains": [
             "iota"
@@ -4268,7 +4268,7 @@
         "id": 243,
         "name": "SuiNames",
         "description": "Sui Names is an on-chain naming service on the Sui mainnet that allows users to register human-readable names and link them to wallet addresses.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/suinames.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/suinames.png",
         "link": "https://suins.io/",
         "chains": [
             "sui"
@@ -4284,7 +4284,7 @@
         "id": 244,
         "name": "AptosNames",
         "description": "Aptos Names is a naming service for the Aptos ecosystem that lets users replace long wallet addresses with easy-to-read .apt domain names.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/aptosnames.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/aptosnames.png",
         "link": "https://www.aptosnames.com/",
         "chains": [
             "aptos"
@@ -4300,7 +4300,7 @@
         "id": 245,
         "name": "sns(Solana Name Service)",
         "description": "SNS.ID is a decentralized naming service built on Solana that lets users register human-readable .sol and .sns domain names as crypto addresses.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/sns.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/sns.png",
         "link": "https://www.sns.id/",
         "chains": [
             "solana"
@@ -4317,7 +4317,7 @@
         "id": 247,
         "name": "Nad.fun",
         "description": "Nad.fun is a memecoin launch platform built on the Monad blockchain that allows users to easily create and trade tokens.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/nadfun.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/nadfun.png",
         "link": "https://nad.fun/",
         "chains": [
             "monad"
@@ -4332,7 +4332,7 @@
         "id": 248,
         "name": "TXDex",
         "description": "Decentralized exchange on TX.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/txdex.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/txdex.png",
         "link": "https://txdex.live",
         "chains": [
             "coreum"
@@ -4344,7 +4344,7 @@
         "id": 249,
         "name": "Dezswap",
         "description": "Dezswap is a decentralized trading protocol for Web3, enabling users to swap tokens directly on-chain. It provides a simple DeFi interface for token swaps and liquidity access.",
-        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/dezswap.png",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/dezswap.png",
         "link": "https://app.dezswap.io/?chainname=xpla",
         "chains": [
             "xpla"

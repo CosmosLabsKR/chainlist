@@ -8,12 +8,12 @@
 
 Neutron Ecosystem [Example](https://www.mintscan.io/neutron/ecosystem/)
 
-![banner](https://github.com/cosmostation/chainlist/blob/main/resource/static/ecosystem_demo.png?raw=true)
+![banner](https://github.com/CosmosLabsKR/chainlist/blob/main/resource/static/ecosystem_demo.png?raw=true)
 
 
 
 
-Please add your service for correct chain folder. When you want create new chain folder please follow [chainlist](https://github.com/cosmostation/chainlist/tree/main/chain) naming
+Please add your service for correct chain folder. When you want create new chain folder please follow [chainlist](https://github.com/CosmosLabsKR/chainlist/tree/main/chain) naming
 
 
 [mandatory]
@@ -63,7 +63,7 @@ Ecosystem
 
 Osmosis contract [Example](https://www.mintscan.io/osmosis/wasm/)
 
-![banner](https://github.com/cosmostation/chainlist/blob/main/resource/static/popular_contract_demo.png?raw=true)
+![banner](https://github.com/CosmosLabsKR/chainlist/blob/main/resource/static/popular_contract_demo.png?raw=true)
 
 [mandatory]
 - name : Contract name

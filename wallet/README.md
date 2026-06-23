@@ -11,7 +11,7 @@
 
 2. Clone fork and create new branch
 
-3. Add new dApp image file to wallet/resource directory in cosmostation/chainlist
+3. Add new dApp image file to wallet/resource directory in CosmoslabsKR/chainlist
 
 4. Add new dApp to wallet/eco_list.json in the following format:
     - `id` (number)
@@ -22,7 +22,7 @@
       - dApp description
     - `thumbnail` (string)
       - the dApp image URL you added earlier to the resource folder
-        - ex. `https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/new_dApp.png`
+        - ex. `https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/new_dApp.png`
     - `link` (string)
       - dApp link url
     - `chains` (string array)
@@ -43,7 +43,7 @@
                 "id": 1,
                 "name": "Eigenlayer",
                 "description": "EigenLayer lets Ethereum users restake assets to support other protocols and earn extra rewards.",
-                "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/eigenlayer.png",
+                "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/eigenlayer.png",
                 "link": "https://app.eigenlayer.xyz",
                 "chains": [
                     "ethereum"
@@ -60,7 +60,7 @@
                 "id": 18,
                 "name": "Cacao Swap",
                 "description": "Cacao Swap is a supercharged user interface for cross-chain swaps, synthetics and yield opportunities. Powered by Thorchain, Maya Protocol and ChainFlip, it offers a user-first experience for all interactions.",
-                "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/cacao.png",
+                "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/cacao.png",
                 "link": "https://cacaoswap.app/",
                 "chains": [
                     "ethereum",
