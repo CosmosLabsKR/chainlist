@@ -6,7 +6,7 @@
         "symbol": "TICS",
         "description": "Mainnet Qubetics Staking Coin",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/qubetics/asset/tics.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/qubetics/asset/tics.png",
         "coinGeckoId": "qubetics",
         "color": "#C78DFF"
     }

@@ -2,7 +2,7 @@
     "chain_id_cosmos": "sifchain-1",
     "chain_name": "Sifchain",
     "chain_image":
-        "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/sifchain/resource/chain_sif.png",
+        "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/sifchain/resource/chain_sif.png",
     "staking_asset_denom": "rowan",
     "staking_asset_symbol": "ROWAN",
     "lcd_endpoint": [

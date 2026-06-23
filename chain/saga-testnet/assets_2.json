@@ -6,7 +6,7 @@
         "symbol": "TSAGA",
         "description": "Saga-testnet Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/saga-testnet/asset/saga.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/saga-testnet/asset/saga.png",
         "color": "#FF724F"
     }
 ]

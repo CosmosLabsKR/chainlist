@@ -6,7 +6,7 @@
         "symbol": "ATOLO",
         "description": "Rizon Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/rizon/asset/atolo.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/rizon/asset/atolo.png",
         "coinGeckoId": "rizon",
         "color": "#8C8AF2"
     },
@@ -17,7 +17,7 @@
         "symbol": "RCHF",
         "description": "RIZON stable coin of Switzerland CHF",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/rizon/asset/rchf.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/rizon/asset/rchf.png",
         "coinGeckoId": ""
     },
     {
@@ -27,7 +27,7 @@
         "symbol": "ATOM",
         "description": "Cosmoshub Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/cosmos/asset/atom.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/cosmos/asset/atom.png",
         "coinGeckoId": "cosmos",
         "ibc_info" : {
             "path": "cosmos>rizon",
@@ -50,7 +50,7 @@
         "symbol": "ION",
         "description": "ION is the second native token of Osmosis.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/osmosis/asset/ion.png",
         "coinGeckoId": "ion",
         "ibc_info" : {
             "path": "osmosis>rizon",
@@ -73,7 +73,7 @@
         "symbol": "OSMO",
         "description": "Osmosis Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/osmosis/asset/osmo.png",
         "coinGeckoId": "osmosis",
         "ibc_info" : {
             "path": "osmosis>rizon",

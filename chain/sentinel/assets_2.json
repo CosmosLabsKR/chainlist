@@ -6,7 +6,7 @@
         "symbol": "P2P",
         "description": "Sentinel Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/sentinel/asset/dvpn.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/sentinel/asset/dvpn.png",
         "coinGeckoId": "sentinel",
         "color": "#5B8ED7"
     },
@@ -17,7 +17,7 @@
         "symbol": "ATOM",
         "description": "Cosmoshub Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/cosmos/asset/atom.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/cosmos/asset/atom.png",
         "coinGeckoId": "cosmos",
         "ibc_info" : {
             "path": "cosmos>sentinel",
@@ -40,7 +40,7 @@
         "symbol": "OSMO",
         "description": "Osmosis Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/osmosis/asset/osmo.png",
         "coinGeckoId": "osmosis",
         "ibc_info" : {
             "path": "osmosis>sentinel",
@@ -63,7 +63,7 @@
         "symbol": "ION",
         "description": "ION is the second native token of Osmosis.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/osmosis/asset/ion.png",
         "coinGeckoId": "ion",
         "ibc_info" : {
             "path": "osmosis>sentinel",
@@ -86,7 +86,7 @@
         "symbol": "SCRT",
         "description": "Secret Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/secret/asset/scrt.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/secret/asset/scrt.png",
         "coinGeckoId": "secret",
         "ibc_info" : {
             "path": "secret>sentinel",
@@ -109,7 +109,7 @@
         "symbol": "DEC",
         "description": "Decentr Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/decentr/asset/dec.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/decentr/asset/dec.png",
         "coinGeckoId": "decentr",
         "ibc_info" : {
             "path": "decentr>sentinel",
@@ -132,7 +132,7 @@
         "symbol": "MEDAS",
         "description": "The native token of Medas Digital Network",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/medasdigital/asset/medas.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/medasdigital/asset/medas.png",
         "coinGeckoId": "",
         "ibc_info" : {
             "path": "medasdigital>sentinel",

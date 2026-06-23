@@ -6,7 +6,7 @@
         "symbol": "UM",
         "description": "Penumbra Native Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/penumbra/asset/um.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/penumbra/asset/um.png",
         "coinGeckoId": "penumbra"
     }
 ]

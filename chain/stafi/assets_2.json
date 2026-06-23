@@ -6,7 +6,7 @@
         "symbol": "FIS",
         "description": "StaFi Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/stafi/asset/fis.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/stafi/asset/fis.png",
         "coinGeckoId": "stafi",
         "color": "#6758FF"
     },
@@ -17,7 +17,7 @@
         "symbol": "rATOM",
         "description": "StaFi Staked ATOM",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/stafi/asset/ratom.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/stafi/asset/ratom.png",
         "coinGeckoId": ""
     },
     {
@@ -27,7 +27,7 @@
         "symbol": "rIRIS",
         "description": "StaFi Staked IRIS",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/stafi/asset/riris.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/stafi/asset/riris.png",
         "coinGeckoId": ""
     },
     {
@@ -37,7 +37,7 @@
         "symbol": "rHUAHUA",
         "description": "StaFi Staked HUAHUA",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/stafi/asset/rhuahua.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/stafi/asset/rhuahua.png",
         "coinGeckoId": ""
     },
     {
@@ -47,7 +47,7 @@
         "symbol": "rSWTH",
         "description": "StaFi Staked SWTH",
         "decimals": 8,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/stafi/asset/rswth.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/stafi/asset/rswth.png",
         "coinGeckoId": ""
     },
     {
@@ -57,7 +57,7 @@
         "symbol": "ATOM",
         "description": "Cosmoshub Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/cosmos/asset/atom.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/cosmos/asset/atom.png",
         "coinGeckoId": "cosmos",
         "ibc_info" : {
             "path": "cosmos>stafi",
@@ -80,7 +80,7 @@
         "symbol": "IRIS",
         "description": "IRISnet Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/iris/asset/iris.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/iris/asset/iris.png",
         "coinGeckoId": "iris-network",
         "ibc_info" : {
             "path": "iris>stafi",
@@ -103,7 +103,7 @@
         "symbol": "HUAHUA",
         "description": "Chihuahua Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/chihuahua/asset/huahua.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/chihuahua/asset/huahua.png",
         "coinGeckoId": "chihuahua-token",
         "ibc_info" : {
             "path": "chihuahua>stafi",

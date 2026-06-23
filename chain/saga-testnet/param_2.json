@@ -1,10 +1,10 @@
 {
     "chain_id_cosmos" : "ssc-testnet-3",
     "chain_name": "Saga Testnet",
-    "chain_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/saga-testnet/resource/chain_saga-testnet.png",
+    "chain_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/saga-testnet/resource/chain_saga-testnet.png",
     "staking_asset_denom": "utsaga",
     "staking_asset_symbol" : "TSAGA",
-    "staking_asset_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/saga-testnet/asset/saga.png",
+    "staking_asset_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/saga-testnet/asset/saga.png",
     "bech_account_prefix" : "saga",
     "bech_validator_prefix" : "sagavaloper",
     "api_name" : "saga-testnet",

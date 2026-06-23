@@ -2,7 +2,7 @@
     "chain_id_cosmos": "scorum-1",
     "chain_name": "Scorum Network",
     "chain_image":
-        "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/scorum/resource/chain_scorum.png",
+        "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/scorum/resource/chain_scorum.png",
     "staking_asset_denom": "nscr",
     "staking_asset_symbol": "SCR",
     "lcd_endpoint": []

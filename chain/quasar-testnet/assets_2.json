@@ -6,7 +6,7 @@
         "symbol": "QSR",
         "description": "Quasar-testnet Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/quasar-testnet/asset/qsr.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/quasar-testnet/asset/qsr.png",
         "coinGeckoId": ""
     }
 ]

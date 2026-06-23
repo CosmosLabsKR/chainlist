@@ -16,7 +16,7 @@
         "symbol": "SONA",
         "description": "Sona (Sona)",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/story-testnet/asset/unknown.png"
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/story-testnet/asset/unknown.png"
     },
     {
         "type": "erc20",
@@ -25,7 +25,7 @@
         "symbol": "PIPE",
         "description": "PipeCoin (PIPE)",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/story-testnet/asset/unknown.png"
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/story-testnet/asset/unknown.png"
     },
     {
         "type": "erc20",
@@ -34,7 +34,7 @@
         "symbol": "WTF",
         "description": "WhatTheFreg (WTF)",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/story-testnet/asset/unknown.png"
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/story-testnet/asset/unknown.png"
     },
     {
         "type": "erc20",
@@ -43,7 +43,7 @@
         "symbol": "vIP",
         "description": "VerioIP (vIP)",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/story-testnet/asset/unknown.png"
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/story-testnet/asset/unknown.png"
     },
     {
         "type": "erc20",
@@ -52,7 +52,7 @@
         "symbol": "WETH",
         "description": "WETH (WETH)",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/story-testnet/asset/unknown.png"
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/story-testnet/asset/unknown.png"
     },
     {
         "type": "erc20",
@@ -61,7 +61,7 @@
         "symbol": "IPPY",
         "description": "Ippy (IPPY)",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/story-testnet/asset/unknown.png"
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/story-testnet/asset/unknown.png"
     },
     {
         "type": "erc20",
@@ -70,7 +70,7 @@
         "symbol": "ZOO",
         "description": "ZOO Token (ZOO)",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/story-testnet/asset/unknown.png"
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/story-testnet/asset/unknown.png"
     },
     {
         "type": "erc20",
@@ -79,7 +79,7 @@
         "symbol": "LILBENJI",
         "description": "Lil Benji (LILBENJI)",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/story-testnet/asset/unknown.png"
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/story-testnet/asset/unknown.png"
     },
     {
         "type": "erc20",
@@ -98,7 +98,7 @@
         "symbol": "uStoryWIP",
         "description": "Unleash Story WIP (uStoryWIP)",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/story-testnet/asset/unknown.png"
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/story-testnet/asset/unknown.png"
     },
     {
         "type": "erc20",
@@ -107,7 +107,7 @@
         "symbol": "WP",
         "description": "WIPE (WP)",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/story-testnet/asset/unknown.png"
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/story-testnet/asset/unknown.png"
     },
     {
         "type": "erc20",
@@ -116,7 +116,7 @@
         "symbol": "USDT",
         "description": "Bridged stgUSDT (USDT)",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/story-testnet/asset/unknown.png"
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/story-testnet/asset/unknown.png"
     },
     {
         "type": "erc20",
@@ -125,7 +125,7 @@
         "symbol": "uStoryUSDC",
         "description": "Unleash Story USDC (uStoryUSDC)",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/story-testnet/asset/unknown.png"
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/story-testnet/asset/unknown.png"
     },
     {
         "type": "erc20",
@@ -134,7 +134,7 @@
         "symbol": "stIP",
         "description": "StakedIP Token (stIP)",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/story-testnet/asset/unknown.png"
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/story-testnet/asset/unknown.png"
     },
     {
         "type": "erc20",
@@ -143,7 +143,7 @@
         "symbol": "uStoryvIP",
         "description": "Unleash Story vIP (uStoryvIP)",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/story-testnet/asset/unknown.png"
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/story-testnet/asset/unknown.png"
     },
     {
         "type": "erc20",

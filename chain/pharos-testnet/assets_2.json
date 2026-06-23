@@ -6,7 +6,7 @@
         "symbol": "PHRS",
         "description": "Pharos Testnet Native Coin",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/pharos-testnet/asset/phrs.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/pharos-testnet/asset/phrs.png",
         "coinGeckoId": ""
     }
 ]

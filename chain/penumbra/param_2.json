@@ -1,10 +1,10 @@
 {
     "chain_id_cosmos" : "penumbra-1",
     "chain_name": "Penumbra",
-    "chain_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/penumbra/resource/chain_penumbra.png",
+    "chain_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/penumbra/resource/chain_penumbra.png",
     "staking_asset_denom" : "upenumbra",
     "staking_asset_symbol" : "UM",
-    "staking_asset_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/penumbra/asset/um.png",
+    "staking_asset_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/penumbra/asset/um.png",
     "bech_account_prefix" : "penumbra",
     "bech_validator_prefix" : "penumbravaloper",
     "origin_genesis_time" : "",

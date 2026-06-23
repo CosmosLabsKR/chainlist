@@ -1,10 +1,10 @@
 {
     "chain_id_cosmos": "paxi-mainnet",
     "chain_name": "Paxi",
-    "chain_image": "https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/paxi/resource/chain_paxi.png",
+    "chain_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/main/chain/paxi/resource/chain_paxi.png",
     "staking_asset_denom": "upaxi",
     "staking_asset_symbol": "PAXI",
-    "staking_asset_image": "https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/paxi/asset/paxi.png",
+    "staking_asset_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/main/chain/paxi/asset/paxi.png",
     "bech_account_prefix": "paxi",
     "bech_validator_prefix": "paxivaloper",
     "origin_genesis_time": "2025-08-01T11:50:55Z",

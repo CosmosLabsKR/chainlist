@@ -6,7 +6,7 @@
         "symbol": "GRAIN",
         "description": "The native token of the Paloma chain.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/paloma/asset/grain.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/paloma/asset/grain.png",
         "coinGeckoId": ""
     }
 ]

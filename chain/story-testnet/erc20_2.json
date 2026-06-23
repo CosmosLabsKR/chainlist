@@ -6,7 +6,7 @@
         "symbol": "IPx",
         "description": "Wand Leveraged IP (IPx)",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/story-testnet/asset/unknown.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/story-testnet/asset/unknown.png",
         "wallet_preload": true
     },
     {
@@ -16,7 +16,7 @@
         "symbol": "USB",
         "description": "Wand USB (USB)",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/story-testnet/asset/unknown.png"
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/story-testnet/asset/unknown.png"
     },
     {
         "type": "erc20",
@@ -25,7 +25,7 @@
         "symbol": "TestUsdt",
         "description": "TestUsdt (TestUsdt)",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/story-testnet/asset/unknown.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/story-testnet/asset/unknown.png",
         "wallet_preload": true
     },
     {
@@ -35,7 +35,7 @@
         "symbol": "TestUSDC",
         "description": "USDC (USDC)",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/story-testnet/asset/unknown.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/story-testnet/asset/unknown.png",
         "wallet_preload": true
     },
     {
@@ -45,7 +45,7 @@
         "symbol": "pTestUsdt",
         "description": "pTestUsdt (pTestUsdt)",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/story-testnet/asset/unknown.png"
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/story-testnet/asset/unknown.png"
     },
     {
         "type": "erc20",
@@ -54,6 +54,6 @@
         "symbol": "vIP",
         "description": "VerioIP (vIP)",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/story-testnet/asset/unknown.png"
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/story-testnet/asset/unknown.png"
     }
 ]

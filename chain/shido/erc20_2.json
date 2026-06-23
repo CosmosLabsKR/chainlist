@@ -6,7 +6,7 @@
         "symbol": "WSHIDO",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/shido/asset/wshido.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/shido/asset/wshido.png",
         "coinGeckoId": "wrapped-shido",
         "wallet_preload": true
     },
@@ -17,7 +17,7 @@
         "symbol": "USDC",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/usdc.png",
         "coinGeckoId": "usd-coin",
         "wallet_preload": true
     },
@@ -28,7 +28,7 @@
         "symbol": "SALT",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/shido/asset/salt.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/shido/asset/salt.png",
         "coinGeckoId": ""
     },
     {
@@ -38,7 +38,7 @@
         "symbol": "NINJA",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/shido/asset/ninja.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/shido/asset/ninja.png",
         "coinGeckoId": ""
     },
     {
@@ -48,7 +48,7 @@
         "symbol": "KIDDO",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/shido/asset/kiddo.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/shido/asset/kiddo.png",
         "coinGeckoId": ""
     },
     {
@@ -58,7 +58,7 @@
         "symbol": "KENSEI",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/shido/asset/kensei.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/shido/asset/kensei.png",
         "coinGeckoId": "kensei"
     },
     {
@@ -68,7 +68,7 @@
         "symbol": "CHICK",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/shido/asset/chick.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/shido/asset/chick.png",
         "coinGeckoId": ""
     },
     {
@@ -78,7 +78,7 @@
         "symbol": "SHDX",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/shido/asset/shdx.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/shido/asset/shdx.png",
         "coinGeckoId": "shido-dex"
     },
     {
@@ -88,7 +88,7 @@
         "symbol": "0xded",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/shido/asset/0xdead.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/shido/asset/0xdead.png",
         "coinGeckoId": ""
     },    
     {
@@ -98,7 +98,7 @@
         "symbol": "SDS",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/shido/asset/shidoshi.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/shido/asset/shidoshi.png",
         "coinGeckoId": ""
     },
     {
@@ -108,7 +108,7 @@
         "symbol": "NERD",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/shido/asset/nerd.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/shido/asset/nerd.png",
         "coinGeckoId": ""
     },
     {
@@ -118,7 +118,7 @@
         "symbol": "MSMoon",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/shido/asset/msmoon.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/shido/asset/msmoon.png",
         "coinGeckoId": ""
     },
     {
@@ -128,7 +128,7 @@
         "symbol": "IPN",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/shido/asset/ippon.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/shido/asset/ippon.png",
         "coinGeckoId": ""
     }
 ]

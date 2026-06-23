@@ -6,7 +6,7 @@
         "symbol": "SAH",
         "description": "Sahara Ai Testnet Staking Coin",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/saharaai-testnet/asset/sahara.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/saharaai-testnet/asset/sahara.png",
         "coinGeckoId": ""
     }
 ]

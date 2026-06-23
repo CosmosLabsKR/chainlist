@@ -6,7 +6,7 @@
         "symbol": "SEI",
         "description": "Sei Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/sei/asset/sei.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/sei/asset/sei.png",
         "coinGeckoId": "sei-network",
         "color": "#600014"
     },
@@ -17,7 +17,7 @@
         "symbol": "OSMO",
         "description": "Osmosis Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/osmosis/asset/osmo.png",
         "coinGeckoId": "osmosis",
         "ibc_info" : {
             "path": "osmosis>sei",
@@ -40,7 +40,7 @@
         "symbol": "ATOM (Osmosis)",
         "description": "Cosmoshub Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/cosmos/asset/atom.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/cosmos/asset/atom.png",
         "coinGeckoId": "cosmos",
         "ibc_info" : {
             "path": "cosmos>osmosis>sei",
@@ -63,7 +63,7 @@
         "symbol": "ATOM",
         "description": "Cosmoshub Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/cosmos/asset/atom.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/cosmos/asset/atom.png",
         "coinGeckoId": "cosmos",
         "ibc_info" : {
             "path": "cosmos>sei",
@@ -86,7 +86,7 @@
         "symbol": "axlUSDC",
         "description": "Circle's stablecoin on Axelar",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/usdc.png",
         "coinGeckoId": "axlusdc",
         "ibc_info" : {
             "path": "ethereum>axelar>sei",
@@ -109,7 +109,7 @@
         "symbol": "WETH",
         "description": "Wrapped Ether from Ethereum (Wormhole)",
         "decimals": 8,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/weth.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/weth.png",
         "coinGeckoId": "weth",
         "bridge_info" : {
             "path": "ethereum>sei",
@@ -126,7 +126,7 @@
         "symbol": "USDCet",
         "description": "Wrapped USDC from Ethereum (Wormhole)",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/usdc.png",
         "coinGeckoId": "usd-coin-wormhole-from-ethereum",
         "bridge_info" : {
             "path": "ethereum>sei",
@@ -143,7 +143,7 @@
         "symbol": "USDTet",
         "description": "Wrapped Tether USD from Ethereum (Wormhole)",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdt.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/usdt.png",
         "coinGeckoId": "tether-usd-wormhole-from-ethereum",
         "bridge_info" : {
             "path": "ethereum>sei",
@@ -160,7 +160,7 @@
         "symbol": "WBTC",
         "description": "Wrapped Bitcoin from Ethereum (Wormhole)",
         "decimals": 8,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/wbtc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/wbtc.png",
         "coinGeckoId": "wrapped-btc-wormhole",
         "bridge_info" : {
             "path": "ethereum>sei",
@@ -177,7 +177,7 @@
         "symbol": "USDCar",
         "description": "Wrapped USDC from Arbitrum (Wormhole)",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/usdc.png",
         "coinGeckoId": "usd-coin-wormhole-arb",
         "bridge_info" : {
             "path": "ethereum>sei",
@@ -194,7 +194,7 @@
         "symbol": "WETHar",
         "description": "Wrapped Ether from Arbitrum (Wormhole)",
         "decimals": 8,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/weth.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/weth.png",
         "coinGeckoId": "weth",
         "bridge_info" : {
             "path": "ethereum>sei",
@@ -211,7 +211,7 @@
         "symbol": "USDCpo",
         "description": "Wrapped USDC from Polygon (Wormhole)",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/usdc.png",
         "coinGeckoId": "",
         "bridge_info" : {
             "path": "ethereum>sei",
@@ -228,7 +228,7 @@
         "symbol": "USDCop",
         "description": "Wrapped USDC from Optimism (Wormhole)",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/usdc.png",
         "coinGeckoId": "usd-coin",
         "bridge_info" : {
             "path": "ethereum>sei",
@@ -245,7 +245,7 @@
         "symbol": "USDCso",
         "description": "Wrapped USDC from Solana (Wormhole)",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/usdc.png",
         "coinGeckoId": "usd-coin",
         "bridge_info" : {
             "path": "ethereum>sei",
@@ -262,7 +262,7 @@
         "symbol": "USDCbs",
         "description": "Wrapped USDC from BSC (Wormhole)",
         "decimals": 8,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/usdc.png",
         "coinGeckoId": "usd-coin",
         "bridge_info" : {
             "path": "ethereum>sei",
@@ -279,7 +279,7 @@
         "symbol": "WETHbs",
         "description": "Wrapped Ether from BSC (Wormhole)",
         "decimals": 8,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/weth.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/weth.png",
         "coinGeckoId": "weth",
         "bridge_info" : {
             "path": "ethereum>sei",
@@ -296,7 +296,7 @@
         "symbol": "USDTbs",
         "description": "Binance-Peg BSC-USD from BSC (Wormhole)",
         "decimals": 8,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdt.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/usdt.png",
         "coinGeckoId": "tether",
         "bridge_info" : {
             "path": "ethereum>sei",
@@ -313,7 +313,7 @@
         "symbol": "CRBRUS",
         "description": "Cerberus Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/cerberus/asset/crbrus.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/cerberus/asset/crbrus.png",
         "coinGeckoId": "cerberus-2",
         "ibc_info" : {
             "path": "cerberus>osmosis>sei",
@@ -336,7 +336,7 @@
         "symbol": "USDT",
         "description": "USDT - directly minted on the Kava chain by the Tether Foundation.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdt.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/usdt.png",
         "coinGeckoId": "tether",
         "ibc_info" : {
             "path": "kava>sei",
@@ -359,7 +359,7 @@
         "symbol": "USDC",
         "description": "USDC - Directly minted on the Noble chain by the Circle Foundation.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/noble/asset/usdc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/noble/asset/usdc.png",
         "coinGeckoId": "usd-coin",
         "ibc_info" : {
             "path": "noble>sei",
@@ -393,7 +393,7 @@
         "symbol": "ampSEI",
         "description": "ERIS liquid staked SEI.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/sei/asset/ampsei.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/sei/asset/ampsei.png",
         "coinGeckoId": ""
     },
     {

@@ -6,7 +6,7 @@
         "symbol": "XPRT",
         "description": "Persistence-testnet Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/persistence-testnet/asset/xprt.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/persistence-testnet/asset/xprt.png",
         "coinGeckoId": "persistence",
         "color": "#E50A13"
     },
@@ -17,7 +17,7 @@
         "symbol": "stkATOM",
         "description": "PSTAKE-testnet Liquid-Staked ATOM",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/persistence-testnet/asset/stkatom.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/persistence-testnet/asset/stkatom.png",
         "coinGeckoId": "stkatom"
     },
     {
@@ -27,7 +27,7 @@
         "symbol": "stkOSMO",
         "description": "PSTAKE-testnet Liquid-Staked OSMO",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/persistence-testnet/asset/stkosmo.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/persistence-testnet/asset/stkosmo.png",
         "coinGeckoId": "stkosmo"
     },
     {
@@ -37,7 +37,7 @@
         "symbol": "stkDV4TNT",
         "description": "PSTAKE-testnet Liquid-Staked DV4TNT",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/persistence-testnet/asset/stkdv4tnt.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/persistence-testnet/asset/stkdv4tnt.png",
         "coinGeckoId": ""
     }
 ]

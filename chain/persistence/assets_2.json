@@ -6,7 +6,7 @@
         "symbol": "XPRT",
         "description": "Persistence Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/persistence/asset/xprt.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/persistence/asset/xprt.png",
         "coinGeckoId": "persistence",
         "color": "#E50A13"
     },
@@ -17,7 +17,7 @@
         "symbol": "stkATOM",
         "description": "PSTAKE Liquid-Staked ATOM",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/persistence/asset/stkatom.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/persistence/asset/stkatom.png",
         "coinGeckoId": "stkatom"
     },
     {
@@ -27,7 +27,7 @@
         "symbol": "stkOSMO",
         "description": "PSTAKE Liquid-Staked OSMO",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/persistence/asset/stkosmo.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/persistence/asset/stkosmo.png",
         "coinGeckoId": "stkosmo"
     },
     {
@@ -37,7 +37,7 @@
         "symbol": "stkDYDX",
         "description": "PSTAKE Liquid-Staked DYDX",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/persistence/asset/stkdydx.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/persistence/asset/stkdydx.png",
         "coinGeckoId": "stkdydx"
     },
     {
@@ -47,7 +47,7 @@
         "symbol": "stkSTARS",
         "description": "PSTAKE Liquid-Staked STARS",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/persistence/asset/stkstars.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/persistence/asset/stkstars.png",
         "coinGeckoId": "stkstars"
     },
     {
@@ -57,7 +57,7 @@
         "symbol": "stkHUAHUA",
         "description": "PSTAKE Liquid-Staked HUAHUA",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/persistence/asset/stkhuahua.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/persistence/asset/stkhuahua.png",
         "coinGeckoId": "stkhuahua"
     },
     {
@@ -67,7 +67,7 @@
         "symbol": "stkXPRT",
         "description": "PSTAKE Liquid-Staked XPRT",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/persistence/asset/stkxprt.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/persistence/asset/stkxprt.png",
         "coinGeckoId": "persistence-staked-xprt"
     },
     {
@@ -77,7 +77,7 @@
         "symbol": "pSTAKE",
         "description": "pSTAKE Finance is a Bitcoin Yield and Liquid Staking protocol, backed by Binance Labs.",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/pstake.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/pstake.png",
         "coinGeckoId": "pstake-finance",
         "ibc_info" : {
             "path": "ethereum>gravity-bridge>persistence",
@@ -100,7 +100,7 @@
         "symbol": "ATOM",
         "description": "Cosmoshub Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/cosmos/asset/atom.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/cosmos/asset/atom.png",
         "coinGeckoId": "cosmos",
         "ibc_info" : {
             "path": "cosmos>persistence",
@@ -123,7 +123,7 @@
         "symbol": "ION",
         "description": "ION is the second native token of Osmosis.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/osmosis/asset/ion.png",
         "coinGeckoId": "ion",
         "ibc_info" : {
             "path": "osmosis>persistence",
@@ -146,7 +146,7 @@
         "symbol": "OSMO",
         "description": "Osmosis Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/osmosis/asset/osmo.png",
         "coinGeckoId": "osmosis",
         "ibc_info" : {
             "path": "osmosis>persistence",
@@ -169,7 +169,7 @@
         "symbol": "ROWAN",
         "description": "Sifchain Staking Coin",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/sifchain/asset/rowan.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/sifchain/asset/rowan.png",
         "coinGeckoId": "sifchain",
         "ibc_info" : {
             "path": "sifchain>persistence",
@@ -192,7 +192,7 @@
         "symbol": "JUNO",
         "description": "Juno Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/juno/asset/juno.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/juno/asset/juno.png",
         "coinGeckoId": "juno-network",
         "ibc_info" : {
             "path": "juno>persistence",
@@ -215,7 +215,7 @@
         "symbol": "GRAV",
         "description": "Gravity Bridge Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/gravity-bridge/asset/grav.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/gravity-bridge/asset/grav.png",
         "coinGeckoId": "graviton",
         "ibc_info" : {
             "path": "gravity-bridge>persistence",
@@ -238,7 +238,7 @@
         "symbol": "USDt.kava",
         "description": "Tether USDt",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdt.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/usdt.png",
         "coinGeckoId": "tether",
         "ibc_info" : {
             "path": "kava>persistence",
@@ -261,7 +261,7 @@
         "symbol": "USDC",
         "description": "USD Coin - Directly minted on the Noble chain by the Circle Foundation.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/noble/asset/usdc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/noble/asset/usdc.png",
         "coinGeckoId": "usd-coin",
         "ibc_info" : {
             "path": "noble>persistence",
@@ -284,7 +284,7 @@
         "symbol": "DYDX",
         "description": "dYdX Staking Coin",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/dydx/asset/dydx.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/dydx/asset/dydx.png",
         "coinGeckoId": "dydx-chain",
         "ibc_info" : {
             "path": "dydx>persistence",
@@ -307,7 +307,7 @@
         "symbol": "STARS",
         "description": "Stargaze Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/stargaze/asset/stars.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/stargaze/asset/stars.png",
         "coinGeckoId": "stargaze",
         "ibc_info" : {
             "path": "stargaze>persistence",
@@ -330,7 +330,7 @@
         "symbol": "SHD",
         "description": "The native token cw20 for Shade on Secret Network",
         "decimals": 8,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/secret/asset/shd.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/secret/asset/shd.png",
         "coinGeckoId": "shade-protocol",
         "ibc_info" : {
             "path": "secret>persistence",
@@ -353,7 +353,7 @@
         "symbol": "HUAHUA",
         "description": "Chihuahua Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/chihuahua/asset/huahua.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/chihuahua/asset/huahua.png",
         "coinGeckoId": "chihuahua-token",
         "ibc_info" : {
             "path": "chihuahua>persistence",
@@ -376,7 +376,7 @@
         "symbol": "WBTC.osmo",
         "description": "Wrapped Bitcoin (WBTC) is an ERC20 token backed 1:1 with Bitcoin. Completely transparent. 100% verifiable. Community led.",
         "decimals": 8,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/wbtc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/wbtc.png",
         "coinGeckoId": "wrapped-bitcoin",
         "ibc_info" : {
             "path": "osmosis>persistence",

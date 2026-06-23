@@ -6,7 +6,7 @@
         "symbol": "USDC",
         "description": "USD Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/usdc.png",
         "coinGeckoId": "usd-coin",
         "wallet_preload": true
     },
@@ -17,7 +17,7 @@
         "symbol": "wS",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/sonic/asset/ws.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/sonic/asset/ws.png",
         "coinGeckoId": "wrapped-sonic",
         "wallet_preload": true
     },
@@ -28,7 +28,7 @@
         "symbol": "scUSD",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/sonic/asset/scusd.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/sonic/asset/scusd.png",
         "coinGeckoId": "rings-scusd"
     },
     {
@@ -38,7 +38,7 @@
         "symbol": "stS",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/sonic/asset/sts.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/sonic/asset/sts.png",
         "coinGeckoId": "beets-staked-sonic"
     },
     {
@@ -48,7 +48,7 @@
         "symbol": "WETH",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/weth.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/weth.png",
         "coinGeckoId": "weth"
     },
     {
@@ -58,7 +58,7 @@
         "symbol": "SHADOW",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/sonic/asset/shadow.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/sonic/asset/shadow.png",
         "coinGeckoId": "shadow-2"
     },
     {
@@ -68,7 +68,7 @@
         "symbol": "Anon",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/sonic/asset/anon.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/sonic/asset/anon.png",
         "coinGeckoId": "heyanon"
     },
     {
@@ -78,7 +78,7 @@
         "symbol": "METRO",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/sonic/asset/metro.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/sonic/asset/metro.png",
         "coinGeckoId": "metropolis"
     },
     {
@@ -88,7 +88,7 @@
         "symbol": "OS",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/sonic/asset/os.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/sonic/asset/os.png",
         "coinGeckoId": "origin-staked-s"
     },
     {
@@ -98,7 +98,7 @@
         "symbol": "BEETS",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/sonic/asset/beets.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/sonic/asset/beets.png",
         "coinGeckoId": "beets"
     },
     {
@@ -108,7 +108,7 @@
         "symbol": "FLY",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/sonic/asset/fly.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/sonic/asset/fly.png",
         "coinGeckoId": "fly-2"
     },
     {
@@ -118,7 +118,7 @@
         "symbol": "SILO",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/sonic/asset/silo.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/sonic/asset/silo.png",
         "coinGeckoId": "silo-finance"
     },
     {
@@ -128,7 +128,7 @@
         "symbol": "LBTC",
         "description": "",
         "decimals": 8,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/lombard/asset/lbtc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/lombard/asset/lbtc.png",
         "coinGeckoId": "lombard-staked-btc"
     },
     {
@@ -138,7 +138,7 @@
         "symbol": "SWPx",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/sonic/asset/swpx.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/sonic/asset/swpx.png",
         "coinGeckoId": "swapx-2"
     },
     {
@@ -148,7 +148,7 @@
         "symbol": "WAGMI",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/sonic/asset/wagmi.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/sonic/asset/wagmi.png",
         "coinGeckoId": "wagmi-2"
     },
     {
@@ -158,7 +158,7 @@
         "symbol": "BRUSH",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/sonic/asset/brush.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/sonic/asset/brush.png",
         "coinGeckoId": "paint-swap"
     },
     {
@@ -168,7 +168,7 @@
         "symbol": "EQUAL",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/sonic/asset/equal.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/sonic/asset/equal.png",
         "coinGeckoId": "equalizer-on-sonic"
     },
     {
@@ -178,7 +178,7 @@
         "symbol": "msUSD",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/sonic/asset/msusd.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/sonic/asset/msusd.png",
         "coinGeckoId": "main-street-usd"
     },
     {
@@ -188,7 +188,7 @@
         "symbol": "xSILO",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/sonic/asset/xsilo.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/sonic/asset/xsilo.png",
         "coinGeckoId": "xsilo"
     },
     {
@@ -198,7 +198,7 @@
         "symbol": "yUSD",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/sonic/asset/yusd.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/sonic/asset/yusd.png",
         "coinGeckoId": "yieldfi-ytoken"
     },
     {
@@ -208,7 +208,7 @@
         "symbol": "WBTC",
         "description": "Wrapped Bitcoin",
         "decimals": 8,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/wbtc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/wbtc.png",
         "coinGeckoId": "wrapped-bitcoin"
     },
     {
@@ -218,7 +218,7 @@
         "symbol": "FIVE",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/sonic/asset/five.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/sonic/asset/five.png",
         "coinGeckoId": "defive"
     },
     {
@@ -228,7 +228,7 @@
         "symbol": "frxUSD",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/frxusd.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/frxusd.png",
         "coinGeckoId": "frax-usd"
     },
     {
@@ -238,7 +238,7 @@
         "symbol": "sfrxUSD",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/sfrxusd.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/sfrxusd.png",
         "coinGeckoId": "staked-frax-usd"
     }
 ]

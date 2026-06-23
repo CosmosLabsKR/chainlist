@@ -6,7 +6,7 @@
         "symbol": "POKT",
         "description": "The native token of Pocket Network",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/pocket/asset/pokt.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/pocket/asset/pokt.png",
         "coinGeckoId": "pocket-network"
     }
 ]

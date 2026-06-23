@@ -1,10 +1,10 @@
 {
     "chain_id_cosmos" : "pocket",
     "chain_name": "Pocket Network",
-    "chain_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/pocket/resource/chain_pocket.png",
+    "chain_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/pocket/resource/chain_pocket.png",
     "staking_asset_denom" : "upokt",
     "staking_asset_symbol" : "POKT",
-    "staking_asset_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/pocket/asset/pokt.png",
+    "staking_asset_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/pocket/asset/pokt.png",
     "bech_account_prefix" : "pokt",
     "bech_validator_prefix" : "poktvaloper",
     "origin_genesis_time" : "2025-03-28T17:35:52Z",

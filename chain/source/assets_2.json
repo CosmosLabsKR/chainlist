@@ -6,7 +6,7 @@
         "symbol": "SOURCE",
         "description": "SOURCE Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/source/asset/source.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/source/asset/source.png",
         "coinGeckoId": "source",
         "color": "#31A8FA"
     }

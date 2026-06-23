@@ -6,7 +6,7 @@
         "symbol": "STRD",
         "description": "Stride Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/stride/asset/strd.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/stride/asset/strd.png",
         "coinGeckoId": "stride",
         "color": "#E91179"
     },
@@ -17,7 +17,7 @@
         "symbol": "stATOM",
         "description": "Stride Liquid Staked ATOM",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/stride/asset/statom.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/stride/asset/statom.png",
         "coinGeckoId": "stride-staked-atom"
     },
     {
@@ -27,7 +27,7 @@
         "symbol": "stSTARS",
         "description": "Stride Staked STARS",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/stride/asset/ststars.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/stride/asset/ststars.png",
         "coinGeckoId": "stride-staked-stars"
     },
     {
@@ -37,7 +37,7 @@
         "symbol": "stJUNO",
         "description": "Stride Staked JUNO",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/stride/asset/stjuno.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/stride/asset/stjuno.png",
         "coinGeckoId": "stride-staked-juno"
     },
     {
@@ -47,7 +47,7 @@
         "symbol": "stOSMO",
         "description": "Stride Liquid Staked OSMO",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/stride/asset/stosmo.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/stride/asset/stosmo.png",
         "coinGeckoId": "stride-staked-osmo"
     },
     {
@@ -57,7 +57,7 @@
         "symbol": "stLUNA",
         "description": "Stride Staked LUNA",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/stride/asset/stluna.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/stride/asset/stluna.png",
         "coinGeckoId": "stride-staked-luna"
     },
     {
@@ -67,7 +67,7 @@
         "symbol": "stEVMOS",
         "description": "Stride Staked EVMOS",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/stride/asset/stevmos.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/stride/asset/stevmos.png",
         "coinGeckoId": "stride-staked-evmos"
     },
     {
@@ -77,7 +77,7 @@
         "symbol": "stINJ",
         "description": "Stride Staked INJ",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/stride/asset/stinj.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/stride/asset/stinj.png",
         "coinGeckoId": "stride-staked-injective"
     },
     {
@@ -87,7 +87,7 @@
         "symbol": "stUMEE",
         "description": "Stride Staked UMEE",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/stride/asset/stumee.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/stride/asset/stumee.png",
         "coinGeckoId": ""
     },
     {
@@ -97,7 +97,7 @@
         "symbol": "stCMDX",
         "description": "Stride Staked CMDX",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/stride/asset/stcmdx.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/stride/asset/stcmdx.png",
         "coinGeckoId": ""
     },
     {
@@ -107,7 +107,7 @@
         "symbol": "stSOMM",
         "description": "Stride Staked SOMM",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/stride/asset/stsomm.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/stride/asset/stsomm.png",
         "coinGeckoId": ""
     },
     {
@@ -117,7 +117,7 @@
         "symbol": "stDYDX",
         "description": "Stride Staked DYDX",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/stride/asset/stadydx.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/stride/asset/stadydx.png",
         "coinGeckoId": "stride-staked-dydx"
     },
     {
@@ -127,7 +127,7 @@
         "symbol": "stTIA",
         "description": "Stride Staked TIA",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/stride/asset/stutia.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/stride/asset/stutia.png",
         "coinGeckoId": "stride-staked-tia"
     },
     {
@@ -137,7 +137,7 @@
         "symbol": "stSAGA",
         "description": "Stride Staked SAGA",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/stride/asset/stsaga.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/stride/asset/stsaga.png",
         "coinGeckoId": "stride-staked-saga"
     },
     {
@@ -147,7 +147,7 @@
         "symbol": "stDYM",
         "description": "Stride Staked DYM",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/stride/asset/stdym.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/stride/asset/stdym.png",
         "coinGeckoId": "stride-staked-dym"
     },
     {
@@ -157,7 +157,7 @@
         "symbol": "stISLM",
         "description": "Stride Staked ISLM",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/stride/asset/stislm.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/stride/asset/stislm.png",
         "coinGeckoId": "stride-staked-islm"
     },
     {
@@ -167,7 +167,7 @@
         "symbol": "stBAND",
         "description": "Stride Staked BAND",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/stride/asset/stband.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/stride/asset/stband.png",
         "coinGeckoId": "stride-staked-band"
     },
     {
@@ -177,7 +177,7 @@
         "symbol": "BAND",
         "description": "Band Protocol Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/band/asset/band.png",
         "coinGeckoId": "band-protocol",
         "ibc_info" : {
             "path": "band>stride",
@@ -200,7 +200,7 @@
         "symbol": "ISLM",
         "description": "The native EVM, governance and staking token of the Haqq Network",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/haqq/asset/islm.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/haqq/asset/islm.png",
         "coinGeckoId": "islamic-coin",
         "ibc_info" : {
             "path": "haqq>stride",
@@ -223,7 +223,7 @@
         "symbol": "ATOM",
         "description": "Cosmoshub Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/cosmos/asset/atom.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/cosmos/asset/atom.png",
         "coinGeckoId": "cosmos",
         "ibc_info" : {
             "path": "cosmos>stride",
@@ -246,7 +246,7 @@
         "symbol": "STARS",
         "description": "Stargaze Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/stargaze/asset/stars.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/stargaze/asset/stars.png",
         "coinGeckoId": "stargaze",
         "ibc_info" : {
             "path": "stargaze>stride",
@@ -269,7 +269,7 @@
         "symbol": "JUNO",
         "description": "Juno Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/juno/asset/juno.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/juno/asset/juno.png",
         "coinGeckoId": "juno-network",
         "ibc_info" : {
             "path": "juno>stride",
@@ -292,7 +292,7 @@
         "symbol": "OSMO",
         "description": "Osmosis Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/osmosis/asset/osmo.png",
         "coinGeckoId": "osmosis",
         "ibc_info" : {
             "path": "osmosis>stride",
@@ -315,7 +315,7 @@
         "symbol": "CRO",
         "description": "Cronos POS Staking Coin",
         "decimals": 8,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/crypto-org/asset/cro.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/crypto-org/asset/cro.png",
         "coinGeckoId": "crypto-com-chain",
         "ibc_info" : {
             "path": "crypto-org>osmosis>stride",
@@ -338,7 +338,7 @@
         "symbol": "ACRE",
         "description": "The native EVM, governance and staking token of the Acrechain",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/acrechain/asset/acre.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/acrechain/asset/acre.png",
         "coinGeckoId": "arable-protocol",
         "ibc_info" : {
             "path": "acrechain>stride",
@@ -361,7 +361,7 @@
         "symbol": "CNTO",
         "description": "Ciento Exchange Token",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/acrechain/asset/cnto.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/acrechain/asset/cnto.png",
         "coinGeckoId": "",
         "ibc_info" : {
             "path": "acrechain>stride",
@@ -384,7 +384,7 @@
         "symbol": "EVMOS",
         "description": "Evmos Staking Coin",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/evmos/asset/evmos.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/evmos/asset/evmos.png",
         "coinGeckoId": "evmos",
         "ibc_info" : {
             "path": "evmos>stride",
@@ -407,7 +407,7 @@
         "symbol": "LUNA",
         "description": "Terra Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/terra/asset/luna.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/terra/asset/luna.png",
         "coinGeckoId": "terra-luna-2",
         "ibc_info" : {
             "path": "terra>stride",
@@ -430,7 +430,7 @@
         "symbol": "INJ",
         "description": "Injective Staking Coin",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/injective/asset/inj.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/injective/asset/inj.png",
         "coinGeckoId": "injective-protocol",
         "ibc_info" : {
             "path": "injective>stride",
@@ -453,7 +453,7 @@
         "symbol": "UMEE",
         "description": "UX Chain Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/umee/asset/umee.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/umee/asset/umee.png",
         "coinGeckoId": "umee",
         "ibc_info" : {
             "path": "umee>stride",
@@ -476,7 +476,7 @@
         "symbol": "CMDX",
         "description": "Comdex Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/comdex/asset/cmdx.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/comdex/asset/cmdx.png",
         "coinGeckoId": "comdex",
         "ibc_info" : {
             "path": "comdex>stride",
@@ -499,7 +499,7 @@
         "symbol": "SOMM",
         "description": "Sommelier Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/sommelier/asset/somm.png",
         "coinGeckoId": "sommelier",
         "ibc_info" : {
             "path": "sommelier>stride",
@@ -522,7 +522,7 @@
         "symbol": "TIA",
         "description": "Celestia Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/celestia/asset/tia.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/celestia/asset/tia.png",
         "coinGeckoId": "celestia",
         "ibc_info" : {
             "path": "celestia>stride",
@@ -545,7 +545,7 @@
         "symbol": "SAGA",
         "description": "Saga Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/saga/asset/saga.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/saga/asset/saga.png",
         "coinGeckoId": "saga-2",
         "ibc_info" : {
             "path": "saga>stride",
@@ -568,7 +568,7 @@
         "symbol": "DYM",
         "description": "The native governance and staking token of the Dymension Hub",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/dymension/asset/dym.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/dymension/asset/dym.png",
         "coinGeckoId": "dymension",
         "ibc_info" : {
             "path": "dymension>stride",
@@ -591,7 +591,7 @@
         "symbol": "DYDX",
         "description": "dYdX Staking Coin",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/dydx/asset/dydx.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/dydx/asset/dydx.png",
         "coinGeckoId": "dydx-chain",
         "ibc_info" : {
             "path": "dydx>stride",

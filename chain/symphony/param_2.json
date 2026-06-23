@@ -2,10 +2,10 @@
     "chain_id_cosmos": "symphony-1",
     "chain_name": "Symphony",
     "chain_image":
-        "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/symphony/resource/chain_symphony.png",
+        "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/symphony/resource/chain_symphony.png",
     "staking_asset_denom": "note",
     "staking_asset_symbol": "MLD",
-    "staking_asset_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/symphony/asset/mld.png",
+    "staking_asset_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/symphony/asset/mld.png",
     "bech_account_prefix": "symphony",
     "bech_validator_prefix": "symphonyvaloper",
     "origin_genesis_time": "2025-06-24T18:18:47Z",

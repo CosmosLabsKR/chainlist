@@ -6,7 +6,7 @@
         "symbol": "USDT",
         "description": "Tether",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/solana/asset/usdt.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/solana/asset/usdt.png",
         "coinGeckoId": "tether"
     },
     {
@@ -16,7 +16,7 @@
         "symbol": "USDC",
         "description": "USD Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/solana/asset/usdc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/solana/asset/usdc.png",
         "coinGeckoId": "usd-coin"
     },
     {
@@ -46,7 +46,7 @@
         "symbol": "PUMP",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/solana/asset/pump.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/solana/asset/pump.png",
         "coinGeckoId": "pump-fun"
     },
     {
@@ -56,7 +56,7 @@
         "symbol": "TRUMP",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/solana/asset/trump.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/solana/asset/trump.png",
         "coinGeckoId": "official-trump"
     },
     {
@@ -66,7 +66,7 @@
         "symbol": "JUP",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/solana/asset/jupiter.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/solana/asset/jupiter.png",
         "coinGeckoId": "jupiter-exchange-solana"
     },
     {
@@ -86,7 +86,7 @@
         "symbol": "BNSOL",
         "description": "",
         "decimals": 9,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/solana/asset/bnsol.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/solana/asset/bnsol.png",
         "coinGeckoId": "binance-staked-sol"
     },
     {
@@ -96,7 +96,7 @@
         "symbol": "PENGU",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/solana/asset/pengu.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/solana/asset/pengu.png",
         "coinGeckoId": "pudgy-penguins"
     },
     {
@@ -106,7 +106,7 @@
         "symbol": "JLP",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/solana/asset/jlp.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/solana/asset/jlp.png",
         "coinGeckoId": "jupiter-perpetuals-liquidity-provider-token"
     },
     {
@@ -116,7 +116,7 @@
         "symbol": "JTO",
         "description": "",
         "decimals": 9,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/solana/asset/jito.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/solana/asset/jito.png",
         "coinGeckoId": "jito-governance-token"
     },
     {
@@ -126,7 +126,7 @@
         "symbol": "RENDER",
         "description": "",
         "decimals": 8,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/solana/asset/render.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/solana/asset/render.png",
         "coinGeckoId": "render-token"
     },
     {
@@ -136,7 +136,7 @@
         "symbol": "PYTH",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/solana/asset/pyth.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/solana/asset/pyth.png",
         "coinGeckoId": "pyth-network"
     },
     {
@@ -146,7 +146,7 @@
         "symbol": "JupSOL",
         "description": "",
         "decimals": 9,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/solana/asset/jupsol.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/solana/asset/jupsol.png",
         "coinGeckoId": "jupiter-staked-sol"
     },
     {
@@ -156,7 +156,7 @@
         "symbol": "AIX",
         "description": "",
         "decimals": 9,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/solana/asset/aix.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/solana/asset/aix.png",
         "coinGeckoId": "ai-xovia"
     },
     {
@@ -166,7 +166,7 @@
         "symbol": "$WIF",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/solana/asset/wif.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/solana/asset/wif.png",
         "coinGeckoId": "dogwifcoin"
     },
     {
@@ -176,7 +176,7 @@
         "symbol": "W",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/solana/asset/w.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/solana/asset/w.png",
         "coinGeckoId": "wormhole"
     },
     {
@@ -186,7 +186,7 @@
         "symbol": "GRASS",
         "description": "",
         "decimals": 9,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/solana/asset/grass.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/solana/asset/grass.png",
         "coinGeckoId": "grass"
     },
     {
@@ -196,7 +196,7 @@
         "symbol": "SAROS",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/solana/asset/saros.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/solana/asset/saros.png",
         "coinGeckoId": "saros-finance"
     },
     {
@@ -206,7 +206,7 @@
         "symbol": "ME",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/solana/asset/me.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/solana/asset/me.png",
         "coinGeckoId": "magic-eden"
     },
     {
@@ -216,7 +216,7 @@
         "symbol": "DRIFT",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/solana/asset/drift.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/solana/asset/drift.png",
         "coinGeckoId": "drift-protocol"
     },
     {
@@ -226,7 +226,7 @@
         "symbol": "KMNO",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/solana/asset/kmno.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/solana/asset/kmno.png",
         "coinGeckoId": "kamino"
     },
     {
@@ -236,7 +236,7 @@
         "symbol": "LAYER",
         "description": "",
         "decimals": 9,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/solana/asset/layer.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/solana/asset/layer.png",
         "coinGeckoId": "solayer"
     },
     {
@@ -246,7 +246,7 @@
         "symbol": "SONIC",
         "description": "",
         "decimals": 9,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/solana/asset/sonic.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/solana/asset/sonic.png",
         "coinGeckoId": "sonic-svm"
     },
     {
@@ -256,7 +256,7 @@
         "symbol": "IO",
         "description": "",
         "decimals": 8,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/solana/asset/io.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/solana/asset/io.png",
         "coinGeckoId": "io"
     },
     {
@@ -266,7 +266,7 @@
         "symbol": "bbSOL",
         "description": "",
         "decimals": 9,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/solana/asset/bbsol.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/solana/asset/bbsol.png",
         "coinGeckoId": "bybit-staked-sol"
     },
     {
@@ -276,7 +276,7 @@
         "symbol": "CARDS",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/solana/asset/cards.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/solana/asset/cards.png",
         "coinGeckoId": "collector-crypt"
     },
     {
@@ -286,7 +286,7 @@
         "symbol": "PAI",
         "description": "",
         "decimals": 9,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/solana/asset/pai.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/solana/asset/pai.png",
         "coinGeckoId": "parabolic-ai"
     },
     {
@@ -306,7 +306,7 @@
         "symbol": "ZBCN",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/solana/asset/zbcn.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/solana/asset/zbcn.png",
         "coinGeckoId": "zebec-network"
     },
     {
@@ -316,7 +316,7 @@
         "symbol": "dSOL",
         "description": "",
         "decimals": 9,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/solana/asset/dsol.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/solana/asset/dsol.png",
         "coinGeckoId": "drift-staked-sol"
     },
     {
@@ -326,7 +326,7 @@
         "symbol": "cbBTC",
         "description": "",
         "decimals": 8,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/solana/asset/cbbtc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/solana/asset/cbbtc.png",
         "coinGeckoId": "coinbase-wrapped-btc"
     },
     {
@@ -346,7 +346,7 @@
         "symbol": "vSOL",
         "description": "",
         "decimals": 9,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/solana/asset/vsol.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/solana/asset/vsol.png",
         "coinGeckoId": "the-vault-staked-sol"
     },
     {
@@ -356,7 +356,7 @@
         "symbol": "BTX",
         "description": "",
         "decimals": 9,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/solana/asset/btx.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/solana/asset/btx.png",
         "coinGeckoId": ""
     },
     {
@@ -396,7 +396,7 @@
         "symbol": "STIK",
         "description": "",
         "decimals": 9,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/solana/asset/staika.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/solana/asset/staika.png",
         "coinGeckoId": "staika"
     },
     {
@@ -406,7 +406,7 @@
         "symbol": "HUMA",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/solana/asset/huma.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/solana/asset/huma.png",
         "coinGeckoId": "huma-finance"
     },
     {
@@ -416,7 +416,7 @@
         "symbol": "Pnut",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/solana/asset/peanut.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/solana/asset/peanut.png",
         "coinGeckoId": "peanut-the-squirrel"
     },
     {
@@ -436,7 +436,7 @@
         "symbol": "syrupUSDC",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/solana/asset/syrup.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/solana/asset/syrup.png",
         "coinGeckoId": "syrupusdc"
     },
     {
@@ -446,7 +446,7 @@
         "symbol": "OXY",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/solana/asset/oxy.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/solana/asset/oxy.png",
         "coinGeckoId": "oxygen"
     },
     {
@@ -456,7 +456,7 @@
         "symbol": "MOODENG",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/solana/asset/moodeng.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/solana/asset/moodeng.png",
         "coinGeckoId": "moo-deng"
     },
     {
@@ -466,7 +466,7 @@
         "symbol": "Verse",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/solana/asset/verse.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/solana/asset/verse.png",
         "coinGeckoId": "verse-world"
     },
     {
@@ -476,7 +476,7 @@
         "symbol": "USD1",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/solana/asset/usd1.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/solana/asset/usd1.png",
         "coinGeckoId": "usd1-wlfi"
     },
     {
@@ -486,7 +486,7 @@
         "symbol": "USDY",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/solana/asset/usdy.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/solana/asset/usdy.png",
         "coinGeckoId": "ondo-us-dollar-yield"
     },
     {
@@ -506,7 +506,7 @@
         "symbol": "SPX",
         "description": "",
         "decimals": 8,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/solana/asset/spx.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/solana/asset/spx.png",
         "coinGeckoId": "spx6900"
     },
     {
@@ -516,7 +516,7 @@
         "symbol": "SHISHA",
         "description": "",
         "decimals": 9,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/solana/asset/shisha.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/solana/asset/shisha.png",
         "coinGeckoId": "shisha-coin-2"
     },
     {
@@ -526,7 +526,7 @@
         "symbol": "TUNA",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/solana/asset/tuna.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/solana/asset/tuna.png",
         "coinGeckoId": "defituna"
     },
     {
@@ -536,7 +536,7 @@
         "symbol": "BOME",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/solana/asset/bome.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/solana/asset/bome.png",
         "coinGeckoId": "book-of-meme"
     },
     {
@@ -546,7 +546,7 @@
         "symbol": "ZEUS",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/solana/asset/zeus.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/solana/asset/zeus.png",
         "coinGeckoId": "zeus-network"
     },
     {
@@ -556,7 +556,7 @@
         "symbol": "ai16z",
         "description": "",
         "decimals": 9,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/solana/asset/ai16z.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/solana/asset/ai16z.png",
         "coinGeckoId": "ai16z"
     },
     {
@@ -566,7 +566,7 @@
         "symbol": "NEON",
         "description": "",
         "decimals": 9,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/solana/asset/neon.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/solana/asset/neon.png",
         "coinGeckoId": "neon"
     },
     {
@@ -576,7 +576,7 @@
         "symbol": "CLOUD",
         "description": "",
         "decimals": 9,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/solana/asset/cloud.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/solana/asset/cloud.png",
         "coinGeckoId": "sanctum-2"
     },
     {
@@ -596,7 +596,7 @@
         "symbol": "GOOD",
         "description": "",
         "decimals": 9,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/solana/asset/good.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/solana/asset/good.png",
         "coinGeckoId": "goodcryptox"
     },
     {
@@ -606,7 +606,7 @@
         "symbol": "TNSR",
         "description": "",
         "decimals": 9,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/solana/asset/tensor.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/solana/asset/tensor.png",
         "coinGeckoId": "tensor"
     },
     {
@@ -616,7 +616,7 @@
         "symbol": "hSOL",
         "description": "",
         "decimals": 9,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/solana/asset/hsol.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/solana/asset/hsol.png",
         "coinGeckoId": "helius-staked-sol"
     },
     {
@@ -626,7 +626,7 @@
         "symbol": "SWOP",
         "description": "",
         "decimals": 9,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/solana/asset/swop.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/solana/asset/swop.png",
         "coinGeckoId": "swop-2"
     },
     {
@@ -636,7 +636,7 @@
         "symbol": "ROAM",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/solana/asset/roam.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/solana/asset/roam.png",
         "coinGeckoId": "roam-token"
     },
     {
@@ -646,7 +646,7 @@
         "symbol": "HOME",
         "description": "",
         "decimals": 9,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/solana/asset/home.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/solana/asset/home.png",
         "coinGeckoId": "home"
     },
     {
@@ -666,7 +666,7 @@
         "symbol": "$CWIF",
         "description": "",
         "decimals": 2,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/solana/asset/cimf.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/solana/asset/cimf.png",
         "coinGeckoId": "catwifhat-2"
     },
     {
@@ -676,7 +676,7 @@
         "symbol": "LFNTY",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/solana/asset/lfnty.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/solana/asset/lfnty.png",
         "coinGeckoId": "lifinity"
     },
     {
@@ -686,7 +686,7 @@
         "symbol": "EURC",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/solana/asset/eurc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/solana/asset/eurc.png",
         "coinGeckoId": "euro-coin"
     },
     {
@@ -696,7 +696,7 @@
         "symbol": "FIDA",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/solana/asset/fida.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/solana/asset/fida.png",
         "coinGeckoId": "bonfida"
     },
     {
@@ -706,7 +706,7 @@
         "symbol": "GOAT",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/solana/asset/goat.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/solana/asset/goat.png",
         "coinGeckoId": "goatseus-maximus"
     },
     {
@@ -716,7 +716,7 @@
         "symbol": "Bert",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/solana/asset/bert.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/solana/asset/bert.png",
         "coinGeckoId": "bertram-the-pomeranian"
     },
     {
@@ -726,7 +726,7 @@
         "symbol": "CIB",
         "description": "",
         "decimals": 4,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/solana/asset/cib.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/solana/asset/cib.png",
         "coinGeckoId": ""
     },
     {
@@ -736,7 +736,7 @@
         "symbol": "TC",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/solana/asset/tc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/solana/asset/tc.png",
         "coinGeckoId": ""
     },
     {
@@ -746,7 +746,7 @@
         "symbol": "SOLSPINET",
         "description": "",
         "decimals": 9,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/solana/asset/solspinet.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/solana/asset/solspinet.png",
         "coinGeckoId": ""
     }
 ]

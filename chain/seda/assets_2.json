@@ -6,7 +6,7 @@
         "symbol": "SEDA",
         "description": "The native token of SEDA Chain.",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/seda/asset/seda.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/seda/asset/seda.png",
         "coinGeckoId": "seda-2"
     }
 ]

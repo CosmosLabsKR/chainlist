@@ -6,7 +6,7 @@
         "symbol": "QCK",
         "description": "Quicksilver Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/quicksilver/asset/qck.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/quicksilver/asset/qck.png",
         "coinGeckoId": "quicksilver",
         "color": "#9B9B9B"
     },
@@ -17,7 +17,7 @@
         "symbol": "qSTARS",
         "description": "Quicksilver Staked Stars",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/quicksilver/asset/qstars.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/quicksilver/asset/qstars.png",
         "coinGeckoId": "qstar-2"
     },
     {
@@ -27,7 +27,7 @@
         "symbol": "qATOM",
         "description": "Quicksilver Staked ATOM",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/quicksilver/asset/qatom.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/quicksilver/asset/qatom.png",
         "coinGeckoId": "qatom"
     },
     {
@@ -37,7 +37,7 @@
         "symbol": "qREGEN",
         "description": "Quicksilver Staked REGEN",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/quicksilver/asset/qregen.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/quicksilver/asset/qregen.png",
         "coinGeckoId": "qregen"
     },
     {
@@ -47,7 +47,7 @@
         "symbol": "ATOM",
         "description": "Cosmoshub Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/cosmos/asset/atom.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/cosmos/asset/atom.png",
         "coinGeckoId": "cosmos",
         "ibc_info" : {
             "path": "cosmos>quicksilver",
@@ -70,7 +70,7 @@
         "symbol": "STARS",
         "description": "Stargaze Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/stargaze/asset/stars.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/stargaze/asset/stars.png",
         "coinGeckoId": "stargaze",
         "ibc_info" : {
             "path": "stargaze>quicksilver",
@@ -93,7 +93,7 @@
         "symbol": "OSMO",
         "description": "Osmosis Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/osmosis/asset/osmo.png",
         "coinGeckoId": "osmosis",
         "ibc_info" : {
             "path": "osmosis>quicksilver",
@@ -116,7 +116,7 @@
         "symbol": "XPRT",
         "description": "Persistence Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/persistence/asset/pstake.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/persistence/asset/pstake.png",
         "coinGeckoId": "persistence",
         "ibc_info" : {
             "path": "persistence>quicksilver",
@@ -139,7 +139,7 @@
         "symbol": "EVMOS",
         "description": "Evmos Staking Coin",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/evmos/asset/evmos.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/evmos/asset/evmos.png",
         "coinGeckoId": "evmos",
         "ibc_info" : {
             "path": "evmos>quicksilver",
@@ -162,7 +162,7 @@
         "symbol": "REGEN",
         "description": "Regen Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/regen/asset/regen.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/regen/asset/regen.png",
         "coinGeckoId": "regen",
         "ibc_info" : {
             "path": "regen>quicksilver",
@@ -185,7 +185,7 @@
         "symbol": "qOSMO",
         "description": "Quicksilver Liquid Staked OSMO",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/quicksilver/asset/qosmo.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/quicksilver/asset/qosmo.png",
         "coinGeckoId": "qosmo"
     },
     {
@@ -195,7 +195,7 @@
         "symbol": "SOMM",
         "description": "Sommelier Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/sommelier/asset/somm.png",
         "coinGeckoId": "sommelier",
         "ibc_info" : {
             "path": "sommelier>quicksilver",
@@ -218,7 +218,7 @@
         "symbol": "qSOMM",
         "description": "Quicksilver Staked SOMM",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/quicksilver/asset/qsomm.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/quicksilver/asset/qsomm.png",
         "coinGeckoId": "qsomm"
     },
     {
@@ -228,7 +228,7 @@
         "symbol": "qJUNO",
         "description": "Quicksilver Staked JUNO",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/quicksilver/asset/qjuno.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/quicksilver/asset/qjuno.png",
         "coinGeckoId": "qjuno"
     },
     {
@@ -238,7 +238,7 @@
         "symbol": "qSAGA",
         "description": "Quicksilver Staked SAGA",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/quicksilver/asset/qsaga.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/quicksilver/asset/qsaga.png",
         "coinGeckoId": ""
     },
     {
@@ -248,7 +248,7 @@
         "symbol": "qBLD",
         "description": "Quicksilver Staked BLD",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/quicksilver/asset/qbld.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/quicksilver/asset/qbld.png",
         "coinGeckoId": ""
     },
     {
@@ -258,7 +258,7 @@
         "symbol": "qDYDX",
         "description": "Quicksilver Staked DYDX",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/quicksilver/asset/qdydx.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/quicksilver/asset/qdydx.png",
         "coinGeckoId": ""
     }
 ]

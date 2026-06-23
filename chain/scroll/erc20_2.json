@@ -6,7 +6,7 @@
         "symbol": "SCR",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/scroll/asset/scr.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/scroll/asset/scr.png",
         "coinGeckoId": "scroll",
         "wallet_preload": true
     },
@@ -17,7 +17,7 @@
         "symbol": "USDT",
         "description": "Tether",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/scroll/asset/usdt.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/scroll/asset/usdt.png",
         "coinGeckoId": "tether",
         "wallet_preload": true
     },
@@ -28,7 +28,7 @@
         "symbol": "USDC",
         "description": "USD Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/scroll/asset/usdc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/scroll/asset/usdc.png",
         "coinGeckoId": "usd-coin",
         "wallet_preload": true
     },
@@ -39,7 +39,7 @@
         "symbol": "wstETH",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/scroll/asset/wsteth.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/scroll/asset/wsteth.png",
         "coinGeckoId": "bridged-wrapped-lido-staked-ether-scroll"
     },
     {
@@ -49,7 +49,7 @@
         "symbol": "WETH",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/scroll/asset/weth.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/scroll/asset/weth.png",
         "coinGeckoId": "bridged-wrapped-ether-scroll"
     },
     {
@@ -59,7 +59,7 @@
         "symbol": "USDe",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/scroll/asset/usde.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/scroll/asset/usde.png",
         "coinGeckoId": "ethena-usde"
     },
     {
@@ -69,7 +69,7 @@
         "symbol": "WBTC",
         "description": "",
         "decimals": 8,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/scroll/asset/wbtc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/scroll/asset/wbtc.png",
         "coinGeckoId": "bridged-wrapped-bitcoin-scroll"
     },
     {
@@ -79,7 +79,7 @@
         "symbol": "weETH",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/scroll/asset/weeth.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/scroll/asset/weeth.png",
         "coinGeckoId": "wrapped-eeth"
     },
     {
@@ -89,7 +89,7 @@
         "symbol": "sUSDe",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/scroll/asset/susde.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/scroll/asset/susde.png",
         "coinGeckoId": "ethena-staked-usde"
     },
     {
@@ -99,7 +99,7 @@
         "symbol": "DAI",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/scroll/asset/dai.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/scroll/asset/dai.png",
         "coinGeckoId": "dai"
     },
     {
@@ -109,7 +109,7 @@
         "symbol": "UNI",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/scroll/asset/uni.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/scroll/asset/uni.png",
         "coinGeckoId": "uniswap"
     },
     {
@@ -119,7 +119,7 @@
         "symbol": "ENA",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/scroll/asset/ena.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/scroll/asset/ena.png",
         "coinGeckoId": "ethena"
     },
     {
@@ -129,7 +129,7 @@
         "symbol": "AAVE",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/scroll/asset/aave.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/scroll/asset/aave.png",
         "coinGeckoId": "aave"
     },
     {
@@ -139,7 +139,7 @@
         "symbol": "rETH",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/scroll/asset/reth.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/scroll/asset/reth.png",
         "coinGeckoId": "rocket-pool-eth"
     },
     {
@@ -149,7 +149,7 @@
         "symbol": "Cake",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/scroll/asset/cake.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/scroll/asset/cake.png",
         "coinGeckoId": "pancakeswap-token"
     },
     {
@@ -159,7 +159,7 @@
         "symbol": "CRV",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/scroll/asset/crv.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/scroll/asset/crv.png",
         "coinGeckoId": "curve-dao-token"
     },
     {
@@ -169,7 +169,7 @@
         "symbol": "ETHFI",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/scroll/asset/ethfi.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/scroll/asset/ethfi.png",
         "coinGeckoId": "ether-fi"
     },
     {
@@ -179,7 +179,7 @@
         "symbol": "frxETH",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/scroll/asset/frxeth.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/scroll/asset/frxeth.png",
         "coinGeckoId": "frax-ether"
     },
     {
@@ -189,7 +189,7 @@
         "symbol": "sfrxETH",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/scroll/asset/sfrxeth.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/scroll/asset/sfrxeth.png",
         "coinGeckoId": "staked-frax-ether"
     },
     {
@@ -199,7 +199,7 @@
         "symbol": "frxUSD",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/scroll/asset/frxusd.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/scroll/asset/frxusd.png",
         "coinGeckoId": "frax-usd"
     }
 ]

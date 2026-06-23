@@ -6,7 +6,7 @@
         "symbol": "RIO",
         "description": "The native token of Realio Network",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/realio/asset/rio.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/realio/asset/rio.png",
         "coinGeckoId": "realio-network"
     }
 ]

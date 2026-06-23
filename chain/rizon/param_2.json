@@ -1,10 +1,10 @@
 {
     "chain_id_cosmos" : "titan-1",
     "chain_name": "Rizon",
-    "chain_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/rizon/resource/chain_rizon.png",
+    "chain_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/rizon/resource/chain_rizon.png",
     "staking_asset_denom": "uatolo",
     "staking_asset_symbol" : "ATOLO",
-    "staking_asset_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/rizon/asset/atolo.png",
+    "staking_asset_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/rizon/asset/atolo.png",
     "bech_account_prefix" : "rizon",
     "bech_validator_prefix" : "rizonvaloper",
     "origin_genesis_time" : "2021-09-28T08:00:00Z",

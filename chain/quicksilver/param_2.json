@@ -1,10 +1,10 @@
 {
     "chain_id_cosmos" : "quicksilver-2",
     "chain_name": "Quicksilver",
-    "chain_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/quicksilver/resource/chain_quicksilver.png",
+    "chain_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/quicksilver/resource/chain_quicksilver.png",
     "staking_asset_denom": "uqck",
     "staking_asset_symbol" : "QCK",
-    "staking_asset_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/quicksilver/asset/qck.png",
+    "staking_asset_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/quicksilver/asset/qck.png",
     "bech_account_prefix" : "quick",
     "bech_validator_prefix" : "quickvaloper",
     "origin_genesis_time" : "2022-12-16T13:00:00Z",

@@ -6,7 +6,7 @@
         "symbol": "MLD",
         "description": "Symphony Native Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/symphony-testnet/asset/coin.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/symphony-testnet/asset/coin.png",
         "coinGeckoId": ""
     }
 ]

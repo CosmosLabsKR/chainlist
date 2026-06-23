@@ -6,7 +6,7 @@
         "symbol": "ROUTE",
         "description": "The native token of Router Chain",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/routerchain/asset/route.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/routerchain/asset/route.png",
         "coinGeckoId": "router-protocol-2"
     }
 ]

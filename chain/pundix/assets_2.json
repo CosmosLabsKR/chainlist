@@ -6,7 +6,7 @@
         "symbol": "PUNDIX",
         "description": "Pundix Staking Coin",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/pundix/asset/pundix.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/pundix/asset/pundix.png",
         "coinGeckoId": "pundi-x-2"
     },
     {
@@ -26,7 +26,7 @@
         "symbol": "FX",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/fxcore/asset/fx.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/fxcore/asset/fx.png",
         "coinGeckoId": "fx-coin"
     }
 ]

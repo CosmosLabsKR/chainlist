@@ -17,7 +17,7 @@
         "symbol": "iSEI",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/sei/asset/isei.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/sei/asset/isei.png",
         "coinGeckoId": ""
     },
     {
@@ -27,7 +27,7 @@
         "symbol": "WETH",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/sei/asset/weth.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/sei/asset/weth.png",
         "coinGeckoId": "weth"
     },
     {
@@ -37,7 +37,7 @@
         "symbol": "FRAX",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/sei/asset/frax.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/sei/asset/frax.png",
         "coinGeckoId": ""
     },
     {
@@ -47,7 +47,7 @@
         "symbol": "JLY",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/sei/asset/jly.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/sei/asset/jly.png",
         "coinGeckoId": "jellyverse"
     },
     {
@@ -57,7 +57,7 @@
         "symbol": "SEIYAN",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/sei/asset/seiyan.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/sei/asset/seiyan.png",
         "coinGeckoId": "seiyan"
     },
     {
@@ -67,7 +67,7 @@
         "symbol": "YAKA",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/sei/asset/yaka.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/sei/asset/yaka.png",
         "coinGeckoId": "yaka"
     },
     {
@@ -77,7 +77,7 @@
         "symbol": "frxETH",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/sei/asset/frxeth.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/sei/asset/frxeth.png",
         "coinGeckoId": "frax-ether"
     },
     {
@@ -87,7 +87,7 @@
         "symbol": "fastUSD",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/sei/asset/fastusd.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/sei/asset/fastusd.png",
         "coinGeckoId": "sei-fastusd"
     },
     {
@@ -97,7 +97,7 @@
         "symbol": "sfrxUSD",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/sei/asset/sfrxusd.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/sei/asset/sfrxusd.png",
         "coinGeckoId": "staked-frax-usd"
     },
     {
@@ -107,7 +107,7 @@
         "symbol": "sfrxETH",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/sei/asset/sfrxeth.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/sei/asset/sfrxeth.png",
         "coinGeckoId": "staked-frax-ether"
     },
     {
@@ -117,7 +117,7 @@
         "symbol": "ssETH",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/sei/asset/sseth.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/sei/asset/sseth.png",
         "coinGeckoId": "super-seyian-eth"
     },
     {
@@ -127,7 +127,7 @@
         "symbol": "MILLI",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/sei/asset/milli.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/sei/asset/milli.png",
         "coinGeckoId": "milli-coin"
     },
     {
@@ -137,7 +137,7 @@
         "symbol": "WBTC",
         "description": "",
         "decimals": 8,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/sei/asset/wbtc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/sei/asset/wbtc.png",
         "coinGeckoId": ""
     },
     {
@@ -147,7 +147,7 @@
         "symbol": "frxUSD",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/frxusd.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/frxusd.png",
         "coinGeckoId": "frax-usd"
     },
     {
@@ -157,7 +157,7 @@
         "symbol": "USDC.n",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/sei/asset/usdc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/sei/asset/usdc.png",
         "coinGeckoId": "usd-coin"
     },
     {
@@ -167,7 +167,7 @@
         "symbol": "USDT.kava",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/sei/asset/usdt.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/sei/asset/usdt.png",
         "coinGeckoId": "tether"
     },
     {
@@ -177,7 +177,7 @@
         "symbol": "USDT",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/sei/asset/usdt.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/sei/asset/usdt.png",
         "coinGeckoId": "tether"
     },
     {
@@ -187,7 +187,7 @@
         "symbol": "frxUSD",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/sei/asset/frxusd.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/sei/asset/frxusd.png",
         "coinGeckoId": "frax-usd"
     },
     {
@@ -197,7 +197,7 @@
         "symbol": "WBTC.wh",
         "description": "",
         "decimals": 8,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/sei/asset/wbtc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/sei/asset/wbtc.png",
         "coinGeckoId": "wrapped-bitcoin"
     }
 ]

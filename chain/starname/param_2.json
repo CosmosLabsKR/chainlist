@@ -1,10 +1,10 @@
 {
     "chain_id_cosmos" : "iov-mainnet-ibc",
     "chain_name": "Starname",
-    "chain_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/starname/resource/chain_starname.png",
+    "chain_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/starname/resource/chain_starname.png",
     "staking_asset_denom" : "uiov",
     "staking_asset_symbol" : "IOV",
-    "staking_asset_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/starname/asset/iov.png",
+    "staking_asset_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/starname/asset/iov.png",
     "bech_account_prefix" : "star",
     "bech_validator_prefix" : "starvaloper",
     "origin_genesis_time" : "2019-03-13T23:00:00Z",

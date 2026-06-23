@@ -6,7 +6,7 @@
         "symbol": "STARS",
         "description": "Stargaze Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/stargaze/asset/stars.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/stargaze/asset/stars.png",
         "coinGeckoId": "stargaze",
         "color": "#E38CD4"
     },
@@ -17,7 +17,7 @@
         "symbol": "JUNO",
         "description": "Juno Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/juno/asset/juno.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/juno/asset/juno.png",
         "coinGeckoId": "juno-network",
         "ibc_info" : {
             "path": "juno>stargaze",
@@ -40,7 +40,7 @@
         "symbol": "ION",
         "description": "ION is the second native token of Osmosis.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/osmosis/asset/ion.png",
         "coinGeckoId": "ion",
         "ibc_info" : {
             "path": "osmosis>stargaze",
@@ -63,7 +63,7 @@
         "symbol": "OSMO",
         "description": "Osmosis Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/osmosis/asset/osmo.png",
         "coinGeckoId": "osmosis",
         "ibc_info" : {
             "path": "osmosis>stargaze",
@@ -86,7 +86,7 @@
         "symbol": "GRAV",
         "description": "Gravity Bridge Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/gravity-bridge/asset/grav.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/gravity-bridge/asset/grav.png",
         "coinGeckoId": "graviton",
         "ibc_info" : {
             "path": "gravity-bridge>stargaze",
@@ -109,7 +109,7 @@
         "symbol": "gamm/pool/604",
         "description": "Osmosis Pool Token",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/pool.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/osmosis/asset/pool.png",
         "coinGeckoId": "",
         "ibc_info" : {
             "path": "osmosis>stargaze",
@@ -132,7 +132,7 @@
         "symbol": "NOIS",
         "description": "Nois Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/nois/asset/nois.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/nois/asset/nois.png",
         "coinGeckoId": "nois",
         "ibc_info" : {
             "path": "nois>stargaze",
@@ -155,7 +155,7 @@
         "symbol": "STRDST",
         "description": "The native token of ohhNFT.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/stargaze/asset/dust.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/stargaze/asset/dust.png",
         "coinGeckoId": ""
     },
     {
@@ -165,7 +165,7 @@
         "symbol": "BRNCH",
         "description": "ohhNFT LP token.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/stargaze/asset/brnch.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/stargaze/asset/brnch.png",
         "coinGeckoId": ""
     },
     {
@@ -175,7 +175,7 @@
         "symbol": "USDC",
         "description": "USD Coin - Directly minted on the Noble chain by the Circle Foundation.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/noble/asset/usdc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/noble/asset/usdc.png",
         "coinGeckoId": "usd-coin",
         "ibc_info" : {
             "path": "noble>stargaze",
@@ -198,7 +198,7 @@
         "symbol": "SNEAKY",
         "description": "The native coin of Sneaky Productions",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/stargaze/asset/sneaky.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/stargaze/asset/sneaky.png",
         "coinGeckoId": ""
     },
     {
@@ -208,7 +208,7 @@
         "symbol": "TIA",
         "description": "Celestia Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/celestia/asset/tia.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/celestia/asset/tia.png",
         "coinGeckoId": "celestia",
         "ibc_info" : {
             "path": "celestia>stargaze",
@@ -231,7 +231,7 @@
         "symbol": "LAB",
         "description": "LAB - Everything is an Experiment",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/LAB.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/osmosis/asset/LAB.png",
         "coinGeckoId": "mad-scientists",
         "ibc_info" : {
             "path": "osmosis>stargaze",
@@ -254,7 +254,7 @@
         "symbol": "ASTRO",
         "description": "Astroport is a neutral marketplace where anyone, from anywhere in the galaxy, can dock to trade their wares.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/neutron/asset/astro.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/neutron/asset/astro.png",
         "coinGeckoId": "astroport-fi",
         "ibc_info" : {
             "path": "neutron>stargaze",
@@ -300,7 +300,7 @@
         "name": "Stride Staked ATOM",
         "symbol": "stATOM",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/stride/asset/statom.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/stride/asset/statom.png",
         "color": "#e40474",
         "coinGeckoId": "stride-staked-atom",
         "ibc_info": {
@@ -323,7 +323,7 @@
         "name": "Stride Staked STARS",
         "symbol": "stSTARS",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/stride/asset/ststars.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/stride/asset/ststars.png",
         "coinGeckoId": "stride-staked-stars",
         "ibc_info": {
             "path": "stride>stargaze",
@@ -345,7 +345,7 @@
         "name": "Stride Staked STARS",
         "symbol": "stSTARS",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/stride/asset/ststars.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/stride/asset/ststars.png",
         "coinGeckoId": "stride-staked-stars",
         "ibc_info": {
             "path": "stride>stargaze",
@@ -438,7 +438,7 @@
         "symbol": "CULT",
         "description": "CULT - Less Brainwashing, More Utility",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/cult.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/osmosis/asset/cult.png",
         "ibc_info" : {
             "path": "osmosis>stargaze",
             "client" : {

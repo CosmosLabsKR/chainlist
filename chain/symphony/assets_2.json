@@ -6,7 +6,7 @@
         "symbol": "MLD",
         "description": "Symphony Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/symphony/asset/mld.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/symphony/asset/mld.png",
         "coinGeckoId": ""
     }
 ]

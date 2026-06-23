@@ -6,7 +6,7 @@
         "symbol": "WSOMI",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/somnia/asset/unknown.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/somnia/asset/unknown.png",
         "coinGeckoId": "",
         "wallet_preload": true
     },
@@ -17,7 +17,7 @@
         "symbol": "USDC.e",
         "description": "USD Coin (USDC)",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/somnia/asset/usdc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/somnia/asset/usdc.png",
         "coinGeckoId": "usd-coin",
         "wallet_preload": true
     },
@@ -28,7 +28,7 @@
         "symbol": "USDT",
         "description": "Bridged stgUSDT (USDT)",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/somnia/asset/unknown.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/somnia/asset/unknown.png",
         "coinGeckoId": ""
     },
     {
@@ -38,7 +38,7 @@
         "symbol": "WETH",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/somnia/asset/weth.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/somnia/asset/weth.png",
         "coinGeckoId": "weth"
     },
     {
@@ -48,7 +48,7 @@
         "symbol": "JELLU",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/somnia/asset/unknown.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/somnia/asset/unknown.png",
         "coinGeckoId": ""
     },
     {
@@ -58,7 +58,7 @@
         "symbol": "IVY",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/somnia/asset/unknown.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/somnia/asset/unknown.png",
         "coinGeckoId": ""
     },
     {
@@ -68,7 +68,7 @@
         "symbol": "ALEKSA",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/somnia/asset/unknown.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/somnia/asset/unknown.png",
         "coinGeckoId": ""
     },
     {
@@ -78,7 +78,7 @@
         "symbol": "BOBR",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/somnia/asset/unknown.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/somnia/asset/unknown.png",
         "coinGeckoId": ""
     },
     {
@@ -88,7 +88,7 @@
         "symbol": "IVY",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/somnia/asset/unknown.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/somnia/asset/unknown.png",
         "coinGeckoId": ""
     },
     {
@@ -98,7 +98,7 @@
         "symbol": "PAUL",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/somnia/asset/unknown.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/somnia/asset/unknown.png",
         "coinGeckoId": ""
     },
     {
@@ -108,7 +108,7 @@
         "symbol": "FEED",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/somnia/asset/unknown.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/somnia/asset/unknown.png",
         "coinGeckoId": ""
     }
 ]

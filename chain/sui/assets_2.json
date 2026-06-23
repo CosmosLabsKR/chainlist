@@ -6,7 +6,7 @@
         "symbol": "SUI",
         "description": "Sui Staking Coin",
         "decimals": 9,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/sui/asset/sui.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/sui/asset/sui.png",
         "coinGeckoId": "sui"
     },
     {
@@ -16,7 +16,7 @@
         "symbol": "USDC.eth",
         "description": "USD Coin (Wormhole)",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/usdc.png",
         "coinGeckoId": "usd-coin",
         "bridge_info" : {
             "path": "ethereum>sui"
@@ -29,7 +29,7 @@
         "symbol": "USDT.eth",
         "description": "Tether USD (Wormhole)",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdt.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/usdt.png",
         "coinGeckoId": "tether",
         "bridge_info" : {
             "path": "ethereum>sui"
@@ -42,7 +42,7 @@
         "symbol": "SBOX",
         "description": "SUI said fuck off but we say welcome, airdrop for everyone.",
         "decimals": 1,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/sui/asset/suiboxer.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/sui/asset/suiboxer.png",
         "coinGeckoId": "suiboxer"
     },
     {
@@ -52,7 +52,7 @@
         "symbol": "SSWP",
         "description": "Suiswap Platform Governance Token",
         "decimals": 9,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/sui/asset/sswp.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/sui/asset/sswp.png",
         "coinGeckoId": "suiswap"
     },
     {
@@ -62,7 +62,7 @@
         "symbol": "BUCK",
         "description": "The stablecoin minted through bucketprotocol.io",
         "decimals": 9,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/sui/asset/buck.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/sui/asset/buck.png",
         "coinGeckoId": "bucket-protocol-buck-stablecoin"
     },
     {
@@ -72,7 +72,7 @@
         "symbol": "SCA",
         "description": "SCA is the native token of Scallop Protocol.",
         "decimals": 9,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/sui/asset/sca.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/sui/asset/sca.png",
         "coinGeckoId": "scallop-2"
     },
     {
@@ -82,7 +82,7 @@
         "symbol": "CETUS",
         "description": "CETUS is the native token of Cetus Protocol.",
         "decimals": 9,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/sui/asset/cetus.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/sui/asset/cetus.png",
         "coinGeckoId": "cetus-protocol"
     },
     {
@@ -92,7 +92,7 @@
         "symbol": "TURBOS",
         "description": "Turbos Finance Token",
         "decimals": 9,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/sui/asset/turbos.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/sui/asset/turbos.png",
         "coinGeckoId": "turbos-finance"
     },
     {
@@ -102,7 +102,7 @@
         "symbol": "SPT",
         "description": "Seapad launchpad foundation token",
         "decimals": 9,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/sui/asset/spt.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/sui/asset/spt.png",
         "coinGeckoId": "seapad"
     },
     {
@@ -112,7 +112,7 @@
         "symbol": "FUD",
         "description": "The community coin of Sui",
         "decimals": 5,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/sui/asset/fud.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/sui/asset/fud.png",
         "coinGeckoId": "fud-the-pug"
     },
     {
@@ -122,7 +122,7 @@
         "symbol": "VSUI",
         "description": "Instant staking liquidity through a bond-like synthetic token called voloSUI.",
         "decimals": 9,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/sui/asset/vsui.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/sui/asset/vsui.png",
         "coinGeckoId": "volo-staked-sui"
     },
     {
@@ -132,7 +132,7 @@
         "symbol": "NAVX",
         "description": "One-stop Liquidity Protocol on Sui",
         "decimals": 9,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/sui/asset/navx.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/sui/asset/navx.png",
         "coinGeckoId": "navi"
     },
     {
@@ -142,7 +142,7 @@
         "symbol": "REAP",
         "description": "Reap Token",
         "decimals": 9,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/sui/asset/reap.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/sui/asset/reap.png",
         "coinGeckoId": "releap"
     },
     {
@@ -152,7 +152,7 @@
         "symbol": "SPEPE",
         "description": "The biggest memecoin on SUI blockchain.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/sui/asset/spepe.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/sui/asset/spepe.png",
         "coinGeckoId": ""
     },
     {
@@ -162,7 +162,7 @@
         "symbol": "HASUI",
         "description": "haSUI is a staking token of SUI",
         "decimals": 9,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/sui/asset/hasui.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/sui/asset/hasui.png",
         "coinGeckoId": "haedal-staked-sui"
     },
     {
@@ -172,7 +172,7 @@
         "symbol": "SCB",
         "description": "The best meme token that Sui has ever seen",
         "decimals": 5,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/sui/asset/scb.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/sui/asset/scb.png",
         "coinGeckoId": "sacabam"
     },
     {
@@ -182,7 +182,7 @@
         "symbol": "SUIP",
         "description": "SuiPad The Premier Launchpad for Tier-1 Projects",
         "decimals": 9,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/sui/asset/suip.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/sui/asset/suip.png",
         "coinGeckoId": "suipad"
     },
     {
@@ -192,7 +192,7 @@
         "symbol": "ARTFI",
         "description": "ARTFI is native coin of artfitoken.io",
         "decimals": 9,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/sui/asset/artfi.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/sui/asset/artfi.png",
         "coinGeckoId": "artfi"
     },
     {
@@ -202,7 +202,7 @@
         "symbol": "HSUI",
         "description": "Suicune will be fully community operated.",
         "decimals": 9,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/sui/asset/hsui.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/sui/asset/hsui.png",
         "coinGeckoId": "suicune-on-sui"
     },
     {
@@ -212,7 +212,7 @@
         "symbol": "WETH",
         "description": "Wrapped Ether (Wormhole)",
         "decimals": 8,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/weth.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/weth.png",
         "coinGeckoId": "weth",
         "bridge_info" : {
             "path": "ethereum>sui"
@@ -225,7 +225,7 @@
         "symbol": "USDC.solana",
         "description": "Wrapped SOL (Wormhole)",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/usdc.png",
         "coinGeckoId": "usd-coin",
         "bridge_info" : {
             "path": "ethereum>sui"
@@ -238,7 +238,7 @@
         "symbol": "USDC.celer",
         "description": "USD Coin (Wormhole)",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/usdc.png",
         "coinGeckoId": "usd-coin",
         "bridge_info" : {
             "path": "ethereum>sui"
@@ -251,7 +251,7 @@
         "symbol": "SUIA",
         "description": "SUIA is the native token of Suia.io",
         "decimals": 9,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/sui/asset/suia.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/sui/asset/suia.png",
         "coinGeckoId": "suia"
     },
     {
@@ -261,7 +261,7 @@
         "symbol": "APT",
         "description": "Aptos Coin (Wormhole)",
         "decimals": 8,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/aptos/asset/apt.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/aptos/asset/apt.png",
         "coinGeckoId": "aptos",
         "bridge_info" : {
             "path": "aptos>sui"
@@ -274,7 +274,7 @@
         "symbol": "FLX",
         "description": "FlowX",
         "decimals": 8,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/sui/asset/flx.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/sui/asset/flx.png",
         "coinGeckoId": "flowx-finance"
     },
     {
@@ -284,7 +284,7 @@
         "symbol": "BONK",
         "description": "Bonk",
         "decimals": 5,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/sui/asset/bonk.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/sui/asset/bonk.png",
         "coinGeckoId": "bonk"
     },
     {
@@ -294,7 +294,7 @@
         "symbol": "SUISHIB",
         "description": "SuiShiba is a community-driven meme project",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/sui/asset/suishib.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/sui/asset/suishib.png",
         "coinGeckoId": ""
     },
     {
@@ -304,7 +304,7 @@
         "symbol": "SOL",
         "description": "Wrapped SOL (Wormhole)",
         "decimals": 9,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/solana/asset/sol.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/solana/asset/sol.png",
         "coinGeckoId": "wrapped-solana",
         "bridge_info" : {
             "path": "solana>sui"
@@ -317,7 +317,7 @@
         "symbol": "WMATIC",
         "description": "Wrapped Matic (Wormhole)",
         "decimals": 8,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/polygon/asset/wmatic.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/polygon/asset/wmatic.png",
         "coinGeckoId": "wmatic",
         "bridge_info" : {
             "path": "polygon>sui"
@@ -330,7 +330,7 @@
         "symbol": "WBNB",
         "description": "Wrapped BNB (Wormhole)",
         "decimals": 8,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/bnb-smart-chain/asset/wbnb.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/bnb-smart-chain/asset/wbnb.png",
         "coinGeckoId": "wbnb",
         "bridge_info" : {
             "path": "bnb-smart-chain>sui"
@@ -343,7 +343,7 @@
         "symbol": "AFSUI",
         "description": "Aftermath Staked Sui",
         "decimals": 9,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/sui/asset/afsui.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/sui/asset/afsui.png",
         "coinGeckoId": "aftermath-staked-sui"
     },
     {
@@ -353,7 +353,7 @@
         "symbol": "BLUB",
         "description": "A Dirty Fish in the Waters of the Sui Ocean",
         "decimals": 2,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/sui/asset/blub.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/sui/asset/blub.png",
         "coinGeckoId": "blub"
     },
     {
@@ -363,7 +363,7 @@
         "symbol": "USDC.bnb",
         "description": "USD Coin (Wormhole)",
         "decimals": 8,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/usdc.png",
         "coinGeckoId": "usd-coin",
         "bridge_info" : {
             "path": "ethereum>sui"
@@ -376,7 +376,7 @@
         "symbol": "WAL",
         "description": "The native token for the Walrus Protocol.",
         "decimals": 9,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/sui/asset/wal.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/sui/asset/wal.png",
         "coinGeckoId": "walus-2"
     }
 ]

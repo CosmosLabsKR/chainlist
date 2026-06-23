@@ -6,7 +6,7 @@
         "symbol": "SHIDO",
         "description": "Shido Staking Coin",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/shido/asset/shido.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/shido/asset/shido.png",
         "coinGeckoId": "shido-2",
         "color": "#4169e1"
     }
