@@ -22,7 +22,7 @@ Chain metadata used by Mintscan Explorer, managed by [Cosmos](https://github.com
 
 
 ## Chain Image Set
-<img src="https://raw.githubusercontent.com/CosmosLabsKR/chainlist/main/resource/static/guide_chains.png" width="368" height="266"> <img src="https://raw.githubusercontent.com/CosmosLabsKR/chainlist/main/resource/static/guide_tokens.png" width="249" height="266">
+<img src="https://raw.githubusercontent.com/CosmosLabsKR/chainlist/main/mintscan/resource/guide_chains.png" width="368" height="266"> <img src="https://raw.githubusercontent.com/CosmosLabsKR/chainlist/main/mintscan/resource/guide_tokens.png" width="249" height="266">
 
 
 - Chains and Assets image with 3D
