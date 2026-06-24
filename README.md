@@ -24,7 +24,7 @@
 <img src="https://raw.githubusercontent.com/CosmosLabsKR/chainlist/main/resource/static/guide_chains.png" width="368" height="266"> <img src="https://raw.githubusercontent.com/CosmosLabsKR/chainlist/main/resource/static/guide_tokens.png" width="249" height="266">
 
 
-- Chains and assets image with 3D
+- Chains and Assets image with 3D
 - Available in all sizes and formats. 
 
 
@@ -42,7 +42,7 @@
 <details>
   <summary><h2 style='display: inline; font-size: 24px'>How to add your asset info</h2></summary>
 
-‼️ Please be noted that coins of Testnets and unverified networks may not be merged to master.
+‼️ Please be noted that assets of Testnets and unverified networks may not be merged to master.
 1. Fork this repo to your own github account
 2. Clone fork and create new branch
 
@@ -53,34 +53,34 @@
    git checkout <branch_name>
    ```
 
-3. Add the info of your coin in the chain `assets_2.json` file that your coin needs to be displayed
+3. Add the info of your asset in the chain `assets_2.json` file that your asset needs to be displayed
     >If there is no chain in the list, create a folder for the chain  
-    Then add `assets_2.json` file to the folder, add coin info to that file  
+    Then add `assets_2.json` file to the folder, add asset info to that file  
     Changes will be updated within 24 hours after merged to master
 
 
    - ***Common info to fill***
      - `type`
-       - `native` refers that the coin is a native coin issued on a chain.
-       - `ibc` refers that the coin was ibc transferred.
-       - `bridge` refers that the coin is a bridge coin.
+       - `native` refers that the asset is a native asset issued on a chain.
+       - `ibc` refers that the asset was ibc transferred.
+       - `bridge` refers that the asset is a bridge asset.
      - `denom`
-       - Coin's denom
+       - Asset's denom
      - `name`
-       - Coin's name
+       - Asset's name
      - `symbol`
-       - The displayed name of the coin in the list.
+       - The displayed name of the asset in the list.
      - `description`
-       - A brief summary of the coin
+       - A brief summary of the asset
      - `decimals`
-       - Coin's decimals.
+       - Asset's decimals.
      - `image` (optional)
-       - Image route of the coin.
+       - Image route of the asset.
        - Add image in `${targetchain}/asset` folder.
          - Make sure to upload a `png` file.
      - `color` (optional)
      - `coinGeckoId`
-       - Coin gecko site's API ID 
+       - Asset gecko site's API ID 
          - ex. https://www.coingecko.com/en/coins/cosmos-hub 
             - API ID: *cosmos*
        - Empty string if none
@@ -88,26 +88,26 @@
     - ***If the type is <ins>ibc</ins>, provide the info below:***
       - `ibc_info`
         - `path`
-          - If the coin was transferred via ibc, bridge or other path, provide full details of where it was transferred from.
+          - If the asset was transferred via ibc, bridge or other path, provide full details of where it was transferred from.
         - `client`
           - `channel`
           - `port`
-            - Add the coin's channel and port
+            - Add the asset's channel and port
         - `counterparty`
           - `channel`
           - `port`
             - Add counter party's channel and port
           - `chain`
           - `denom`
-            - Coin's denom before ibc transfer
+            - Assets's denom before ibc transfer
      - ***If the type is <ins>bridge</ins>, provide the info below:***
        - `bridge_info`
          - `path` (optional)
-           - If the coin was transferred via ibc, bridge or other path, provide full details of where it was transferred from.
+           - If the asset was transferred via ibc, bridge or other path, provide full details of where it was transferred from.
          - `counterparty`
            - `chain`
            - `contract` (optional)
-             - If the coin was transferred via contract, provide the contract address.
+             - If the asset was transferred via contract, provide the contract address.
          - `enable` (optional)
            - `true` if ibc transmission is possible
 
@@ -247,7 +247,7 @@
 
    ```shell
    git add -A
-   git commit -m “Add <YOUR COIN NAME>”
+   git commit -m “Add <YOUR ASSET NAME>”
    git push origin <branch_name>
    ```
 
