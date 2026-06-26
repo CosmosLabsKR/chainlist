@@ -7,6 +7,7 @@ Chain metadata used by Mintscan Explorer, managed by [Cosmos](https://github.com
 - [Add Asset's Info](https://github.com/CosmosLabsKR/chainlist/tree/main#how-to-add-your-asset-info)
 - [Add Cw20 Info](https://github.com/CosmosLabsKR/chainlist/tree/main#how-to-add-your-cw20-token-info)
 - [Add Erc20 Info](https://github.com/CosmosLabsKR/chainlist/tree/main#how-to-add-your-erc20-token-info)
+- [Add IBC Eureka Info](https://github.com/CosmosLabsKR/chainlist/tree/main#how-to-add-your-ibc-eureka-asset-info)
 - [Add gRPC/EVM Endpoint](https://github.com/CosmosLabsKR/chainlist/tree/main#how-to-add-endpoint)
 - [dApp link and description on Wallet](https://github.com/CosmosLabsKR/chainlist/tree/main/wallet/eco_list.json)
 
@@ -428,6 +429,121 @@ Chain metadata used by Mintscan Explorer, managed by [Cosmos](https://github.com
    ```shell
    git add -A
    git commit -m “Add <YOUR TOKEN NAME>”
+   git push origin <branch_name>
+   ```
+
+5. From your repository, make pull request (PR)
+</details>
+
+---
+
+<details>
+  <summary><h2 style='display: inline; font-size: 24px'>How to add your IBC Eureka asset info</h2></summary>
+
+1. Fork this repo to your own github account
+2. Clone fork and create new branch
+
+   ```shell
+   git clone git@github.com:YOUR_ACCOUNT/chainlist.git
+   cd chainlist
+   git branch <branch_name>
+   git checkout <branch_name>
+   ```
+
+3. Add the info of your asset in the chain `assets_2.json` file that your asset needs to be displayed
+   >If there is no chain in the list, create a folder for the chain  
+   Changes will be updated within 24 hours after merged to master
+   - `type`
+     - `ibc`
+   - `denom`
+     - IBC denom on the target chain
+   - `name`
+     - Asset's name
+   - `symbol`
+     - Name of Asset's symbol
+   - `description`
+     - A brief summary of the asset
+   - `decimals`
+     - Asset's decimals
+   - `image`
+     - Image route of the token
+     - `/${targetChain}/asset` add image in the folder
+     - Make sure to upload a `png`file
+   - `coinGeckoId`
+     - Coin gecko site's API ID
+       - ex. https://www.coingecko.com/en/coins/{API ID}
+     - Empty string if none
+   - `ibc_info`
+     - `path`
+       - Transfer path (e.g. `ethereum>cosmos`)
+     - `counterparty`
+       - `ICS20ContractAddress`
+         - ICS20 contract address on Ethereum
+       - `channel`
+         - Channel ID on the target chain
+       - `port`
+         - Asset's port (e.g. `transfer`)
+       - `chain`
+         - Source chain (e.g. `ethereum`)
+       - `denom`
+         - ERC20 contract address of the token on Ethereum
+
+   ### IBC Eureka info json example
+   `chain/${chain}/assets_2.json`
+
+   ```json
+   [
+    // example USDT on Cosmos Hub
+    {
+      "type": "ibc",
+      "denom": "ibc/E7E51FFF94A8B55BE84CEB0345E5CAF0A5DAEB374C6806CE908098B8996C7782",
+      "name": "Tether",
+      "symbol": "USDT",
+      "description": "Tether via Eureka",
+      "decimals": 6,
+      "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/usdt.png",
+      "coinGeckoId": "tether",
+      "ibc_info": {
+        "path": "ethereum>cosmos",
+        "counterparty": {
+          "ICS20ContractAddress": "0xa348cfe719b63151f228e3c30eb424ba5a983012",
+          "channel": "cosmoshub-0",
+          "port": "transfer",
+          "chain": "ethereum",
+          "denom": "0xdAC17F958D2ee523a2206206994597C13D831ec7"
+        }
+      }
+     },
+     
+     // example SEDA on Cosmos Hub
+     {
+         "type": "ibc",
+         "denom": "ibc/D0BD765CF2EC6B97264795351BD75685A7B806F857D7D84633F5AC5E4A9812ED",
+         "name": "SEDA",
+         "symbol": "SEDA",
+         "description": "SEDA on the Cosmos Hub",
+         "decimals": 18,
+         "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/seda.png",
+         "coinGeckoId": "seda-2",
+         "ibc_info": {
+             "path": "ethereum>cosmos",
+             "counterparty": {
+                 "ICS20ContractAddress": "0xa348cfe719b63151f228e3c30eb424ba5a983012",
+                 "channel": "cosmoshub-0",
+                 "port": "transfer",
+                 "chain": "ethereum",
+                 "denom": "0x14862c03A0cACcC1aB328B062E64e31B2a1afcd7"
+             }
+         }
+     }
+   ]
+   ```
+
+4. Commit and push to your fork
+
+   ```shell
+   git add -A
+   git commit -m "Add <YOUR TOKEN NAME>"
    git push origin <branch_name>
    ```
 
