@@ -491,53 +491,55 @@ Chain metadata used by Mintscan Explorer, managed by [Cosmos](https://github.com
    ### IBC Eureka info json example
    `chain/${chain}/assets_2.json`
 
-   ```json
-   [
-    // example USDT on Cosmos Hub
-    {
-      "type": "ibc",
-      "denom": "ibc/E7E51FFF94A8B55BE84CEB0345E5CAF0A5DAEB374C6806CE908098B8996C7782",
-      "name": "Tether",
-      "symbol": "USDT",
-      "description": "Tether via Eureka",
-      "decimals": 6,
-      "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/usdt.png",
-      "coinGeckoId": "tether",
-      "ibc_info": {
-        "path": "ethereum>cosmos",
-        "counterparty": {
-          "ICS20ContractAddress": "0xa348cfe719b63151f228e3c30eb424ba5a983012",
-          "channel": "cosmoshub-0",
-          "port": "transfer",
-          "chain": "ethereum",
-          "denom": "0xdAC17F958D2ee523a2206206994597C13D831ec7"
-        }
-      }
-     },
+   - Eureka Asset
+
+     ```json
+     [
+      // example USDT on Cosmos Hub
+      {
+          "type": "ibc",
+          "denom": "ibc/E7E51FFF94A8B55BE84CEB0345E5CAF0A5DAEB374C6806CE908098B8996C7782",
+          "name": "Tether",
+          "symbol": "USDT",
+          "description": "Tether via Eureka",
+          "decimals": 6,
+          "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/usdt.png",
+          "coinGeckoId": "tether",
+          "ibc_info": {
+              "path": "ethereum>cosmos",
+              "counterparty": {
+                  "ICS20ContractAddress": "0xa348cfe719b63151f228e3c30eb424ba5a983012",
+                  "channel": "cosmoshub-0",
+                  "port": "transfer",
+                  "chain": "ethereum",
+                  "denom": "0xdAC17F958D2ee523a2206206994597C13D831ec7"
+              }
+          }
+      },
      
-     // example SEDA on Cosmos Hub
-     {
-         "type": "ibc",
-         "denom": "ibc/D0BD765CF2EC6B97264795351BD75685A7B806F857D7D84633F5AC5E4A9812ED",
-         "name": "SEDA",
-         "symbol": "SEDA",
-         "description": "SEDA on the Cosmos Hub",
-         "decimals": 18,
-         "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/seda.png",
-         "coinGeckoId": "seda-2",
-         "ibc_info": {
-             "path": "ethereum>cosmos",
-             "counterparty": {
-                 "ICS20ContractAddress": "0xa348cfe719b63151f228e3c30eb424ba5a983012",
-                 "channel": "cosmoshub-0",
-                 "port": "transfer",
-                 "chain": "ethereum",
-                 "denom": "0x14862c03A0cACcC1aB328B062E64e31B2a1afcd7"
-             }
-         }
-     }
-   ]
-   ```
+      // example SEDA on Cosmos Hub
+      {
+          "type": "ibc",
+          "denom": "ibc/D0BD765CF2EC6B97264795351BD75685A7B806F857D7D84633F5AC5E4A9812ED",
+          "name": "SEDA",
+          "symbol": "SEDA",
+          "description": "SEDA on the Cosmos Hub",
+          "decimals": 18,
+          "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/seda.png",
+          "coinGeckoId": "seda-2",
+          "ibc_info": {
+              "path": "ethereum>cosmos",
+              "counterparty": {
+                  "ICS20ContractAddress": "0xa348cfe719b63151f228e3c30eb424ba5a983012",
+                  "channel": "cosmoshub-0",
+                  "port": "transfer",
+                  "chain": "ethereum",
+                  "denom": "0x14862c03A0cACcC1aB328B062E64e31B2a1afcd7"
+              }
+          }
+      }
+    ]
+    ```
 
 4. Commit and push to your fork
 
