@@ -471,7 +471,7 @@ Chain metadata used by Mintscan Explorer, managed by [Cosmos](https://github.com
      - Make sure to upload a `png`file
    - `coinGeckoId`
      - Coin gecko site's API ID
-       - ex. https://www.coingecko.com/en/coins/{API ID}
+       - ex. https://www.coingecko.com/en/coins/{API-ID}
      - Empty string if none
    - `ibc_info`
      - `path`
