@@ -1737,7 +1737,7 @@
         "denom": "factory/cosmos1nxxz937qd6zqxllwplydy6hts97c4amaqj8jxa57nsme3dmckk4s3mqujr/RESP",
         "name": "POSTHUMAN Reputation",
         "symbol": "RESP",
-        "description": "POSTHUMAN Reputation (RESP) is the reputation token of the POSTHUMAN ecosystem, migrated from the legacy Juno RESP token to Cosmos Hub through TokenFactory.",
+        "description": "POSTHUMAN ecosystem reputation token on Cosmos Hub, migrated from legacy Juno RESP.",
         "decimals": 6,
         "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/cosmos/asset/resp.png",
         "color": "#BBC2C6",
