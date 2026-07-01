@@ -1,0 +1,13 @@
+[
+  {
+    "type": "native",
+    "denom": "aLIMO",
+    "name": "Limonata Testnet",
+    "symbol": "LIMO",
+    "description": "Limonata Testnet Staking Coin",
+    "decimals": 18,
+    "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/limonata-testnet/asset/limo.png",
+    "coinGeckoId": "",
+    "color": "#FFE44C"
+  }
+]
