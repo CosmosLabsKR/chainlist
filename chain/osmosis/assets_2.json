@@ -11402,7 +11402,7 @@
       "color": "#111111",
       "coinGeckoId": "",
       "ibc_info": {
-        "path": "cosmoshub>osmosis",
+        "path": "cosmos>osmosis",
         "client": {
           "channel": "channel-0",
           "port": "transfer"
@@ -11410,7 +11410,7 @@
         "counterparty": {
           "channel": "channel-141",
           "port": "transfer",
-          "chain": "cosmoshub",
+          "chain": "cosmos",
           "denom": "factory/cosmos146s5j3t7gh2g37ywm47dp8avhesu2htvjjaxq7z55e7xj0rq0k8q5qnjjy/PHMN"
         }
       }
