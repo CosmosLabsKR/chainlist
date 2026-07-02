@@ -1,0 +1,65 @@
+{
+    "chain_id_cosmos" : "ritbit-mainnet",
+    "chain_name": "Ritbit",
+    "chain_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ritbit/resource/chain_ritbit.png",
+    "staking_asset_denom" : "urit",
+    "staking_asset_symbol" : "RIT",
+    "staking_asset_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ritbit/asset/rit.png",
+    "bech_account_prefix" : "rit",
+    "bech_validator_prefix" : "ritvaloper",
+    "origin_genesis_time" : "2026-03-15T00:00:00Z",
+    "api_name" : "ritbit",
+    "is_support_mintscan": true,
+    "is_support_mobile_wallet" : true,
+    "is_support_extension_wallet" : true,
+    "is_support_moblie_dapp": true,
+    "chain_type": [
+        "cosmos"
+    ],
+    "account_type" : [
+        {
+            "hd_path": "m/44'/118'/0'/0/X",
+            "pubkey_style": "secp256k1",
+            "pubkey_type": "/cosmos.crypto.secp256k1.PubKey"
+        }
+    ],
+    "cosmos_fee_info" : {
+        "base" : "0",
+        "rate" : [
+            "25000000000urit,0.025uusdc"
+        ],
+        "is_simulable" : true,
+        "simulated_gas_multiply" : 1.2,
+        "init_gas_limit" : 300000,
+        "fee_threshold" : ""
+    },
+    "grpc_endpoint" : [
+        {
+            "provider": "Ritbit",
+            "url": "grpc.mainnet.rubin.trade:443"
+        }
+    ],
+    "lcd_endpoint" : [
+        {
+            "provider": "Ritbit",
+            "url": "https://rest.mainnet.rubin.trade/"
+        }
+    ],
+    "explorer" : {
+        "name": "Mintscan",
+        "url": "https://www.mintscan.io/ritbit/",
+        "account": "https://www.mintscan.io/ritbit/address/${address}",
+        "tx": "https://www.mintscan.io/ritbit/tx/${hash}",
+        "proposal": "https://www.mintscan.io/ritbit/proposals/${id}"
+    },
+    "about" : {
+        "website" : "https://rubin.trade/",
+        "docs" : "https://docs.ritbit.trade/",
+        "discord": "https://discord.com/invite/ritbit"
+    },
+    "description" : {
+        "ko" : "Ritbit은 탈중앙화 무기한 선물 거래소를 구동하는 오픈 소스 애플리케이션 특화 블록체인입니다.",
+        "en" : "Ritbit is an open-source, application-specific blockchain that powers a decentralized perpetuals exchange.",
+        "ja" : "Ritbit は、分散型無期限先物取引所を稼働させるオープンソースのアプリケーション固有ブロックチェーンです。"
+    }
+}

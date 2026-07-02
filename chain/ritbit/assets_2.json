@@ -1,0 +1,22 @@
+[
+    {
+        "type": "native",
+        "denom": "urit",
+        "name" : "Ritbit",
+        "symbol": "RIT",
+        "description": "Ritbit Chain Staking Coin",
+        "decimals": 18,
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ritbit/asset/rit.png",
+        "color": "#111827"
+    },
+    {
+        "type": "native",
+        "denom": "uusdc",
+        "name" : "USDC",
+        "symbol": "USDC",
+        "description": "USD Coin on Ritbit Chain",
+        "decimals": 6,
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/noble/asset/usdc.png",
+        "coinGeckoId": "usd-coin"
+    }
+]
