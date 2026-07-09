@@ -2,12 +2,12 @@
     {
         "type": "native",
         "denom": "ucore",
-        "name" : "Coreum Testnet",
-        "symbol": "COREUM",
-        "description": "Coreum Testnet Staking Coin",
+        "name" : "TX Testnet",
+        "symbol": "TX",
+        "description": "TX Testnet Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/coreum-testnet/asset/core.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/coreum-testnet/asset/tx.png",
         "coinGeckoId": "",
-        "color": "#16B87B"
+        "color": "#89C400"
     }
 ]
