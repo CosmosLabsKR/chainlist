@@ -1,7 +1,7 @@
 [
     {
         "type": "native",
-        "denom": "ucore",
+        "denom": "utestcore",
         "name" : "TX Testnet",
         "symbol": "TX",
         "description": "TX Testnet Staking Coin",

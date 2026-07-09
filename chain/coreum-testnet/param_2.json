@@ -2,7 +2,7 @@
     "chain_id_cosmos" : "coreum-testnet-1",
     "chain_name": "TX Testnet",
     "chain_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/coreum-testnet/resource/chain_tx-testnet.png",
-    "staking_asset_denom" : "ucore",
+    "staking_asset_denom" : "utestcore",
     "staking_asset_symbol" : "TX",
     "staking_asset_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/coreum-testnet/asset/tx.png",
     "bech_account_prefix" : "core",
@@ -19,9 +19,9 @@
     "cosmos_fee_info" : {
         "base" : "1",
         "rate" : [
-            "0.05ucore",
-            "0.0625ucore",
-            "0.5ucore"
+            "0.05utestcore",
+            "0.0625utestcore",
+            "0.5utestcore"
         ],
         "is_simulable" : true,
         "simulated_gas_multiply" : 1.2,
