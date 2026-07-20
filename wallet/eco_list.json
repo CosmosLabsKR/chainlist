@@ -4376,12 +4376,13 @@
 		"description": "Qubetics validator offering a full delegator dashboard (rewards tracking, calculator, history) and multi-wallet support (Keplr, Cosmostation).",
 		"thumbnail": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/ticsslymtgfe.png",
 		"link": "https://ticsslymtgfe.com",
-		"chains": ["qubetics"],
+        "chains": [
+            "qubetics"
+        ],
 		"socials": {
 			"telegram": "https://t.me/TicsSlyMTGFE",
 			"twitter": "https://x.com/TicsSlyMtgfe"
 		},
-		"is_default": false,
 		"type": "DashBoard"
     }
 ]
