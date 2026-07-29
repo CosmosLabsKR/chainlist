@@ -1841,5 +1841,28 @@
                 "denom": "uallo"
             }
         }
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/102A112CAEE6E503721048E5B2221252E40ABAB8B4344680E28F17BEAC9F9FB1",
+        "name" : "Xpla",
+        "symbol": "XPLA",
+        "description": "XPLA Staking Coin",
+        "decimals": 18,
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/xpla/asset/xpla.png",
+        "coinGeckoId": "xpla",
+        "ibc_info" : {
+            "path": "xpla>cosmos",
+            "client" : {
+                "channel": "channel-533",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-6",
+                "port": "transfer",
+                "chain": "xpla",
+                "denom": "axpla"
+            }
+        }
     }
 ]
