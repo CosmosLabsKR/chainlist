@@ -1,0 +1,35 @@
+[
+    {
+        "type": "native",
+        "denom": "axpla",
+        "name": "Xpla",
+        "symbol": "XPLA",
+        "description": "XPLA Testnet Staking Coin",
+        "decimals": 18,
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/xpla-testnet/asset/xpla.png",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/5BDD47E9E73BF91C14497E254F0A751F1A7D3A6084343F66EA7CEE834A384651",
+        "name" : "axlUSDC",
+        "symbol": "axlUSDC",
+        "description": "",
+        "decimals": 6,
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/usdc.png",
+        "coinGeckoId": "",
+        "ibc_info": {
+            "path": "axelar-testnet>xpla-testnet",
+            "client": {
+                "channel": "channel-0",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-108",
+                "port": "transfer",
+                "chain": "axelar-testnet",
+                "denom": "uausdc"
+            }
+        }
+    }
+]
