@@ -1,0 +1,83 @@
+{
+    "chain_id_cosmos": "safrochain-1",
+    "chain_name": "Safrochain",
+    "chain_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/safrochain/resource/chain_safrochain.png",
+    "staking_asset_denom": "usaf",
+    "staking_asset_symbol": "SAF",
+    "staking_asset_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/safrochain/asset/saf.png",
+    "bech_account_prefix": "addr_safro",
+    "bech_validator_prefix": "addr_safrovaloper",
+    "origin_genesis_time": "2026-06-24T00:00:00Z",
+    "api_name": "safrochain",
+    "is_support_cw20": true,
+    "is_support_mintscan": true,
+    "is_support_mobile_wallet": true,
+    "is_support_extension_wallet": true,
+    "chain_type": [
+        "cosmos"
+    ],
+    "account_type": [
+        {
+            "hd_path": "m/44'/118'/0'/0/X",
+            "pubkey_style": "secp256k1",
+            "pubkey_type": "/cosmos.crypto.secp256k1.PubKey"
+        }
+    ],
+    "cosmos_fee_info": {
+        "base": "0",
+        "rate": [
+            "0.05usaf",
+            "0.075usaf",
+            "0.1usaf"
+        ],
+        "is_simulable": true,
+        "simulated_gas_multiply": 1.2,
+        "init_gas_limit": 300000,
+        "fee_threshold": ""
+    },
+    "grpc_endpoint": [
+        {
+            "provider": "Safrochain Foundation",
+            "url": "grpc1.safrochain.network:443"
+        },
+        {
+            "provider": "Safrochain Foundation",
+            "url": "grpc2.safrochain.network:443"
+        },
+        {
+            "provider": "Safrochain Foundation",
+            "url": "grpc.safrochain.network:443"
+        }
+    ],
+    "lcd_endpoint": [
+        {
+            "provider": "Safrochain Foundation",
+            "url": "https://api.safrochain.network/"
+        },
+        {
+            "provider": "Safrochain Foundation",
+            "url": "https://api1.safrochain.network/"
+        },
+        {
+            "provider": "Safrochain Foundation",
+            "url": "https://api2.safrochain.network/"
+        }
+    ],
+    "explorer": {
+        "name": "Mintscan",
+        "url": "https://www.mintscan.io/safrochain",
+        "account": "https://www.mintscan.io/safrochain/accounts/${address}",
+        "tx": "https://www.mintscan.io/safrochain/transactions/${hash}",
+        "proposal": "https://www.mintscan.io/safrochain/proposals/${id}"
+    },
+    "about": {
+        "website": "https://safrochain.com/",
+        "github": "https://github.com/Safrochain-Org/safrochain-node",
+        "twitter": "https://x.com/safrochain",
+        "coingecko": ""
+    },
+    "description": {
+        "en": "Safrochain is a Cosmos SDK chain delivering programmable, low-fee infrastructure with CosmWasm, IBC, fee-share, fee-pay, packet-forward middleware, and Horcrux-protected validators.",
+        "ko": "Safrochain은 CosmWasm, IBC, fee-share, fee-pay, packet-forward middleware, Horcrux 보호 검증자를 갖춘 프로그래mable 저수수료 Cosmos SDK 체인입니다."
+    }
+}

@@ -1,0 +1,15 @@
+[
+    {
+        "name": "Safrochain Explorer",
+        "type": "Explorer",
+        "description": "Official Safrochain block explorer for accounts, validators, transactions, and governance.",
+        "status": "open",
+        "thumbnail": "safrochain_explorer",
+        "link": "https://explorer.safrochain.com/",
+        "social": {
+            "webSite": "https://safrochain.com/",
+            "twitter": "https://x.com/safrochain",
+            "github": "https://github.com/Safrochain-Org/safrochain-node"
+        }
+    }
+]
