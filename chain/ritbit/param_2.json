@@ -9,9 +9,9 @@
     "bech_validator_prefix" : "ritvaloper",
     "origin_genesis_time" : "2026-03-15T00:00:00Z",
     "api_name" : "rubin",
-    "is_support_mintscan": true,
-    "is_support_mobile_wallet" : true,
-    "is_support_extension_wallet" : true,
+    "is_support_mintscan": false,
+    "is_support_mobile_wallet" : false,
+    "is_support_extension_wallet" : false,
     "is_support_moblie_dapp": true,
     "chain_type": [
         "cosmos"
@@ -47,10 +47,10 @@
     ],
     "explorer" : {
         "name": "Mintscan",
-        "url": "https://www.mintscan.io/rubin/",
-        "account": "https://www.mintscan.io/rubin/address/${address}",
-        "tx": "https://www.mintscan.io/rubin/tx/${hash}",
-        "proposal": "https://www.mintscan.io/rubin/proposals/${id}"
+        "url": "https://explorer.rubin.trade/ritbit-mainnet",
+        "account": "https://explorer.rubin.trade/ritbit-mainnet/account${address}",
+        "tx": "https://explorer.rubin.trade/ritbit-mainnet/tx/${hash}",
+        "proposal": "https://explorer.rubin.trade/ritbit-mainnet/gov/${id}"
     },
     "about" : {
         "website" : "https://rubin.trade/",
