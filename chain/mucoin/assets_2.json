@@ -1,0 +1,11 @@
+[
+    {
+        "type": "native",
+        "denom": "umuc",
+        "name" : "MuCoin",
+        "symbol": "MUC",
+        "description": "Mucoin Chain Staking Coin",
+        "decimals": 6,
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/mucoin/asset/muc.png"
+    }
+]

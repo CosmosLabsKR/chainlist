@@ -1,0 +1,67 @@
+{
+    "chain_id_cosmos" : "mucoin-1",
+    "chain_name": "MuCoin",
+    "chain_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/mucoin/resource/chain_mucoin.png",
+    "staking_asset_denom" : "umuc",
+    "staking_asset_symbol" : "MUC",
+    "staking_asset_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/mucoin/asset/muc.png",
+    "bech_account_prefix" : "muc",
+    "bech_validator_prefix" : "mucvaloper",
+    "origin_genesis_time" : "2026-07-15T06:50:54Z",
+    "api_name" : "mucoin",
+    "is_support_mintscan": false,
+    "is_support_mobile_wallet" : false,
+    "is_support_extension_wallet" : false,
+    "is_support_moblie_dapp": false,
+    "chain_type": [
+        "cosmos"
+    ],
+    "account_type" : [
+        {
+            "hd_path": "m/44'/118'/0'/0/X",
+            "pubkey_style": "secp256k1",
+            "pubkey_type": "/cosmos.crypto.secp256k1.PubKey"
+        }
+    ],
+    "cosmos_fee_info" : {
+        "base" : "0",
+        "rate" : [
+            "0.0025umuc",
+            "0.005umuc",
+            "0.01umuc"
+        ],
+        "is_simulable" : true,
+        "simulated_gas_multiply" : 1.2,
+        "init_gas_limit" : 300000,
+        "fee_threshold" : ""
+    },
+    "grpc_endpoint" : [
+    ],
+    "lcd_endpoint" : [
+        {
+            "provider": "MuCoin",
+            "url": "https://rest.mucoin.org/"
+        }
+    ],
+    "explorer" : {
+        "name": "ATOMScan",
+        "url": "https://atomscan.com/frontier/mucoin/",
+        "account": "https://atomscan.com/frontier/mucoin/accounts/${address}",
+        "tx": "https://atomscan.com/frontier/mucoin/transactions/${hash}",
+        "proposal": "https://atomscan.com/frontier/mucoin/votes/${id}"
+    },
+    "about" : {
+        "website" : "https://mucoin.org/",
+        "docs": "",
+        "github": "https://github.com/dasgrid/mucoin",
+        "blog": "",
+        "medium": "",
+        "twitter": "https://x.com/dasgrid",
+        "coingecko": ""
+    },
+    "description" : {
+        "ko" : "MuCoin은 탈중앙화 애플리케이션과 디지털 자산 거래를 위한 안전하고 확장 가능한 블록체인 인프라를 제공하는 네트워크입니다.",
+        "en" : "MuCoin is a blockchain network designed to provide a secure and scalable infrastructure for decentralized applications and digital asset transactions.",
+        "ja" : "MuCoinは、分散型アプリケーションやデジタル資産取引のために、安全でスケーラブルなブロックチェーンインフラを提供するネットワークです。"
+    }
+}
