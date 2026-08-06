@@ -40,20 +40,20 @@
     ],
     "lcd_endpoint": [
         {
-            "provider": "Neutron",
-            "url": "https://rest-lb.neutron.org/"
+            "provider": "Polkachu",
+            "url": "https://neutron-api.polkachu.com/"
         },
         {
-            "provider": "Neutron",
-            "url": "https://rest-vertexa.neutron-1.neutron.org/"
+            "provider": "QUAD",
+            "url": "https://neutron.rpc.uquad.org:443/"
         },
         {
-            "provider": "Neutron",
-            "url": "https://rest-solara.neutron-1.neutron.org/"
+            "provider": "solva.solutions",
+            "url": "https://rest-archive.neutron.solva.solutions:443/"
         },
         {
-            "provider": "🐹 Quokka Stake",
-            "url": "https://api.neutron.quokkastake.io/"
+            "provider": "solva.solutions",
+            "url": "https://rest.neutron.solva.solutions:443/"
         }
     ],
     "explorer" : {
