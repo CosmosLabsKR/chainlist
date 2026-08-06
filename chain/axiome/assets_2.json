@@ -1,0 +1,21 @@
+[
+    {
+        "type": "native",
+        "denom": "uaxm",
+        "name": "Axiome",
+        "symbol": "AXM",
+        "description": "The native staking and fee token of Axiome Chain",
+        "decimals": 6,
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/axiome/asset/axm.png",
+        "coinGeckoId": "axiome"
+    },
+    {
+        "type": "native",
+        "denom": "uret",
+        "name": "Axiome Reward Token",
+        "symbol": "RET",
+        "description": "Reward token of Axiome Chain, minted to the referral upline on delegation",
+        "decimals": 6,
+        "coinGeckoId": ""
+    }
+]
