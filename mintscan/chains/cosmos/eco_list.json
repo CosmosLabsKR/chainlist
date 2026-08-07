@@ -84,6 +84,7 @@
             "webSite": "https://hydro.markets/v2",
             "telegram": "https://t.me/hydro_community",
             "twitter": "https://x.com/hydromarkets",
+            "github": "https://github.com/informalsystems/hydro",
             "docs": "https://hydro.markets/docs"
         }
     },
@@ -97,7 +98,8 @@
         "social": {
             "webSite": "https://hydro.markets/inflow",
             "telegram": "https://t.me/hydro_community",
-            "twitter": "https://x.com/hydromarkets"
+            "twitter": "https://x.com/hydromarkets",
+            "github": "https://github.com/informalsystems/hydro"
         }
     }
 ]
