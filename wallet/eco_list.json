@@ -970,7 +970,7 @@
     {
         "id": 42,
         "name": "Hydro Auctions",
-        "description": "Hydro lets ATOM holders vote on project bids to direct liquidity and earn rewards. It’s in view-only mode, with pilot rounds ongoing.",
+        "description": "Hydro lets ATOM holders vote on project bids to direct liquidity and earn rewards.",
         "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/hydro.png",
         "link": "https://hydro.markets/v2",
         "chains": [
@@ -981,6 +981,22 @@
             "twitter": "https://x.com/hydromarkets"
         },
         "type": "DeFi"
+    },
+    {
+        "id": 252,
+        "name": "Inflow",
+        "description": "Deposit and earn stable, risk-adjusted yield while Hydro manages DeFi complexity across protocols and chains.",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/hydroinflow.png",
+        "link": "https://hydro.markets/inflow",
+        "chains": [
+            "cosmos"
+        ],
+        "socials": {
+            "telegram": "https://t.me/hydro_community",
+            "twitter": "https://x.com/hydromarkets",
+            "github": "https://github.com/informalsystems/hydro"
+        },
+        "type": "Earn"
     },
     {
         "id": 43,
