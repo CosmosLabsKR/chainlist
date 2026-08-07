@@ -40,10 +40,6 @@
     },
     "grpc_endpoint": [
         {
-            "provider": "Cosmostation",
-            "url": "grpc-cosmos.cosmostation.io:443"
-        },
-        {
             "provider": "Stakin",
             "url": "cosmoshub.grpc.stakin-nodes.com:443"
         },
@@ -57,10 +53,6 @@
         }
     ],
     "lcd_endpoint": [
-        {
-            "provider": "Cosmostation",
-            "url": "https://lcd-cosmos.cosmostation.io/"
-        },
         {
             "provider": "ITRocket",
             "url": "https://cosmoshub-mainnet-api.itrocket.net/"
