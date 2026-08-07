@@ -970,7 +970,7 @@
     {
         "id": 42,
         "name": "Hydro Auctions",
-        "description": "Hydro lets ATOM holders vote on project bids to direct liquidity and earn rewards.",
+        "description": "Hydro gives ATOM stakers the opportunity to allocate the Hub’s liquidity by voting on bids submitted by projects, and receive tributes for their support.",
         "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/hydro.png",
         "link": "https://hydro.markets/v2",
         "chains": [
