@@ -1,0 +1,60 @@
+{
+    "chain_id_cosmos": "axiome-1",
+    "chain_name": "Axiome",
+    "chain_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/axiome/resource/chain_axiome.png",
+    "staking_asset_denom": "uaxm",
+    "staking_asset_symbol": "AXM",
+    "staking_asset_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/axiome/asset/axm.png",
+    "bech_account_prefix": "axm",
+    "bech_validator_prefix": "axmvaloper",
+    "origin_genesis_time": "2024-03-21T10:00:00Z",
+    "api_name": "axiome",
+    "is_support_cw20": true,
+    "is_support_mintscan": false,
+    "is_support_mobile_wallet": true,
+    "is_support_extension_wallet": true,
+    "chain_type": [
+        "cosmos"
+    ],
+    "account_type": [
+        {
+            "hd_path": "m/44'/546'/0'/0/X",
+            "pubkey_style": "secp256k1",
+            "pubkey_type": "/cosmos.crypto.secp256k1.PubKey"
+        }
+    ],
+    "cosmos_fee_info": {
+        "base": "0",
+        "rate": [
+            "1uaxm",
+            "1.65uaxm",
+            "7.4uaxm"
+        ],
+        "is_simulable": true,
+        "simulated_gas_multiply": 1.2,
+        "init_gas_limit": 300000,
+        "fee_threshold": ""
+    },
+    "grpc_endpoint": [],
+    "lcd_endpoint": [
+        {
+            "provider": "Trickle",
+            "url": "https://axm-lcd.trickle.pro/"
+        }
+    ],
+    "explorer": {
+        "name": "Axiome Explorer",
+        "url": "https://axiomechain.pro",
+        "account": "https://axiomechain.pro/address/${address}",
+        "tx": "https://axiomechain.pro/transactions/${hash}"
+    },
+    "about": {
+        "website": "https://axiome.pro/en",
+        "github": "https://github.com/axiome-pro/axm-node",
+        "twitter": "https://x.com/axiome_pro",
+        "coingecko": "axiome"
+    },
+    "description": {
+        "en": "Axiome is a Cosmos SDK layer-1 with CosmWasm smart contracts. Its referral model is part of the protocol: staking, distribution and slashing are forked into a custom namespace, and delegation mints a separate reward token to the delegator's referral upline, up to fourteen levels deep. Contract upload is permissionless, and the network hosts an AMM, a CW721 NFT marketplace and a set of CW20 tokens."
+    }
+}

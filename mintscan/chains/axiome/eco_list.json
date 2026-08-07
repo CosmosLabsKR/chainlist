@@ -1,0 +1,39 @@
+[
+    {
+        "name": "Axiome Trade",
+        "type": "Dex",
+        "description": "Automated market maker on Axiome Chain. Constant product pools quoted against AXM, with per pool fee tiers.",
+        "status": "open",
+        "thumbnail": "axiome_trade",
+        "link": "https://app.axiometrade.pro/swap/",
+        "social": {
+            "webSite": "https://axiome.pro/en",
+            "twitter": "https://x.com/axiome_pro",
+            "github": "https://github.com/axiome-pro"
+        }
+    },
+    {
+        "name": "Collexium",
+        "type": "NFTs",
+        "description": "NFT marketplace on Axiome Chain. Create collections, mint, and trade at a fixed price or auction.",
+        "status": "open",
+        "thumbnail": "collexium",
+        "link": "https://collexium.pro",
+        "social": {
+            "webSite": "https://collexium.pro",
+            "twitter": "https://x.com/collexiumX"
+        }
+    },
+    {
+        "name": "RIP Candle",
+        "type": "Social",
+        "description": "Meme ecosystem on Axiome Chain built around the RIP token: a mini app with games and trading competitions, NFT products and validators.",
+        "status": "open",
+        "thumbnail": "rip_candle",
+        "link": "https://t.me/ripcandle_bot",
+        "social": {
+            "webSite": "https://aisevenai.ru/u/rip_candle",
+            "twitter": "https://x.com/RIP_Candle"
+        }
+    }
+]

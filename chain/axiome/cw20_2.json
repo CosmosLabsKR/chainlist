@@ -28,5 +28,145 @@
         "decimals": 6,
         "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/axiome/asset/clx.png",
         "coinGeckoId": ""
+    },
+    {
+        "type": "cw20",
+        "contract": "axm1y7h3zqplr0c9edj9w9rnkejfwjrxjrmetktjr9qrynaxrkchvg0q8v59lj",
+        "name": "Axiome USD",
+        "symbol": "AUSD",
+        "description": "USD-pegged token bridged to Axiome Chain",
+        "decimals": 6,
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/axiome/asset/ausd.png",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "cw20",
+        "contract": "axm1etxtq3v4chzn7xrah3w6ukkxy7vlc889n5ervgxz425msar6ajzskdmm0v",
+        "name": "Axiome Pay Token",
+        "symbol": "AXP",
+        "description": "Axiome Pay Token, a CW20 token on Axiome Chain",
+        "decimals": 6,
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/axiome/asset/axp.png",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "cw20",
+        "contract": "axm1hktxylnelvuph4xyhpj59g4e2r09lv7kt7y8v9j4gtcxnmu00zvqkgg449",
+        "name": "FREELOADERS",
+        "symbol": "BREAD",
+        "description": "FREELOADERS, a CW20 token on Axiome Chain",
+        "decimals": 6,
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/axiome/asset/bread.png",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "cw20",
+        "contract": "axm1x0yksygmey9f0x5up06xj8577vj9dl0dgtvlgvguumrn6698marqaz0vlh",
+        "name": "Bazer stable coin",
+        "symbol": "BSC",
+        "description": "Bazer stable coin, a CW20 token on Axiome Chain",
+        "decimals": 6,
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/axiome/asset/bsc.png",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "cw20",
+        "contract": "axm147hy27tdyvmjn4v22eypcgajf0umqunyyxcnuumdac7uvk7avxwsafem8h",
+        "name": "BYAcademy",
+        "symbol": "BYA",
+        "description": "BYAcademy, a CW20 token on Axiome Chain",
+        "decimals": 6,
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/axiome/asset/bya.png",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "cw20",
+        "contract": "axm1t3f4zxve6725sf4glrnlar8uku78j0nyfl0ppzgfju9ft9phvqwqfhrfg5",
+        "name": "CHAPA",
+        "symbol": "CHAPA",
+        "description": "CHAPA, a CW20 token on Axiome Chain",
+        "decimals": 6,
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/axiome/asset/chapa.png",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "cw20",
+        "contract": "axm1c2v4x4ymtgljs45gwsnw7pgl7phrjctewuagu2matd9zm7r78l2qtqwzz8",
+        "name": "Global Smart Pay",
+        "symbol": "GSP",
+        "description": "Token of the GSP Forum community on Axiome Chain",
+        "decimals": 6,
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/axiome/asset/gsp.png",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "cw20",
+        "contract": "axm1m6jz5dw6sz4whez3a66af665p3hdpzctjd5zv8z3rnx4zww20fdqe4dr8c",
+        "name": "Hacuna Matata",
+        "symbol": "HACUNA",
+        "description": "Hacuna Matata, a CW20 token on Axiome Chain",
+        "decimals": 1,
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/axiome/asset/hacuna.png",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "cw20",
+        "contract": "axm14vjqp6cq9mr90wzmqxsa5erx70h4xy5eep0jynjqmlstupngtghqspmr7q",
+        "name": "Kepy.io",
+        "symbol": "KEPY",
+        "description": "Kepy.io, a CW20 token on Axiome Chain",
+        "decimals": 6,
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/axiome/asset/kepy.png",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "cw20",
+        "contract": "axm10qq2wthcrjl74vx6wuqyzzhre7hlckuyauyvsldxp95a6xcdfw5stypjvu",
+        "name": "KRINZHEVIK",
+        "symbol": "KRINZH",
+        "description": "KRINZHEVIK, a CW20 token on Axiome Chain",
+        "decimals": 6,
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/axiome/asset/krinzh.png",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "cw20",
+        "contract": "axm1hz3svgdhmv67lsqlduu0tcnd3f75c0xr0mu48l6ywuwlz43zssjqnua5v5",
+        "name": "Red&Black Poker",
+        "symbol": "RBP",
+        "description": "Red&Black Poker, a CW20 token on Axiome Chain",
+        "decimals": 6,
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/axiome/asset/rbp.png",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "cw20",
+        "contract": "axm14rse3e7rkc3qt7drmlulwlkrlzqvh7hv277zv05kyfuwl74udx5sdlw02u",
+        "name": "SIMBA",
+        "symbol": "SIMBA",
+        "description": "SIMBA, a CW20 token on Axiome Chain",
+        "decimals": 6,
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/axiome/asset/simba.png",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "cw20",
+        "contract": "axm1taerpmv0tzdrnls7z567khds88fwfpdaeeg7s0wkel9zjap7gnes95u3uw",
+        "name": "Travis",
+        "symbol": "TRVS",
+        "description": "Travis, a CW20 token on Axiome Chain",
+        "decimals": 6,
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/axiome/asset/trvs.png",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "cw20",
+        "contract": "axm18a8yfa7hw0y5h0lfdcrddh98tzawv3yz8cqhkl4f50wqe2u4m33sssjz7s",
+        "name": "USD Bridged",
+        "symbol": "USDB",
+        "description": "Bridged stable token on Axiome Chain",
+        "decimals": 6,
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/axiome/asset/usdb.png",
+        "coinGeckoId": ""
     }
 ]
