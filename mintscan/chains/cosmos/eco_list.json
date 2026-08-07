@@ -72,5 +72,32 @@
             "twitter": "https://x.com/cosmosrescue",
             "docs": "https://docs.atomcircuit.net"
         }
+    },
+    {
+        "name": "Hydro Auctions",
+        "type": "DeFi",
+        "description": "Hydro gives ATOM stakers the opportunity to allocate the Hub’s liquidity by voting on bids submitted by projects, and receive tributes for their support.",
+        "status": "open",
+        "thumbnail" : "hydroauctions",
+        "link": "https://hydro.markets/v2",
+        "social": {
+            "webSite": "https://hydro.markets/v2",
+            "telegram": "https://t.me/hydro_community",
+            "twitter": "https://x.com/hydromarkets",
+            "docs": "https://hydro.markets/docs"
+        }
+    },
+    {
+        "name": "Inflow",
+        "type": "Earn",
+        "description": "Deposit and earn stable, risk-adjusted yield while Hydro manages DeFi complexity across protocols and chains, security and risk assessments included.",
+        "status": "open",
+        "thumbnail" : "hydroinflow",
+        "link": "https://hydro.markets/inflow",
+        "social": {
+            "webSite": "https://hydro.markets/inflow",
+            "telegram": "https://t.me/hydro_community",
+            "twitter": "https://x.com/hydromarkets"
+        }
     }
 ]

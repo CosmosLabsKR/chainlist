@@ -969,16 +969,16 @@
     },
     {
         "id": 42,
-        "name": "Hydro",
+        "name": "Hydro Auctions",
         "description": "Hydro lets ATOM holders vote on project bids to direct liquidity and earn rewards. It’s in view-only mode, with pilot rounds ongoing.",
         "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/hydro.png",
-        "link": "https://hydro.cosmos.network/",
+        "link": "https://hydro.markets/v2",
         "chains": [
             "cosmos"
         ],
         "socials": {
             "telegram": "https://t.me/hydro_community",
-            "twitter": "https://x.com/HydroTeam_"
+            "twitter": "https://x.com/hydromarkets"
         },
         "type": "DeFi"
     },
