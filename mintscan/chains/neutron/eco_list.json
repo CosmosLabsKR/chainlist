@@ -184,19 +184,6 @@
         }
     },
     {
-        "name": "Hydro",
-        "type": "Earn",
-        "description": "Hydro gives ATOM stakers the opportunity to allocate the Hub’s liquidity by voting on bids submitted by projects, and receive tributes for their support.",
-        "status": "open",
-        "thumbnail" : "hydro",
-        "link": "https://hydro.cosmos.network/",
-        "social": {
-            "webSite": "https://hydro.cosmos.network/",
-            "telegram": "https://t.me/+xUzNOTZjUNw5Mzhk",
-            "docs": "https://hydro.cosmos.network/docs"
-        }
-    },
-    {
         "name": "DaoDao",
         "type": "Dao",
         "description": "Simple, capable, and free DAO toolings for Cosmos",
