@@ -36,6 +36,29 @@
     },
     {
         "type": "ibc",
+        "denom": "ibc/105737ABD063B251A254845B002EB6ADD69F17EBF12F1E93FA1CA071BCBB2980",
+        "name": "Injective",
+        "symbol": "USDC.inj",
+        "description": "USD Coin - Directly minted on Injective by the Circle Foundation",
+        "decimals": 6,
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/injective/asset/usdc.png",
+        "coinGeckoId": "usd-coin",
+        "ibc_info": {
+            "path": "injective>cosmos>babylon",
+            "client": {
+                "channel": "channel-0",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-1341",
+                "port": "transfer",
+                "chain": "cosmos",
+                "denom": "ibc/E107DB3E8AABB49C87CB737A1ABBFDBA9803ECAE05E295D8D7A0B1A7FE83706C"
+            }
+        }
+    },
+    {
+        "type": "ibc",
         "denom": "ibc/632D09C1324B38144BD3B8879EC56303496798209341138900F338CCDBADD970",
         "name" : "Persistence One",
         "symbol": "XPRT",
