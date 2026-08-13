@@ -11,6 +11,29 @@
     },
     {
         "type": "ibc",
+        "denom": "ibc/ADC71E62475958819B2D3D5FA2EBC2B94EB62E3D9EF3F3E00E466306E9DB612F",
+        "name": "Injective",
+        "symbol": "USDC.inj",
+        "description": "USD Coin - Directly minted on Injective by the Circle Foundation",
+        "decimals": 6,
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/injective/asset/usdc.png",
+        "coinGeckoId": "usd-coin",
+        "ibc_info": {
+            "path": "injective>cosmos>zigchain",
+            "client": {
+                "channel": "channel-4",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-1555",
+                "port": "transfer",
+                "chain": "cosmos",
+                "denom": "ibc/E107DB3E8AABB49C87CB737A1ABBFDBA9803ECAE05E295D8D7A0B1A7FE83706C"
+            }
+        }
+    },
+    {
+        "type": "ibc",
         "denom": "ibc/6490A7EAB61059BFC1CDDEB05917DD70BDF3A611654162A1A47DB930D40D8AF4",
         "name": "USDC",
         "symbol": "USDC",
