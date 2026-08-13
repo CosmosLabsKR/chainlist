@@ -864,30 +864,6 @@
     },
     {
         "type": "ibc",
-        "denom": "ibc/DBD9E339E1B093A052D76BECFFDE8435EAC114CF2133346B4D691F3F2068C957",
-        "name" : "Lombard Staked BTC",
-        "symbol": "LBTC",
-        "description": "Lombard Staked BTC.",
-        "decimals": 8,
-        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/lombard/asset/lbtc.png",
-        "coinGeckoId": "lombard-staked-btc",
-        "color": "#04fbfb",
-        "ibc_info" : {
-            "path": "lombard>cosmos",
-            "client" : {
-                "channel": "channel-1340",
-                "port": "transfer"
-            },
-            "counterparty": {
-                "channel": "channel-0",
-                "port": "transfer",
-                "chain": "lombard",
-                "denom": "uclbtc"
-            }
-        }
-    },
-    {
-        "type": "ibc",
         "denom": "ibc/7017AD43F9A09EFE8760556753B019B1B5C2E965095DEC22B613F7B010DF91D6",
         "name" : "Babylon",
         "symbol": "BABY",
