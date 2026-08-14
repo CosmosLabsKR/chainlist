@@ -1571,9 +1571,9 @@
     {
         "type": "ibc",
         "denom": "ibc/F8215CF2CD97294057DBECAA45E3ABEB6012D25550750DA8EC56BEC73F0E522F",
-        "name": "COREUM",
-        "symbol": "COREUM",
-        "description": "COREUM on the Cosmos Hub",
+        "name": "TX",
+        "symbol": "TX",
+        "description": "TX on the Cosmos Hub",
         "decimals": 18,
         "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/coreum/asset/core.png",
         "coinGeckoId": "coreum",
