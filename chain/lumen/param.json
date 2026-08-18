@@ -1,0 +1,20 @@
+{
+  "grpc_endpoint": [
+    {
+      "provider": "LinkNode",
+      "url": "lumen-grpc.linknode.org:443"
+    },
+    {
+      "provider": "BlockSync",
+      "url": "lumen-grpc.blocksync.me:443"
+    },
+    {
+      "provider": "MekongLabs",
+      "url": "lumen-mainnet-grpc.mekonglabs.tech:35090"
+    },
+    {
+      "provider": "AstroStake",
+      "url": "lumen-grpc.astrostake.xyz:443"
+    }
+  ]
+}
