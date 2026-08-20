@@ -14,7 +14,7 @@
         "type": "native",
         "denom": "erc20:0xa00C59fF5a080D2b954d0c75e46E22a0c371235a",
         "name": "USD Coin",
-        "symbol": "USDC",
+        "symbol": "USDC.inj",
         "description": "USD Coin - Directly minted on Injective by the Circle Foundation",
         "decimals": 6,
         "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/injective/asset/usdc.png",
