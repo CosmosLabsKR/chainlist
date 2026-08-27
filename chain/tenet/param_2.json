@@ -47,12 +47,8 @@
     ],
     "evm_rpc_endpoint" : [
         {
-            "provider": "Publicnode",
-            "url": "https://tenet-evm.publicnode.com"
-        },
-        {
-            "provider": "Tenet",
-            "url": "https://rpc.tenet.org"
+            "provider": "Ankr",
+            "url": "https://rpc.ankr.com/tenet_evm"
         }
     ],
     "explorer" : {

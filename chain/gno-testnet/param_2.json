@@ -1,5 +1,5 @@
 {
-    "chain_id_cosmos" : "test11",
+    "chain_id_cosmos" : "sapphire-1",
     "chain_name": "GNO Testnet",
     "chain_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/gno-testnet/resource/chain_gno-testnet.png",
     "staking_asset_denom" : "ugnot",
@@ -45,7 +45,7 @@
     "cosmos_rpc_endpoint" : [
         {
             "provider": "Gno Land",
-            "url": "https://rpc.test11.testnets.gno.land"
+            "url": "https://rpc.sapphire.testnets.gno.land:443"
         }
     ],
     "explorer" : {
