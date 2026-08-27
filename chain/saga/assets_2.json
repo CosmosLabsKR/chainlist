@@ -14,7 +14,7 @@
         "type": "ibc",
         "denom": "ibc/B90825FF57A70109217065F9BB1F61D4C7B2520708304DF356FB7E41E4944EAD",
         "name": "USDC",
-        "symbol": "USDC",
+        "symbol": "USDC.n",
         "description": "USDC is a fully collateralized US Dollar stablecoin developed by CENTRE, the open source project with Circle being the first of several forthcoming issuers.",
         "decimals": 6,
         "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/noble/asset/usdc.png",

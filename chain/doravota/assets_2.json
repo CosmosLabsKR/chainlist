@@ -8,6 +8,29 @@
         "decimals": 18,
         "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/doravota/asset/dora.png",
         "coinGeckoId": "dora-factory-2"
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/8AF69BC1E1D72B447738B50C28B382F62F2AF65DE303021E45C0B7C851B4B2E1",
+        "name" : "USDC",
+        "symbol": "USDC.n",
+        "description": "USD Coin - Directly minted on the Noble chain by the Circle Foundation.",
+        "decimals": 6,
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/noble/asset/usdc.png",
+        "coinGeckoId": "usd-coin",
+        "ibc_info" : {
+            "path": "noble>doravota",
+            "client" : {
+                "channel": "channel-14",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-94",
+                "port": "transfer",
+                "chain": "noble",
+                "denom": "uusdc"
+            }
+        }
     }
 ]
  

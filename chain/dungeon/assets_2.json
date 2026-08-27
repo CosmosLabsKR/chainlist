@@ -59,7 +59,7 @@
         "type": "ibc",
         "denom": "ibc/489C406A3029B50486F991E468CB8A7D5F039757327A40B0684C530BFF96C543",
         "name" : "USD Coin",
-        "symbol": "USDC",
+        "symbol": "USDC.n",
         "description": "USD Coin - Directly minted on the Noble chain by the Circle Foundation.",
         "decimals": 6,
         "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/noble/asset/usdc.png",
