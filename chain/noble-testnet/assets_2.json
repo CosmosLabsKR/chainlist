@@ -13,7 +13,7 @@
         "type": "native",
         "denom": "uusdc",
         "name" : "Circle USD Coin Testnet",
-        "symbol": "USDC",
+        "symbol": "USDC.n",
         "description": "Noble Testnet Native Coin",
         "decimals": 6,
         "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/noble-testnet/asset/usdc.png",
