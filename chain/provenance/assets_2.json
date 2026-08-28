@@ -9,5 +9,28 @@
         "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/provenance/asset/hash.png",
         "coinGeckoId": "hash-2",
         "color": "#57c386"
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/616E26A85AD20A3DDEAEBDDE7262E3BA9356C557BC15CACEA86768D7D51FA703",
+        "name" : "USDC",
+        "symbol": "USDC.n",
+        "description": "USD Coin - Directly minted on the Noble chain by the Circle Foundation.",
+        "decimals": 6,
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/noble/asset/usdc.png",
+        "coinGeckoId": "usd-coin",
+        "ibc_info" : {
+            "path": "noble>provenance",
+            "client" : {
+                "channel": "channel-10",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-20",
+                "port": "transfer",
+                "chain": "noble",
+                "denom": "uusdc"
+            }
+        }
     }
 ]
