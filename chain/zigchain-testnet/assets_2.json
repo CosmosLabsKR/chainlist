@@ -17,7 +17,7 @@
         "symbol": "USDC.n",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/noble/asset/usdc.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/noble-testnet/asset/usdc.png",
         "coinGeckoId": "",
         "ibc_info": {
             "path": "noble-testnet>zigchain-testnet",
