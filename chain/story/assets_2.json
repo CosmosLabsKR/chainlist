@@ -2,11 +2,11 @@
     {
         "type": "native",
         "denom": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
-        "name" : "Story Testnet",
-        "symbol": "IP",
-        "description": "Story native coin",
+        "name" : "Data Network",
+        "symbol": "DATA",
+        "description": "Data Network native coin",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/story/asset/ip.png",
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/story/asset/data.png",
         "coinGeckoId": "story-2",
         "color": "#6A62FF"
     }
