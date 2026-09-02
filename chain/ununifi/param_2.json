@@ -11,8 +11,8 @@
     "origin_genesis_time": "2022-05-25T03:00:00Z",
     "api_name": "ununifi",
     "is_support_mintscan": false,
-    "is_support_mobile_wallet" : true,
-    "is_support_extension_wallet" : true,
+    "is_support_mobile_wallet" : false,
+    "is_support_extension_wallet" : false,
     "chain_type": [
         "cosmos"
     ],
