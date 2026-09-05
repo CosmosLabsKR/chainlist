@@ -2076,5 +2076,15 @@
         "decimals": 18,
         "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/injective/asset/helixpoint.png",
         "coinGeckoId": ""
+    },
+    {
+        "type": "native",
+        "denom": "factory/inj13j2rpnlwl30c02d4pzukykwfeyyhelvry9cqte/shroom_157_99c09d972f9c1f79",
+        "name": "zztop",
+        "symbol": "ZZTOP",
+        "description": "zztop is a community meme token on Injective, launched on Trippy Pump (SHROOM Pad)",
+        "decimals": 18,
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/injective/asset/zztop.png",
+        "coinGeckoId": ""
     }
 ]
