@@ -63,7 +63,7 @@
         "type": "ibc",
         "denom": "ibc/00D8C59ACB5ACA18B842991E964100FA9A5B30B48F44483963F6614DF2463D8E",
         "name" : "Zig",
-        "symbol": "ZIG",
+        "symbol": "ZIG.legacy",
         "description": "Legacy pre-v5 base denomination of ZIG on ZigChain-Testnet",
         "decimals": 6,
         "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/zigchain/asset/zig.png",
