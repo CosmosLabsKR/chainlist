@@ -88,7 +88,7 @@
         "name" : "Zig",
         "symbol": "ZIG",
         "description": "The native token of ZigChain-Testnet",
-        "decimals": 6,
+        "decimals": 18,
         "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/zigchain/asset/zig.png",
         "coinGeckoId": "",
         "ibc_info" : {
