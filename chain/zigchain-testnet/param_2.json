@@ -25,9 +25,9 @@
     "cosmos_fee_info" : {
         "base" : "0",
         "rate" : [
-            "0.0025azig",
-            "0.025azig",
-            "0.05azig"
+            "2500000000azig",
+            "25000000000azig",
+            "50000000000azig"
         ],
         "is_simulable" : true,
         "simulated_gas_multiply" : 1.2,
