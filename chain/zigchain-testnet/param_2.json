@@ -2,7 +2,7 @@
     "chain_id_cosmos": "zig-test-2",
     "chain_name": "ZigChain Testnet",
     "chain_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/zigchain-testnet/resource/chain_zigchain-testnet.png",
-    "staking_asset_denom" : "uzig",
+    "staking_asset_denom" : "azig",
     "staking_asset_symbol" : "ZIG",
     "staking_asset_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/zigchain-testnet/asset/zig.pn",
     "bech_account_prefix" : "zig",
@@ -25,9 +25,9 @@
     "cosmos_fee_info" : {
         "base" : "0",
         "rate" : [
-            "0.0025uzig",
-            "0.025uzig",
-            "0.05uzig"
+            "0.0025azig",
+            "0.025azig",
+            "0.05azig"
         ],
         "is_simulable" : true,
         "simulated_gas_multiply" : 1.2,

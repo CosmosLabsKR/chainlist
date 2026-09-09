@@ -1,11 +1,11 @@
 [
     {
         "type": "native",
-        "denom": "uzig",
+        "denom": "azig",
         "name" : "Zig",
         "symbol": "ZIG",
         "description": "The native token of Zig Chain Testnet",
-        "decimals": 6,
+        "decimals": 18,
         "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/zigchain-testnet/asset/zig.png",
         "coinGeckoId": "",
         "color": ""
