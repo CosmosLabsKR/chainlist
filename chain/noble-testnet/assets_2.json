@@ -64,7 +64,7 @@
         "denom": "ibc/00D8C59ACB5ACA18B842991E964100FA9A5B30B48F44483963F6614DF2463D8E",
         "name" : "Zig",
         "symbol": "ZIG",
-        "description": "The native token of ZigChain-Testnet",
+        "description": "Legacy pre-v5 base denomination of ZIG on ZigChain-Testnet",
         "decimals": 6,
         "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/zigchain/asset/zig.png",
         "coinGeckoId": "",
@@ -79,6 +79,29 @@
                 "port": "transfer",
                 "chain": "zigchain-testnet",
                 "denom": "uzig"
+            }
+        }
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/D67DBA5302DBB4C663FC59DC8639EADC8104AD28CD22FE83571A79DE6128717E",
+        "name" : "Zig",
+        "symbol": "ZIG",
+        "description": "The native token of ZigChain-Testnet",
+        "decimals": 6,
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/zigchain/asset/zig.png",
+        "coinGeckoId": "",
+        "ibc_info" : {
+            "path": "zigchain-testnet>noble-testnet",
+            "client" : {
+                "channel": "channel-704",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-44",
+                "port": "transfer",
+                "chain": "zigchain-testnet",
+                "denom": "azig"
             }
         }
     }
