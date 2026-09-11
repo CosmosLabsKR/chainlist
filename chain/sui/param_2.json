@@ -21,7 +21,7 @@
     "rpc_endpoint" : [
         {
             "provider": "Foundation",
-            "url": "https://fullnode.mainnet.sui.io:443"
+            "url": "fullnode.mainnet.sui.io:443"
         }
     ],
     "explorer" : {
