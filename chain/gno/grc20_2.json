@@ -1,0 +1,24 @@
+[
+    {
+        "type": "grc20",
+        "contract": "gno.land/r/gnoswap/gns",
+        "name" : "Gnoswap",
+        "symbol": "GNS",
+        "description": "",
+        "decimals": 6,
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/gno/asset/gns.png",
+        "coinGeckoId": "",
+        "wallet_preload": true
+    }
+    {
+        "type": "grc20",
+        "contract": "gno.land/r/gnoland/wugnot",
+        "name" : "wrapped GNOT",
+        "symbol": "wugnot",
+        "description": "",
+        "decimals": 0,
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/gno/asset/wgnot.png",
+        "coinGeckoId": "",
+        "wallet_preload": true
+    }
+]
