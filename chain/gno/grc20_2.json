@@ -9,7 +9,7 @@
         "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/gno/asset/gns.png",
         "coinGeckoId": "",
         "wallet_preload": true
-    }
+    },
     {
         "type": "grc20",
         "contract": "gno.land/r/gnoland/wugnot",
