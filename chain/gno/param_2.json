@@ -13,6 +13,7 @@
     "is_support_mintscan": false,
     "is_support_mobile_wallet" : true,
     "is_support_extension_wallet" : false,
+    "is_support_grc20" : true,
     "chain_type": [
         "gno"
     ],
