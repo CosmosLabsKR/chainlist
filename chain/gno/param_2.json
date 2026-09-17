@@ -43,7 +43,7 @@
     "cosmos_rpc_endpoint" : [
         {
             "provider": "Gno Land",
-            "url": "https://rpc.onbloc.xyz:433"
+            "url": "https://rpc.onbloc.xyz:443"
         }
     ],
     "explorer" : {
