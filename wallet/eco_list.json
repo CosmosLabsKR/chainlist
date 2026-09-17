@@ -1190,22 +1190,6 @@
         "type": "DeFi"
     },
     {
-        "id": 55,
-        "name": "AlphaFi",
-        "description": "Smart Yield Aggregator. Best Safe Real Yields on Sui Network.",
-        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/alphafi.png",
-        "link": "https://alphafi.xyz/portfolio",
-        "chains": [
-            "sui"
-        ],
-        "socials": {
-            "telegram": "https://t.me/AlphaFiSUI",
-            "twitter": "https://x.com/AlphaFiSUI",
-            "discord": "https://discord.com/invite/Pn6cKUSqSs"
-        },
-        "type": "DeFi"
-    },
-    {
         "id": 58,
         "name": "Scallop",
         "description": "The Next Generation Money Market Based on Sui.",
@@ -1238,18 +1222,6 @@
             "discord": "https://discord.com/invite/R6Xkbee8Xq"
         },
         "type": "DeFi"
-    },
-    {
-        "id": 60,
-        "name": "Splash Dash",
-        "description": "Splash Dash is an intuitive SUI dashboard that offers SUI users an one-for-all platform for staking, investments, and asset management.",
-        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/splashdash.png",
-        "link": "https://dash.splash.im/mainnet/dashboard",
-        "chains": [
-            "sui"
-        ],
-        "socials": {},
-        "type": "DashBoard"
     },
     {
         "id": 62,
