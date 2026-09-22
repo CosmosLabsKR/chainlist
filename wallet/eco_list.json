@@ -4372,6 +4372,38 @@
 			"twitter": "https://x.com/TicsSlyMtgfe"
 		},
 		"type": "DashBoard"
+    },
+    {
+        "id": 252,
+        "name": "GnoSwap",
+        "description": "The first Concentrated Liquidity AMM DEX built using Gnolang to offer the most simplified and user-friendly DeFi experience for traders.",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/gnoswap.png",
+        "link": "https://gnoswap.io/",
+        "chains": [
+            "gno"
+        ],
+        "socials": {
+            "github": "https://github.com/gnoswap-labs",
+            "twitter": "https://x.com/gnoswaplabs",
+            "discord": "https://discord.com/invite/u4bdGHStb2"
+        },
+        "type": "DEX"
+    },
+    {
+        "id": 253,
+        "name": "Gnomic Claim",
+        "description": "Claim your GNOMIC allocation from the original GNOT holders. Choose how you want to receive your tokens.",
+        "thumbnail" : "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/wallet/resource/gnomic.png",
+        "link": "https://claim.gnomic.wtf/",
+        "chains": [
+            "gno"
+        ],
+        "socials": {
+            "github": "https://github.com/gnomic-gnoland",
+            "twitter": "https://x.com/gnomic_gnoland",
+            "discord": "https://t.me/gnomic_gnoland"
+        },
+        "type": "Airdrop"
     }
 ]
  
