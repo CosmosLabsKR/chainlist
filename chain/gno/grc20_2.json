@@ -27,7 +27,7 @@
         "name" : "GNOMIC",
         "symbol": "GNOMIC",
         "description": "",
-        "decimals": 0,
+        "decimals": 6,
         "image": "https://raw.githubusercontent.com/onbloc/gno-token-resource/main/grc20/images/gno_land_r_nym-thegnomic001_gnomic.svg",
         "coinGeckoId": "",
         "wallet_preload": true
