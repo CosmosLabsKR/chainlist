@@ -20,5 +20,16 @@
         "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/gno/asset/wgnot.png",
         "coinGeckoId": "",
         "wallet_preload": true
+    },
+    {
+        "type": "grc20",
+        "contract": "gno.land/r/nym-thegnomic001/gnomic",
+        "name" : "GNOMIC",
+        "symbol": "GNOMIC",
+        "description": "",
+        "decimals": 0,
+        "image": "https://raw.githubusercontent.com/onbloc/gno-token-resource/main/grc20/images/gno_land_r_nym-thegnomic001_gnomic.svg",
+        "coinGeckoId": "",
+        "wallet_preload": true
     }
 ]
