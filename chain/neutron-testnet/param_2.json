@@ -8,9 +8,9 @@
     "bech_account_prefix" : "neutron",
     "bech_validator_prefix" : "neutronvaloper",
     "api_name" : "neutron-testnet",
-    "is_support_mintscan": true,
-    "is_support_mobile_wallet": true,
-    "is_support_extension_wallet": true,
+    "is_support_mintscan": false,
+    "is_support_mobile_wallet": false,
+    "is_support_extension_wallet": false,
     "chain_type": [
         "cosmos"
     ],
@@ -39,10 +39,10 @@
         }
     ],
     "explorer" : {
-        "name": "Mintscan",
-        "url": "https://www.mintscan.io/neutron-testnet/",
-        "account": "https://www.mintscan.io/neutron-testnet/address/${address}",
-        "tx": "https://www.mintscan.io/neutron-testnet/tx/${hash}"
+        "name": "",
+        "url": "",
+        "account": "",
+        "tx": ""
     },
     "about": {
         "website": "https://neutron.org/",
