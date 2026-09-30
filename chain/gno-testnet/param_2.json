@@ -1,5 +1,5 @@
 {
-    "chain_id_cosmos" : "pearl-1",
+    "chain_id_cosmos" : "onex-1",
     "chain_name": "GNO Testnet",
     "chain_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/gno-testnet/resource/chain_gno-testnet.png",
     "main_asset_denom" : "ugnot",
