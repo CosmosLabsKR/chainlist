@@ -1840,5 +1840,28 @@
                 "denom": "axpla"
             }
         }
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/38A44A31B87C342F1E83E3CBF97B257C561B91AAF16007ECFE5E058033DD7745",
+        "name" : "Zigchain",
+        "symbol": "ZIG",
+        "description": "Zigchain Staking Coin",
+        "decimals": 18,
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/zigchain/asset/zig.png",
+        "coinGeckoId": "zigchain",
+        "ibc_info" : {
+            "path": "zigchain>cosmos",
+            "client" : {
+                "channel": "channel-1555",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-4",
+                "port": "transfer",
+                "chain": "zigchain",
+                "denom": "azig"
+            }
+        }
     }
 ]
