@@ -14,7 +14,7 @@
         "denom": "uret",
         "name": "Referral Energy Token",
         "symbol": "RET",
-        "description": "Referral Energy Token of Axiome Chain. Minted one to one to the referral upline when a delegation is made, grants a discount on network fees, and determines the holder's share of the Community Pool.",
+        "description": "Referral Energy Token of Axiome Chain.",
         "decimals": 6,
         "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/axiome/asset/ret.png",
         "coinGeckoId": ""
