@@ -35,7 +35,8 @@
         "init_gas_limit": 300000,
         "fee_threshold": ""
     },
-    "grpc_endpoint": [],
+    "grpc_endpoint": [
+    ],
     "lcd_endpoint": [
         {
             "provider": "Trickle",
@@ -46,15 +47,18 @@
         "name": "Axiome Explorer",
         "url": "https://axiomechain.pro",
         "account": "https://axiomechain.pro/address/${address}",
-        "tx": "https://axiomechain.pro/transactions/${hash}"
+        "tx": "https://axiomechain.pro/transactions/${hash}",
+        "proposal": ""
     },
     "about": {
         "website": "https://axiome.pro/en",
         "github": "https://github.com/axiome-pro/axm-node",
         "twitter": "https://x.com/axiome_pro",
-        "coingecko": "axiome"
+        "coingecko": "https://www.coingecko.com/en/coins/axiome"
     },
-    "description": {
-        "en": "Axiome is a Cosmos SDK layer-1 with CosmWasm smart contracts. Its referral model is part of the protocol: staking, distribution and slashing are forked into a custom namespace, and delegation mints a separate reward token to the delegator's referral upline, up to fourteen levels deep. Contract upload is permissionless, and the network hosts an AMM, a CW721 NFT marketplace and a set of CW20 tokens."
+    "description" : {
+        "ko" : "Axiome은 CosmWasm 스마트 컨트랙트를 지원하는 Cosmos SDK 기반 레이어 1로, 다단계 추천 스테이킹, AMM, NFT 마켓플레이스, CW20 토큰을 제공합니다.",
+        "en" : "Axiome is a Cosmos SDK layer-1 with CosmWasm smart contracts, multi-level referral staking, an AMM, NFT marketplace, and CW20 tokens.",
+        "ja" : "Axiomeは、CosmWasmスマートコントラクトに対応したCosmos SDKベースのレイヤー1で、マルチレベル紹介ステーキング、AMM、NFTマーケットプレイス、CW20トークンを提供しています。"
     }
 }
