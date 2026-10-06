@@ -1,14 +1,88 @@
 {
     "chain_id_cosmos": "kiichain_1783-1",
     "chain_name": "KiiChain",
-    "chain_image":
-        "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/kii/resource/chain_kii.png",
+    "chain_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/kii/resource/chain_kii.png",
     "staking_asset_denom": "akii",
     "staking_asset_symbol": "KII",
+    "staking_asset_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/kii/asset/kii.png",
+    "bech_account_prefix" : "kii",
+    "bech_validator_prefix" : "kiivaloper",
+    "origin_genesis_time" : "2025-12-05T12:00:00Z",
+    "api_name" : "kii",
+    "is_support_mobile_wallet": true,
+    "is_support_extension_wallet": true,
+    "chain_type": [
+        "cosmos",
+        "evm"
+    ],
+    "account_type" : [
+        {
+            "hd_path": "m/44'/60'/0'/0/X",
+            "pubkey_style": "keccak256",
+            "pubkey_type": "/ethermint.crypto.v1.ethsecp256k1.PubKey"
+        }
+    ],
+    "cosmos_fee_info" : {
+        "base" : "2",
+        "rate" : [
+            "600000000akii",
+            "750000000akii",
+            "1000000000akii"
+        ],
+        "is_simulable" : true,
+        "simulated_gas_multiply" : 1.2,
+        "init_gas_limit" : 300000,
+        "fee_threshold" : ""
+    },
+    "evm_fee_info" : {
+        "is_eip1559": true,
+        "simulated_gas_multiply" : 1.2
+    },
+    "evm_multicall_info" : {
+        "is_support_multicall": false,
+        "multicall_address" : ""
+    },
+    "grpc_endpoint" : [
+        {
+            "provider": "OneNov",
+            "url": "grpc-kiichain-mainnet.onenov.xyz:443"
+        }
+    ],
     "lcd_endpoint": [
+        {
+            "provider": "OneNov",
+            "url": "https://api-kiichain-mainnet.onenov.xyz/"
+        },
         {
             "provider": "Kiichain",
             "url": "https://lcd.kiivalidator.com/"
         }
-    ]
+    ],
+    "evm_rpc_endpoint" : [
+        {
+            "provider": "Kiichain",
+            "url": "https://json-rpc.kiivalidator.com"
+        }
+    ],
+    "explorer" : {
+        "name": "KiiChain",
+        "url": "https://explorer.kiichain.io/",
+        "account": "https://explorer.kiichain.io/address/${address}",
+        "tx": "https://explorer.kiichain.io/tx/${hash}",
+        "proposal": "https://explorer.kiichain.io/governance/${id}"
+    },
+    "about" : {
+        "website" : "https://kiichain.io/",
+        "docs": "https://docs.kiiglobal.io/docs",
+        "github" : "https://github.com/KiiChain/kiichain",
+        "blog" : "https://blog.kiiglobal.io/",
+        "medium": "",
+        "twitter" : "https://x.com/KiiChainio",
+        "coingecko" : "https://www.coingecko.com/en/coins/kiichain"
+    },
+    "description" : {
+        "ko" : "KiiChain은 온체인 외환(FX), 스테이블코인, 크로스보더 결제를 중심으로 하는 블록체인 생태계입니다. 멀티체인 연동과 온체인 FX 인프라를 통해 빠르고 효율적인 외환 거래 및 국제 결제를 지원합니다.",
+        "en" : "KiiChain is a Cosmos SDK-based Layer 1 focused on on-chain FX, stablecoins, and cross-border payments. It provides EVM compatibility and multi-chain connectivity to enable fast, low-cost FX settlement and payment infrastructure.",
+        "ja" : "KiiChainは、オンチェーンFX、ステーブルコイン、クロスボーダー決済に特化したブロックチェーンエコシステムです。 マルチチェーン連携とオンチェーンFXインフラを活用し、高速かつ効率的な外国為替取引や国際決済を実現します。"
+    }
 }

@@ -1,0 +1,10 @@
+{
+        "type": "native",
+        "denom": "akii",
+        "name" : "KiiChain",
+        "symbol": "KII",
+        "description": "The native token of KiiChain",
+        "decimals": 18,
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/kii/asset/kii.png",
+        "coinGeckoId": "kiichain"
+}
