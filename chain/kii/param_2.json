@@ -1,5 +1,6 @@
 {
-    "chain_id_cosmos": "kiichain_1783-1",
+    "chain_id_cosmos" : "kiichain_1783-1",
+    "chain_id_evm" : "0x6f7",
     "chain_name": "KiiChain",
     "chain_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/kii/resource/chain_kii.png",
     "staking_asset_denom": "akii",
