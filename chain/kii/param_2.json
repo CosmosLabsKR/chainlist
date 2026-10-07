@@ -24,7 +24,7 @@
         }
     ],
     "cosmos_fee_info" : {
-        "base" : "2",
+        "base" : "1",
         "rate" : [
             "600000000akii",
             "750000000akii",
