@@ -2,7 +2,7 @@
     {
         "type": "grc20",
         "contract": "gno.land/r/gnoswap/gns",
-        "name" : "Gnoswap",
+        "name" : "GnoSwap",
         "symbol": "GNS",
         "description": "",
         "decimals": 6,
@@ -31,5 +31,35 @@
         "image": "https://raw.githubusercontent.com/onbloc/gno-token-resource/main/grc20/images/gno_land_r_nym-thegnomic001_gnomic.svg",
         "coinGeckoId": "",
         "wallet_preload": true
+    },
+    {
+        "type": "grc20",
+        "contract": "gno.land/r/gnoswap/gov/xgns",
+        "name" : "xGNS",
+        "symbol": "xGNS",
+        "description": "",
+        "decimals": 6,
+        "image": "https://raw.githubusercontent.com/onbloc/gno-token-resource/main/grc20/images/gno_land_r_gnoswap_gov_xgns.svg",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "grc20",
+        "contract": "gno.land/r/g1leu8d2vsplhehcfkjg50mwgdpxdkt8tztu95wr/wbubble",
+        "name" : "BUBBLE (wrapped)",
+        "symbol": "BUBBLE",
+        "description": "",
+        "decimals": 6,
+        "image": "https://raw.githubusercontent.com/onbloc/gno-token-resource/main/grc20/images/gno_land_r_g1leu8d2vsplhehcfkjg50mwgdpxdkt8tztu95wr_wbubble.svg",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "grc20",
+        "contract": "gno.land/r/demo/defi/grc20factory",
+        "name" : "Perun",
+        "symbol": "PERUN",
+        "description": "",
+        "decimals": 6,
+        "image": "https://raw.githubusercontent.com/onbloc/gno-token-resource/main/grc20/images/perun.svg",
+        "coinGeckoId": ""
     }
 ]
