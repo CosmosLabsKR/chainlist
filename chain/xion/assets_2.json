@@ -192,5 +192,15 @@
                 "denom": "uelys"
             }
         }
+    },
+    {
+        "type": "native",
+        "denom": "factory/xion17grq736740r70awldugfs3mls3stu9haewctv2/verusd",
+        "name": "Verona USD",
+        "symbol": "verUSD",
+        "description": "Verona USD, a U.S. dollar stablecoin issued via Brale",
+        "decimals": 6,
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/xion/asset/verusd.png",
+        "coinGeckoId": "stable-coin-2"
     }
 ]
