@@ -1,5 +1,5 @@
 {
-    "chain_id_cosmos" : "irishub-1",
+    "chain_id_cosmos" : "irishub-2",
     "chain_name": "Iris",
     "chain_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/iris/resource/chain_iris.png",
     "staking_asset_denom" : "uiris",
