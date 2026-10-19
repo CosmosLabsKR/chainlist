@@ -1,0 +1,22 @@
+[
+  {
+    "type": "native",
+    "denom": "uluxa",
+    "name": "LUXA",
+    "symbol": "LUXA",
+    "description": "The native sovereign currency and governance token of the LUXA Layer 1 blockchain.",
+    "decimals": 6,
+    "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/luxa/asset/luxa.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "native",
+    "denom": "ushard",
+    "name": "LUXA Shard",
+    "symbol": "SHARD",
+    "description": "The utility and energy token of the LUXA Network ecosystem.",
+    "decimals": 6,
+    "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/luxa/asset/ushard.png",
+    "coinGeckoId": ""
+  }
+]
