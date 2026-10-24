@@ -1863,5 +1863,15 @@
                 "denom": "azig"
             }
         }
+    },
+    {
+        "type": "native",
+        "denom": "factory/cosmos1w9ee57gnduzm4l9h6xwn9tee9pyh8wlr4r9r35/art",
+        "name": "pARTy",
+        "symbol": "ART",
+        "description": "pARTy (ART) - where art meets Cosmos. A fair-launched community token minted natively on Cosmos Hub and used for trading art on inscription.zone",
+        "decimals": 6,
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/cosmos/asset/art.png",
+        "coinGeckoId": ""
     }
 ]

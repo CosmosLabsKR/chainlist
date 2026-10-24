@@ -11391,5 +11391,28 @@
           "denom": "factory/cosmos146s5j3t7gh2g37ywm47dp8avhesu2htvjjaxq7z55e7xj0rq0k8q5qnjjy/PHMN"
         }
       }
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/7D72341AF4AB0B2975BF933A425B81DAC2C940E50E7549207E2B3C6B14A9DAB2",
+        "name": "pARTy",
+        "symbol": "ART",
+        "description": "pARTy (ART) - where art meets Cosmos. A fair-launched community token minted natively on Cosmos Hub and used for trading art on inscription.zone",
+        "decimals": 6,
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/cosmos/asset/art.png",
+        "coinGeckoId": "",
+        "ibc_info": {
+            "path": "cosmos>osmosis",
+            "client": {
+                "channel": "channel-0",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-141",
+                "port": "transfer",
+                "chain": "cosmos",
+                "denom": "factory/cosmos1w9ee57gnduzm4l9h6xwn9tee9pyh8wlr4r9r35/art"
+            }
+        }
     }
 ]
