@@ -190,7 +190,7 @@
         "denom": "ibc/07755967D515C351351722C582AF8894F6F1836475D0C237C8B64B02CE8B91A8",
         "name" : "Zig",
         "symbol": "ZIG",
-        "description": "The native token of ZigChain",
+        "description": "The native token of Zig Finance",
         "decimals": 18,
         "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/zigchain/asset/zig.png",
         "coinGeckoId": "zignaly",

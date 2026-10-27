@@ -1844,12 +1844,12 @@
     {
         "type": "ibc",
         "denom": "ibc/38A44A31B87C342F1E83E3CBF97B257C561B91AAF16007ECFE5E058033DD7745",
-        "name" : "Zigchain",
+        "name" : "Zig",
         "symbol": "ZIG",
-        "description": "Zigchain Staking Coin",
+        "description": "Zig Finance Staking Coin",
         "decimals": 18,
         "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/zigchain/asset/zig.png",
-        "coinGeckoId": "zigchain",
+        "coinGeckoId": "zignaly",
         "ibc_info" : {
             "path": "zigchain>cosmos",
             "client" : {

@@ -1,6 +1,6 @@
 {
     "chain_id_cosmos": "zigchain-1",
-    "chain_name": "ZigChain",
+    "chain_name": "Zig Finance",
     "chain_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/zigchain/resource/chain_zigchain.png",
     "staking_asset_denom" : "azig",
     "staking_asset_symbol" : "ZIG",
@@ -51,14 +51,14 @@
         "url": "https://zigscan.org/",
         "account": "https://zigscan.org/address/${address}",
         "tx": "https://zigscan.org/tx/${hash}",
-        "proposal": ""
+        "proposal": "https://zigscan.org/proposals/${proposalId}"
     },
     "about" : {
-        "website" : "https://zigchain.com/",
+        "website" : "https://zig.finance/",
         "docs": "https://docs.zigchain.com/",
         "github" : "https://github.com/ZIGChain",
         "medium": "https://medium.com/zignaly",
-        "twitter" : "https://x.com/zigchain",
+        "twitter" : "https://x.com/ZIGFinance",
         "coingecko" : "https://www.coingecko.com/en/coins/zigchain"
     },
     "description" : {

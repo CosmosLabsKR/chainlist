@@ -4,7 +4,7 @@
         "denom": "azig",
         "name" : "Zig",
         "symbol": "ZIG",
-        "description": "The native token of Zig Chain Testnet",
+        "description": "The native token of Zig Finance Testnet",
         "decimals": 18,
         "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/zigchain-testnet/asset/zig.png",
         "coinGeckoId": "",
