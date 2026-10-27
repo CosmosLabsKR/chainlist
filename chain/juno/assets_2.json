@@ -533,7 +533,7 @@
         "description": "Licorice",
         "decimals": 6,
         "image": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/dgl.png",
-        "coinGeckoId": "dfe0e0"
+        "coinGeckoId": ""
     },
     {
         "type": "native",
@@ -543,7 +543,7 @@
         "description": "NEXX GEN AI",
         "decimals": 6,
         "image": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/nexx.png",
-        "coinGeckoId": "040405"
+        "coinGeckoId": ""
     },
     {
         "type": "ibc",

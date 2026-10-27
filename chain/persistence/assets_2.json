@@ -28,7 +28,7 @@
         "description": "PSTAKE Liquid-Staked OSMO",
         "decimals": 6,
         "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/persistence/asset/stkosmo.png",
-        "coinGeckoId": "stkosmo"
+        "coinGeckoId": ""
     },
     {
         "type": "native",
@@ -38,7 +38,7 @@
         "description": "PSTAKE Liquid-Staked DYDX",
         "decimals": 18,
         "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/persistence/asset/stkdydx.png",
-        "coinGeckoId": "stkdydx"
+        "coinGeckoId": ""
     },
     {
         "type": "native",
@@ -48,7 +48,7 @@
         "description": "PSTAKE Liquid-Staked STARS",
         "decimals": 6,
         "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/persistence/asset/stkstars.png",
-        "coinGeckoId": "stkstars"
+        "coinGeckoId": ""
     },
     {
         "type": "native",
@@ -58,7 +58,7 @@
         "description": "PSTAKE Liquid-Staked HUAHUA",
         "decimals": 6,
         "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/persistence/asset/stkhuahua.png",
-        "coinGeckoId": "stkhuahua"
+        "coinGeckoId": ""
     },
     {
         "type": "native",

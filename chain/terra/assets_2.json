@@ -688,7 +688,7 @@
         "description": "Wrapped BNB imported to Cosmos via Axelar.",
         "decimals": 18,
         "image": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/bnb.axl.svg",
-        "coinGeckoId": "bnb",
+        "coinGeckoId": "wbnb",
         "ibc_info" : {
             "path": "bnb-smart-chain>axelar>terra",
             "client" : {

@@ -168,7 +168,7 @@
         "description": "Stride Staked BAND",
         "decimals": 6,
         "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/stride/asset/stband.png",
-        "coinGeckoId": "stride-staked-band"
+        "coinGeckoId": ""
     },
     {
         "type": "ibc",

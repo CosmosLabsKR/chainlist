@@ -29,7 +29,7 @@
         "description": "The Longevity Token",
         "decimals": 9,
         "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/fetchai/asset/nomx.png",
-        "coinGeckoId": "nomix",
+        "coinGeckoId": "",
         "color": "#ff431a"
     }
 ]
