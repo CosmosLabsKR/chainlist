@@ -10,7 +10,7 @@
     "bech_validator_prefix" : "wardenvaloper",
     "origin_genesis_time" : "",
     "api_name": "",
-    "is_support_mobile_wallet" : true,
+    "is_support_mobile_wallet" : false,
     "is_support_extension_wallet" : false,
     "is_support_erc20" : false,
     "chain_type": [

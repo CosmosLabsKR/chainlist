@@ -10,7 +10,7 @@
     "bech_validator_prefix" : "lambvaloper",
     "origin_genesis_time" : "2022-09-22T08:16:02Z",
     "api_name": "lambda",
-    "is_support_mobile_wallet" : true,
+    "is_support_mobile_wallet" : false,
     "is_support_extension_wallet" : false,
     "is_support_erc20" : false,
     "chain_type": [

@@ -10,9 +10,9 @@
     "origin_genesis_time": "2026-06-24T00:00:00Z",
     "api_name": "safrochain",
     "is_support_cw20": true,
-    "is_support_mintscan": true,
-    "is_support_mobile_wallet": true,
-    "is_support_extension_wallet": true,
+    "is_support_mintscan": false,
+    "is_support_mobile_wallet": false,
+    "is_support_extension_wallet": false,
     "chain_type": [
         "cosmos"
     ],
