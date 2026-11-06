@@ -1,0 +1,12 @@
+[
+  {
+    "type": "native",
+    "denom": "leea",
+    "name": "LEEA",
+    "symbol": "LEEA",
+    "description": "Community and social development. Basic needs, services, and governance.",
+    "decimals": 8,
+    "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/wpdl2a/asset/leea.png",
+    "coinGeckoId": ""
+  }
+]

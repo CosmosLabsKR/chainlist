@@ -1,0 +1,41 @@
+{
+  "chain_id_cosmos": "wpd-mainnet-1",
+  "chain_name": "WPD Mainnet",
+  "chain_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/wpd/resource/chain_wpd.png",
+  "staking_asset_denom": "pcsm",
+  "staking_asset_symbol": "PCSM",
+  "staking_asset_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/wpd/asset/pcsm.png",
+  "bech_account_prefix": "wpd",
+  "bech_validator_prefix": "wpdvaloper",
+  "origin_genesis_time": "2026-10-29T14:51:53.605997798Z",
+  "api_name": "wpd",
+  "is_support_mintscan": false,
+  "is_support_mobile_wallet": false,
+  "is_support_extension_wallet": false,
+  "chain_type": [
+    "cosmos"
+  ],
+  "account_type": [
+    {
+      "hd_path": "m/44'/118'/0'/0/X",
+      "pubkey_style": "secp256k1",
+      "pubkey_type": "/cosmos.crypto.secp256k1.PubKey"
+    }
+  ],
+  "lcd_endpoint": [
+    {
+      "provider": "Peaceism",
+      "url": "https://api.peaceism.io"
+    }
+  ],
+  "explorer": {
+    "name": "WPD Explorer",
+    "url": "https://explorer.peaceism.io/"
+  },
+  "about": {
+    "website": "https://www.peaceism.io/"
+  },
+  "description": {
+    "en": "PEACEISM ECOSYSTEM COINS"
+  }
+}

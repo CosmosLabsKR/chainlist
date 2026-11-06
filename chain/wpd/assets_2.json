@@ -1,0 +1,12 @@
+[
+  {
+    "type": "native",
+    "denom": "pcsm",
+    "name": "PEACEISM ECOSYSTEM COINS",
+    "symbol": "PCSM",
+    "description": "PEACEISM ECOSYSTEM COINS",
+    "decimals": 8,
+    "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/wpd/asset/pcsm.png",
+    "coinGeckoId": ""
+  }
+]
