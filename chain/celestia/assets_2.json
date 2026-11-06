@@ -32,5 +32,51 @@
                 "denom": "factory/osmo1nr8zfakf6jauye3uqa9lrmr5xumee5n42lv92z/toro"
             }
         }
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/F45DC4947A92920042ED026E0CE008FF0DE96A6E10A4CD39AE8E46B846B3CFAD",
+        "name": "LUXA",
+        "symbol": "LUXA",
+        "description": "The native sovereign currency and governance token of the LUXA Layer 1 blockchain.",
+        "decimals": 6,
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/luxa/asset/luxa.png",
+        "coinGeckoId": "",
+        "ibc_info": {
+            "path": "luxa>celestia",
+            "client": {
+                "channel": "channel-709",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-3",
+                "port": "transfer",
+                "chain": "luxa",
+                "denom": "uluxa"
+            }
+        }
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/7E059C08D71CF19E9B545986EE87C2DD4F616467D638B940E7B4861A9EB83A18",
+        "name": "LUXA Shard",
+        "symbol": "SHARD",
+        "description": "The utility and energy token of the LUXA Network ecosystem.",
+        "decimals": 6,
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/luxa/asset/ushard.png",
+        "coinGeckoId": "",
+        "ibc_info": {
+            "path": "luxa>celestia",
+            "client": {
+                "channel": "channel-709",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-3",
+                "port": "transfer",
+                "chain": "luxa",
+                "denom": "ushard"
+            }
+        }
     }
 ]
