@@ -52,7 +52,8 @@
         "website" : "https://pundix.com",
         "docs": "https://docs.pundix.com/",
         "github" : "https://github.com/pundix",
-        "twitter" : "https://x.com/pundixlabs"
+        "twitter" : "https://x.com/pundixlabs",
+        "coingecko" : "https://www.coingecko.com/en/coins/pundi-x-new"
     },
     "description" : {
         "ko" : "Pundi X Chain은 Function X 네트워크 내에서 결제에 특화된 전용 블록체인입니다. 이 체인은 높은 처리량의 거래를 저지연, 저수수료로 처리하도록 특별히 설계되었습니다. 또한, 향후 규제 요건 업그레이드, 하드웨어(XPOS) 통합, 포스(Point-of-Sales) 호환성을 제공하며, 상인과 결제 프로세서를 위한 인센티브를 제공하는 토크노믹스를 갖추고 있습니다.",

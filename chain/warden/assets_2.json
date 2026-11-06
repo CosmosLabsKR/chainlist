@@ -7,6 +7,6 @@
         "description": "Ward Protocol Staking Coin",
         "decimals": 18,
         "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/warden/asset/ward.png",
-        "coinGeckoId": ""
+        "coinGeckoId": "warden-2"
     }
 ]

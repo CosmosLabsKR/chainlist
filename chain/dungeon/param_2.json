@@ -54,7 +54,8 @@
     "about": {
         "website": "https://www.cryptodungeon.org/",
         "github": "https://github.com/CryptoDungeon/",
-        "twitter": "https://x.com/cryptodungeonma"
+        "twitter": "https://x.com/cryptodungeonma",
+        "coingecko": "https://www.coingecko.com/en/coins/dragon-coin-2"
     },
     "description": {
         "en": "Dungeon Chain is a Cosmos-based blockchain focused on gamified digital assets and decentralized finance (DeFi).",

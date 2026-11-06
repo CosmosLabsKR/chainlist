@@ -57,7 +57,7 @@
         "github": "https://github.com/gonka-ai/gonka",
         "blog": "https://what-is-gonka.hashnode.dev/",
         "twitter": "https://x.com/gonka_ai",
-        "coingecko": ""
+        "coingecko": "https://www.coingecko.com/en/coins/gonka"
     },
     "description": {
         "ko" : "Gonka는 AI 모델의 학습과 추론을 위한 연산 자원을 최적화하도록 설계된 탈중앙화 AI 인프라로, 독점적이고 고비용인 중앙화 클라우드 제공자에 대한 대안을 제공합니다.",

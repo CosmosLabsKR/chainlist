@@ -52,7 +52,7 @@
       "blog" : "",
       "medium": "https://medium.com/lumiwave",
       "twitter" : "https://x.com/LumiWave_Lab",
-      "coingecko" : ""
+      "coingecko" : "https://www.coingecko.com/en/coins/lumiwave-protocol"
   },
   "description" : {
       "ko" : "LumiWave Protocol은 분산형 인프라와 디지털 자산 생태계를 지원하기 위해 설계된 블록체인 네트워크입니다. 확장성과 상호운용성을 중심으로 다양한 온체인 애플리케이션과 서비스 구축을 가능하게 하는 것을 목표로 합니다.",

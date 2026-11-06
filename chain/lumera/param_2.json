@@ -54,7 +54,8 @@
         "github" : "https://github.com/LumeraProtocol",
         "discord" : "https://discord.gg/lumeraprotocol",
         "telegram": "https://t.me/lumeraprotocol",
-        "website" : "https://lumera.io/"
+        "website" : "https://lumera.io/",
+        "coingecko" : "https://www.coingecko.com/en/coins/lumera"
     },
     "description" : {
         "ko" : "Lumera Protocol은 분산형 오픈소스 플랫폼으로, 개발자들이 AI 애플리케이션을 블록체인 위에 구축하고 배포할 수 있도록 지원합니다. 이 프로토콜은 AI 애플리케이션을 위한 안전하고 확장 가능한 인프라를 제공하여, 개발자들이 기반 인프라에 대한 걱정 없이 애플리케이션 개발에 집중할 수 있도록 합니다.",

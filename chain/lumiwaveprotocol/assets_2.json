@@ -7,6 +7,6 @@
     "description": "The native staking token of LumiWave Protocol",
     "decimals": 6,
     "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/lumiwaveprotocol/asset/lwp.png",
-    "coinGeckoId": ""
+    "coinGeckoId": "lumiwave-protocol"
   }
 ]

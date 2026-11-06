@@ -7,7 +7,7 @@
         "description": "Coins for the Gonka network.",
         "decimals": 9,
         "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/gonka/asset/gonka.png",
-        "coinGeckoId": "",
+        "coinGeckoId": "gonka",
         "color": "#242424"
     }
 ]

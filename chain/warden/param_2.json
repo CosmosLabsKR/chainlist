@@ -53,8 +53,8 @@
         "docs": "https://docs.wardenprotocol.org/",
         "github" : "https://github.com/warden-protocol",
         "blog" : "https://wardenprotocol.org/blog",
-        "twitter" : "hhttps://x.com/wardenprotocol",
-        "coingecko" : ""
+        "twitter" : "https://x.com/wardenprotocol",
+        "coingecko" : "https://www.coingecko.com/en/coins/warden"
     },
     "description" : {
         "ko" : "Warden Protocol은 다양한 블록체인 간의 자산 전송과 자동화된 실행을 지원하는 모듈형 인터체인 액세스 제어 플랫폼입니다..",

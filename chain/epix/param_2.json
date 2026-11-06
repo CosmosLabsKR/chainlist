@@ -70,7 +70,7 @@
         "docs": "https://docs.epix.zone/",
         "github" : "https://github.com/EpixZone",
         "twitter" : "https://x.com/zone_epix",
-        "coingecko" : ""
+        "coingecko" : "https://www.coingecko.com/en/coins/epix"
     },
     "description" : {
         "ko" : "Epix는 모든 사람이 웹사이트를 호스팅하고 누구도 통제할 수 없는 완전히 분산된 인터넷을 구동하도록 설계되어 웹을 멈출 수 없게 만듭니다.",

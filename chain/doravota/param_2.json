@@ -62,7 +62,8 @@
         "docs": "https://docs.dorafactory.org/docs",
         "github": "https://github.com/DoraFactory",
         "blog" : "https://research.dorahacks.io/",
-        "twitter": "https://x.com/DoraFactory"
+        "twitter": "https://x.com/DoraFactory",
+        "coingecko": "https://www.coingecko.com/en/coins/dora-factory"
     },
     "description": {
         "en": "Dora Factory is a digital infrastructure that supports the global hacker movement, providing protocols, tools, and public infrastructure for open source communities and cutting-edge technology developers to thrive.",

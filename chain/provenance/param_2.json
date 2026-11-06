@@ -53,7 +53,7 @@
         "github" : "https://github.com/provenance-io",
         "medium": "https://medium.com/provenanceblockchain",
         "twitter" : "https://twitter.com/provenancefdn",
-        "coingecko" : ""
+        "coingecko" : "https://www.coingecko.com/en/coins/hash-2"
     },
     "description" : {
         "ko" : "금융 서비스 산업의 블록체인 기술 도입을 위해 설계된 텐더민트 기반 블록체인입니다.",

@@ -7,7 +7,7 @@
     "description": "The Governance Coin of the GGEZ1 Network.",
     "decimals": 6,
     "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ggezchain/asset/ggez1.png",
-    "coinGeckoId": "",
+    "coinGeckoId": "ggez1",
     "color": "#039abf"
   },
   {
