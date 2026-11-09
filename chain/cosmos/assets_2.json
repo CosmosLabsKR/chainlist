@@ -1344,7 +1344,7 @@
     },
     {
         "type": "ibc",
-        "denom": "ibc/6F8F0E9D472BF053261F2DEBE521801B703372777F3923B48DAE55D4F1212B5F",
+        "denom": "ibc/AE65FB498AFB35CC06301BEE6EA8063DC41CE04D80A8D167258B73D7A863DA8D",
         "name": "Kinza Babylon Staked BTC",
         "symbol": "kBTC",
         "description": "kBTC on the Cosmos Hub",
