@@ -54,5 +54,15 @@
                 "denom": "uosmo"
             }
         }
+    },
+    {
+        "type": "native",
+        "denom": "factory/xion17grq736740r70awldugfs3mls3stu9haewctv2/verusd",
+        "name": "Verona USD",
+        "symbol": "verUSD",
+        "description": "Verona USD on Verona Testnet, a U.S. dollar stablecoin issued via Brale",
+        "decimals": 6,
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/xion-testnet/asset/verusd.png",
+        "coinGeckoId": ""
     }
 ]
