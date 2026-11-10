@@ -1,0 +1,92 @@
+[
+    {
+        "cosmos_address": "dydx17xpfvakm2amg962yls6f84z3kell8c5leqdyt2",
+        "tag" : "Fee Collector",
+        "description": "Module account that collects transaction fees before they are distributed to stakers and the community pool",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "dydx1zlefkpe3g0vvm9a4h0jf9000lmqutlh9jwjnsv",
+        "tag" : "Bridge",
+        "description": "Module account that mints DYDX bridged from the Ethereum DYDX token",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "dydx1jv65s3grqf6v6jl3dp4t6c9t9rk99cd8wx2cfg",
+        "tag" : "Distribution",
+        "description": "Module account that holds staking rewards and commissions until they are withdrawn",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "dydx1fl48vsnmsdzcv85q5d2q4z5ajdha8yu3uz8teq",
+        "tag" : "Bonded Tokens Pool",
+        "description": "Module account that holds tokens staked to active validators",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "dydx1tygms3xhhs3yv487phx3dw4a95jn7t7lgzm605",
+        "tag" : "Not Bonded Tokens Pool",
+        "description": "Module account that holds unbonding tokens and tokens staked to inactive validators",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "dydx10d07y265gmmuvt4z0w9aw880jnsr700jnmapky",
+        "tag" : "Gov",
+        "description": "Module account that holds governance proposal deposits",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "dydx1yl6hdjhmkf37639730gffanpzndzdpmh8xcdh5",
+        "tag" : "Transfer",
+        "description": "IBC transfer module account that mints and burns IBC vouchers",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "dydx1v88c3xv9xyv3eetdx0tvcmq7ung3dywp5upwc6",
+        "tag" : "Subaccounts",
+        "description": "Module account that holds collateral deposited into trading subaccounts",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "dydx1c7ptc87hkd54e3r7zjy92q29xkq7t79w64slrq",
+        "tag" : "Insurance Fund",
+        "description": "Module account that covers losses from liquidations that cannot be filled at the bankruptcy price",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "dydx16wrau2x4tsg033xfrrdpae6kxfn9kyuerr5jjp",
+        "tag" : "Rewards Treasury",
+        "description": "Module account that pays out trading rewards",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "dydx1ltyc6y4skclzafvpznpt2qjwmfwgsndp458rmp",
+        "tag" : "Rewards Vester",
+        "description": "Module account that vests DYDX into the Rewards Treasury over time",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "dydx15ztc7xy42tn2ukkc0qjthkucw9ac63pgp70urn",
+        "tag" : "Community Treasury",
+        "description": "Module account that holds community treasury funds managed by governance",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "dydx1wxje320an3karyc6mjw4zghs300dmrjkwn7xtk",
+        "tag" : "Community Vester",
+        "description": "Module account that vests DYDX into the Community Treasury over time",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "dydx18tkxrnrkqc2t0lr3zxr5g6a4hdvqksylxqje4r",
+        "tag" : "MegaVault",
+        "description": "MegaVault module account that owns the subaccount holding USDC deposited into MegaVault for automated market making",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "dydx1krs9h56jyudaytdwjyqk42x82650nhmfhhj0p9",
+        "tag" : "Treasury SubDAO",
+        "description": "dYdX Treasury SubDAO address that receives the protocol revenue share in USDC",
+        "type": "WELL_KNOWN"
+    }
+]
