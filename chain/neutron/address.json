@@ -1,0 +1,122 @@
+[
+    {
+        "cosmos_address": "neutron1fl48vsnmsdzcv85q5d2q4z5ajdha8yu33yqdrs",
+        "tag" : "Bonded Tokens Pool",
+        "description": "Module account that holds tokens staked to active validators",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "neutron1tygms3xhhs3yv487phx3dw4a95jn7t7l9yuu4y",
+        "tag" : "Not Bonded Tokens Pool",
+        "description": "Module account that holds unbonding tokens and tokens staked to inactive validators",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "neutron1jv65s3grqf6v6jl3dp4t6c9t9rk99cd8rqd7nc",
+        "tag" : "Distribution",
+        "description": "Module account that holds the community pool and staking rewards and commissions until they are withdrawn",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "neutron17xpfvakm2amg962yls6f84z3kell8c5l5x2z36",
+        "tag" : "Fee Collector",
+        "description": "Module account that collects block rewards and transaction fees before they are distributed to stakers and the community pool",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "neutron13pxn9n3qw79e03844rdadagmg0nshmwf6l9777",
+        "tag" : "Feemarket Fee Collector",
+        "description": "Module account that collects transaction fees charged by the fee market module",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "neutron10d07y265gmmuvt4z0w9aw880jnsr700j7a68v5",
+        "tag" : "Gov",
+        "description": "Module account that holds governance proposal deposits",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "neutron1m3h30wlvsf8llruxtpukdvsy0km2kum8vww6a8",
+        "tag" : "Mint",
+        "description": "Module account that mints new NTRN as block rewards (inflation)",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "neutron1yl6hdjhmkf37639730gffanpzndzdpmh2qltdy",
+        "tag" : "Transfer",
+        "description": "IBC transfer module account that mints and burns IBC vouchers",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "neutron1vlthgax23ca9syk7xgaz347xmf4nunefrhl4kh",
+        "tag" : "Interchain Accounts",
+        "description": "IBC Interchain Accounts module account",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "neutron19dhua4r55gpc86fqtzfhdkklryspmsjy3h6300",
+        "tag" : "Interchain Queries",
+        "description": "Interchain Queries module account that holds deposits for registered interchain queries",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "neutron1mcx2mu3rnjsz53kwlrwarerh53d6plalv6n86c",
+        "tag" : "Fee Refunder",
+        "description": "Fee Refunder module account that escrows IBC relayer fees paid by smart contracts",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "neutron1n58mly6f7er0zs6swtetqgfqs36jaarqlplf59",
+        "tag" : "Dex",
+        "description": "Neutron DEX module account that holds liquidity deposited into DEX pools",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "neutron1cd6wafvehv79pm2yxth40thpyc7dc0yrqkyk95",
+        "tag" : "Cron",
+        "description": "Cron module account that executes scheduled smart contract calls",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "neutron1xds4f0m87ajl3a6az6s2enhxrd0wta485e4gfc",
+        "tag" : "Wasm",
+        "description": "CosmWasm module account",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "neutron19ejy8n9qsectrf4semdp9cpknflld0j6el50hx",
+        "tag" : "Token Factory",
+        "description": "Token Factory module account that mints and burns tokens created by users",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "neutron10s0lf8zj8qqf3mz0nxsruy8d7rkw3tk2yvr8fr",
+        "tag" : "Coin Factory",
+        "description": "Coin Factory module account that mints and burns tokens created by users",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "neutron1jgp27m8fykex4e4jtt0l7ze8q528ux2l4w34hw",
+        "tag" : "Oracle",
+        "description": "Oracle module account that stores prices reported by validators",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "neutron16j3d86dww8p2rzdlqsv7wle98cxzjxw6954zcr",
+        "tag" : "Market Map",
+        "description": "Market Map module account that manages the oracle price feed configuration",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "neutron1ckxf7y9tmvs7zlgrk6gcxxen2ryasjr7kgvrxn",
+        "tag" : "Solva Security Maintenance",
+        "description": "Solva address that received 3,722.70 ATOM, 3,482.94 USDC and 650,000 Astroport USDC/NTRN LP shares (about $28,568) from the community pool via proposal #4 for a 12-month Neutron security maintenance mandate",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "neutron1dd25c4sshelrpfs0433apg24c5phrhk8l6n605",
+        "tag" : "Neutron Governance Exploiter",
+        "description": "Attacker address of the Neutron governance exploit (Sep 2026). Submitted proposal #9 (AIATO: AI Agent Takeover) to take admin control of Astroport and Drop contracts, migrated them to malicious code and drained about $9.4M",
+        "type": "DANGER"
+    }
+]
