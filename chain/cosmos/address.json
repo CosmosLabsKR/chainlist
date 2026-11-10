@@ -1,0 +1,146 @@
+[
+    {
+        "cosmos_address": "cosmos1fl48vsnmsdzcv85q5d2q4z5ajdha8yu34mf0eh",
+        "tag" : "Bonded Tokens Pool",
+        "description": "Module account that holds tokens staked to active validators",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "cosmos1tygms3xhhs3yv487phx3dw4a95jn7t7lpm470r",
+        "tag" : "Not Bonded Tokens Pool",
+        "description": "Module account that holds unbonding tokens and tokens staked to inactive validators",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "cosmos1jv65s3grqf6v6jl3dp4t6c9t9rk99cd88lyufl",
+        "tag" : "Distribution",
+        "description": "Module account that holds the community pool and staking rewards and commissions until they are withdrawn",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "cosmos17xpfvakm2amg962yls6f84z3kell8c5lserqta",
+        "tag" : "Fee Collector",
+        "description": "Module account that collects block rewards and transaction fees before they are distributed to stakers and the community pool",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "cosmos13pxn9n3qw79e03844rdadagmg0nshmwf7qvuye",
+        "tag" : "Feemarket Fee Collector",
+        "description": "Module account that collects transaction fees charged by the fee market module",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "cosmos10d07y265gmmuvt4z0w9aw880jnsr700j6zn9kn",
+        "tag" : "Gov",
+        "description": "Module account that holds governance proposal deposits",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "cosmos1m3h30wlvsf8llruxtpukdvsy0km2kum8g38c8q",
+        "tag" : "Mint",
+        "description": "Module account that mints new ATOM as block rewards (inflation)",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "cosmos1yl6hdjhmkf37639730gffanpzndzdpmhwlkfhr",
+        "tag" : "Transfer",
+        "description": "IBC transfer module account that mints and burns IBC vouchers",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "cosmos19ejy8n9qsectrf4semdp9cpknflld0j6aqaddp",
+        "tag" : "Token Factory",
+        "description": "Token Factory module account that mints and burns tokens created by users",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "cosmos1atuap9kfnt6y8ykvn3437e7j3z8qffh3qtnmwu",
+        "tag" : "Web3Auth Keplr Recovery",
+        "description": "Recovery address verified by Web3Auth and Keplr that holds assets rescued from Keplr social login wallets affected by the Web3Auth key breach (Nov 2026)",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "cosmos18d3gg43rlrmudvcdrgdects3v5cd3w6ds7646v",
+        "tag" : "DCF / Agoric Multisig",
+        "description": "Multisig that received 188,768 ATOM from the community pool via proposal #912 to provide liquidity with liquid staked ATOM",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "cosmos127eafzymdwhlw67wtnqwqj4qf32yehcj0x5wg9",
+        "tag" : "DoraHacks Quadratic Funding",
+        "description": "DoraHacks address that received 80,000 ATOM from the community pool via proposal #917 for the AEZ Quadratic Funding program",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "cosmos1vtqd2nynxwjhhteh945d78mpmfnrfzmmct4sh6",
+        "tag" : "Simply Staking Audit Multisig 1",
+        "description": "Simply Staking multisig that received 3,385 ATOM from the community pool via proposal #927 to fund the Hydro (ATOM Wars) audit by Oak Security",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "cosmos1h5pmn0uza3hphdfy9adew64cfgnvt00dnrmrg6",
+        "tag" : "Slinky Incentives Multisig",
+        "description": "Multisig that received 360,000 NTRN from the community pool via proposal #931 for Slinky oracle validator incentives on Neutron",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "cosmos1eq62mta47ltpmncknzf70v3z70vn834fxxq5ra",
+        "tag" : "Simply Staking Audit Multisig 2",
+        "description": "Simply Staking multisig that received 34,610 ATOM from the community pool via proposals #943 and #954 to fund ICS audits by Zellic",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "cosmos1syhp2rh3kgqpa5hjrkyfsqsh49mqyye5k9ejc70lev9pq5g9spxs7ya6zd",
+        "tag" : "Mars Lending ICA",
+        "description": "Interchain account controlled by the AADAO / Hydro committees that received 200,000 ATOM from the community pool via proposal #946 to lend on Mars Protocol on Neutron",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "cosmos1ax7krw2ymq8upaxwce7df3xpalpp0jddm29fws",
+        "tag" : "Hypha",
+        "description": "Hypha Worker Co-operative address that received 86,538 ATOM and 200,000 USDC via proposal #985 and 202,320 USDC via proposal #1043 from the community pool to fund Hub testnets and mainnet operations",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "cosmos1jskgwzken05wjflz2f92hn3apa0pql6nxtj947dtlqwrkk88q8pq35gtq5",
+        "tag" : "Hydro DAO",
+        "description": "Hydro DAO DAO contract that received 180,000 ATOM from the community pool via proposal #986 to fund Hydro development and integrations in 2025",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "cosmos1hj9zuecf0xcjhx8ttcrwd9pmee25xe2plglgcpfk2kjjveet3zyq9nellq",
+        "tag" : "Hydro USDC Polytone Proxy",
+        "description": "Polytone proxy controlled from Neutron that received 57,530 USDC from the community pool via proposal #991 to deploy community pool USDC through Hydro",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "cosmos1fl657t883v2l3s953qngd26wn49v8eddygw9rc44v5ms0cxfwk4qddhuhx",
+        "tag" : "Neutron NTRN Allocation DAO",
+        "description": "DAO DAO contract that received 40,567,950 NTRN from the community pool via proposal #993 to support Neutron's transition to a sovereign network",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "cosmos1vdqfavw0cu0fpvlcl52ku3qztt38szktlpfsuz",
+        "tag" : "Stargaze Migration Multisig",
+        "description": "Multisig that received 699,626 ATOM from the community pool via proposal #1017 to fund the migration of Stargaze, its applications and collections to the Cosmos Hub",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "cosmos1fhwnl8tls2z4leyyvluyqq8erzmwzepcku8zkg",
+        "tag" : "Paxos",
+        "description": "Paxos Trust Company address that received 300,740 USDC from the community pool via proposal #1054 for ATOM integration and listing on Paxos brokerage infrastructure",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "cosmos1amny2nf23uauu79lzp299tvh9v4a62uuxvh8xyj7qavrm0adztsq5sz864",
+        "tag" : "USDC Migration Multisig",
+        "description": "4-of-6 DAO DAO multisig that received 566,067 USDC.n from the community pool via proposal #1060 to migrate it to USDC.inj before Noble USDC is paused",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "cosmos1dd25c4sshelrpfs0433apg24c5phrhk8m96c4n",
+        "tag" : "Neutron Governance Exploiter",
+        "description": "Attacker address of the Neutron governance exploit (Sep 2026) that took admin control of Astroport and Drop contracts via Neutron proposal #9 and drained about $9.4M. Same key as neutron1dd25c4sshelrpfs0433apg24c5phrhk8l6n605",
+        "type": "DANGER"
+    }
+]
