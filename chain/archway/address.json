@@ -1,0 +1,80 @@
+[
+    {
+        "cosmos_address": "archway1fl48vsnmsdzcv85q5d2q4z5ajdha8yu3qs4tnq",
+        "tag" : "Bonded Tokens Pool",
+        "description": "Module account that holds tokens staked to active validators",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "archway1tygms3xhhs3yv487phx3dw4a95jn7t7l5sf695",
+        "tag" : "Not Bonded Tokens Pool",
+        "description": "Module account that holds unbonding tokens and tokens staked to inactive validators",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "archway1jv65s3grqf6v6jl3dp4t6c9t9rk99cd8j5ccrg",
+        "tag" : "Distribution",
+        "description": "Module account that holds the community pool and unclaimed staking rewards",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "archway17xpfvakm2amg962yls6f84z3kell8c5l9jlyp2",
+        "tag" : "Fee Collector",
+        "description": "Module account that collects block rewards and transaction fees",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "archway10d07y265gmmuvt4z0w9aw880jnsr700j0f0puy",
+        "tag" : "Gov",
+        "description": "Module account that holds governance proposal deposits",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "archway1m3h30wlvsf8llruxtpukdvsy0km2kum8a6mudh",
+        "tag" : "Mint",
+        "description": "Module account that mints new ARCH as block rewards (inflation)",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "archway1yl6hdjhmkf37639730gffanpzndzdpmhm52da5",
+        "tag" : "Transfer",
+        "description": "IBC transfer module account that mints and burns IBC vouchers",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "archway1245yut9zht8q4hz39sd0lzqtzkuw5us50e94ya",
+        "tag" : "Rewards",
+        "description": "Rewards module account that holds dApp rewards (fee and inflation share) until contract owners withdraw them",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "archway1vmafl8f3s6uuzwnxkqz0eza47v6ecn0tutlu4f",
+        "tag" : "Treasury",
+        "description": "Treasury module account that holds protocol funds such as undistributed rewards",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "archway17ftem9mfxnrc3pu9sskcukjg59qy2v3zj87u3x",
+        "tag" : "Callback",
+        "description": "Callback module account that holds fees for scheduled smart contract callbacks",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "archway1gwm6mrnse9atzf4mer4dnrz64mp6pa75wpsxywu8gymt9fwsk46sw8dc65",
+        "tag" : "Community Pool Recipient",
+        "description": "Community Treasury contract that received funds from the community pool for the Liquidity Council and Marketing and Growth DAO",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "archway1qpt8anr3948yea9z6tp8ydcdnw5ug4ql9f8q5fnwrnrqk8qq7d9sd6cxet",
+        "tag" : "Community Pool Recipient",
+        "description": "Liquidity Council multisig that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "archway1t8lz3zjv9cyd8x4h060w3hhdnzagm5cusj6wx7",
+        "tag" : "Community Pool Recipient",
+        "description": "Demex address that received funds from the community pool for ARCH collateral incentives",
+        "type": "WARNING"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "cosmos_address": "atone1fl48vsnmsdzcv85q5d2q4z5ajdha8yu3mm4g00",
+        "tag" : "Bonded Tokens Pool",
+        "description": "Module account that holds tokens staked to active validators",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "atone1tygms3xhhs3yv487phx3dw4a95jn7t7l0mfeem",
+        "tag" : "Not Bonded Tokens Pool",
+        "description": "Module account that holds unbonding tokens and tokens staked to inactive validators",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "atone1jv65s3grqf6v6jl3dp4t6c9t9rk99cd8flcml8",
+        "tag" : "Distribution",
+        "description": "Module account that holds the community pool and unclaimed staking rewards",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "atone17xpfvakm2amg962yls6f84z3kell8c5l7el8a9",
+        "tag" : "Fee Collector",
+        "description": "Module account that collects block rewards and transaction fees",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "atone10d07y265gmmuvt4z0w9aw880jnsr700j5z0zqt",
+        "tag" : "Gov",
+        "description": "Module account that holds governance proposal deposits",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "atone1m3h30wlvsf8llruxtpukdvsy0km2kum8x3ml3c",
+        "tag" : "Mint",
+        "description": "Module account that mints new ATONE as block rewards (inflation)",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "atone1yl6hdjhmkf37639730gffanpzndzdpmhql2wpm",
+        "tag" : "Transfer",
+        "description": "IBC transfer module account that mints and burns IBC vouchers",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "atone1mdzd4uhfvherp7tf8zqwusfetd6txaseqzfssq",
+        "tag" : "Photon",
+        "description": "Photon module account that mints PHOTON by burning ATONE",
+        "type": "SYSTEM"
+    }
+]

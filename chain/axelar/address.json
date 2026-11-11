@@ -1,0 +1,212 @@
+[
+    {
+        "cosmos_address": "axelar1fl48vsnmsdzcv85q5d2q4z5ajdha8yu334l8jk",
+        "tag" : "Bonded Tokens Pool",
+        "description": "Module account that holds tokens staked to active validators",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "axelar1tygms3xhhs3yv487phx3dw4a95jn7t7l94rkyz",
+        "tag" : "Not Bonded Tokens Pool",
+        "description": "Module account that holds unbonding tokens and tokens staked to inactive validators",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "axelar1jv65s3grqf6v6jl3dp4t6c9t9rk99cd8r3j5z7",
+        "tag" : "Distribution",
+        "description": "Module account that holds the community pool and unclaimed staking rewards",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "axelar17xpfvakm2amg962yls6f84z3kell8c5l5h4gqu",
+        "tag" : "Fee Collector",
+        "description": "Module account that collects block rewards and transaction fees",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "axelar10d07y265gmmuvt4z0w9aw880jnsr700j7v9daj",
+        "tag" : "Gov",
+        "description": "Module account that holds governance proposal deposits",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "axelar1m3h30wlvsf8llruxtpukdvsy0km2kum8vl3svp",
+        "tag" : "Mint",
+        "description": "Module account that mints new AXL as block rewards (inflation)",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "axelar1yl6hdjhmkf37639730gffanpzndzdpmh23qpuz",
+        "tag" : "Transfer",
+        "description": "IBC transfer module account that mints and burns IBC vouchers",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "axelar19xj4ncc6h6y5ahpfqtspdx75y3dkrxj3zpah9k",
+        "tag" : "Axelarnet",
+        "description": "Axelarnet module account that mints and burns assets transferred between Axelar and Cosmos chains",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "axelar17h8uk4ct0mdv9mgkuxszt4gp2htpfr08mge20r",
+        "tag" : "Nexus",
+        "description": "Nexus module account that routes cross-chain transfers between connected chains",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "axelar1w6t0l7z0yerj49ehnqwqaayxqpe3u7e24hmqsu",
+        "tag" : "Reward",
+        "description": "Reward module account that mints additional AXL rewards for validators supporting external chains",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "axelar1atuap9kfnt6y8ykvn3437e7j3z8qffh3y99n9a",
+        "tag" : "Web3Auth Keplr Recovery",
+        "description": "Holds assets rescued from Keplr social login wallets after the Web3Auth key breach (Nov 2026)",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "axelar1tn323sc0rqj08tu2y6xz20ptg0ypf2sgwfg86a",
+        "tag" : "Community Pool Recipient",
+        "description": "Map of Zones address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "axelar1z6a60khj2y3sqftf27rrxavrfut6hnhz6fpaxl",
+        "tag" : "Community Pool Recipient",
+        "description": "PancakeSwap axlUSDC liquidity incentives address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "axelar1tm6u67yldxhy9t4tkmf63460gaa698arkexq4u",
+        "tag" : "Community Pool Recipient",
+        "description": "axlUSDC pool incentives address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "axelar12ryez249vqaxeqgxs5ct80u7u3zd6stp38693r",
+        "tag" : "Community Pool Recipient",
+        "description": "Axelar India community address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "axelar1vyg0gc7kh28ajvq2a4w3sdn33rc2txmkazks2v",
+        "tag" : "Community Pool Recipient",
+        "description": "Lava Network public RPC address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "axelar17wr0uz0uqsphtcep3ndx3m2qg8xr666e576t4q",
+        "tag" : "Community Pool Recipient",
+        "description": "Axelar Latam community address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "axelar1xgv8kkf3re8yyd9amrup9up2a83zuuu2qszkyp",
+        "tag" : "Community Pool Recipient",
+        "description": "Interlinked DAO address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "axelar14ua0adclqa7kumdcm7dcc338e2d8y04z5hr9y2ut7gagtw4w8t8qtzmjcj",
+        "tag" : "Community Pool Recipient",
+        "description": "Axelar regional communities multisig (2023) that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "axelar1rvjv7g39xpappe2k2qy5xrevp0ag7d8r8v9g768vy43s8t5ly08qezfp0r",
+        "tag" : "Community Pool Recipient",
+        "description": "Axelar regional communities multisig (Dec 2023 - Jan 2024) that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "axelar133uzcxlfz4g2k369fuqguf9zeh33x0mq368umnagynjmay2zq6tq92jjpy",
+        "tag" : "Community Pool Recipient",
+        "description": "Axelar regional communities multisig (Feb - Jul 2024) that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "axelar15ptswp2fvh5xqchj7rx86jjukq65z6x3n65w7n",
+        "tag" : "Community Pool Recipient",
+        "description": "Lava Network public RPC address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "axelar1nw3d6elxkp272smvevjx2zz8zhxg67ezq46v4j",
+        "tag" : "Community Pool Recipient",
+        "description": "BonusBlock Axelar Explorers Program address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "axelar1tavxs7ydxs5e92mxwwa7m87ysdclrnppuakvpm",
+        "tag" : "Community Pool Recipient",
+        "description": "Multichain Nation podcast address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "axelar1fd7pykg6zjhdlp67hu9z86a0n45h9ew2vu8h2demlp5rujt2cqyqlqgr25",
+        "tag" : "Community Pool Recipient",
+        "description": "Axelar regional communities multisig (Aug 2024 - Jan 2025) that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "axelar17h0qjtexpu6tq8lsxmpz7t4ntv3rhwe9n0hpgt",
+        "tag" : "Community Pool Recipient",
+        "description": "CipherClout PR campaign address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "axelar1374jcmlqeqn8eexmqeuwf4853s7l3kfsyl9f5z",
+        "tag" : "Community Pool Recipient",
+        "description": "Blockchaincon onboarding and hackathon address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "axelar1dvnxtvcmdhz0s4p66304hknn98l9muvlafavqz",
+        "tag" : "Community Pool Recipient",
+        "description": "Axelar Spanish community moderators address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "axelar1jnnhdv5mxpt4zkpxghcwp4fad5m7hu5hage4nl",
+        "tag" : "Community Pool Recipient",
+        "description": "Axelarate Series address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "axelar1yx2ywn7ydqucvdcywjc55caux3enndxasfmkwy",
+        "tag" : "Community Pool Recipient",
+        "description": "Interlinked DAO address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "axelar19jskzz62v5ey0rd64hzdwuazjnerxnrvpdxecl2zx5hs3ce7kyuqjctujg",
+        "tag" : "Community Pool Recipient",
+        "description": "Axelar regional communities multisig (Feb - Apr 2025) that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "axelar1k7dsy9aylw384nq3780zq6s0at8utz8ngu2zhq",
+        "tag" : "Community Pool Recipient",
+        "description": "Axelar Robot NFTs address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "axelar1kg3nt6w374nhslrzfhjqtyc6f7pe28vft5w60mfzf8fy8zdfnvjqedeqgc",
+        "tag" : "Community Pool Recipient",
+        "description": "Axelar regional communities multisig (May 2025) that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "axelar1z0g56e09a2vscexjkzvnr2jjmmrvvlnkxg9nf6",
+        "tag" : "Community Pool Recipient",
+        "description": "Multichain Nation podcast address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "axelar1hzra9z4zn8q0w8f3dj2wnw0xgetu8dfdhl6ad8",
+        "tag" : "Exploiter",
+        "description": "Attacker address of the Secret Network Axelar bridge exploit (Jun 2026)",
+        "type": "DANGER"
+    }
+]

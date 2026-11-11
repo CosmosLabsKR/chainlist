@@ -1,0 +1,105 @@
+[
+    {
+        "cosmos_address": "althea1fl48vsnmsdzcv85q5d2q4z5ajdha8yu3pevp4j",
+        "evm_address": "0x4feA76427B8345861e80A3540a8a9D936FD39391",
+        "tag" : "Bonded Tokens Pool",
+        "description": "Module account that holds tokens staked to active validators",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "althea1tygms3xhhs3yv487phx3dw4a95jn7t7l4essrx",
+        "evm_address": "0x5911B844d7BC224654FE0DCd16BAbD2D253f2fdF",
+        "tag" : "Not Bonded Tokens Pool",
+        "description": "Module account that holds unbonding tokens and tokens staked to inactive validators",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "althea1jv65s3grqf6v6jl3dp4t6c9t9rk99cd8napj96",
+        "evm_address": "0x93354845030274cD4bf1686Abd60AB28EC52e1a7",
+        "tag" : "Distribution",
+        "description": "Module account that holds the community pool and unclaimed staking rewards",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "althea17xpfvakm2amg962yls6f84z3kell8c5lymxw8c",
+        "evm_address": "0xf1829676DB577682E944fc3493d451B67Ff3E29F",
+        "tag" : "Fee Collector",
+        "description": "Module account that collects block rewards and transaction fees",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "althea10d07y265gmmuvt4z0w9aw880jnsr700jwqkt6k",
+        "evm_address": "0x7b5Fe22B5446f7C62Ea27B8BD71CeF94e03f3dF2",
+        "tag" : "Gov",
+        "description": "Module account that holds governance proposal deposits",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "althea1m3h30wlvsf8llruxtpukdvsy0km2kum8unzkt9",
+        "evm_address": "0xDc6F17BBEc824FFf8F86587966B2047Db6aB7367",
+        "tag" : "Mint",
+        "description": "Module account that mints new ALTHEA as block rewards (inflation)",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "althea1yl6hdjhmkf37639730gffanpzndzdpmh6an8mx",
+        "evm_address": "0x27f576CafbB263ED44BE8bd094f66114Da268777",
+        "tag" : "Transfer",
+        "description": "IBC transfer module account that mints and burns IBC vouchers",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "althea1vqu8rska6swzdmnhf90zuv0xmelej4lqesq6cd",
+        "evm_address": "0x603871c2ddd41c26Ee77495E2E31e6De7f9957e0",
+        "tag" : "EVM",
+        "description": "EVM module account",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "althea1udxntw0ew5wwvsvt030p0xv0ywssvenfgj8agh",
+        "evm_address": "0xE34D35b9F9751CE6418b7c5e17998f23A1066669",
+        "tag" : "EVM Fee Burner",
+        "description": "Module account that burns EVM transaction fees",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "althea1glht96kr2rseywuvhhay894qw7ekuc4q7xk59r",
+        "evm_address": "0x47EeB2eac350E1923b8CBDfA4396A077b36E62a0",
+        "tag" : "ERC20",
+        "description": "ERC20 module account that holds coins converted to ERC20 tokens",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "althea1kdt8ra24pyw97pgtcq6w3x24qp8vcg502sch4s",
+        "evm_address": "0xb35671F555091C5f050BC034e89955004eCC228f",
+        "tag" : "Microtx",
+        "description": "Microtx module account that handles microtransaction payments between Althea network nodes",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "althea1uwkmsmmlqsjapr4aphl7h5hw7x0p95cw94pphv",
+        "evm_address": "0xe3ADB86F7F0425d08ebD0dfFEbd2eEf19E12D30e",
+        "tag" : "Native DEX",
+        "description": "Native DEX module account that manages the Althea native DEX",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "althea1afk9zr2hn2jsac63h4hm60vl9z3e5u69gndzf7c99cqge3vzwjzsg9vzmq",
+        "tag" : "Community Pool Recipient",
+        "description": "Althea Limited Treasury group account that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "althea1dlszg2sst9r69my4f84l3mj66zxcf3umcgujys30t84srg95dgvs6ctcr3",
+        "tag" : "Community Pool Recipient",
+        "description": "IBC relayer multisig group account that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "althea1p0g99uts74nm5eet63sn7zahg0xdpxw6c4zc34",
+        "evm_address": "0x0Bd052f170f567bA672BD4613f0Bb743CcD099dA",
+        "tag" : "Community Pool Recipient",
+        "description": "iFi DEX incentives contract that received funds from the community pool",
+        "type": "WARNING"
+    }
+]
