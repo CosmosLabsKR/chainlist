@@ -1,0 +1,74 @@
+[
+    {
+        "cosmos_address": "fetch1fl48vsnmsdzcv85q5d2q4z5ajdha8yu3xxqtmq",
+        "tag" : "Bonded Tokens Pool",
+        "description": "Module account that holds tokens staked to active validators",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "fetch1tygms3xhhs3yv487phx3dw4a95jn7t7ljxu6d5",
+        "tag" : "Not Bonded Tokens Pool",
+        "description": "Module account that holds unbonding tokens and tokens staked to inactive validators",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "fetch1jv65s3grqf6v6jl3dp4t6c9t9rk99cd85zdctg",
+        "tag" : "Distribution",
+        "description": "Module account that holds unclaimed staking rewards",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "fetch17xpfvakm2amg962yls6f84z3kell8c5lry2yf2",
+        "tag" : "Fee Collector",
+        "description": "Module account that collects block rewards and transaction fees",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "fetch10d07y265gmmuvt4z0w9aw880jnsr700jfl6p5y",
+        "tag" : "Gov",
+        "description": "Module account that holds governance proposal deposits",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "fetch1m3h30wlvsf8llruxtpukdvsy0km2kum8mvwu9h",
+        "tag" : "Mint",
+        "description": "Module account that mints new FET as block rewards (inflation)",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "fetch1yl6hdjhmkf37639730gffanpzndzdpmhazld45",
+        "tag" : "Transfer",
+        "description": "IBC transfer module account that mints and burns IBC vouchers",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "fetch19ejy8n9qsectrf4semdp9cpknflld0j6wa5f0k",
+        "tag" : "Token Factory",
+        "description": "Token Factory module account that mints and burns tokens created by users",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "fetch139js96huvt800a0rprnsdqrj3ymjdlwamcy6uh",
+        "tag" : "Protocol Pool Escrow",
+        "description": "Protocol Pool module account that holds community pool funds",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "fetch1avjxgzpwtvvh5w9chthcua755pyudut6nhcs8m",
+        "tag" : "Community Pool Recipient",
+        "description": "stake.tax address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "fetch18m26lkjly2hkck25t7sdsrnu72x0g6gxtsnraq",
+        "tag" : "Community Pool Recipient",
+        "description": "Azoyalabs (AI NFT marketplace) address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "fetch1hlj4ealhhg7n75dmvtj6ynp9q3yeqhh02pclqx",
+        "tag" : "Community Pool Recipient",
+        "description": "Mettalex address that received funds from the community pool",
+        "type": "WARNING"
+    }
+]

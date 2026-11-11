@@ -1,0 +1,122 @@
+[
+    {
+        "cosmos_address": "core1fl48vsnmsdzcv85q5d2q4z5ajdha8yu3x4357v",
+        "tag" : "Bonded Tokens Pool",
+        "description": "Module account that holds tokens staked to active validators",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "core1tygms3xhhs3yv487phx3dw4a95jn7t7lj4d9gc",
+        "tag" : "Not Bonded Tokens Pool",
+        "description": "Module account that holds unbonding tokens and tokens staked to inactive validators",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "core1jv65s3grqf6v6jl3dp4t6c9t9rk99cd853u8wy",
+        "tag" : "Distribution",
+        "description": "Module account that holds the community pool and unclaimed staking rewards",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "core17xpfvakm2amg962yls6f84z3kell8c5lrhmmvx",
+        "tag" : "Fee Collector",
+        "description": "Module account that collects block rewards and transaction fees",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "core10d07y265gmmuvt4z0w9aw880jnsr700jfvt73g",
+        "tag" : "Gov",
+        "description": "Module account that holds governance proposal deposits",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "core1m3h30wlvsf8llruxtpukdvsy0km2kum8mllrqm",
+        "tag" : "Mint",
+        "description": "Module account that mints new TX as block rewards (inflation)",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "core1yl6hdjhmkf37639730gffanpzndzdpmha3wjsc",
+        "tag" : "Transfer",
+        "description": "IBC transfer module account that mints and burns IBC vouchers",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "core1mqaw387xfk0xuernjq9cfmmej2ucay80h4nc4h",
+        "tag" : "Asset FT",
+        "description": "Asset FT module account that mints and burns fungible tokens issued on Coreum",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "core1px0spytmcxhmf377cqvcgsnpn05t8h93zwv0l3",
+        "tag" : "PSE",
+        "description": "PSE module account that distributes Proof of Support Emission rewards",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "core17hp75352ankzff4wfctexqsld8ukzh03p6nm8t",
+        "tag" : "PSE Community",
+        "description": "PSE module account that holds the community allocation",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "core103wy354he9v5d7way7f25l237qe5h24y5psuhz",
+        "tag" : "PSE Community Intermediary",
+        "description": "PSE module account that passes the community allocation to stakers",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "core1u692m7ddssgffpfwx33g3s95ahqnsw29nstncn",
+        "tag" : "PSE Foundation",
+        "description": "PSE module account that holds the foundation allocation",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "core15funeppe60jqtuzghmndcumfz030854yj6kmfk",
+        "tag" : "PSE Alliance",
+        "description": "PSE module account that holds the alliance allocation",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "core1s78jxf0r05f6sxuwjyrf2hec6339aadwwt6ks9",
+        "tag" : "PSE Partnership",
+        "description": "PSE module account that holds the partnership allocation",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "core1tnzalv0e6p9x4xc5dmpfnktq5rl26d7w5navqj",
+        "tag" : "PSE Investors",
+        "description": "PSE module account that holds the investors allocation",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "core1qpf6j4r8jxr6z20s6m6x0hpcx066892u578u83",
+        "tag" : "PSE Team",
+        "description": "PSE module account that holds the team allocation",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "core1uzr4cka66rq7xcsvxymxyuzxhac7pyrtnhq28u",
+        "tag" : "Community Pool Recipient",
+        "description": "Multichain halt compensation address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "core1he45sc3arcxtzztlq9733g26acej2ltat5f2jj",
+        "tag" : "Community Pool Recipient",
+        "description": "Coreum Labs (Cruise Control) address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "core1jfrh2q0f53mjhqdtwffcefpznjzntaalskkt70",
+        "tag" : "Community Pool Recipient",
+        "description": "Bidds address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "core14g8v6h6pwu46kyvsljlgx0rqka57thm9a2c8su",
+        "tag" : "Community Pool Recipient",
+        "description": "Bidds (Lendore) address that received funds from the community pool",
+        "type": "WARNING"
+    }
+]

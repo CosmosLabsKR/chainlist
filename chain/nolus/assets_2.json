@@ -169,5 +169,28 @@
                 "denom": "ibc/498A0751C798A0D9A389AA3691123DADA57DAA4FE165D5C75894505B876BA6E4"
             }
         }
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/3E507F7BA8D40C5CDFFB74234444ECEB6889562B82DE70E70F9EA8DE16B3D452",
+        "name" : "USD Coin (Solana)",
+        "symbol": "USDC.sol",
+        "description": "Circle USDC on Solana, transferred to Nolus via Solana IBC relay",
+        "decimals": 6,
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/solana/asset/usdc.png",
+        "coinGeckoId": "usd-coin",
+        "ibc_info" : {
+            "path": "solana>nolus",
+            "client" : {
+                "channel": "channel-61957",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-0",
+                "port": "transfer",
+                "chain": "solana",
+                "denom": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+            }
+        }
     }
 ]

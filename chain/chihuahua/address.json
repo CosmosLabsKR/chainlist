@@ -1,0 +1,146 @@
+[
+    {
+        "cosmos_address": "chihuahua1fl48vsnmsdzcv85q5d2q4z5ajdha8yu3kwypc4",
+        "tag" : "Bonded Tokens Pool",
+        "description": "Module account that holds tokens staked to active validators",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "chihuahua1tygms3xhhs3yv487phx3dw4a95jn7t7lzwcswp",
+        "tag" : "Not Bonded Tokens Pool",
+        "description": "Module account that holds unbonding tokens and tokens staked to inactive validators",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "chihuahua1jv65s3grqf6v6jl3dp4t6c9t9rk99cd8y2fjga",
+        "tag" : "Distribution",
+        "description": "Module account that holds the community pool and unclaimed staking rewards",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "chihuahua17xpfvakm2amg962yls6f84z3kell8c5lnvww2l",
+        "tag" : "Fee Collector",
+        "description": "Module account that collects block rewards and transaction fees",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "chihuahua10d07y265gmmuvt4z0w9aw880jnsr700jeh7th3",
+        "tag" : "Gov",
+        "description": "Module account that holds governance proposal deposits",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "chihuahua1m3h30wlvsf8llruxtpukdvsy0km2kum8ty2kxz",
+        "tag" : "Mint",
+        "description": "Module account that mints new HUAHUA as block rewards (inflation)",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "chihuahua1yl6hdjhmkf37639730gffanpzndzdpmhd2m8kp",
+        "tag" : "Transfer",
+        "description": "IBC transfer module account that mints and burns IBC vouchers",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "chihuahua1xds4f0m87ajl3a6az6s2enhxrd0wta48nn3yja",
+        "tag" : "Wasm",
+        "description": "CosmWasm module account",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "chihuahua19ejy8n9qsectrf4semdp9cpknflld0j674srvr",
+        "tag" : "Token Factory",
+        "description": "Token Factory module account that mints and burns tokens created by users",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "chihuahua1d99pujdz48wkmn3uesfxnrctn44uuf5cuw5xuu",
+        "tag" : "Fee Burn",
+        "description": "Fee Burn module account that burns a portion of transaction fees",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "chihuahua1tx68a8k9yz54z06qfve9l2zxvgsz4ka35k2tmg",
+        "tag" : "Liquidity",
+        "description": "Liquidity module account that mints and burns liquidity pool tokens",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "chihuahua19eyp4rq08030xn4f43dmmw8v7prk7rjajej5rl",
+        "tag" : "Community Pool Recipient",
+        "description": "Chihuahua Community DAO address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "chihuahua1vf2cwmapd77tsxewd04s66deu4t4jn5zf76lmw",
+        "tag" : "Community Pool Recipient",
+        "description": "Validator decentralization prize pool address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "chihuahua18qpryc2jgwcx7xaw7j7ze6cfausvf4hmdvjg4t",
+        "tag" : "Community Pool Recipient",
+        "description": "stake.tax address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "chihuahua1encclv5q4zg0xs6r5aent2j2r9mk5msyqw4ysj",
+        "tag" : "Community Pool Recipient",
+        "description": "Passage address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "chihuahua18u39rxta2kl2huycqedvqjpex24nggl3ttu4z4",
+        "tag" : "Community Pool Recipient",
+        "description": "Stafi Hub (rHUAHUA) address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "chihuahua1eqntnl6tzcj9h86psg4y4h6hh05g2h9nuxam3n",
+        "tag" : "Community Pool Recipient",
+        "description": "Chihuahua NFT Marketplace address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "chihuahua10guxn5tnsnjwrky0wc7uj3c33g6l76g83dgug4",
+        "tag" : "Community Pool Recipient",
+        "description": "White Whale SAIL program address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "chihuahua1zxp5n9mmhcwswdhu5pvh26kwtd306v36sv4jxq",
+        "tag" : "Community Pool Recipient",
+        "description": "Kado address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "chihuahua12hdn72vl8e9hkux2hzjmyuvag3gccr95mcu64a",
+        "tag" : "Community Pool Recipient",
+        "description": "Paws and Prosper program address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "chihuahua1rqya48t6u5vtj55uumrx3puwucq6tpppz6tj6w",
+        "tag" : "Community Pool Recipient",
+        "description": "Coinhall address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "chihuahua1gcdfar3d56l7wwd57ncqkygcmhpmpyxusfefj9",
+        "tag" : "Community Pool Recipient",
+        "description": "Cosmos Pay address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "chihuahua1e26kfsfww334jcj8w2ela9yhh4yuzwfmv7sc00",
+        "tag" : "Community Pool Recipient",
+        "description": "Chihuahua Communications Program address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "chihuahua14fketv99hlrlk80mkggw643spsj3yyf7qylvqn",
+        "tag" : "Community Pool Recipient",
+        "description": "Chihuahua ecosystem fund address that received funds from the community pool",
+        "type": "WARNING"
+    }
+]

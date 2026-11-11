@@ -1,0 +1,93 @@
+[
+    {
+        "cosmos_address": "haqq1fl48vsnmsdzcv85q5d2q4z5ajdha8yu3huuu8p",
+        "evm_address": "0x4feA76427B8345861e80A3540a8a9D936FD39391",
+        "tag" : "Bonded Tokens Pool",
+        "description": "Module account that holds tokens staked to active validators",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "haqq1tygms3xhhs3yv487phx3dw4a95jn7t7lruqd34",
+        "evm_address": "0x5911B844d7BC224654FE0DCd16BAbD2D253f2fdF",
+        "tag" : "Not Bonded Tokens Pool",
+        "description": "Module account that holds unbonding tokens and tokens staked to inactive validators",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "haqq1jv65s3grqf6v6jl3dp4t6c9t9rk99cd89c30hf",
+        "evm_address": "0x93354845030274cD4bf1686Abd60AB28EC52e1a7",
+        "tag" : "Distribution",
+        "description": "Module account that holds the community pool and unclaimed staking rewards",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "haqq17xpfvakm2amg962yls6f84z3kell8c5lj7kn4t",
+        "evm_address": "0xf1829676DB577682E944fc3493d451B67Ff3E29F",
+        "tag" : "Fee Collector",
+        "description": "Module account that collects block rewards and transaction fees",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "haqq10d07y265gmmuvt4z0w9aw880jnsr700jc9xkg9",
+        "evm_address": "0x7b5Fe22B5446f7C62Ea27B8BD71CeF94e03f3dF2",
+        "tag" : "Gov",
+        "description": "Module account that holds governance proposal deposits",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "haqq1yl6hdjhmkf37639730gffanpzndzdpmhvcr6f4",
+        "evm_address": "0x27f576CafbB263ED44BE8bd094f66114Da268777",
+        "tag" : "Transfer",
+        "description": "IBC transfer module account that mints and burns IBC vouchers",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "haqq13lmzrazlsjzca7ugqtpwe6xyy3553ghlh5hupc",
+        "evm_address": "0x8FF621f45f84858EFB8802c2ECe8C4246948a2FF",
+        "tag" : "Coinomics",
+        "description": "Coinomics module account that mints new ISLM as block rewards (inflation)",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "haqq1vqu8rska6swzdmnhf90zuv0xmelej4lq04s827",
+        "evm_address": "0x603871c2ddd41c26Ee77495E2E31e6De7f9957e0",
+        "tag" : "EVM",
+        "description": "EVM module account",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "haqq1glht96kr2rseywuvhhay894qw7ekuc4qgrxfhs",
+        "evm_address": "0x47EeB2eac350E1923b8CBDfA4396A077b36E62a0",
+        "tag" : "ERC20",
+        "description": "ERC20 module account that holds coins converted to ERC20 tokens",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "haqq1gsg7k2dtwgh602swt5zepeydrl0hm69rj2jqed",
+        "evm_address": "0x4411EB29AB722fa7aa0e5d0590e48d1fdf7De8A3",
+        "tag" : "HAQQ Vesting",
+        "description": "HAQQ Vesting module account",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "haqq102lq49sg6lmw2e0mw740tjldzq68v0yfylw05s",
+        "evm_address": "0x7AbE0A9608d7F6E565fB77aaF5CBed1034763c89",
+        "tag" : "Liquid Vesting",
+        "description": "Liquid Vesting module account that locks vesting ISLM and mints liquid tokens for it",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "haqq1cu6ydwwkt9r6xf996c88zw9as664d9cqdnr5lm",
+        "evm_address": "0xc73446b9D65947a324a5D60E7138bd86B5569700",
+        "tag" : "UC DAO",
+        "description": "United Contributors DAO module account that holds funds deposited to the DAO",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "haqq1zusf3g829lerqjlaa23n72jrhdf2wxpqcznpay",
+        "evm_address": "0x172098a0Ea2ff2304bfdEAA33F2a43Bb52A71820",
+        "tag" : "Ethiq",
+        "description": "Ethiq module account",
+        "type": "SYSTEM"
+    }
+]

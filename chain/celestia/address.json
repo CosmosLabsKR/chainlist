@@ -1,0 +1,74 @@
+[
+    {
+        "cosmos_address": "celestia1fl48vsnmsdzcv85q5d2q4z5ajdha8yu3y3clr6",
+        "tag" : "Bonded Tokens Pool",
+        "description": "Module account that holds tokens staked to active validators",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "celestia1tygms3xhhs3yv487phx3dw4a95jn7t7ls3yw4w",
+        "tag" : "Not Bonded Tokens Pool",
+        "description": "Module account that holds unbonding tokens and tokens staked to inactive validators",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "celestia1jv65s3grqf6v6jl3dp4t6c9t9rk99cd8k44vnj",
+        "tag" : "Distribution",
+        "description": "Module account that holds the community pool and unclaimed staking rewards",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "celestia17xpfvakm2amg962yls6f84z3kell8c5lpnjs3s",
+        "tag" : "Fee Collector",
+        "description": "Module account that collects block rewards and transaction fees",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "celestia10d07y265gmmuvt4z0w9aw880jnsr700jtgz4v7",
+        "tag" : "Gov",
+        "description": "Module account that holds governance proposal deposits",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "celestia1m3h30wlvsf8llruxtpukdvsy0km2kum8emkgad",
+        "tag" : "Mint",
+        "description": "Module account that mints new TIA as block rewards (inflation)",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "celestia1yl6hdjhmkf37639730gffanpzndzdpmhl48edw",
+        "tag" : "Transfer",
+        "description": "IBC transfer module account that mints and burns IBC vouchers",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "celestia1mqcszwafr476x3rud8qyufdegn7gvxh99rc2gk",
+        "tag" : "Hyperlane",
+        "description": "Hyperlane module account that handles interchain messaging fees",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "celestia1m20fddqpmfuwcz2r9ckj6wd70p5e75t8y22wqj",
+        "tag" : "Warp",
+        "description": "Hyperlane Warp module account that locks, mints and burns tokens bridged through Hyperlane warp routes",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "celestia1zsknr6k4flpn3rhxe0acsathfsjurkk66hdwzj",
+        "tag" : "Fibre",
+        "description": "Fibre module account",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "celestia1j4h0ec6t2ktr465uxlcqwy2yqw2gef8h8xjned",
+        "tag" : "Community Pool Recipient",
+        "description": "IBC middleware audit funding address that received funds from the community pool",
+        "type": "WARNING"
+    },
+        {
+        "cosmos_address": "celestia1atuap9kfnt6y8ykvn3437e7j3z8qffh33pzt53",
+        "tag" : "Web3Auth Keplr Recovery",
+        "description": "Holds assets rescued from Keplr social login wallets after the Web3Auth key breach (Nov 2026)",
+        "type": "WARNING"
+    }
+]

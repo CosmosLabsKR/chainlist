@@ -1,0 +1,62 @@
+[
+    {
+        "cosmos_address": "cro1fl48vsnmsdzcv85q5d2q4z5ajdha8yu3dqpk9x",
+        "tag" : "Bonded Tokens Pool",
+        "description": "Module account that holds tokens staked to active validators",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "cro1tygms3xhhs3yv487phx3dw4a95jn7t7leqa8nj",
+        "tag" : "Not Bonded Tokens Pool",
+        "description": "Module account that holds unbonding tokens and tokens staked to inactive validators",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "cro1jv65s3grqf6v6jl3dp4t6c9t9rk99cd8lyv94w",
+        "tag" : "Distribution",
+        "description": "Module account that holds the community pool and unclaimed staking rewards",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "cro17xpfvakm2amg962yls6f84z3kell8c5lgztehv",
+        "tag" : "Fee Collector",
+        "description": "Module account that collects block rewards and transaction fees",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "cro10d07y265gmmuvt4z0w9aw880jnsr700jzemu2z",
+        "tag" : "Gov",
+        "description": "Module account that holds governance proposal deposits",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "cro1m3h30wlvsf8llruxtpukdvsy0km2kum8s20pm3",
+        "tag" : "Mint",
+        "description": "Module account that mints new CRO as block rewards (inflation)",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "cro1yl6hdjhmkf37639730gffanpzndzdpmhky7stj",
+        "tag" : "Transfer",
+        "description": "IBC transfer module account that mints and burns IBC vouchers",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "cro1ag7qj65w7882kkn8nl7hnfvfqlemxwamd5g2pr",
+        "tag" : "Rewards Pool",
+        "description": "Module account that holds the rewards pool for tiered staking rewards",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "cro1epzd2c4p6kc3ahs7ftwfc0zk5t3nhq8st4y4dm",
+        "tag" : "Tiered Rewards",
+        "description": "Tiered Rewards module account that manages tiered staking rewards",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "cro1qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqtcgxmv",
+        "tag" : "Burn Address",
+        "description": "Null address with no private key. CRO sent here is burned and cannot be recovered",
+        "type": "WARNING"
+    }
+]

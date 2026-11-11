@@ -1,0 +1,152 @@
+[
+    {
+        "cosmos_address": "gravity1fl48vsnmsdzcv85q5d2q4z5ajdha8yu33tmhul",
+        "tag" : "Bonded Tokens Pool",
+        "description": "Module account that holds tokens staked to active validators",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "gravity1tygms3xhhs3yv487phx3dw4a95jn7t7l9t8x2t",
+        "tag" : "Not Bonded Tokens Pool",
+        "description": "Module account that holds unbonding tokens and tokens staked to inactive validators",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "gravity1jv65s3grqf6v6jl3dp4t6c9t9rk99cd8r0kyvh",
+        "tag" : "Distribution",
+        "description": "Module account that holds the community pool and unclaimed staking rewards",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "gravity17xpfvakm2amg962yls6f84z3kell8c5l5f3cw4",
+        "tag" : "Fee Collector",
+        "description": "Module account that collects block rewards and transaction fees",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "gravity10d07y265gmmuvt4z0w9aw880jnsr700j7jpanm",
+        "tag" : "Gov",
+        "description": "Module account that holds governance proposal deposits",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "gravity1m3h30wlvsf8llruxtpukdvsy0km2kum8vp4qzg",
+        "tag" : "Mint",
+        "description": "Module account that mints new GRAV as block rewards (inflation)",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "gravity1yl6hdjhmkf37639730gffanpzndzdpmh20y3jt",
+        "tag" : "Transfer",
+        "description": "IBC transfer module account that mints and burns IBC vouchers",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "gravity16n3lc7cywa68mg50qhp847034w88pntqzx3ksm",
+        "tag" : "Gravity",
+        "description": "Gravity bridge module account that mints and burns tokens bridged from Ethereum",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "gravity1j4yzhgjm00ch3h0p9kel7g8sp6g045qflny7gz",
+        "tag" : "Auction",
+        "description": "Auction module account that holds tokens being auctioned",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "gravity1vp0qhw3jqm7gxk6yu0eqkcwf5u986eahmjjnql",
+        "tag" : "Auction Pool",
+        "description": "Auction module account that collects fees and tokens to be auctioned",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "gravity1q0ru3kv5glyaen3zj2k6jr6l45jp3a5e90cgdu",
+        "tag" : "Community Pool Recipient",
+        "description": "Gravity liquidity incentives and grants multisig that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "gravity1ss9045vueu6ljnxm3xtezctsca4udueyvahyjw",
+        "tag" : "Community Pool Recipient",
+        "description": "Kinesis AMM incentives address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "gravity1und7er4g7fmqme5k5wu85gg5gfh5tv39tqgrfd",
+        "tag" : "Community Pool Recipient",
+        "description": "ICS 721 / NFT workgroup address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "gravity1pnzcs9gderua80eyad3drs9x0gn33j0z8dhr89",
+        "tag" : "Community Pool Recipient",
+        "description": "Ethermint program and incentives multisig that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "gravity1dklgd55t7dr5pw5d0qky7vc8g72plel0kez2ff",
+        "tag" : "Community Pool Recipient",
+        "description": "Carbon neutral program address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "gravity1yrfgh0dkzuw6hfzdctdztktqv5f74rt5rqpumq",
+        "tag" : "Community Pool Recipient",
+        "description": "Kujira GRAV/USK pool incentives address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "gravity1nhwag4qqrw6z56tcl9vt64jue9cywur9ljhspt",
+        "tag" : "Community Pool Recipient",
+        "description": "Crescent DEX LP incentives address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "gravity12m3jg0mxczxmhezkpen97xgckgert5hxevprs6",
+        "tag" : "Community Pool Recipient",
+        "description": "Gravity Growth and Sustainability Grant multisig that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "gravity1ktushh23qanf6lzvkq9y73a46nf0dwvzxegn3p",
+        "tag" : "Community Pool Recipient",
+        "description": "Auction module development address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "gravity1u5n5yk2cvyywyrjpnedr5vpal3e7cg2fsr7sk5",
+        "tag" : "Community Pool Recipient",
+        "description": "AlphaGrowth address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "gravity1tzkxy3pjkct3htpmyss3vg7spmng98jmws7sgf",
+        "tag" : "Community Pool Recipient",
+        "description": "Gravity Bridge bug bounty address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "gravity1r30ajnkz4azenkpeur9vvm4fym9r2puls892q7",
+        "tag" : "Community Pool Recipient",
+        "description": "Bounty and incentives address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "gravity10jprtsd34q70sy3c6n6nhp32cjgvnmw48fy6h9",
+        "tag" : "Community Pool Recipient",
+        "description": "Gravity Growth and Sustainability Grant (Round 2) multisig that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "gravity1h75g5472pw08dgf3tnsv843ulzu9n084r2pr0l",
+        "tag" : "Community Pool Recipient",
+        "description": "Blockscape (Leap wallet integration) address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "gravity1ffweemjnyhtzd84p6j6jwlecpdlpmka542g5s7",
+        "tag" : "Community Pool Recipient",
+        "description": "Reigniting Gravity Bridge grant address that received funds from the community pool",
+        "type": "WARNING"
+    }
+]
