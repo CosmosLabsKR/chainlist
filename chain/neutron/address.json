@@ -14,13 +14,13 @@
     {
         "cosmos_address": "neutron1jv65s3grqf6v6jl3dp4t6c9t9rk99cd8rqd7nc",
         "tag" : "Distribution",
-        "description": "Module account that holds the community pool and staking rewards and commissions until they are withdrawn",
+        "description": "Module account that holds the community pool and unclaimed staking rewards",
         "type": "SYSTEM"
     },
     {
         "cosmos_address": "neutron17xpfvakm2amg962yls6f84z3kell8c5l5x2z36",
         "tag" : "Fee Collector",
-        "description": "Module account that collects block rewards and transaction fees before they are distributed to stakers and the community pool",
+        "description": "Module account that collects block rewards and transaction fees",
         "type": "SYSTEM"
     },
     {
@@ -110,13 +110,13 @@
     {
         "cosmos_address": "neutron1ckxf7y9tmvs7zlgrk6gcxxen2ryasjr7kgvrxn",
         "tag" : "Community Pool Recipient",
-        "description": "Solva address that received 3,722.70 ATOM, 3,482.94 USDC and 650,000 Astroport USDC/NTRN LP shares (about $28,568) from the community pool via proposal #4 for a 12-month Neutron security maintenance mandate",
+        "description": "Solva address that received funds from the community pool",
         "type": "WARNING"
     },
     {
         "cosmos_address": "neutron1dd25c4sshelrpfs0433apg24c5phrhk8l6n605",
         "tag" : "Exploiter",
-        "description": "Attacker address of the Neutron governance exploit (Sep 2026). Submitted proposal #9 (AIATO: AI Agent Takeover) to take admin control of Astroport and Drop contracts, migrated them to malicious code and drained about $9.4M",
+        "description": "Attacker address of the Neutron governance exploit (Sep 2026)",
         "type": "DANGER"
     }
 ]

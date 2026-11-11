@@ -2,7 +2,7 @@
     {
         "cosmos_address": "dydx17xpfvakm2amg962yls6f84z3kell8c5leqdyt2",
         "tag" : "Fee Collector",
-        "description": "Module account that collects transaction fees before they are distributed to stakers and the community pool",
+        "description": "Module account that collects transaction fees",
         "type": "SYSTEM"
     },
     {
@@ -14,7 +14,7 @@
     {
         "cosmos_address": "dydx1jv65s3grqf6v6jl3dp4t6c9t9rk99cd8wx2cfg",
         "tag" : "Distribution",
-        "description": "Module account that holds staking rewards and commissions until they are withdrawn",
+        "description": "Module account that holds unclaimed staking rewards",
         "type": "SYSTEM"
     },
     {
@@ -92,85 +92,85 @@
     {
         "cosmos_address": "dydx1vx93pwuxf7j5c90tukj084ka26fclcjuqdmw2a",
         "tag" : "Community Pool Recipient",
-        "description": "dYdX Treasury SubDAO main address that received 45,000,000 DYDX from the community treasury via proposal #174, about 19.46M stDYDX recalled from the Stride liquid staking program via proposals #211 and #217, and 5,000,000 USDC from the insurance fund via proposal #372",
+        "description": "dYdX Treasury SubDAO address that received funds from the community treasury",
         "type": "WARNING"
     },
     {
         "cosmos_address": "dydx1ek4apjmgzjw3fanz4hsh4akm90sze7qplxhypaffp5p6xf8vqr5q897cft",
         "tag" : "Community Pool Recipient",
-        "description": "Interchain account that received 20,000,000 DYDX from the community treasury via proposal #49 for the Stride community staking program",
+        "description": "Stride interchain account that received funds from the community treasury",
         "type": "WARNING"
     },
     {
         "cosmos_address": "dydx126h08stz9xpln0pesthql4g8clq42kc8au7uys",
         "tag" : "Community Pool Recipient",
-        "description": "dYdX Operations SubDAO multisig that received 16,671,500 DYDX from the community treasury via proposal #222 to fund its 3rd mandate",
+        "description": "dYdX Operations SubDAO multisig that received funds from the community treasury",
         "type": "WARNING"
     },
     {
         "cosmos_address": "dydx1pjc7qsef3lsljfchutxph45ne6wuhw3fvpgfgr",
         "tag" : "Community Pool Recipient",
-        "description": "dYdX Foundation address that received 13,114,754 DYDX from the community treasury via proposal #268 for the grants program",
+        "description": "dYdX Foundation address that received funds from the community treasury",
         "type": "WARNING"
     },
     {
         "cosmos_address": "dydx1he0e9veu60gmcry2d9yqhafm0t0cpmnq5hdytu",
         "tag" : "Community Pool Recipient",
-        "description": "dYdX Foundation address that received 10,915,674 DYDX from the community treasury via proposal #8 and 2,500,000 USDC from the insurance fund via proposal #372",
+        "description": "dYdX Foundation address that received funds from the community treasury and insurance fund",
         "type": "WARNING"
     },
     {
         "cosmos_address": "dydx1lxjqtqzsnnxygkax03d8ygxrm7er23xjqpg4e6",
         "tag" : "Community Pool Recipient",
-        "description": "Address that received about 6.22M DYDX from the community treasury via proposals #329, #336, #338, #344, #352, #376, #383, #385 and #390 to distribute liquidation rebates, loss rebates and Surge program rewards",
+        "description": "Rebates and rewards distribution address that received funds from the community treasury",
         "type": "WARNING"
     },
     {
         "cosmos_address": "dydx16jll55tag2aj3c4mtysptefn8d274dmdsxvank",
         "tag" : "Community Pool Recipient",
-        "description": "Multisig that received 3,858,500 DYDX from the community treasury via proposal #19 for the dYdX Ecosystem Development Program",
+        "description": "dYdX Ecosystem Development Program multisig that received funds from the community treasury",
         "type": "WARNING"
     },
     {
         "cosmos_address": "dydx10azu6arkhqjfzvya6877neq86h2awp79m84w6q",
         "tag" : "Community Pool Recipient",
-        "description": "Address that received 3,030,303 DYDX from the community treasury via proposal #300 for the dYdX Trading Leagues pilot program",
+        "description": "dYdX Trading Leagues address that received funds from the community treasury",
         "type": "WARNING"
     },
     {
         "cosmos_address": "dydx1p0wrtn732ecpgzrf4lzqvf9sswy9pya9p85m8x",
         "tag" : "Community Pool Recipient",
-        "description": "dYdX Operations SubDAO multisig that received 2,500,000 USDC from the insurance fund via proposal #372 for operational runway",
+        "description": "dYdX Operations SubDAO multisig that received funds from the insurance fund",
         "type": "WARNING"
     },
     {
         "cosmos_address": "dydx1aakf4gq5wep9ukeemtuvrjvccz2lhnjteerrme",
         "tag" : "Community Pool Recipient",
-        "description": "Address that received 382,025 DYDX from the community treasury via proposal #4 in exchange for seeding the insurance fund with about 1M USDC",
+        "description": "Address that received funds from the community treasury",
         "type": "WARNING"
     },
     {
         "cosmos_address": "dydx1dd25c4sshelrpfs0433apg24c5phrhk8ju5u4y",
         "tag" : "Exploiter",
-        "description": "Attacker address of the Neutron governance exploit (Sep 2026). Same key as neutron1dd25c4sshelrpfs0433apg24c5phrhk8l6n605. Sent about 800,000 DYDX to intermediate wallets and exchange deposit addresses on Sep 22, 2026",
+        "description": "Attacker address of the Neutron governance exploit (Sep 2026)",
         "type": "DANGER"
     },
     {
         "cosmos_address": "dydx1g3yxx6any5xfm6cvhhmhpegfzh2jxzmdlpg5pa",
         "tag" : "Exploiter",
-        "description": "Intermediate wallet that received 100,000 DYDX from the Neutron governance exploiter and forwarded it to an exchange deposit address on Sep 22, 2026",
+        "description": "Intermediate wallet that received funds stolen in the Neutron governance exploit (Sep 2026)",
         "type": "DANGER"
     },
     {
         "cosmos_address": "dydx17nnea956ys2m2nl6r6dsuje66kg9huhc4tnspd",
         "tag" : "Exploiter",
-        "description": "Intermediate wallet that received 200,000 DYDX from the Neutron governance exploiter on Sep 22, 2026 and moved it out in a single transaction",
+        "description": "Intermediate wallet that received funds stolen in the Neutron governance exploit (Sep 2026)",
         "type": "DANGER"
     },
     {
         "cosmos_address": "dydx16xkl6xavvq2748e6pkzt4rrnatzcqw6j9j7nra",
         "tag" : "Exploiter",
-        "description": "Holds 250,000 DYDX stolen in the Neutron governance exploit (Sep 2026), received directly from the exploiter on Sep 22, 2026 and never moved. Owner not confirmed (exploiter wallet or exchange deposit address assigned to the exploiter)",
+        "description": "Intermediate wallet that received funds stolen in the Neutron governance exploit (Sep 2026)",
         "type": "DANGER"
     }
 ]

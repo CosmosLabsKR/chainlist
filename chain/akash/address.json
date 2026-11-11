@@ -1,0 +1,398 @@
+[
+    {
+        "cosmos_address": "akash1fl48vsnmsdzcv85q5d2q4z5ajdha8yu3cqygqd",
+        "tag" : "Bonded Tokens Pool",
+        "description": "Module account that holds tokens staked to active validators",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "akash1tygms3xhhs3yv487phx3dw4a95jn7t7lvqceke",
+        "tag" : "Not Bonded Tokens Pool",
+        "description": "Module account that holds unbonding tokens and tokens staked to inactive validators",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "akash1jv65s3grqf6v6jl3dp4t6c9t9rk99cd82yfms9",
+        "tag" : "Distribution",
+        "description": "Module account that holds the community pool and unclaimed staking rewards",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "akash17xpfvakm2amg962yls6f84z3kell8c5lazw8j8",
+        "tag" : "Fee Collector",
+        "description": "Module account that collects block rewards and transaction fees",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "akash10d07y265gmmuvt4z0w9aw880jnsr700jhe7z0f",
+        "tag" : "Gov",
+        "description": "Module account that holds governance proposal deposits",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "akash1m3h30wlvsf8llruxtpukdvsy0km2kum8922l76",
+        "tag" : "Mint",
+        "description": "Module account that mints new AKT as block rewards (inflation)",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "akash1yl6hdjhmkf37639730gffanpzndzdpmhrymwwe",
+        "tag" : "Transfer",
+        "description": "IBC transfer module account that mints and burns IBC vouchers",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "akash14pphss726thpwws3yc458hggufynm9x77l4l2u",
+        "tag" : "Escrow",
+        "description": "Escrow module account that holds deposits for active deployments until they are paid to providers",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "akash1klpwzlvfnw7j8gtdd0cuu9vaw9ermsmd37sg55",
+        "tag" : "BME",
+        "description": "Burn Mint Equilibrium module account",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "akash1r9ut4ukp207nhumr8uaykyh6v7p9qlwxmcf48p",
+        "tag" : "Sink",
+        "description": "Sink module account",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "akash1nh99rfutezm69el3dae4ydxxarmrn53kex48ur",
+        "tag" : "Community Pool Recipient",
+        "description": "Community Advisory Board address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "akash1ajks3ua96qyr3mj5g00t3us6m6jardpz2syyju",
+        "tag" : "Community Pool Recipient",
+        "description": "Moultrie Audits address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "akash14f0238kueaa49wtx555nxa4w0h9zar3yg93v0t",
+        "tag" : "Community Pool Recipient",
+        "description": "Luna address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "akash1zn3efzs3dlxc8vz6yq2axrv68c8wqacxj7gdyp",
+        "tag" : "Community Pool Recipient",
+        "description": "Praetor address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "akash1xpkyrkjf50l8hsfg544qzztrgsz3nz7qfv5mkk",
+        "tag" : "Community Pool Recipient",
+        "description": "Akash Hackathon 2023 address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "akash1lal8sdqmknk2qchmn8u4f2d2r5u0dm6jhje4u7",
+        "tag" : "Community Pool Recipient",
+        "description": "Events Resourcing 2023 address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "akash1rd0l9fkzwyavj36gg3wlf4qv037u33qv6npx0l",
+        "tag" : "Community Pool Recipient",
+        "description": "Community Support 2023 address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "akash1v6c77xl46cfwcxcg30urygvpn8sv8rp6mwaluz",
+        "tag" : "Community Pool Recipient",
+        "description": "Cloudmos Acquisition address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "akash1ext4ndzkxlw5w9ztqddasm2dzh7270ngd3uaet",
+        "tag" : "Community Pool Recipient",
+        "description": "Cosmos MetaMask Snap 1 address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "akash1h6xshqjwuwqku9aefazypjm7z3g7l94mhgdmqv",
+        "tag" : "Community Pool Recipient",
+        "description": "Website Revamp address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "akash1ajwyre772xyu8m94j7prtvz57w020aqnpf62lx",
+        "tag" : "Community Pool Recipient",
+        "description": "Thumper AI Model address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "akash1ghg349jqr73v86562dqkk8v72ue3pwk73ena6x",
+        "tag" : "Community Pool Recipient",
+        "description": "Automated Auditor address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "akash1pavese7elh84mlt4tez30g3nmrvf3lk4pac9qk",
+        "tag" : "Community Pool Recipient",
+        "description": "Community Support 2024 address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "akash1hynu5vavhh4vqe8tvw6en4kyqlwcv4fdumqt38",
+        "tag" : "Community Pool Recipient",
+        "description": "Events Resourcing 2024 address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "akash1kzc6r8dd4g6wsjt0ajd0hc52c243hpd2tk8tr0",
+        "tag" : "Community Pool Recipient",
+        "description": "Community Support 2024 Q1 address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "akash1hx9wrw08wm4u6xt4wju36vt5n0rrm66w7fshrs",
+        "tag" : "Community Pool Recipient",
+        "description": "Provider Incentive Pilot 1 address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "akash12yksh8t85e8xske9ewrnaph88j2nxxh3urhdaa",
+        "tag" : "Community Pool Recipient",
+        "description": "Zealy Developer Onboarding address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "akash1dnk2mw3hmy5t5y5c5h0yamncwmsnaldj58fvaa",
+        "tag" : "Community Pool Recipient",
+        "description": "Akash Accelerate 2024 address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "akash1jsqmt0pe4gck0umxjf555vpqqy59lx5p5ek8mj",
+        "tag" : "Community Pool Recipient",
+        "description": "Coinbase Learning Rewards address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "akash12m0kpvdeuf888gsyp0djvmrnktlw8z027ddss5",
+        "tag" : "Community Pool Recipient",
+        "description": "Praetor Acquisition address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "akash1lyg6a4y3gkdncaf5cmlq6kauc650saradq7k0l",
+        "tag" : "Community Pool Recipient",
+        "description": "Git Deployment Integration address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "akash1sa5quyrpmf3l2acfrwgsy9t34yxpkvwrnqdmm0",
+        "tag" : "Community Pool Recipient",
+        "description": "Verifiable Compute address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "akash1ezmj6jhsm5f9vadvpquxf4pzs8evqgul3c6lva",
+        "tag" : "Community Pool Recipient",
+        "description": "Cosmos SDK v0.47 Upgrade address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "akash16yjnr43j3aauczvwrycxueqsjmc3cpsffdvq0q",
+        "tag" : "Community Pool Recipient",
+        "description": "Akash Payments (Console 2.0) address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "akash1636lu4j34nk4quf9kpy2gxrjsxpxl92aax83jz",
+        "tag" : "Community Pool Recipient",
+        "description": "Cosmos MetaMask Snap 2 address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "akash1stqzyl2dxm9fn7zppqqdkldfzhzsz4sh403vtt",
+        "tag" : "Community Pool Recipient",
+        "description": "Events Resourcing 2024 Q4 address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "akash12m4zmlqwahurxhwq4f5ehjtnqzr36neqv90n3x",
+        "tag" : "Community Pool Recipient",
+        "description": "Provider Incentives Pilot 2 address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "akash1ql2gxn5qphx73m2pwp3crl94wgafhahly96hqs",
+        "tag" : "Community Pool Recipient",
+        "description": "Community Programs 2025 address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "akash1fdx3dtugk3xhcnm4a2gj0dsskvc2pd3aka98vf",
+        "tag" : "Community Pool Recipient",
+        "description": "Community Activities 2025 address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "akash12ena7qmpcngpa26rlpu63xg542k9sf7zapvzz4",
+        "tag" : "Community Pool Recipient",
+        "description": "Events Resourcing 2025 address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "akash10v944nudmd8yxzfay38zf99dq8h6s5t70y8p3q",
+        "tag" : "Community Pool Recipient",
+        "description": "Market Making Liquidity address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "akash17q9aykzrnzgx93tdfvxzkrj07wr46ugnw8x9fe",
+        "tag" : "Community Pool Recipient",
+        "description": "Public Good Indexing & MCP address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "akash1fwczl5d2jll0x2aug3jr7ye9464m9mjuwznwwc",
+        "tag" : "Community Pool Recipient",
+        "description": "Provider Console (AEP 32) address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "akash1hekexhxvz6auyrhh688ul3ltekgqwa3z3mpwgw",
+        "tag" : "Community Pool Recipient",
+        "description": "Akash Accelerate 2025 address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "akash1zkjasz84mvzr3wtl8lgm9yauy7vndg33m8sugd",
+        "tag" : "Community Pool Recipient",
+        "description": "AEP 62-64 Development address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "akash1kpcyh4lp5ta38v35vu6gf7q4m99qc2lnwhnvd3",
+        "tag" : "Community Pool Recipient",
+        "description": "De-AI Hub address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "akash1caep944s7980cfz9wfr5rdp3eduk5ngvuan8xl",
+        "tag" : "Community Pool Recipient",
+        "description": "AEP Support Services H1 2025 address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "akash1tryplcany4g2nge796j63htq0cfc5etrtrp8aw",
+        "tag" : "Community Pool Recipient",
+        "description": "Community Growth Marketing address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "akash1geya2nmd8tngaegxvd7mg3eqzav50xkfrg8ujc",
+        "tag" : "Community Pool Recipient",
+        "description": "Zealy 2025 address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "akash1cmldl9asq08snv2jfnlh6crzm2mp5wzsjd0tjk",
+        "tag" : "Community Pool Recipient",
+        "description": "Tenant Incentives Pilot address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "akash1j0amcyezpr5q4388rzx8amq2uxfjhu9rw5m56h",
+        "tag" : "Community Pool Recipient",
+        "description": "Akash Chat & ChatAPI address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "akash1u0hgy25ts6vuzkxfz3e9vmty2s86a6e0xtef3m",
+        "tag" : "Community Pool Recipient",
+        "description": "Blockworks Research address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "akash16f37szsxqyr83vyk0td8e37638jdcwc7sxtwpf",
+        "tag" : "Community Pool Recipient",
+        "description": "Provider Incentive Pilot 3 address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "akash1nw9k9336g9csenjaq74f87gc4w4ffrv3wa3um0",
+        "tag" : "Community Pool Recipient",
+        "description": "Decentralized Cloud Foundation address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "akash1p72shunwqs9ue34tk0htu7q3mcnf5vfpqzsnzr",
+        "tag" : "Community Pool Recipient",
+        "description": "Core Engineering Q3 2025 address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "akash1tk47pa0w00knfs2terfevqud4p9svvyse6mmf5",
+        "tag" : "Community Pool Recipient",
+        "description": "Client Engineering Q3 2025 address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "akash10qa6wgda5emm4s33ectfwpk6qaz98y6nj7mwdm",
+        "tag" : "Community Pool Recipient",
+        "description": "AEP Support Services Q3 2025 address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "akash1znczdpwvdnyt4szde5yyanhm9xp5jcgdl67tnx",
+        "tag" : "Community Pool Recipient",
+        "description": "Engineering & AEP Q4 25-Q1 26 address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "akash1gqfw9h5rjkj8rwhxe3th6pvfw4crjzplh9gvz6",
+        "tag" : "Community Pool Recipient",
+        "description": "Akash Events 2026 address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "akash1km3d5nejpz9f4akle4k40lgejtzk25r8wx2kca",
+        "tag" : "Community Pool Recipient",
+        "description": "AEP Support Services Q2 2026 address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "akash1kfu3ar4pl2urpx7h6cewdr2r38yp0wtk3q47nc",
+        "tag" : "Community Pool Recipient",
+        "description": "Client Engineering Q2 2026 address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "akash1frnzw5xufsd309nmdtdufupldpp252typgfwse",
+        "tag" : "Community Pool Recipient",
+        "description": "Core Engineering Q2 2026 address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "akash1uaumrxdcpa45p52wvv4u4m7k6u4sdgry9f2tyf",
+        "tag" : "Community Pool Recipient",
+        "description": "Core Engineering Q3 2026 address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "akash1aevkp2ta78z5467zxf0qrglm9atndx4d7dx546",
+        "tag" : "Community Pool Recipient",
+        "description": "Client Engineering Q3 2026 address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "akash1dr9xs58yqaaw724any79e6gv59mffe6hx8s8ja",
+        "tag" : "Community Pool Recipient",
+        "description": "AEP Support Services Q3 2026 address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "akash1atuap9kfnt6y8ykvn3437e7j3z8qffh3ds7uhx",
+        "tag" : "Web3Auth Keplr Recovery",
+        "description": "Holds assets rescued from Keplr social login wallets after the Web3Auth key breach (Nov 2026)",
+        "type": "WARNING"
+    }
+]

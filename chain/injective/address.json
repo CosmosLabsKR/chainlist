@@ -17,14 +17,14 @@
         "cosmos_address": "inj1jv65s3grqf6v6jl3dp4t6c9t9rk99cd8dkncm8",
         "evm_address": "0x93354845030274cD4bf1686Abd60AB28EC52e1a7",
         "tag" : "Distribution",
-        "description": "Module account that holds the community pool and staking rewards and commissions until they are withdrawn",
+        "description": "Module account that holds the community pool and unclaimed staking rewards",
         "type": "SYSTEM"
     },
     {
         "cosmos_address": "inj17xpfvakm2amg962yls6f84z3kell8c5l6s5ye9",
         "evm_address": "0xf1829676DB577682E944fc3493d451B67Ff3E29F",
         "tag" : "Fee Collector",
-        "description": "Module account that collects block rewards and transaction fees before they are distributed to stakers and the community pool",
+        "description": "Module account that collects block rewards and transaction fees",
         "type": "SYSTEM"
     },
     {
