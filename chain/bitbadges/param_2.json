@@ -10,8 +10,8 @@
     "origin_genesis_time" : "2024-09-08T20:28:35Z",
     "api_name" : "bitbadges",
     "is_support_mintscan": false,
-    "is_support_mobile_wallet": true,
-    "is_support_extension_wallet": true,
+    "is_support_mobile_wallet": false,
+    "is_support_extension_wallet": false,
     "is_support_erc20" : false,
     "chain_type": [
         "cosmos",

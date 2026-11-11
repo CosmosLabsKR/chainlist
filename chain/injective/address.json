@@ -1,0 +1,142 @@
+[
+    {
+        "cosmos_address": "inj1fl48vsnmsdzcv85q5d2q4z5ajdha8yu3lj7tt0",
+        "evm_address": "0x4feA76427B8345861e80A3540a8a9D936FD39391",
+        "tag" : "Bonded Tokens Pool",
+        "description": "Module account that holds tokens staked to active validators",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "inj1tygms3xhhs3yv487phx3dw4a95jn7t7ltjz6am",
+        "evm_address": "0x5911B844d7BC224654FE0DCd16BAbD2D253f2fdF",
+        "tag" : "Not Bonded Tokens Pool",
+        "description": "Module account that holds unbonding tokens and tokens staked to inactive validators",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "inj1jv65s3grqf6v6jl3dp4t6c9t9rk99cd8dkncm8",
+        "evm_address": "0x93354845030274cD4bf1686Abd60AB28EC52e1a7",
+        "tag" : "Distribution",
+        "description": "Module account that holds the community pool and staking rewards and commissions until they are withdrawn",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "inj17xpfvakm2amg962yls6f84z3kell8c5l6s5ye9",
+        "evm_address": "0xf1829676DB577682E944fc3493d451B67Ff3E29F",
+        "tag" : "Fee Collector",
+        "description": "Module account that collects block rewards and transaction fees before they are distributed to stakers and the community pool",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "inj10d07y265gmmuvt4z0w9aw880jnsr700jstypyt",
+        "evm_address": "0x7b5Fe22B5446f7C62Ea27B8BD71CeF94e03f3dF2",
+        "tag" : "Gov",
+        "description": "Module account that holds governance proposal deposits",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "inj1m3h30wlvsf8llruxtpukdvsy0km2kum8zcsu4c",
+        "evm_address": "0xDc6F17BBEc824FFf8F86587966B2047Db6aB7367",
+        "tag" : "Mint",
+        "description": "Module account that mints new INJ as block rewards (inflation)",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "inj1yl6hdjhmkf37639730gffanpzndzdpmhykpd9m",
+        "evm_address": "0x27f576CafbB263ED44BE8bd094f66114Da268777",
+        "tag" : "Transfer",
+        "description": "IBC transfer module account that mints and burns IBC vouchers",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "inj1vlthgax23ca9syk7xgaz347xmf4nunefdppn7g",
+        "evm_address": "0x67d77474CA8e3a5812de323a28D7c6Da6b3e4f29",
+        "tag" : "Interchain Accounts",
+        "description": "IBC Interchain Accounts module account",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "inj176rcyfn5k9d0wcxel3kmwvxh0hy3xcwen9585u",
+        "evm_address": "0xF687822674B15af760D9Fc6DB730d77dc91361D9",
+        "tag" : "Fee IBC",
+        "description": "IBC fee middleware module account that escrows IBC relayer fees",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "inj14vnmw2wee3xtrsqfvpcqg35jg9v7j2vdpzx0kk",
+        "evm_address": "0xAB27b729D9Cc4cB1c00960700446924159e9298d",
+        "tag" : "Exchange",
+        "description": "Exchange module account that holds funds deposited into trading subaccounts of the on-chain orderbook",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "inj1j4yzhgjm00ch3h0p9kel7g8sp6g045qf32pzlj",
+        "evm_address": "0x95482BA25B7BF178dDe12Db3FF20f00e90Fad009",
+        "tag" : "Auction",
+        "description": "Burn auction module account that collects exchange fees into a basket auctioned for INJ, which is then burned",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "inj1vn5fx74ud4cu7tf0pls9u5krxengsdzrg9ap2d",
+        "evm_address": "0x64e8937ABC6d71cf2D2F0fE05e52C33666883443",
+        "tag" : "Insurance",
+        "description": "Insurance module account that holds insurance funds backing derivative markets",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "inj1979qcq0kdz72w0k9rsxcmfmagx2cydrs40q2xg",
+        "evm_address": "0x2F8A0C01F668Bca73eC51c0d8da77d4195823470",
+        "tag" : "Peggy",
+        "description": "Peggy bridge module account that mints and burns tokens bridged from Ethereum",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "inj1glht96kr2rseywuvhhay894qw7ekuc4qqdy7m7",
+        "evm_address": "0x47EeB2eac350E1923b8CBDfA4396A077b36E62a0",
+        "tag" : "ERC20",
+        "description": "ERC20 module account that converts tokens between bank denoms and their ERC20 representations",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "inj1vqu8rska6swzdmnhf90zuv0xmelej4lq8mjsxs",
+        "evm_address": "0x603871c2ddd41c26Ee77495E2E31e6De7f9957e0",
+        "tag" : "EVM",
+        "description": "EVM module account",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "inj1h3j5kq3efj96ga8gre6pxmp2qmfvs994clv2su",
+        "evm_address": "0xbc654B02394C8Ba474E81E74136C2a06D2C814b5",
+        "tag" : "Tx Fees",
+        "description": "Tx Fees module account that handles transaction fees",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "inj1fl3um4qyagpfpwked5lpenvjj7wn8trr93jdku",
+        "evm_address": "0x4fe3CDd404Ea0290BaD96d3E1CCD92979D33AC63",
+        "tag" : "Permissions",
+        "description": "Permissions module account that manages access control for permissioned denoms",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "inj19ejy8n9qsectrf4semdp9cpknflld0j6hf2fle",
+        "evm_address": "0x2e6443CcA08670b1A6B0CedA12e0369a7Ff6be5a",
+        "tag" : "Token Factory",
+        "description": "Token Factory module account that mints and burns tokens created by users",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "inj1xds4f0m87ajl3a6az6s2enhxrd0wta4860twp8",
+        "evm_address": "0x336154Bf67f765F8F75D16a0aCCeE61B5eE5f6a7",
+        "tag" : "Wasm",
+        "description": "CosmWasm module account",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "inj1z5ewmnfpa3at4j54pq6dh66rthrpkvhnxqadkf",
+        "evm_address": "0x1532eDCD21EC7AbAcA950834DBEB435DC61b32F3",
+        "tag" : "Wasmx",
+        "description": "Wasmx module account that executes registered CosmWasm contracts automatically each block",
+        "type": "SYSTEM"
+    }
+]
