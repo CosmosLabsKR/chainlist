@@ -48,10 +48,10 @@
         "proposal": "https://manifest.explorers.guru/governance/${id}"
     },
     "about" : {
-        "website" : "https://manifestai.org/",
-        "docs": "",
-        "github" : "https://github.com/liftedinit",
-        "twitter" : "https://x.com/ManifestAIs/"
+        "website" : "https://manifest.network/",
+        "docs": "https://docs.manifest.network/",
+        "github" : "https://github.com/manifest-network",
+        "twitter" : "https://x.com/ManifestNetwork"
     },
     "description" : {
         "ko" : "Manifest AI는 웹사이트에 AI 챗봇을 쉽게 통합할 수 있도록 도와주는 고객 지원용 AI 플랫폼입니다.",
