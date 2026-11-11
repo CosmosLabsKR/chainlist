@@ -109,13 +109,13 @@
     },
     {
         "cosmos_address": "neutron1ckxf7y9tmvs7zlgrk6gcxxen2ryasjr7kgvrxn",
-        "tag" : "Solva Security Maintenance",
+        "tag" : "Community Pool Recipient",
         "description": "Solva address that received 3,722.70 ATOM, 3,482.94 USDC and 650,000 Astroport USDC/NTRN LP shares (about $28,568) from the community pool via proposal #4 for a 12-month Neutron security maintenance mandate",
         "type": "WARNING"
     },
     {
         "cosmos_address": "neutron1dd25c4sshelrpfs0433apg24c5phrhk8l6n605",
-        "tag" : "Neutron Governance Exploiter",
+        "tag" : "Exploiter",
         "description": "Attacker address of the Neutron governance exploit (Sep 2026). Submitted proposal #9 (AIATO: AI Agent Takeover) to take admin control of Astroport and Drop contracts, migrated them to malicious code and drained about $9.4M",
         "type": "DANGER"
     }
