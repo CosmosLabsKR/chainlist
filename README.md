@@ -9,6 +9,7 @@ Chain metadata used by Mintscan Explorer, managed by [Cosmos](https://github.com
 - [Add Erc20 Info](https://github.com/CosmosLabsKR/chainlist/tree/main#how-to-add-your-erc20-token-info)
 - [Add IBC Eureka Info](https://github.com/CosmosLabsKR/chainlist/tree/main#how-to-add-your-ibc-eureka-asset-info)
 - [Add gRPC/EVM Endpoint](https://github.com/CosmosLabsKR/chainlist/tree/main#how-to-add-endpoint)
+- [Add Address Label Info](https://github.com/CosmosLabsKR/chainlist/tree/main#how-to-add-your-address-label-info)
 - [dApp link and description on Wallet](https://github.com/CosmosLabsKR/chainlist/tree/main/wallet/eco_list.json)
 
 
@@ -622,6 +623,104 @@ curl --location '$EVM_URL' \
     "id": 1
 }'
 ```
+
+</details>
+
+---
+
+<details>
+  <summary><h2 style='display: inline; font-size: 24px'>How to add your address label info</h2></summary>
+
+<!-- Address labels are displayed on Mintscan to identify notable addresses on each chain (module accounts, exchanges, exploiters, etc.). -->
+
+To add address labels managed by chainlist,
+You must add an address label to `https://github.com/CosmosLabsKR/chainlist/blob/main/chain/{chain}/address.json`
+
+<!-- ‼️ All additions and changes are accepted via Pull Request only, and will be merged after review.
+
+1. Fork this repo to your own github account
+2. Clone fork and create new branch
+
+   ```shell
+   git clone git@github.com:YOUR_ACCOUNT/chainlist.git
+   cd chainlist
+   git branch <branch_name>
+   git checkout <branch_name>
+   ```
+
+3. Add the address info to `chain/${chain}/address.json`
+   >If the file does not exist, create `address.json` in the chain folder  
+   Changes will be updated within 24 hours after merged to master
+
+   - ***Address fields***
+     - Fill in the address fields according to the `chain_type` in `chain/${chain}/param_2.json`
+       - `["cosmos"]` (e.g. cosmos, osmosis) → `cosmos_address` only
+       - `["cosmos", "evm"]` (Ethermint based, e.g. evmos, dymension, injective) → both `cosmos_address` and `evm_address`
+         - Both addresses must refer to the **same account**
+     - Do not add a key that does not apply to the chain (do not leave it as an empty string `""`)
+
+   - `tag`
+     - Short label displayed next to the address
+
+   - `description`
+     - Detailed description of the address
+     - Include the evidence and source (e.g. official announcement, news article, explorer link, on-chain tx hash)
+
+   - `type`
+
+     | type | Color | Usage | `tag` format | `tag` examples |
+     |---|---|---|---|---|
+     | `DANGER` | 🔴 Red | Hacker, exploit, phishing, scam addresses | `{Incident/Project} {Type}` | Wormhole Exploiter, Phishing Scam, Fake Airdrop Scam |
+     | `WARNING` | 🟡 Yellow | Unverified addresses or addresses that need caution (e.g. received a large amount from the community pool) | `{Reason}` | Community Pool Recipient, Suspicious Activity, Unverified |
+     | `WELL_KNOWN` | 🟢 Green | Addresses with a verified identity (exchanges, foundations, etc.) | `{Organization} {Purpose}` | Binance Hot Wallet, Upbit Cold Wallet, Interchain Foundation |
+     | `SYSTEM` | 🔵 Blue | Chain module accounts | `{Module name}` | Bonded Tokens Pool, Not Bonded Tokens Pool, Distribution, Gov, Mint |
+
+   ### Address label json example
+   `chain/${chain}/address.json`
+
+   - Cosmos chain (`chain_type`: `["cosmos"]`)
+
+     ```json
+     // example COSMOS
+     [
+         {
+             "cosmos_address": "cosmos1fl48vsnmsdzcv85q5d2q4z5ajdha8yu34mf0eh",
+             "tag" : "Bonded Tokens Pool",
+             "description": "Module account that holds tokens staked to active validators",
+             "type": "SYSTEM"
+         }
+     ]
+     ```
+
+   - Ethermint chain (`chain_type`: `["cosmos", "evm"]`)
+
+     ```json
+     // example INJECTIVE
+     [
+         {
+             "cosmos_address": "inj1fl48vsnmsdzcv85q5d2q4z5ajdha8yu3lj7tt0",
+             "evm_address": "0x4feA76427B8345861e80A3540a8a9D936FD39391",
+             "tag" : "Bonded Tokens Pool",
+             "description": "Module account that holds tokens staked to active validators",
+             "type": "SYSTEM"
+         }
+     ]
+     ```
+
+4. Commit and push to your fork
+
+   ```shell
+   git add chain/${chain}/address.json
+   git commit -m "Add address label for ${chain}"
+   git push origin <branch_name>
+   ```
+
+5. Create a Pull Request from your fork to this repo
+   - In the PR description, include:
+     - Chain name and the address(es) added or changed
+     - Reason for the label and the `type`
+     - Evidence / source links (required for `DANGER`, `WARNING` and `WELL_KNOWN`)
+   - PRs without a verifiable source may not be merged. -->
 
 </details>
 
