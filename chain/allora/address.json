@@ -1,0 +1,74 @@
+[
+    {
+        "cosmos_address": "allo1fl48vsnmsdzcv85q5d2q4z5ajdha8yu3mgnvww",
+        "tag" : "Bonded Tokens Pool",
+        "description": "Module account that holds tokens staked to active validators",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "allo1tygms3xhhs3yv487phx3dw4a95jn7t7l0g0ac6",
+        "tag" : "Not Bonded Tokens Pool",
+        "description": "Module account that holds unbonding tokens and tokens staked to inactive validators",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "allo1jv65s3grqf6v6jl3dp4t6c9t9rk99cd8fv7l7x",
+        "tag" : "Distribution",
+        "description": "Module account that holds the community pool and unclaimed staking rewards",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "allo17xpfvakm2amg962yls6f84z3kell8c5l72eruy",
+        "tag" : "Fee Collector",
+        "description": "Module account that collects block rewards and transaction fees",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "allo13pxn9n3qw79e03844rdadagmg0nshmwfsnklnq",
+        "tag" : "Feemarket Fee Collector",
+        "description": "Module account that collects transaction fees charged by the fee market module",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "allo10d07y265gmmuvt4z0w9aw880jnsr700j53fxp2",
+        "tag" : "Gov",
+        "description": "Module account that holds governance proposal deposits",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "allo1m3h30wlvsf8llruxtpukdvsy0km2kum8xzamse",
+        "tag" : "Mint",
+        "description": "Module account that mints new ALLO as block rewards (inflation)",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "allo1yl6hdjhmkf37639730gffanpzndzdpmhqvv2q6",
+        "tag" : "Transfer",
+        "description": "IBC transfer module account that mints and burns IBC vouchers",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "allo12uxa8rw9hte3z2nuswjzpmfen289n30uag6agp",
+        "tag" : "Ecosystem",
+        "description": "Module account that holds the ecosystem share of newly minted ALLO",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "allo18svmgepd58pdhdlygeul5j8h9lv6jlj7kkhy7n",
+        "tag" : "Allora Staking",
+        "description": "Allora module account that holds ALLO staked by reputers on topics",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "allo17099f3pwtd7u0je2x3ajrem6cfydj9xj5ccq2a",
+        "tag" : "Allora Rewards",
+        "description": "Allora module account that holds rewards for workers and reputers",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "allo12nrdvtljnm87axjlqdndas8eedzvzza5uqfdh5",
+        "tag" : "Allora Pending Rewards",
+        "description": "Allora module account that holds rewards waiting to be distributed",
+        "type": "SYSTEM"
+    }
+]

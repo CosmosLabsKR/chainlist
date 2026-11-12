@@ -1,0 +1,68 @@
+[
+    {
+        "cosmos_address": "andr1fl48vsnmsdzcv85q5d2q4z5ajdha8yu3dspd96",
+        "tag" : "Bonded Tokens Pool",
+        "description": "Module account that holds tokens staked to active validators",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "andr1tygms3xhhs3yv487phx3dw4a95jn7t7lesaunw",
+        "tag" : "Not Bonded Tokens Pool",
+        "description": "Module account that holds unbonding tokens and tokens staked to inactive validators",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "andr1jv65s3grqf6v6jl3dp4t6c9t9rk99cd8l5v74j",
+        "tag" : "Distribution",
+        "description": "Module account that holds the community pool and unclaimed staking rewards",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "andr17xpfvakm2amg962yls6f84z3kell8c5lgjtzhs",
+        "tag" : "Fee Collector",
+        "description": "Module account that collects block rewards and transaction fees",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "andr10d07y265gmmuvt4z0w9aw880jnsr700jzfm827",
+        "tag" : "Gov",
+        "description": "Module account that holds governance proposal deposits",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "andr1m3h30wlvsf8llruxtpukdvsy0km2kum8s606md",
+        "tag" : "Mint",
+        "description": "Module account that mints new ANDR as block rewards (inflation)",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "andr1yl6hdjhmkf37639730gffanpzndzdpmhk57ttw",
+        "tag" : "Transfer",
+        "description": "IBC transfer module account that mints and burns IBC vouchers",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "andr1d99pujdz48wkmn3uesfxnrctn44uuf5c8s32pn",
+        "tag" : "Fee Burn",
+        "description": "Fee Burn module account that burns a portion of transaction fees",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "andr1er5qrzyuu8swtllwtf36mxpmvw70evfm5gg55v",
+        "tag" : "Rewards Dripper",
+        "description": "Rewards Dripper module account that gradually releases staking rewards",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "andr1p9rrxp5f5cksqtkk7au4p2a305qmwxjy08r0d4flmu8rzu3c4sds7zh3cd",
+        "tag" : "Community Pool Recipient",
+        "description": "Andromeda core team multisig that received funds from the community pool for staking incentives",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "andr1eq368l7nr53kcpq3w27plmpq6u3ccmk0qwp72d",
+        "tag" : "Community Pool Recipient",
+        "description": "Andromeda core team address that received funds from the community pool for staking incentives",
+        "type": "WARNING"
+    }
+]

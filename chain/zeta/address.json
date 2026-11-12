@@ -75,5 +75,19 @@
         "tag" : "Emissions TSS",
         "description": "Emissions module account that holds rewards for TSS signers",
         "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "zeta1qpr87kfp7x358wttn0m34elfq49wwt4y7y08hk",
+        "evm_address": "0x00467f5921f1A343b96B9bF71Ae7e9054aE72eA4",
+        "tag" : "Exploiter",
+        "description": "Attacker address of the ZetaChain gateway exploit (Apr 2026)",
+        "type": "DANGER"
+    },
+    {
+        "cosmos_address": "zeta1m8d7aspgcykjmgy6qhyayecfcrk8y27prlruxg",
+        "evm_address": "0xd9dbEec028C12D2dA09a05C9d26709c0Ec722BC1",
+        "tag" : "Exploiter",
+        "description": "Exploit contract used in the ZetaChain gateway exploit (Apr 2026)",
+        "type": "DANGER"
     }
 ]

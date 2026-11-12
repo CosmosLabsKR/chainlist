@@ -208,5 +208,17 @@
         "tag" : "Community Pool Recipient",
         "description": "Phoenix Directive protocol owned liquidity address that received funds from the community pool",
         "type": "WARNING"
+    },
+    {
+        "cosmos_address": "terra1wrve5z5vsmrgy6ldcveq93aldr6wk3qmxavs4j",
+        "tag" : "Exploiter",
+        "description": "Attacker address of the Terra IBC hooks exploit (Jul 2024)",
+        "type": "DANGER"
+    },
+    {
+        "cosmos_address": "terra1ra4hejz65ss8y52umg7pmerueedtfn9evnln0r",
+        "tag" : "Exploiter",
+        "description": "Secondary attacker address of the Terra IBC hooks exploit (Jul 2024)",
+        "type": "DANGER"
     }
 ]

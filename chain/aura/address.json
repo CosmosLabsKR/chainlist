@@ -1,0 +1,68 @@
+[
+    {
+        "cosmos_address": "aura1fl48vsnmsdzcv85q5d2q4z5ajdha8yu3wd7dmw",
+        "tag" : "Bonded Tokens Pool",
+        "description": "Module account that holds tokens staked to active validators",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "aura1tygms3xhhs3yv487phx3dw4a95jn7t7l6dzud6",
+        "tag" : "Not Bonded Tokens Pool",
+        "description": "Module account that holds unbonding tokens and tokens staked to inactive validators",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "aura1jv65s3grqf6v6jl3dp4t6c9t9rk99cd8ufn7tx",
+        "tag" : "Distribution",
+        "description": "Module account that holds the community pool and unclaimed staking rewards",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "aura17xpfvakm2amg962yls6f84z3kell8c5lt05zfy",
+        "tag" : "Fee Collector",
+        "description": "Module account that collects block rewards and transaction fees",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "aura10d07y265gmmuvt4z0w9aw880jnsr700jp5y852",
+        "tag" : "Gov",
+        "description": "Module account that holds governance proposal deposits",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "aura1m3h30wlvsf8llruxtpukdvsy0km2kum8n8s69e",
+        "tag" : "Mint",
+        "description": "Module account that mints new AURA as block rewards (inflation)",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "aura1yl6hdjhmkf37639730gffanpzndzdpmh4fpt46",
+        "tag" : "Transfer",
+        "description": "IBC transfer module account that mints and burns IBC vouchers",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "aura1vqu8rska6swzdmnhf90zuv0xmelej4lqkyjkk3",
+        "tag" : "EVM",
+        "description": "EVM module account",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "aura1glht96kr2rseywuvhhay894qw7ekuc4q3jyctl",
+        "tag" : "ERC20",
+        "description": "ERC20 module account that holds coins converted to ERC20 tokens",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "aura1w9vxuke5dz6hyza2j932qgmxltnfxwl7qlx4mg",
+        "tag" : "EVM Util",
+        "description": "EVM Util module account that converts coins between Cosmos and EVM",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "aura10h87v6as4ja47pldh8wt9gshwuqce3tkchd8fl",
+        "tag" : "Community Pool Recipient",
+        "description": "Aura randomness dApp support (Nois) address that received funds from the community pool",
+        "type": "WARNING"
+    }
+]
