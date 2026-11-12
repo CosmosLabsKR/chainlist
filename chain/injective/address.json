@@ -138,5 +138,89 @@
         "tag" : "Wasmx",
         "description": "Wasmx module account that executes registered CosmWasm contracts automatically each block",
         "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "inj1lqmdmuczn5rxn5jkc34wwrqdeh70etpf5wvt7g",
+        "evm_address": "0xF836DDf3029d0669d256c46ae70c0dcdfCfcaC29",
+        "tag" : "Web3Auth Keplr Recovery",
+        "description": "Holds assets rescued from Keplr social login wallets after the Web3Auth key breach (Nov 2026)",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "inj1dlwd49kvexh0nmhrlhcf6utpea7458ewrdg58c",
+        "evm_address": "0x6fdCDa96Ccc9aEF9EEe3fdf09D7161cF7d5a1f2E",
+        "tag" : "Community Pool Recipient",
+        "description": "Cosmoverse 2022 sponsorship address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "inj1akxycslq8cjt0uffw4rjmfm3echchptu52a2dq",
+        "evm_address": "0xed8c4C43E03E24b7F12975472da771Ce2f8b857c",
+        "tag" : "Community Pool Recipient",
+        "description": "Market maker address that received DMM/OLP rewards from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "inj1rwv4zn3jptsqs7l8lpa3uvzhs57y8duemete9e",
+        "evm_address": "0x1b99514E320aE0087be7f87b1E3057853c43B799",
+        "tag" : "Community Pool Recipient",
+        "description": "Market maker address that received DMM/OLP rewards from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "inj1as4jrta885z3zn37a2z3xk9cddt8dyzmfvwemw",
+        "evm_address": "0xEC2B21aFa73D05114E3eeA851358b86b5676905b",
+        "tag" : "Community Pool Recipient",
+        "description": "Market maker address that received DMM/OLP rewards from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "inj1jddhqk6egwcwrwzev5wjeneht0ykmlwhcehc4z",
+        "evm_address": "0x935b705b5943b0E1B859651d2cCf375Bc96dFdd7",
+        "tag" : "Community Pool Recipient",
+        "description": "Market maker address that received DMM/OLP rewards from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "inj1pdrwxwts36jds77jlnrpv98ppxkrwja7hc2659",
+        "evm_address": "0x0b46e339708EA4D87Bd2fCc61614E109ac374bBE",
+        "tag" : "Community Pool Recipient",
+        "description": "Market maker address that received DMM/OLP rewards from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "inj1yzmv3utcm0xx4ahsn7lyew0zzdjp4z7wlx44vx",
+        "evm_address": "0x20b6C8f178DbcC6AF6F09fBe4Cb9E213641a8bce",
+        "tag" : "Community Pool Recipient",
+        "description": "Market maker address that received DMM/OLP rewards from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "inj1x2ck0ql2ngyxqtw8jteyc0tchwnwxv7npaungt",
+        "evm_address": "0x32B16783Ea9A08602dc792F24c3d78bBA6E333D3",
+        "tag" : "Community Pool Recipient",
+        "description": "Market maker address that received DMM/OLP rewards from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "inj1xyc8au3vwlxgnnt7vyjxvz83twpdp8lde3qmkg",
+        "evm_address": "0x31307EF22C77Cc89CD7e61246608F15b82D09FEd",
+        "tag" : "Community Pool Recipient",
+        "description": "Market maker address that received DMM/OLP rewards from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "inj1ju48ulgakgclvlne0lx0h5zdzluztlx7suwq7z",
+        "evm_address": "0x972a7E7D1db231F67E797FCCFBd04D17f825Fcde",
+        "tag" : "Community Pool Recipient",
+        "description": "Market maker address that received DMM/OLP rewards from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "inj14k7wgey85pt226ugr9sq4h2ya774n82hzy26nf",
+        "evm_address": "0xaDbcE46487A056a56b8819600ADD44eFBd599d57",
+        "tag" : "Community Pool Recipient",
+        "description": "Market maker address that received DMM/OLP rewards from the community pool",
+        "type": "WARNING"
     }
 ]
