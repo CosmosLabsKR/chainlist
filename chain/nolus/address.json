@@ -1,0 +1,50 @@
+[
+    {
+        "cosmos_address": "nolus1fl48vsnmsdzcv85q5d2q4z5ajdha8yu3rtesmj",
+        "tag" : "Bonded Tokens Pool",
+        "description": "Module account that holds tokens staked to active validators",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "nolus1tygms3xhhs3yv487phx3dw4a95jn7t7lht9pdx",
+        "tag" : "Not Bonded Tokens Pool",
+        "description": "Module account that holds unbonding tokens and tokens staked to inactive validators",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "nolus1jv65s3grqf6v6jl3dp4t6c9t9rk99cd8305rt6",
+        "tag" : "Distribution",
+        "description": "Module account that holds the community pool and unclaimed staking rewards",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "nolus17xpfvakm2amg962yls6f84z3kell8c5lxfnlfc",
+        "tag" : "Fee Collector",
+        "description": "Module account that collects block rewards and transaction fees",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "nolus10d07y265gmmuvt4z0w9aw880jnsr700jvjr65k",
+        "tag" : "Gov",
+        "description": "Module account that holds governance proposal deposits",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "nolus1m3h30wlvsf8llruxtpukdvsy0km2kum87ph899",
+        "tag" : "Mint",
+        "description": "Module account that mints new NLS as block rewards (inflation)",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "nolus1yl6hdjhmkf37639730gffanpzndzdpmhc0xk4x",
+        "tag" : "Transfer",
+        "description": "IBC transfer module account that mints and burns IBC vouchers",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "nolus1mcx2mu3rnjsz53kwlrwarerh53d6plal7426z6",
+        "tag" : "Fee Refunder",
+        "description": "Fee Refunder module account that escrows IBC relayer fees paid by smart contracts",
+        "type": "SYSTEM"
+    }
+]

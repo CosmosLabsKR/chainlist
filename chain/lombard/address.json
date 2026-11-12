@@ -1,0 +1,74 @@
+[
+    {
+        "cosmos_address": "lom1fl48vsnmsdzcv85q5d2q4z5ajdha8yu3p0cv67",
+        "tag" : "Bonded Tokens Pool",
+        "description": "Module account that holds tokens staked to active validators",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "lom1tygms3xhhs3yv487phx3dw4a95jn7t7l40yav2",
+        "tag" : "Not Bonded Tokens Pool",
+        "description": "Module account that holds unbonding tokens and tokens staked to inactive validators",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "lom1jv65s3grqf6v6jl3dp4t6c9t9rk99cd8nt4l2k",
+        "tag" : "Distribution",
+        "description": "Module account that holds the community pool and unclaimed staking rewards",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "lom17xpfvakm2amg962yls6f84z3kell8c5lydjrg5",
+        "tag" : "Fee Collector",
+        "description": "Module account that collects block rewards and transaction fees",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "lom10d07y265gmmuvt4z0w9aw880jnsr700jwkzx46",
+        "tag" : "Gov",
+        "description": "Module account that holds governance proposal deposits",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "lom1m3h30wlvsf8llruxtpukdvsy0km2kum8u9kmyf",
+        "tag" : "Mint",
+        "description": "Mint module account for LOM (inflation is currently set to 0)",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "lom1yl6hdjhmkf37639730gffanpzndzdpmh6t8252",
+        "tag" : "Transfer",
+        "description": "IBC transfer module account that mints and burns IBC vouchers",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "lom1xds4f0m87ajl3a6az6s2enhxrd0wta48yjdfsk",
+        "tag" : "Wasm",
+        "description": "CosmWasm module account",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "lom130mjnllqwn9wuc3vq2fgzu6x0ejcux0zatfg0l",
+        "tag" : "Assets",
+        "description": "Assets module account",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "lom16xaegjvpurzcfar0mxe0w79pgg984l6mtgchql",
+        "tag" : "Assets Supply Vault",
+        "description": "Assets module account that mints and burns bridged BTC assets (cBTC, clBTC)",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "lom13837feaxn8t0zvwcjwhw7lhpgdcx4s3662ttp8",
+        "tag" : "BTC Staking",
+        "description": "BTC Staking module account",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "lom1jzw4r23gpsyr22xumjprj4gaaxnvsgjwpdszdu",
+        "tag" : "BTC Staking Vault (clBTC)",
+        "description": "BTC Staking module account that holds BTC assets staked through the clBTC vault",
+        "type": "SYSTEM"
+    }
+]

@@ -1,0 +1,135 @@
+[
+    {
+        "cosmos_address": "mantra1fl48vsnmsdzcv85q5d2q4z5ajdha8yu37srt6d",
+        "evm_address": "0x4feA76427B8345861e80A3540a8a9D936FD39391",
+        "tag" : "Bonded Tokens Pool",
+        "description": "Module account that holds tokens staked to active validators",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "mantra1tygms3xhhs3yv487phx3dw4a95jn7t7l2sl6ve",
+        "evm_address": "0x5911B844d7BC224654FE0DCd16BAbD2D253f2fdF",
+        "tag" : "Not Bonded Tokens Pool",
+        "description": "Module account that holds unbonding tokens and tokens staked to inactive validators",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "mantra1jv65s3grqf6v6jl3dp4t6c9t9rk99cd8v5wc29",
+        "evm_address": "0x93354845030274cD4bf1686Abd60AB28EC52e1a7",
+        "tag" : "Distribution",
+        "description": "Module account that holds the community pool and unclaimed staking rewards",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "mantra17xpfvakm2amg962yls6f84z3kell8c5lmjfyg8",
+        "evm_address": "0xf1829676DB577682E944fc3493d451B67Ff3E29F",
+        "tag" : "Fee Collector",
+        "description": "Module account that collects block rewards and transaction fees",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "mantra10d07y265gmmuvt4z0w9aw880jnsr700j3fep4f",
+        "evm_address": "0x7b5Fe22B5446f7C62Ea27B8BD71CeF94e03f3dF2",
+        "tag" : "Gov",
+        "description": "Module account that holds governance proposal deposits",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "mantra1m3h30wlvsf8llruxtpukdvsy0km2kum8r6duy6",
+        "evm_address": "0xDc6F17BBEc824FFf8F86587966B2047Db6aB7367",
+        "tag" : "Mint",
+        "description": "Module account that mints new MANTRA as block rewards (inflation)",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "mantra1yl6hdjhmkf37639730gffanpzndzdpmh95ud5e",
+        "evm_address": "0x27f576CafbB263ED44BE8bd094f66114Da268777",
+        "tag" : "Transfer",
+        "description": "IBC transfer module account that mints and burns IBC vouchers",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "mantra1vlthgax23ca9syk7xgaz347xmf4nunefvrun02",
+        "evm_address": "0x67d77474CA8e3a5812de323a28D7c6Da6b3e4f29",
+        "tag" : "Interchain Accounts",
+        "description": "IBC Interchain Accounts module account",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "mantra1xds4f0m87ajl3a6az6s2enhxrd0wta48mdkws9",
+        "evm_address": "0x336154Bf67f765F8F75D16a0aCCeE61B5eE5f6a7",
+        "tag" : "Wasm",
+        "description": "CosmWasm module account",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "mantra19ejy8n9qsectrf4semdp9cpknflld0j6kthfwm",
+        "evm_address": "0x2e6443CcA08670b1A6B0CedA12e0369a7Ff6be5a",
+        "tag" : "Token Factory",
+        "description": "Token Factory module account that mints and burns tokens created by users",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "mantra1vqu8rska6swzdmnhf90zuv0xmelej4lqxe0shj",
+        "evm_address": "0x603871c2ddd41c26Ee77495E2E31e6De7f9957e0",
+        "tag" : "EVM",
+        "description": "EVM module account",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "mantra1glht96kr2rseywuvhhay894qw7ekuc4qp0e72u",
+        "evm_address": "0x47EeB2eac350E1923b8CBDfA4396A077b36E62a0",
+        "tag" : "ERC20",
+        "description": "ERC20 module account that holds coins converted to ERC20 tokens",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "mantra1el68mjnzv87uurqks8u29tec0cj32970shww95",
+        "evm_address": "0xcff47DcA6261fDCE0C1681F8a2AF387E251517Cf",
+        "tag" : "Feemarket",
+        "description": "Fee market module account that handles fees charged by the fee market module",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "mantra1hr93qzcjspaa32px0qqywlh9hf9a8plgynvjya",
+        "evm_address": "0xb8CB100b12807Bd8A8267800477ee5BA4bD387E8",
+        "tag" : "NFT",
+        "description": "NFT module account",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "mantra1ap0mh6xzfn8943urr84q6ae7zfnar48aspn85h",
+        "evm_address": "0xe85fBbe8C24ccE5aC78319ea0d773e1267d1d4fD",
+        "tag" : "Consumer Rewards Pool",
+        "description": "Module account that held consumer chain rewards from the Interchain Security period",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "mantra1uyy6emjycyzwkn90amw03weww59akyh6sad2nw",
+        "evm_address": "0xE109AcEE44C104eB4CafEedCF8bB2e750BDB12fa",
+        "tag" : "Rate Limit",
+        "description": "IBC rate limit module account",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "mantra1yx99pmftlv0zr8afr5q3c6wevvys84vax9zdfg",
+        "evm_address": "0x218a50ed2BfB1e219fa91D011c69d9630903D59d",
+        "tag" : "Sanction",
+        "description": "Sanction module account that manages blacklisted addresses",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "mantra1rl7qgp4e3y0u6fj6yf0g8fnglgz97y5z857jll",
+        "evm_address": "0x1FfC0406B9891FCd265A225E83A668fa045F1282",
+        "tag" : "Tax",
+        "description": "Tax module account",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "mantra13n9sk3p8x7tpq9adgxvzv9q0qev953mld0hwva",
+        "evm_address": "0x8cCB0b442737961017ad419826140F06585A477F",
+        "tag" : "Exploiter",
+        "description": "Attacker address of the MANTRA Cosmos EVM exploit (Aug 2026)",
+        "type": "DANGER"
+    }
+]

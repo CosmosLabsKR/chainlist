@@ -1,0 +1,86 @@
+[
+    {
+        "cosmos_address": "noble1fl48vsnmsdzcv85q5d2q4z5ajdha8yu3acu8pe",
+        "tag" : "Bonded Tokens Pool",
+        "description": "Module account that holds tokens staked to active validators",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "noble1tygms3xhhs3yv487phx3dw4a95jn7t7lfcqkhd",
+        "tag" : "Not Bonded Tokens Pool",
+        "description": "Module account that holds unbonding tokens and tokens staked to inactive validators",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "noble17xpfvakm2amg962yls6f84z3kell8c5lc6kgnn",
+        "tag" : "Fee Collector",
+        "description": "Module account that collects transaction fees",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "noble1yl6hdjhmkf37639730gffanpzndzdpmhxurp0d",
+        "tag" : "Transfer",
+        "description": "IBC transfer module account that mints and burns IBC vouchers",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "noble1x74lhe0pqqv7rcg4pc4svtxhm9hnf79pxpfqfv",
+        "tag" : "Fiat Token Factory",
+        "description": "Fiat Token Factory module account that mints and burns native USDC issued by Circle",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "noble12l2w4ugfz4m6dd73yysz477jszqnfughxvkss5",
+        "tag" : "CCTP",
+        "description": "Circle CCTP module account that handles USDC transfers to and from other chains",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "noble1tzxjc8glywtru9j8af8mwg8wc393zwuzn02my8",
+        "tag" : "Dollar",
+        "description": "Noble Dollar module account that mints and burns USDN",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "noble1a6jceymy682np0dxz5h3d8q5zjpzqjus542v0j",
+        "tag" : "Dollar Yield",
+        "description": "Noble Dollar module account that holds yield for USDN holders",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "noble1d47qadpqs5kjuc5ghc5uglyhtlc4mq0wmc3n33",
+        "tag" : "Aura",
+        "description": "Aura module account that mints and burns USDY issued by Ondo",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "noble15nnrhjk0dstj4kz0nazj8j834jhnxem09kwcy0",
+        "tag" : "Halo",
+        "description": "Halo module account that mints and burns USYC issued by Hashnote",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "noble13wzd6d05umc3vj5ejxmlspzga534tj2zkcp7my",
+        "tag" : "Florin",
+        "description": "Florin module account that mints and burns EURe issued by Monerium",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "noble15xt7kx5mles58vkkfxvf0lq78sw04jajvfgd4d",
+        "tag" : "Orbiter",
+        "description": "Orbiter module account that routes cross-chain transfers",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "noble1ueuausztgl6cvqwpr55vn73ek0s5xg6dytek0z",
+        "tag" : "Orbiter Dust Collector",
+        "description": "Orbiter module account that collects leftover dust from cross-chain transfers",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "noble1atuap9kfnt6y8ykvn3437e7j3z8qffh3ggxnkj",
+        "tag" : "Web3Auth Keplr Recovery",
+        "description": "Holds assets rescued from Keplr social login wallets after the Web3Auth key breach (Nov 2026)",
+        "type": "WARNING"
+    }
+]

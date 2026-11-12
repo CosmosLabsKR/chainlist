@@ -1,0 +1,44 @@
+[
+    {
+        "cosmos_address": "panacea1fl48vsnmsdzcv85q5d2q4z5ajdha8yu3c54fz5",
+        "tag" : "Bonded Tokens Pool",
+        "description": "Module account that holds tokens staked to active validators",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "panacea1tygms3xhhs3yv487phx3dw4a95jn7t7lv5fc5q",
+        "tag" : "Not Bonded Tokens Pool",
+        "description": "Module account that holds unbonding tokens and tokens staked to inactive validators",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "panacea1jv65s3grqf6v6jl3dp4t6c9t9rk99cd82sc6ju",
+        "tag" : "Distribution",
+        "description": "Module account that holds the community pool and unclaimed staking rewards",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "panacea17xpfvakm2amg962yls6f84z3kell8c5laklxs7",
+        "tag" : "Fee Collector",
+        "description": "Module account that collects block rewards and transaction fees",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "panacea10d07y265gmmuvt4z0w9aw880jnsr700jhd0rds",
+        "tag" : "Gov",
+        "description": "Module account that holds governance proposal deposits",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "panacea1m3h30wlvsf8llruxtpukdvsy0km2kum897m7ur",
+        "tag" : "Mint",
+        "description": "Module account that mints new MED as block rewards (inflation)",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "panacea1yl6hdjhmkf37639730gffanpzndzdpmhrs20vq",
+        "tag" : "Transfer",
+        "description": "IBC transfer module account that mints and burns IBC vouchers",
+        "type": "SYSTEM"
+    }
+]

@@ -1,0 +1,177 @@
+[
+    {
+        "cosmos_address": "kava1fl48vsnmsdzcv85q5d2q4z5ajdha8yu3fwaj0s",
+        "evm_address": "0x4feA76427B8345861e80A3540a8a9D936FD39391",
+        "tag" : "Bonded Tokens Pool",
+        "description": "Module account that holds tokens staked to active validators",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "kava1tygms3xhhs3yv487phx3dw4a95jn7t7lawprey",
+        "evm_address": "0x5911B844d7BC224654FE0DCd16BAbD2D253f2fdF",
+        "tag" : "Not Bonded Tokens Pool",
+        "description": "Module account that holds unbonding tokens and tokens staked to inactive validators",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "kava1jv65s3grqf6v6jl3dp4t6c9t9rk99cd8m2splc",
+        "evm_address": "0x93354845030274cD4bf1686Abd60AB28EC52e1a7",
+        "tag" : "Distribution",
+        "description": "Module account that holds unclaimed staking rewards and legacy community pool funds",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "kava17xpfvakm2amg962yls6f84z3kell8c5lvvhaa6",
+        "evm_address": "0xf1829676DB577682E944fc3493d451B67Ff3E29F",
+        "tag" : "Fee Collector",
+        "description": "Module account that collects block rewards and transaction fees",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "kava10d07y265gmmuvt4z0w9aw880jnsr700jxh8cq5",
+        "evm_address": "0x7b5Fe22B5446f7C62Ea27B8BD71CeF94e03f3dF2",
+        "tag" : "Gov",
+        "description": "Module account that holds governance proposal deposits",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "kava1m3h30wlvsf8llruxtpukdvsy0km2kum85yn938",
+        "evm_address": "0xDc6F17BBEc824FFf8F86587966B2047Db6aB7367",
+        "tag" : "Mint",
+        "description": "Module account that mints new KAVA as block rewards (inflation)",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "kava1yl6hdjhmkf37639730gffanpzndzdpmhj2z5py",
+        "evm_address": "0x27f576CafbB263ED44BE8bd094f66114Da268777",
+        "tag" : "Transfer",
+        "description": "IBC transfer module account that mints and burns IBC vouchers",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "kava17d2wax0zhjrrecvaszuyxdf5wcu5a0p4qlx3t5",
+        "evm_address": "0xf354ee99e2bc863cE19d80b843353476394EbC35",
+        "tag" : "Community",
+        "description": "Community module account that holds the Kava community pool",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "kava1vqu8rska6swzdmnhf90zuv0xmelej4lq383fz0",
+        "evm_address": "0x603871c2ddd41c26Ee77495E2E31e6De7f9957e0",
+        "tag" : "EVM",
+        "description": "EVM module account",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "kava1w9vxuke5dz6hyza2j932qgmxltnfxwl78u920k",
+        "evm_address": "0x71586E5B3468B5720BAa9162A02366Fae6933BfE",
+        "tag" : "EVM Util",
+        "description": "EVM Util module account that converts coins between Cosmos and EVM",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "kava1wq9ts6l7atfn45ryxrtg4a2gwegsh3xha9e6rp",
+        "evm_address": "0x700Ab86bFeeAd33ad06430D68aF54876510BC4D7",
+        "tag" : "CDP",
+        "description": "CDP module account that holds collateral and mints USDX",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "kava1eu2ta269haf6j6z3lsj79a8rq3hsmnhu689g7z",
+        "evm_address": "0xcF14BeAb45bf53a96851FC25e2f4e3046F0DCEFC",
+        "tag" : "Liquidator",
+        "description": "Module account that holds collateral seized from liquidated CDPs",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "kava1j4yzhgjm00ch3h0p9kel7g8sp6g045qf8kzmmd",
+        "evm_address": "0x95482BA25B7BF178dDe12Db3FF20f00e90Fad009",
+        "tag" : "Auction",
+        "description": "Auction module account that holds collateral and debt being auctioned",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "kava1a42xtwfzphuuu9mdp0es6633wu5mm8fhm789v3",
+        "evm_address": "0xed5465b9220df9cE176D0bf30d6A317729bD9D37",
+        "tag" : "Hard",
+        "description": "Hard lending module account that holds deposits supplied to Hard",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "kava1mfru9azs5nua2wxcd4sq64g5nt7nn4n8s2w8cu",
+        "evm_address": "0xda47C2f450a4f9D538D86d600d55149afd39D667",
+        "tag" : "Swap",
+        "description": "Kava Swap module account that holds liquidity pool reserves",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "kava19pk5wfhpqkrttyv62a7kh5jgpy0e9vefshe40w",
+        "evm_address": "0x286D4726e10586b5919a577d6bd248091f92B329",
+        "tag" : "Savings",
+        "description": "Savings module account that holds savings deposits",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "kava1eur6wmuns3md599pae2caahy8dl3dxs3s78zcj",
+        "evm_address": "0xcF07a76F938476dA14a1EE558eF6E43b7f169A11",
+        "tag" : "Earn",
+        "description": "Earn module account that holds deposits in Kava Earn vaults",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "kava1gggszchqvw2l65my03mak6q5qfhz9cn2g0px29",
+        "evm_address": "0x42110162e06395fd53647c77Db6814026E22e26A",
+        "tag" : "Liquid",
+        "description": "Liquid module account that mints and burns liquid staking tokens (bKAVA)",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "kava1cj7njkw2g9fqx4e768zc75dp9sks8u9znxrf0w",
+        "evm_address": "0xc4Bd3959Ca415203573Ed1C58F51A12C2D03f0A2",
+        "tag" : "Kava Dist",
+        "description": "Kava Dist module account that mints and distributes KAVA incentive rewards",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "kava1kuatfkj29h6fze6g2sqky8936rxu83yg3hn79g",
+        "evm_address": "0xB73ab4da4a2Df49167485401621CB1D0CDc3C488",
+        "tag" : "Issuance",
+        "description": "Issuance module account that mints and burns assets issued on Kava",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "kava1eyugkwc74zejgwdwl7mvm7pad4hzdnka4wmdmu",
+        "evm_address": "0xc9388B3B1ea8b32439Aeffb6cdf83D6D6E26cEdD",
+        "tag" : "BEP3",
+        "description": "BEP3 module account for atomic swaps with BNB Chain",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "kava1g655pg22nnhcsku4v3pe7mz9tzqj37rlej0jmn",
+        "evm_address": "0x46a940a14a9cEF885b9564439F6c45588128f87F",
+        "tag" : "Kava Fund",
+        "description": "Kava Fund module account",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "kava1jq5dtpgx0f7xlfv2whjq3ng800wxazhxkmwe33",
+        "evm_address": "0x9028D585067a7c6FA58A75E408CD077Bdc6e8AE6",
+        "tag" : "Community Pool Recipient",
+        "description": "WAGMI address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "kava1m9uhe8rhu4rmx3jrrwz05d763esc06ndevatn9",
+        "evm_address": "0xd9797c9c77e547B346431B84fa37da8E6187ea6D",
+        "tag" : "Community Pool Recipient",
+        "description": "Injective USDt adoption address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "kava1yjj0hv0uaxucrjlua27h92nt9nf72084xjqy60",
+        "evm_address": "0x24A4Fbb1fCe9b981cBfCeabD72AA6B2CD3E53CF5",
+        "tag" : "Community Pool Recipient",
+        "description": "Kava Origin Foundation address that received funds from the community pool",
+        "type": "WARNING"
+    }
+]
