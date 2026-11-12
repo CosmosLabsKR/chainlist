@@ -1,0 +1,79 @@
+[
+    {
+        "cosmos_address": "zeta1fl48vsnmsdzcv85q5d2q4z5ajdha8yu3rl86r8",
+        "evm_address": "0x4feA76427B8345861e80A3540a8a9D936FD39391",
+        "tag" : "Bonded Tokens Pool",
+        "description": "Module account that holds tokens staked to active validators",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "zeta1tygms3xhhs3yv487phx3dw4a95jn7t7lhlmt4n",
+        "evm_address": "0x5911B844d7BC224654FE0DCd16BAbD2D253f2fdF",
+        "tag" : "Not Bonded Tokens Pool",
+        "description": "Module account that holds unbonding tokens and tokens staked to inactive validators",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "zeta1jv65s3grqf6v6jl3dp4t6c9t9rk99cd83m2fn0",
+        "evm_address": "0x93354845030274cD4bf1686Abd60AB28EC52e1a7",
+        "tag" : "Distribution",
+        "description": "Module account that holds the community pool and unclaimed staking rewards",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "zeta17xpfvakm2amg962yls6f84z3kell8c5lxad43d",
+        "evm_address": "0xf1829676DB577682E944fc3493d451B67Ff3E29F",
+        "tag" : "Fee Collector",
+        "description": "Module account that collects block rewards and transaction fees",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "zeta10d07y265gmmuvt4z0w9aw880jnsr700jvxasvr",
+        "evm_address": "0x7b5Fe22B5446f7C62Ea27B8BD71CeF94e03f3dF2",
+        "tag" : "Gov",
+        "description": "Module account that holds governance proposal deposits",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "zeta1vqu8rska6swzdmnhf90zuv0xmelej4lqmktpwc",
+        "evm_address": "0x603871c2ddd41c26Ee77495E2E31e6De7f9957e0",
+        "tag" : "EVM",
+        "description": "EVM module account",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "zeta1ku7q4tzvresxcmjftkzgr934tektxqup3wvnad",
+        "evm_address": "0xB73C0Aac4C1E606C6E495d848196355e6CB30381",
+        "tag" : "CrossChain",
+        "description": "CrossChain module account that mints and burns ZETA for cross-chain transactions",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "zeta1wdd3fwmegces02ktakrd4uej9v0xyf4trw8fja",
+        "evm_address": "0x735b14BB79463307AAcBED86DAf3322B1e6226aB",
+        "tag" : "Fungible",
+        "description": "Fungible module account that mints and burns ZRC-20 tokens representing assets from connected chains",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "zeta1w43fn2ze2wyhu5hfmegr6vp52c3dgn0srdgymy",
+        "evm_address": "0x756299A85953897E52E9DE503d30345622D44Df0",
+        "tag" : "Emissions",
+        "description": "Emissions module account that holds the ZETA reserve for block rewards",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "zeta1pyks89mqljlpgzenwa0g8zch0hptk6usd9vcuh",
+        "evm_address": "0x092d039760fcbe140B33775E838b177dc2BB6B90",
+        "tag" : "Emissions Observers",
+        "description": "Emissions module account that holds rewards for observers",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "zeta1v8v7zkyt7j3dc526k4alsu8vspvqqg342t27vu",
+        "evm_address": "0x61D9E1588BF4a2dC515AB57bF870ec8058002235",
+        "tag" : "Emissions TSS",
+        "description": "Emissions module account that holds rewards for TSS signers",
+        "type": "SYSTEM"
+    }
+]

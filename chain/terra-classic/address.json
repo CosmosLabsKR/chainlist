@@ -1,0 +1,164 @@
+[
+    {
+        "cosmos_address": "terra1fl48vsnmsdzcv85q5d2q4z5ajdha8yu3nln0mh",
+        "tag" : "Bonded Tokens Pool",
+        "description": "Module account that holds tokens staked to active validators",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "terra1tygms3xhhs3yv487phx3dw4a95jn7t7l8l07dr",
+        "tag" : "Not Bonded Tokens Pool",
+        "description": "Module account that holds unbonding tokens and tokens staked to inactive validators",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "terra1jv65s3grqf6v6jl3dp4t6c9t9rk99cd8pm7utl",
+        "tag" : "Distribution",
+        "description": "Module account that holds the community pool and unclaimed staking rewards",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "terra17xpfvakm2amg962yls6f84z3kell8c5lkaeqfa",
+        "tag" : "Fee Collector",
+        "description": "Module account that collects block rewards and transaction fees",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "terra10d07y265gmmuvt4z0w9aw880jnsr700juxf95n",
+        "tag" : "Gov",
+        "description": "Module account that holds governance proposal deposits",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "terra1m3h30wlvsf8llruxtpukdvsy0km2kum8w4ac9q",
+        "tag" : "Mint",
+        "description": "Module account that mints new LUNC as block rewards (inflation)",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "terra1yl6hdjhmkf37639730gffanpzndzdpmhgmvf4r",
+        "tag" : "Transfer",
+        "description": "IBC transfer module account that mints and burns IBC vouchers",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "terra1xds4f0m87ajl3a6az6s2enhxrd0wta48kzx23l",
+        "tag" : "Wasm",
+        "description": "CosmWasm module account",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "terra1jgp27m8fykex4e4jtt0l7ze8q528ux2lh4zh0f",
+        "tag" : "Oracle",
+        "description": "Oracle module account that holds the reward pool paid to validators submitting price votes",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "terra1untf85jwv3kt0puyyc39myxjvplagr3wstgs5s",
+        "tag" : "Market",
+        "description": "Market module account that swaps between LUNC and Terra Classic stablecoins",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "terra1vmafl8f3s6uuzwnxkqz0eza47v6ecn0t0yeca7",
+        "tag" : "Treasury",
+        "description": "Treasury module account that manages tax rates and reward policy",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "terra1sk06e3dyexuq4shw77y3dsv480xv42mq73anxu",
+        "tag" : "Burn",
+        "description": "Burn module account that burns tokens such as the burn tax",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "terra1jzwg8lgqzxymnpz4va7dfumgzkqzrll5v62cq4",
+        "tag" : "Community Pool Recipient",
+        "description": "Joint L1 Task Force address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "terra10w7dmaj6nph8ta6ehwa70pzqw08tjgjle45xxq",
+        "tag" : "Community Pool Recipient",
+        "description": "Hexxagon infrastructure address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "terra1n78s7qdflvxk4xn00yl9jrpmg8e578zx09r494",
+        "tag" : "Community Pool Recipient",
+        "description": "USTC / Stable Algo Quant Team address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "terra1skahyp7dzcu5uu2jarresqhnsn99mz6pd7r57d",
+        "tag" : "Community Pool Recipient",
+        "description": "Genuine Labs address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "terra14qk5u5yqhz9w3snz5mdl0ve5awgtjrpfy0rsjh",
+        "tag" : "Community Pool Recipient",
+        "description": "LuncGoblin address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "terra1jcdhx3ddlpunyu40ufd2z3j3wx70v2ehg9ul7y",
+        "tag" : "Community Pool Recipient",
+        "description": "OrbitLabs address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "terra16r0fdcyy6whsfx9nxfx5zhhdwte59kaf3jm502",
+        "tag" : "Community Pool Recipient",
+        "description": "BLV Labs address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "terra1wun64uuszwc6wn3pmy4w592j0dp0677tfjxxzj",
+        "tag" : "Community Pool Recipient",
+        "description": "Development and audit compensation address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "terra132qeqedz0yztuztj0rjav4rzlkashpsdxsmh64jpgp2ul0wdlkzquzvln6",
+        "tag" : "Community Pool Recipient",
+        "description": "DEX liquidity injection contract that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "terra1gfdpna8xkxhergv37lkpjq67txergkhz83v2fv",
+        "tag" : "Community Pool Recipient",
+        "description": "OrbitLabs (Phase 2) address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "terra1jf47h267hvm9sa456j9jkzgjnaddm3pwglr5tl",
+        "tag" : "Community Pool Recipient",
+        "description": "IBC relaying address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "terra1dmqa34vl5u4hfnftkwh57dn96hrvx6p8rwe86v",
+        "tag" : "Community Pool Recipient",
+        "description": "Cosmos SDK v0.53 upgrade address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "terra1run9wz09uhh6pu7ggcwwetrgye4wu7wn26mawp",
+        "tag" : "Community Pool Recipient",
+        "description": "Hyperlane Warp Routes deployment address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "terra14vncu76jm49xsf6qjwdfe46pw8e6e47nyfsmfemp8duf436mjwfq6jmt67",
+        "tag" : "Community Pool Recipient",
+        "description": "IBC relaying (2026) address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "terra14yvuxm40affmkt36m2ummvzvlka25u3ucurxjl",
+        "tag" : "Community Pool Recipient",
+        "description": "Hyperlane delivery payment address that received funds from the community pool",
+        "type": "WARNING"
+    }
+]

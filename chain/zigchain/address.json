@@ -1,0 +1,98 @@
+[
+    {
+        "cosmos_address": "zig1fl48vsnmsdzcv85q5d2q4z5ajdha8yu353vaml",
+        "tag" : "Bonded Tokens Pool",
+        "description": "Module account that holds tokens staked to active validators",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "zig1tygms3xhhs3yv487phx3dw4a95jn7t7lq3svdt",
+        "tag" : "Not Bonded Tokens Pool",
+        "description": "Module account that holds unbonding tokens and tokens staked to inactive validators",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "zig1jv65s3grqf6v6jl3dp4t6c9t9rk99cd8x4pwth",
+        "tag" : "Distribution",
+        "description": "Module account that holds the community pool and unclaimed staking rewards",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "zig17xpfvakm2amg962yls6f84z3kell8c5l3nxjf4",
+        "tag" : "Fee Collector",
+        "description": "Module account that collects block rewards and transaction fees",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "zig10d07y265gmmuvt4z0w9aw880jnsr700jmgkh5m",
+        "tag" : "Gov",
+        "description": "Module account that holds governance proposal deposits",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "zig1m3h30wlvsf8llruxtpukdvsy0km2kum8fmz29g",
+        "tag" : "Mint",
+        "description": "Module account that mints new ZIG as block rewards (inflation)",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "zig1yl6hdjhmkf37639730gffanpzndzdpmh04nm4t",
+        "tag" : "Transfer",
+        "description": "IBC transfer module account that mints and burns IBC vouchers",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "zig1vqu8rska6swzdmnhf90zuv0xmelej4lqvcqxkq",
+        "tag" : "EVM",
+        "description": "EVM module account",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "zig1glht96kr2rseywuvhhay894qw7ekuc4qtwkgtw",
+        "tag" : "ERC20",
+        "description": "ERC20 module account that holds coins converted to ERC20 tokens",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "zig1el68mjnzv87uurqks8u29tec0cj329706kpcyx",
+        "tag" : "Feemarket",
+        "description": "Fee market module account",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "zig1n58mly6f7er0zs6swtetqgfqs36jaarq65nev2",
+        "tag" : "DEX",
+        "description": "DEX module account that mints and burns liquidity pool tokens",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "zig1qmy242fasznk3q5mvqzew0af9c6xz2zf09zrau",
+        "tag" : "Factory",
+        "description": "Factory module account that mints and burns tokens created by users",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "zig1hdq87rzf327fwz8rw9rnmchj7qa3uxrpxds2fw",
+        "tag" : "Token Wrapper",
+        "description": "Token Wrapper module account that converts ZIG between its native and bridged forms",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "zig1u6vp2zpjafq6zrgj0g5m0cj0937rga2ftd7kyp",
+        "tag" : "V5 Migration Burner",
+        "description": "Module account that burned tokens during the v5 migration",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "zig1f7sawdsp4ltwh6kx6jezmna9l03c95xrmylq3j",
+        "tag" : "V5 Migration Faucet",
+        "description": "Module account that holds funds for the v5 migration faucet",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "zig14har2kjzze5adwprvwjtruf2lzvfta53wflpml",
+        "tag" : "Community Pool Recipient",
+        "description": "ZIG Retirement Wallet that received funds from the community pool to permanently retire ZIG from circulation",
+        "type": "WARNING"
+    }
+]

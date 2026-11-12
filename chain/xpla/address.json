@@ -1,0 +1,113 @@
+[
+    {
+        "cosmos_address": "xpla1fl48vsnmsdzcv85q5d2q4z5ajdha8yu3tu3njy",
+        "evm_address": "0x4feA76427B8345861e80A3540a8a9D936FD39391",
+        "tag" : "Bonded Tokens Pool",
+        "description": "Module account that holds tokens staked to active validators",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "xpla1tygms3xhhs3yv487phx3dw4a95jn7t7lludzys",
+        "evm_address": "0x5911B844d7BC224654FE0DCd16BAbD2D253f2fdF",
+        "tag" : "Not Bonded Tokens Pool",
+        "description": "Module account that holds unbonding tokens and tokens staked to inactive validators",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "xpla1jv65s3grqf6v6jl3dp4t6c9t9rk99cd8ecuqzv",
+        "evm_address": "0x93354845030274cD4bf1686Abd60AB28EC52e1a7",
+        "tag" : "Distribution",
+        "description": "Module account that holds the community pool and unclaimed staking rewards",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "xpla17xpfvakm2amg962yls6f84z3kell8c5lw7muqw",
+        "evm_address": "0xf1829676DB577682E944fc3493d451B67Ff3E29F",
+        "tag" : "Fee Collector",
+        "description": "Module account that collects block rewards and transaction fees",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "xpla10d07y265gmmuvt4z0w9aw880jnsr700jy9teaq",
+        "evm_address": "0x7b5Fe22B5446f7C62Ea27B8BD71CeF94e03f3dF2",
+        "tag" : "Gov",
+        "description": "Module account that holds governance proposal deposits",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "xpla1m3h30wlvsf8llruxtpukdvsy0km2kum8kklyvn",
+        "evm_address": "0xDc6F17BBEc824FFf8F86587966B2047Db6aB7367",
+        "tag" : "Mint",
+        "description": "Module account that mints new XPLA as block rewards (inflation)",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "xpla1yl6hdjhmkf37639730gffanpzndzdpmhscw4us",
+        "evm_address": "0x27f576CafbB263ED44BE8bd094f66114Da268777",
+        "tag" : "Transfer",
+        "description": "IBC transfer module account that mints and burns IBC vouchers",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "xpla1vqu8rska6swzdmnhf90zuv0xmelej4lqn4aglm",
+        "evm_address": "0x603871c2ddd41c26Ee77495E2E31e6De7f9957e0",
+        "tag" : "EVM",
+        "description": "EVM module account",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "xpla1w6t0l7z0yerj49ehnqwqaayxqpe3u7e20745sw",
+        "evm_address": "0x7696fff84F26472A9737981C0Ef48600731E7B2A",
+        "tag" : "Reward",
+        "description": "Reward module account that holds the XPLA reward pool distributed to stakers",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "xpla1rp6hlfxluukky5m9thklp32mc93yfgkjn40v5m",
+        "evm_address": "0x18757fa4dfE72d6253655Dedf0c55BC16244A2D2",
+        "tag" : "Dynamic Deflation Pool",
+        "description": "Module account that holds XPLA to be burned by the dynamic deflation mechanism",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "xpla1vdgctad2cy0erzjy7t7txzvyktqnjl0ujahg97",
+        "evm_address": "0x635185F5AAc11F918a44F2FcB30984B2c1397DfC",
+        "tag" : "Community Pool Recipient",
+        "description": "XPLA Osmosis liquidity address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "xpla1e528mhrl2awwsf3pwfwvm5scz7xtljrhmszn8kf24pf4w965cuxqr5cvzt",
+        "tag" : "Community Pool Recipient",
+        "description": "CONX core development vesting contract that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "xpla1zvvxyhqush4lmm0khvcdktv4ufhq0eag9dje42",
+        "evm_address": "0x1318625c1c85ebFdeDf6bB30db2d95E26e07E7a8",
+        "tag" : "Community Pool Recipient",
+        "description": "XPLA exchange liquidity provider address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "xpla1zak58js7kpgyjpawx3tfvpcfyxpn5nxpjkkvpv",
+        "evm_address": "0x176d43cA1eb0504907aE345696070921833A4cC1",
+        "tag" : "Community Pool Recipient",
+        "description": "CONX TVL and stablecoin adoption address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "xpla1wpkkgexnraq38le0mp5me7hkc783vd967mu2qr",
+        "evm_address": "0x706D6464D31F4113fF2Fd869bCfAF6C78f1634BA",
+        "tag" : "Community Pool Recipient",
+        "description": "DayOneDream x CONX K-Content fund address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "xpla10n42d4ckyurqrulhfwyqxhg4709uss65m9ayv3",
+        "evm_address": "0x7CEAa6d716270601f3f74b88035d15F3cBC84354",
+        "tag" : "Community Pool Recipient",
+        "description": "CONX validator settlement and infrastructure address that received funds from the community pool",
+        "type": "WARNING"
+    }
+]
