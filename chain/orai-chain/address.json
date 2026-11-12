@@ -1,0 +1,104 @@
+[
+    {
+        "cosmos_address": "orai1fl48vsnmsdzcv85q5d2q4z5ajdha8yu3xglvcy",
+        "tag" : "Bonded Tokens Pool",
+        "description": "Module account that holds tokens staked to active validators",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "orai1tygms3xhhs3yv487phx3dw4a95jn7t7ljgraws",
+        "tag" : "Not Bonded Tokens Pool",
+        "description": "Module account that holds unbonding tokens and tokens staked to inactive validators",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "orai1jv65s3grqf6v6jl3dp4t6c9t9rk99cd85vjlgv",
+        "tag" : "Distribution",
+        "description": "Module account that holds the community pool and unclaimed staking rewards",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "orai17xpfvakm2amg962yls6f84z3kell8c5lr24r2w",
+        "tag" : "Fee Collector",
+        "description": "Module account that collects block rewards and transaction fees",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "orai10d07y265gmmuvt4z0w9aw880jnsr700jf39xhq",
+        "tag" : "Gov",
+        "description": "Module account that holds governance proposal deposits",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "orai1m3h30wlvsf8llruxtpukdvsy0km2kum8mz3mxn",
+        "tag" : "Mint",
+        "description": "Module account that mints new ORAI as block rewards (inflation)",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "orai1yl6hdjhmkf37639730gffanpzndzdpmhavq2ks",
+        "tag" : "Transfer",
+        "description": "IBC transfer module account that mints and burns IBC vouchers",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "orai1xds4f0m87ajl3a6az6s2enhxrd0wta48r42fjv",
+        "tag" : "Wasm",
+        "description": "CosmWasm module account",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "orai19ejy8n9qsectrf4semdp9cpknflld0j6wntwvj",
+        "tag" : "Token Factory",
+        "description": "Token Factory module account that mints and burns tokens created by users",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "orai1vqu8rska6swzdmnhf90zuv0xmelej4lq7pnh4m",
+        "tag" : "EVM",
+        "description": "EVM module account",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "orai1glht96kr2rseywuvhhay894qw7ekuc4qeh9eg4",
+        "tag" : "ERC20",
+        "description": "ERC20 module account that holds coins converted to ERC20 tokens",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "orai12yfe2jaupmtjruwxsec7hg7er60fhaa4nyuh7t",
+        "tag" : "Precise Bank",
+        "description": "Precise Bank module account that holds the fractional ORAI balances used by the EVM",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "orai1uq6znztqa6vawcgmzxs2r2p4kw4k40grg6cdfd",
+        "tag" : "Community Pool Recipient",
+        "description": "Texans for the Arts address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "orai1fwq0ct8ww0hm574vsdrhj7p5h0rd0vcz2hxsd0hfufwdlw4u78ksp4wj4y",
+        "tag" : "Community Pool Recipient",
+        "description": "Oraichain DAO multisig that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "orai1fs25usz65tsryf0f8d5cpfmqgr0xwup4kjqpa0",
+        "tag" : "Community Pool Recipient",
+        "description": "Oraichain Bridge liquidity address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "orai1ccdaslj5lrfr7ud9p5e2atnz9d2phzkxw0y02e",
+        "tag" : "Community Pool Recipient",
+        "description": "Oraichain Quant Terminal address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "orai1l2226v9yud98hgw7zsppf2zr63ruy7cg7g85at",
+        "tag" : "Community Pool Recipient",
+        "description": "Oraichain Foundation block reward address that received funds from the community pool",
+        "type": "WARNING"
+    }
+]

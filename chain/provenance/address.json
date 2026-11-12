@@ -1,0 +1,68 @@
+[
+    {
+        "cosmos_address": "pb1fl48vsnmsdzcv85q5d2q4z5ajdha8yu3u4z25t",
+        "tag" : "Bonded Tokens Pool",
+        "description": "Module account that holds tokens staked to active validators",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "pb1tygms3xhhs3yv487phx3dw4a95jn7t7lg47mzl",
+        "tag" : "Not Bonded Tokens Pool",
+        "description": "Module account that holds unbonding tokens and tokens staked to inactive validators",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "pb1jv65s3grqf6v6jl3dp4t6c9t9rk99cd8w30eyr",
+        "tag" : "Distribution",
+        "description": "Module account that holds the community pool and unclaimed staking rewards",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "pb17xpfvakm2amg962yls6f84z3kell8c5lehg9xp",
+        "tag" : "Fee Collector",
+        "description": "Module account that collects block rewards and transaction fees",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "pb10d07y265gmmuvt4z0w9aw880jnsr700jnvcqm0",
+        "tag" : "Gov",
+        "description": "Module account that holds governance proposal deposits",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "pb1m3h30wlvsf8llruxtpukdvsy0km2kum8plva2u",
+        "tag" : "Mint",
+        "description": "Module account that mints new HASH as block rewards (inflation)",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "pb1yl6hdjhmkf37639730gffanpzndzdpmh83av6l",
+        "tag" : "Transfer",
+        "description": "IBC transfer module account that mints and burns IBC vouchers",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "pb1a4dczgrqzequ29ks9mvacep6t9jg2fpy5f0vyh",
+        "tag" : "Marker",
+        "description": "Marker module account that mints and burns marker tokens issued on Provenance",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "pb1g4z8k7hm6hj5fa7s780slnxjvq2dnpgpmyepz9",
+        "tag" : "Metadata",
+        "description": "Metadata module account",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "pb14y4l6qky2zhsxcx7540ejqvtye7fr66dczq2f9",
+        "tag" : "Attribute",
+        "description": "Attribute module account",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "pb1ef8kr26thn0xfh0hsv0zphe88lnyrnw2uzceu8",
+        "tag" : "Community Pool Recipient",
+        "description": "Figure validator incentive distribution address that received funds from the community pool",
+        "type": "WARNING"
+    }
+]

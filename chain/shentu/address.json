@@ -1,0 +1,74 @@
+[
+    {
+        "cosmos_address": "shentu1fl48vsnmsdzcv85q5d2q4z5ajdha8yu3a0dkt2",
+        "tag" : "Bonded Tokens Pool",
+        "description": "Module account that holds tokens staked to active validators",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "shentu1tygms3xhhs3yv487phx3dw4a95jn7t7lf038a7",
+        "tag" : "Not Bonded Tokens Pool",
+        "description": "Module account that holds unbonding tokens and tokens staked to inactive validators",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "shentu1jv65s3grqf6v6jl3dp4t6c9t9rk99cd80tq9mz",
+        "tag" : "Distribution",
+        "description": "Module account that holds the community pool and unclaimed staking rewards",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "shentu17xpfvakm2amg962yls6f84z3kell8c5lcd8eeq",
+        "tag" : "Fee Collector",
+        "description": "Module account that collects block rewards and transaction fees",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "shentu10d07y265gmmuvt4z0w9aw880jnsr700jjkhuyw",
+        "tag" : "Gov",
+        "description": "Module account that holds governance proposal deposits",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "shentu1m3h30wlvsf8llruxtpukdvsy0km2kum8q9rp4a",
+        "tag" : "Mint",
+        "description": "Module account that mints new CTK as block rewards (inflation)",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "shentu1yl6hdjhmkf37639730gffanpzndzdpmhxtjs97",
+        "tag" : "Transfer",
+        "description": "IBC transfer module account that mints and burns IBC vouchers",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "shentu1qu4xymkj6mx86hdqlnpc3ucx0dyujw7dweks74",
+        "tag" : "Shield",
+        "description": "Shield module account that holds collateral and fees for ShentuShield protection",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "shentu1jgp27m8fykex4e4jtt0l7ze8q528ux2le9uwl5",
+        "tag" : "Oracle",
+        "description": "Security Oracle module account that holds collateral deposited by oracle operators",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "shentu1wgg49kwhagrl342mxhlj6mn7k668rk9v9js365",
+        "tag" : "Bounty",
+        "description": "Bounty module account for the on-chain bug bounty program",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "shentu1fgdasxk84rzvpp8k9s7w6lru47leu2f20keknq",
+        "tag" : "Community Pool Recipient",
+        "description": "OpenBounty whitehat reward address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "shentu1makuxcm7s5dpm3jnkwj2l8n3uqjrd7pmdeeu3u",
+        "tag" : "Community Pool Recipient",
+        "description": "OpenBounty bounty payment address that received funds from the community pool",
+        "type": "WARNING"
+    }
+]

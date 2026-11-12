@@ -1,0 +1,68 @@
+[
+    {
+        "cosmos_address": "saga1fl48vsnmsdzcv85q5d2q4z5ajdha8yu3tgsa73",
+        "tag" : "Bonded Tokens Pool",
+        "description": "Module account that holds tokens staked to active validators",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "saga1tygms3xhhs3yv487phx3dw4a95jn7t7llgvvg9",
+        "tag" : "Not Bonded Tokens Pool",
+        "description": "Module account that holds unbonding tokens and tokens staked to inactive validators",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "saga1jv65s3grqf6v6jl3dp4t6c9t9rk99cd8evawwe",
+        "tag" : "Distribution",
+        "description": "Module account that holds the community pool and unclaimed staking rewards",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "saga17xpfvakm2amg962yls6f84z3kell8c5lw26jvm",
+        "tag" : "Fee Collector",
+        "description": "Module account that collects block rewards and transaction fees",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "saga10d07y265gmmuvt4z0w9aw880jnsr700jy32h34",
+        "tag" : "Gov",
+        "description": "Module account that holds governance proposal deposits",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "saga1m3h30wlvsf8llruxtpukdvsy0km2kum8kz72qx",
+        "tag" : "Mint",
+        "description": "Module account that mints new SAGA as block rewards (inflation)",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "saga1yl6hdjhmkf37639730gffanpzndzdpmhsv0ms9",
+        "tag" : "Transfer",
+        "description": "IBC transfer module account that mints and burns IBC vouchers",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "saga1pj2u0m8pecdfw5p8tmcud4addvnc7uxkpppzcx",
+        "tag" : "Billing",
+        "description": "Billing module account that collects fees charged for running Saga chainlets",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "saga14pphss726thpwws3yc458hggufynm9x7dhp25q",
+        "tag" : "Escrow",
+        "description": "Escrow module account that holds deposits paid for Saga chainlets",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "saga1ap0mh6xzfn8943urr84q6ae7zfnar48a9eq3st",
+        "tag" : "Consumer Rewards Pool",
+        "description": "Consumer Rewards Pool module account",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "saga1atuap9kfnt6y8ykvn3437e7j3z8qffh37c2ff6",
+        "tag" : "Web3Auth Keplr Recovery",
+        "description": "Holds assets rescued from Keplr social login wallets after the Web3Auth key breach (Nov 2026)",
+        "type": "WARNING"
+    }
+]

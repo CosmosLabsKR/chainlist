@@ -1,0 +1,110 @@
+[
+    {
+        "cosmos_address": "persistence1fl48vsnmsdzcv85q5d2q4z5ajdha8yu3mh0uhn",
+        "tag" : "Bonded Tokens Pool",
+        "description": "Module account that holds tokens staked to active validators",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "persistence1tygms3xhhs3yv487phx3dw4a95jn7t7l0hndp8",
+        "tag" : "Not Bonded Tokens Pool",
+        "description": "Module account that holds unbonding tokens and tokens staked to inactive validators",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "persistence1jv65s3grqf6v6jl3dp4t6c9t9rk99cd8fnz08m",
+        "tag" : "Distribution",
+        "description": "Module account that holds unclaimed staking rewards",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "persistence17xpfvakm2amg962yls6f84z3kell8c5l749n9e",
+        "tag" : "Fee Collector",
+        "description": "Module account that collects block rewards and transaction fees",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "persistence10d07y265gmmuvt4z0w9aw880jnsr700j5w4kch",
+        "tag" : "Gov",
+        "description": "Module account that holds governance proposal deposits",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "persistence1m3h30wlvsf8llruxtpukdvsy0km2kum8xaptfy",
+        "tag" : "Mint",
+        "description": "Module account that mints new XPRT as block rewards (inflation)",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "persistence1yl6hdjhmkf37639730gffanpzndzdpmhqns6e8",
+        "tag" : "Transfer",
+        "description": "IBC transfer module account that mints and burns IBC vouchers",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "persistence1xds4f0m87ajl3a6az6s2enhxrd0wta48726eam",
+        "tag" : "Wasm",
+        "description": "CosmWasm module account",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "persistence15uvj9phxl275x2yggyp2q4kalvhaw85syqnacq",
+        "tag" : "Liquid Stake",
+        "description": "Liquid Stake module account that mints and burns liquid staked XPRT (stkXPRT)",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "persistence139js96huvt800a0rprnsdqrj3ymjdlwaxftdsy",
+        "tag" : "Protocol Pool Escrow",
+        "description": "Protocol Pool module account that holds community pool funds",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "persistence1dl9lwzlzu5z6jklgpkmanchz95pmyd4yaxcex9",
+        "tag" : "Community Pool Recipient",
+        "description": "XPRT Osmosis incentives address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "persistence1llm8kplnypxhhkh6f9jwmppgsvxg8ees3xjvfa",
+        "tag" : "Community Pool Recipient",
+        "description": "Dexter grant address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "persistence1axw5he6ktvz8rgacec3ldxmegy0urn0xevsysl7e0hx6dx90er6qlcv78s",
+        "tag" : "Community Pool Recipient",
+        "description": "PCOL (community owned liquidity) multisig that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "persistence1dfuxyp2k8n7el6n5jgqqqrh5dluajrfn3z375g",
+        "tag" : "Community Pool Recipient",
+        "description": "CryptoCrew IBC relayer address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "persistence1zlc6d8nr2uwqym32mk7pqv2k7qjkwlcm6vfh29",
+        "tag" : "Community Pool Recipient",
+        "description": "XPRT liquidity and Dexter incentives address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "persistence1xkhjn2pl7hduku2ue8f2z8atxywz4clxantaxp",
+        "tag" : "Community Pool Recipient",
+        "description": "Multi-DEX liquidity address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "persistence178fzm0n933lzp28x367a78j7qe5pr8zsfmrq4k",
+        "tag" : "Community Pool Recipient",
+        "description": "Persistence DEX V2 incentivized testnet address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "persistence1fn5td7lw575xwhuyjtvearzc8p546mj6agaw0c",
+        "tag" : "Community Pool Recipient",
+        "description": "Persistence DEX liquidity address that received funds from the community pool",
+        "type": "WARNING"
+    }
+]

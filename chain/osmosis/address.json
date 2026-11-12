@@ -1,0 +1,422 @@
+[
+    {
+        "cosmos_address": "osmo1fl48vsnmsdzcv85q5d2q4z5ajdha8yu3aq6l09",
+        "tag" : "Bonded Tokens Pool",
+        "description": "Module account that holds tokens staked to active validators",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "osmo1tygms3xhhs3yv487phx3dw4a95jn7t7lfqxwe3",
+        "tag" : "Not Bonded Tokens Pool",
+        "description": "Module account that holds unbonding tokens and tokens staked to inactive validators",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "osmo1jv65s3grqf6v6jl3dp4t6c9t9rk99cd80yhvld",
+        "tag" : "Distribution",
+        "description": "Module account that holds the community pool and unclaimed staking rewards",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "osmo17xpfvakm2amg962yls6f84z3kell8c5lczssa0",
+        "tag" : "Fee Collector",
+        "description": "Module account that collects block rewards and transaction fees",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "osmo10d07y265gmmuvt4z0w9aw880jnsr700jjeq4qp",
+        "tag" : "Gov",
+        "description": "Module account that holds governance proposal deposits",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "osmo1m3h30wlvsf8llruxtpukdvsy0km2kum8q25g3j",
+        "tag" : "Mint",
+        "description": "Module account that mints new OSMO as block rewards (inflation)",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "osmo1yl6hdjhmkf37639730gffanpzndzdpmhxy9ep3",
+        "tag" : "Transfer",
+        "description": "IBC transfer module account that mints and burns IBC vouchers",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "osmo1vlthgax23ca9syk7xgaz347xmf4nunef0n986z",
+        "tag" : "Interchain Accounts",
+        "description": "IBC Interchain Accounts module account",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "osmo1xds4f0m87ajl3a6az6s2enhxrd0wta48ca069d",
+        "tag" : "Wasm",
+        "description": "CosmWasm module account",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "osmo19ejy8n9qsectrf4semdp9cpknflld0j64mwamn",
+        "tag" : "Token Factory",
+        "description": "Token Factory module account that mints and burns tokens created by users",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "osmo1c9y7crgg6y9pfkq0y8mqzknqz84c3etr0kpcvj",
+        "tag" : "GAMM",
+        "description": "GAMM module account that mints and burns liquidity pool shares",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "osmo1rxjakgd8yhks2j7hc7pt6a22z3zd64grexpyf7",
+        "tag" : "CosmWasm Pool",
+        "description": "CosmWasm Pool module account for liquidity pools implemented as CosmWasm contracts",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "osmo1xnar6nsqgnfgx8c9lkqdl3gs2hvdjklp4706fv",
+        "tag" : "Pool Manager",
+        "description": "Pool Manager module account that routes swaps across liquidity pools",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "osmo1njty28rqtpw6n59sjj4esw76enp4mg6g7cwrhc",
+        "tag" : "Lockup",
+        "description": "Lockup module account that holds locked liquidity pool shares and tokens",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "osmo1krxwf5e308jmclyhfd9u92kp369l083wequge6",
+        "tag" : "Incentives",
+        "description": "Incentives module account that holds liquidity mining rewards for gauges",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "osmo1upfuxznarpja3sywq0tzd2kktg9wv8mcc0rlm9",
+        "tag" : "Pool Incentives",
+        "description": "Pool Incentives module account that distributes OSMO inflation to liquidity pools",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "osmo1jw6hmthqpmmptfwwf7avcu7m96hs8c5ucs9ws9",
+        "tag" : "Superfluid",
+        "description": "Superfluid module account for staking liquidity pool shares",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "osmo17qdmjdumw4xawam4g46gtwzle5rd4zwyfqvvza",
+        "tag" : "ProtoRev",
+        "description": "ProtoRev module account that captures cyclic arbitrage profits",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "osmo1h3j5kq3efj96ga8gre6pxmp2qmfvs9946dg75k",
+        "tag" : "Tx Fees",
+        "description": "Tx Fees module account",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "osmo1g7ajkk295vactngp74shkfrprvjrdwn662dg26",
+        "tag" : "Non-Native Fee Collector",
+        "description": "Module account that collects transaction fees paid in tokens other than OSMO",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "osmo1yche2ydjamy8uwtg7tssm362467ku7rr7kwy2x",
+        "tag" : "Non-Native Fee Collector (Stakers)",
+        "description": "Module account that holds non-OSMO fees to be distributed to stakers",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "osmo1f3xhl0gqmyhnu49c8k3j7fkdv75ug0xjtaqu09",
+        "tag" : "Non-Native Fee Collector (Community Pool)",
+        "description": "Module account that holds non-OSMO fees to be sent to the community pool",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "osmo144drulmhd98y4cc2p9uper5ev2n2dzr5ms6xsz",
+        "tag" : "Non-Native Fee Collector (Burn)",
+        "description": "Module account that holds non-OSMO fees to be swapped and burned",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "osmo1r9jc2234fljy93z80cevqjt3nmjycec8aj4cc6",
+        "tag" : "Taker Fee Collector",
+        "description": "Module account that collects taker fees charged on swaps",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "osmo1wd8rxw3j07jcj40en6q5dhcxlsr7c8ulrn29a3",
+        "tag" : "Taker Fee Staking Rewards Buffer",
+        "description": "Module account that holds taker fees before they are distributed to stakers",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "osmo1vqy8rqqlydj9wkcyvct9zxl3hc4eqgu3d7hd9k",
+        "tag" : "Developer Vesting",
+        "description": "Module account that holds unvested OSMO from the developer vesting allocation",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "osmo1j4yzhgjm00ch3h0p9kel7g8sp6g045qfnc9kmc",
+        "tag" : "Auction",
+        "description": "Auction module account",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "osmo15sdlh2cawa5mfd9082crqtsksl27hhnv49hjc6",
+        "tag" : "IBC Hooks",
+        "description": "IBC Hooks module account",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "osmo1lqnk7sldxed4u4pf90cqvk4mkt08dtp7rj7y5p",
+        "tag" : "Interchain Query",
+        "description": "Interchain Query module account",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "osmo1mwla6yzu5rvv76xz683ef0reqyacfj4q4zr56f",
+        "tag" : "Smart Account",
+        "description": "Smart Account module account",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "osmo1sdxf7ad5qhj38pqf8wsaxd5rjwdp7jv6kvgs9h",
+        "tag" : "Validator Set Preference",
+        "description": "Validator Set Preference module account that stakes on behalf of users according to their validator preferences",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "osmo1atuap9kfnt6y8ykvn3437e7j3z8qffh3gsqtcw",
+        "tag" : "Web3Auth Keplr Recovery",
+        "description": "Holds assets rescued from Keplr social login wallets after the Web3Auth key breach (Nov 2026)",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "osmo1qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqmcn030",
+        "tag" : "Burn Address",
+        "description": "Null address with no private key. OSMO sent here is burned and cannot be recovered",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "osmo15lweg3x8reukpjhuwg49s98rkz74527u88k3un",
+        "tag" : "Community Pool Recipient",
+        "description": "CCC proposal address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "osmo1ddvq48lvj7z4kzpzg9fhyls4v2adhpkjnhk5a5",
+        "tag" : "Community Pool Recipient",
+        "description": "Osmosis Marketing DAO address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "osmo1r9pjvsuahxwkxg8cnhacd6alkmxq330fl9pqqt",
+        "tag" : "Community Pool Recipient",
+        "description": "Osmosis Community Support DAO address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "osmo1s3unu92e8zv8mfw7n5d4vrgkj9chn7yv0sh8rw",
+        "tag" : "Community Pool Recipient",
+        "description": "Stargaze community loan and LBP address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "osmo1vt02qfdus5x2lt9zkncpl6g8kq4aq2t9824555",
+        "tag" : "Community Pool Recipient",
+        "description": "CosmWasm integration address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "osmo1u5dt6aymc4y6zw9rwdjlkx7geyn3t3ur9zg0qt",
+        "tag" : "Community Pool Recipient",
+        "description": "Cosmoverse 2021 address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "osmo10naz63zd0f90dmz6a3rskhfqyasxf7ges2pymq",
+        "tag" : "Community Pool Recipient",
+        "description": "Osmosis Support Lab address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "osmo18ae7p2q7e79cdgv7y2zvq5txlnnwscjls6axyc",
+        "tag" : "Community Pool Recipient",
+        "description": "HackAtom VI address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "osmo12hes6z0ln4c5m38l00fumdemsr3v8t76s2zxc9",
+        "tag" : "Community Pool Recipient",
+        "description": "Osmosis carbon neutrality address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "osmo1auheafvzrej6ljjdz9vqt6caxzz7rewaqknqpc",
+        "tag" : "Community Pool Recipient",
+        "description": "Osmosis Grants Program address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "osmo1gpn2fnkyfssuqnd4de6guqp4llvfv64p308jhh",
+        "tag" : "Community Pool Recipient",
+        "description": "Osmosis Ministry of Marketing address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "osmo13qaek239lqhvwecdtmfg5jdhjh7c76eprurw6a",
+        "tag" : "Community Pool Recipient",
+        "description": "Flipside community analytics address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "osmo1z6mf937x9ug4ck7lt45f2wyrt9lnway68lpta9",
+        "tag" : "Community Pool Recipient",
+        "description": "Axelar OSMO loan swap address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "osmo1j52d6r4zltd5rzl0cw6sag0u4fsj9e0a2mmf3g",
+        "tag" : "Community Pool Recipient",
+        "description": "Gravity incentivised pools address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "osmo1k8re7jwz6rnnwrktnejdwkwnncte7ek7gt29gvnl3sdrg9mtnqkse6nmqm",
+        "tag" : "Community Pool Recipient",
+        "description": "ION DAO governance contract that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "osmo1rsc56qdxmkdequ4y00900xrf24xdkqzv8ap5ln",
+        "tag" : "Community Pool Recipient",
+        "description": "Osmosis Support Lab address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "osmo1yxpxl9mg3kfkxzskluynpru888cm7xhfcj6vkw",
+        "tag" : "Community Pool Recipient",
+        "description": "Mars Protocol liquidity address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "osmo1yxqyraaxnqpmjfwm9djgecgezlcak5836j2fdv",
+        "tag" : "Community Pool Recipient",
+        "description": "WYND token swap address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "osmo1jntsj9h7nkf8388xug2qxy6nlpvxw7kng9gk0k",
+        "tag" : "Community Pool Recipient",
+        "description": "Osmosis Support Lab address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "osmo1wc9t958w97kcc5gnuqh2x6q5rnxlkmla8vey0l",
+        "tag" : "Community Pool Recipient",
+        "description": "ShapeShift bounty address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "osmo190pgmj969xw9qcv3cgj4q72cz9vm7fx8dgetq4v7rldyuu8k23zqlx4x5q",
+        "tag" : "Community Pool Recipient",
+        "description": "USDT Rise contract that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "osmo1fq3wmetv8xme6v0fn53ujdmtazgz5f04vz3ta9d7qdz8gmrxwpwsy9kelc",
+        "tag" : "Community Pool Recipient",
+        "description": "Osmosis Support Lab contract that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "osmo1rfcf70z0052zsjp9kz9zgal93exljj3fgka75wve0e3sazq724mqv2vqdm",
+        "tag" : "Community Pool Recipient",
+        "description": "MantaDAO treasury swap custody multisig that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "osmo1z8q568n9gsx3sp9rcd73jw590g0h4kfy69rq9nwf808zsugkpaxsxg2fep",
+        "tag" : "Community Pool Recipient",
+        "description": "OSMO POL DAO that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "osmo1qzm2kyesqqpu4d7uaskkf023t4husm6vaan2gkc2xru0xcvzx23qq5f5c7",
+        "tag" : "Community Pool Recipient",
+        "description": "Levana liquidity contract that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "osmo1egrl60r60h9twhhapyxn9u9xhzuezwecdm30fnjpsjhmmtgq863sxqqke5",
+        "tag" : "Community Pool Recipient",
+        "description": "DYDX incentive spend contract that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "osmo1g6dsaslf2gyzf6yexgmefsf4c4kc7ddu0jh3jtpg4a7x9xxy6z9qttelz7",
+        "tag" : "Community Pool Recipient",
+        "description": "Celestia incentive spend contract that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "osmo128laly00yvpr69usz6s9n7j8f8sx6780npyauyt9ku46mpwx2n5qsxapq6",
+        "tag" : "Community Pool Recipient",
+        "description": "NeutrOsmosis contract that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "osmo106tvcj58rvdn9k36m9m3xcmcwk2c3fgft3ldcst9lgy05gcmjanqexru3h",
+        "tag" : "Community Pool Recipient",
+        "description": "Sail DAO that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "osmo1vpmwzt4mt6cfnnwtrpv79tn09yx2r3s56chpln",
+        "tag" : "Community Pool Recipient",
+        "description": "Osmosis Grants Program address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "osmo1rvq5cq2j35k7sqqz49e5e8zezl45fcywcawazh46qnc0g96d0d6sasqsgc",
+        "tag" : "Community Pool Recipient",
+        "description": "Osmosis Liquidity SubDAO that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "osmo1yyw80yqf7vytg6l9mtjlj8ru6egd3svvl77zye",
+        "tag" : "Community Pool Recipient",
+        "description": "Astroport TIA/OSMO incentives address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "osmo1wwgnamyd87xec075m449vfdhwranm53nu0dx8pl2a0p5l4y2xx2qnzrw9j",
+        "tag" : "Community Pool Recipient",
+        "description": "Frax incentivization contract that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "osmo1xdeaq4hhnalna5knp6w2g888q8hw3lemvu5847h97x6s0y2adrysv92ygu",
+        "tag" : "Community Pool Recipient",
+        "description": "bOSMO and ampOSMO liquidity storage contract that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "osmo1nth409hr75c00jm07kl27tmqry55xe7e9plq26vqxtrwxlhw5l7qlhgw0q",
+        "tag" : "Community Pool Recipient",
+        "description": "Crypto Summit del Caribe (Polytone proxy) address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "osmo15dwvndrzndzy7nls57rvq379xeta3dlt467dxerxc4pvkul0thvq6umm9z",
+        "tag" : "Community Pool Recipient",
+        "description": "Osmosis Grants Program DAO that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "osmo12e0c4wcw72rprzntrvnfk0egn8q9d2tz6zexls",
+        "tag" : "Community Pool Recipient",
+        "description": "ProtoRev bounty address that received funds from the community pool",
+        "type": "WARNING"
+    }
+]
