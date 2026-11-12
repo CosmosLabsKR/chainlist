@@ -1,0 +1,278 @@
+[
+    {
+        "cosmos_address": "swth1fl48vsnmsdzcv85q5d2q4z5ajdha8yu329re2w",
+        "tag" : "Bonded Tokens Pool",
+        "description": "Module account that holds tokens staked to active validators",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "swth1tygms3xhhs3yv487phx3dw4a95jn7t7l79lgu6",
+        "tag" : "Not Bonded Tokens Pool",
+        "description": "Module account that holds unbonding tokens and tokens staked to inactive validators",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "swth1jv65s3grqf6v6jl3dp4t6c9t9rk99cd8cpw26x",
+        "tag" : "Distribution",
+        "description": "Module account that holds the community pool and unclaimed staking rewards",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "swth17xpfvakm2amg962yls6f84z3kell8c5l08fkcy",
+        "tag" : "Fee Collector",
+        "description": "Module account that collects block rewards and transaction fees",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "swth10d07y265gmmuvt4z0w9aw880jnsr700j9uen92",
+        "tag" : "Gov",
+        "description": "Module account that holds governance proposal deposits",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "swth1yl6hdjhmkf37639730gffanpzndzdpmh3puly6",
+        "tag" : "Transfer",
+        "description": "IBC transfer module account that mints and burns IBC vouchers",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "swth1d4e35hk3gk4k6t5gh02dcm923z8ck86qeha3ck",
+        "tag" : "Inflation",
+        "description": "Inflation module account that mints new SWTH as block rewards",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "swth1m3h30wlvsf8llruxtpukdvsy0km2kum8h0dw5e",
+        "tag" : "Mint",
+        "description": "Mint module account",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "swth1vlthgax23ca9syk7xgaz347xmf4nunefckuplf",
+        "tag" : "Interchain Accounts",
+        "description": "IBC Interchain Accounts module account",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "swth176rcyfn5k9d0wcxel3kmwvxh0hy3xcwexjf44a",
+        "tag" : "Fee IBC",
+        "description": "IBC fee middleware module account that escrows relayer fees",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "swth1lxyjec76nz3js66ven72xaj7nnwzrumjfp6gpg",
+        "tag" : "Packet Forward Middleware",
+        "description": "IBC Packet Forward Middleware module account",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "swth1srd5yxrg346qd7mne893gy3g43elh2swppgerg",
+        "tag" : "Alliance",
+        "description": "Alliance module account that holds assets staked through Alliance",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "swth14hayt9cet2rfqu6tj0n8d7rnn5d0ng97zthxz8",
+        "tag" : "Alliance Rewards",
+        "description": "Alliance module account that holds rewards for Alliance stakers",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "swth1kwsesjaqk8v26luaezqalkwfm3uvwmryxgfdu3",
+        "tag" : "Coin",
+        "description": "Coin module account that mints and burns tokens on Carbon",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "swth1zlefkpe3g0vvm9a4h0jf9000lmqutlh9yfkprz",
+        "tag" : "Bridge",
+        "description": "Bridge module account that mints and burns tokens bridged from other chains",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "swth1pzeysjut9qmsfr06h9v5fhy3klmxeknhspc0nf",
+        "tag" : "Lock Proxy",
+        "description": "Lock Proxy module account that mints and burns tokens bridged through PolyNetwork",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "swth196w5cyqfezzkv6pzl5wsrmfwgesenzykag5yd2",
+        "tag" : "Crosschain Minter",
+        "description": "Module account that mints and burns tokens for cross-chain transfers",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "swth1untf85jwv3kt0puyyc39myxjvplagr3wf3cx9f",
+        "tag" : "Market",
+        "description": "Market module account",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "swth18m4ha9h9nnjql8935zya4ws8nltfna5xx7nhqx",
+        "tag" : "Order",
+        "description": "Order module account",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "swth1s762lf8rnv3myffw4s8m5kn4gvruftp8uuk46w",
+        "tag" : "Open Orders Locker",
+        "description": "Module account that holds funds locked in open orders on Carbon DEX",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "swth1tfzjgk2s80ns6tkjljjxmkg7qh5zp22hkw6lhp",
+        "tag" : "Position",
+        "description": "Position module account",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "swth197kwqmzdwn50sakljwz4qxpw3ngpew9dnkhdyz",
+        "tag" : "Open Positions Pool",
+        "description": "Module account that holds margin for open perpetual positions",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "swth1cvlydyravgtn49lpkaf70rywxgz77lzhx7s82z",
+        "tag" : "Funding Pool",
+        "description": "Module account that holds funding payments for perpetual markets",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "swth1c7ptc87hkd54e3r7zjy92q29xkq7t79wvj5dsw",
+        "tag" : "Insurance Fund",
+        "description": "Insurance fund module account that covers losses from liquidations on Carbon DEX",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "swth12uxz5eayngcls6lx55j9g28npen6z5fr7rkjww",
+        "tag" : "Liquidation Engine",
+        "description": "Liquidation Engine module account",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "swth1jdkc8y4a60k279fwe9hwgzdpn6pnxzg898al27",
+        "tag" : "Liquidity Pool Locker",
+        "description": "Module account that holds liquidity deposited into Carbon AMM pools",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "swth1wq9ts6l7atfn45ryxrtg4a2gwegsh3xh7w83xl",
+        "tag" : "CDP",
+        "description": "CDP module account for Nitron lending",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "swth1zkmw9w5j0ew57hzsvcwautrsfpcq7z5zffvaqe",
+        "tag" : "Collateral Pool",
+        "description": "Module account that holds collateral supplied to Nitron lending",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "swth1aydzv8g9yuffn3x66c4qt5x9h7xq3zss4dkc48",
+        "tag" : "Stablecoin Minter",
+        "description": "Module account that mints and burns the USC stablecoin",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "swth19asklrxg8082d3n2r0z94nqeyevsf872v9cgl3",
+        "tag" : "Temp nLend",
+        "description": "Temporary nLend module account",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "swth1jgp27m8fykex4e4jtt0l7ze8q528ux2lw0jp7s",
+        "tag" : "Oracle",
+        "description": "Oracle module account",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "swth1kwt8xnaqhdd390unn8un696nf7pjtqr7mwujxz",
+        "tag" : "OTC",
+        "description": "OTC module account",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "swth1vlw4sr752z0mxz67wg0376yj3u7zknfj0sxr47",
+        "tag" : "Fee Converter",
+        "description": "Fee Converter module account that converts fees paid in other tokens",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "swth1943zx0w94zkmdd7v9g0gdxk2f2t3gcewx892gx",
+        "tag" : "Deprecated Tokens Balancer",
+        "description": "Module account that holds deprecated tokens being migrated",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "swth1hr93qzcjspaa32px0qqywlh9hf9a8plgsxvq57",
+        "tag" : "NFT",
+        "description": "NFT module account",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "swth1eh3pzv32wv3u9zqgmagxzyj65dqz7a2mq5l857",
+        "tag" : "UV Withdrawal Shares Locker",
+        "description": "Module account that locks shares pending withdrawal",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "swth1k70gckm8hjkjzev8sa7slddxjwz20t2c5lxvvs",
+        "tag" : "Withdrawal",
+        "description": "Withdrawal module account that holds tokens being withdrawn",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "swth1r2e6uh0qdqzc2qau62mf725dvct0d0c4ykzfs2",
+        "tag" : "Withdrawal Unclaimed",
+        "description": "Withdrawal module account that holds unclaimed withdrawals",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "swth1e7cfyfgdj47fpz24hkyv4elr8x4eaj9xau0j8s",
+        "tag" : "Community Pool Recipient",
+        "description": "SWTH/OSMO Osmosis pool address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "swth19rklx5v8sejkrs0an605ljee4hyn8m0qst4j7a",
+        "tag" : "Community Pool Recipient",
+        "description": "CarbonTipBot address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "swth164dwck5ntfqrat28c5cjwyyxtqla9u4gg5ka7s",
+        "tag" : "Community Pool Recipient",
+        "description": "Carbon community incentives address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "swth1j8rs8vx45q6puzy9rpchtkchdxp5h4qcmvn9jy",
+        "tag" : "Community Pool Recipient",
+        "description": "StaFi Hub development address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "swth1cqu53xzn6k0t5v48g5wydy2r9ppxv7jhrv3x7n",
+        "tag" : "Community Pool Recipient",
+        "description": "Co-incentives address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "swth1yyepjpjsrve6vy6l77nk88dtts8la9r3kpy3jz",
+        "tag" : "Community Pool Recipient",
+        "description": "IBC relayer incentives address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "swth14hr4ljysqzx80j7wql4458x5x2k7u3x5mf5lxw",
+        "tag" : "Community Pool Recipient",
+        "description": "SWTH/SHD liquidity match address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "swth1nsrewl2lsfpuf0k69tzywf905ar789dgj5yu85",
+        "tag" : "Community Pool Recipient",
+        "description": "Carbon community incentives (CIP-85) address that received funds from the community pool",
+        "type": "WARNING"
+    }
+]

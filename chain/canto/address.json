@@ -1,0 +1,170 @@
+[
+    {
+        "cosmos_address": "canto1fl48vsnmsdzcv85q5d2q4z5ajdha8yu38dgldl",
+        "evm_address": "0x4feA76427B8345861e80A3540a8a9D936FD39391",
+        "tag" : "Bonded Tokens Pool",
+        "description": "Module account that holds tokens staked to active validators",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "canto1tygms3xhhs3yv487phx3dw4a95jn7t7lnd5wmt",
+        "evm_address": "0x5911B844d7BC224654FE0DCd16BAbD2D253f2fdF",
+        "tag" : "Not Bonded Tokens Pool",
+        "description": "Module account that holds unbonding tokens and tokens staked to inactive validators",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "canto1jv65s3grqf6v6jl3dp4t6c9t9rk99cd84f9vah",
+        "evm_address": "0x93354845030274cD4bf1686Abd60AB28EC52e1a7",
+        "tag" : "Distribution",
+        "description": "Module account that holds the community pool and unclaimed staking rewards",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "canto17xpfvakm2amg962yls6f84z3kell8c5lz0zsl4",
+        "evm_address": "0xf1829676DB577682E944fc3493d451B67Ff3E29F",
+        "tag" : "Fee Collector",
+        "description": "Module account that collects block rewards and transaction fees",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "canto10d07y265gmmuvt4z0w9aw880jnsr700jg5j4zm",
+        "evm_address": "0x7b5Fe22B5446f7C62Ea27B8BD71CeF94e03f3dF2",
+        "tag" : "Gov",
+        "description": "Module account that holds governance proposal deposits",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "canto1yl6hdjhmkf37639730gffanpzndzdpmhufhert",
+        "evm_address": "0x27f576CafbB263ED44BE8bd094f66114Da268777",
+        "tag" : "Transfer",
+        "description": "IBC transfer module account that mints and burns IBC vouchers",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "canto1d4e35hk3gk4k6t5gh02dcm923z8ck86q5lkhl8",
+        "evm_address": "0x6d731a5ed145Ab6d2e88bbD4dC6CaA888f8b1F40",
+        "tag" : "Inflation",
+        "description": "Inflation module account that mints new CANTO as block rewards",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "canto1vqu8rska6swzdmnhf90zuv0xmelej4lqlyyyqq",
+        "evm_address": "0x603871c2ddd41c26Ee77495E2E31e6De7f9957e0",
+        "tag" : "EVM",
+        "description": "EVM module account",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "canto1glht96kr2rseywuvhhay894qw7ekuc4qcjj2aw",
+        "evm_address": "0x47EeB2eac350E1923b8CBDfA4396A077b36E62a0",
+        "tag" : "ERC20",
+        "description": "ERC20 module account that holds coins converted to ERC20 tokens",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "canto1cfen33znqea5xar3477w0ynsfkqkzykxrvxguj",
+        "evm_address": "0xC27338c453067b437471aFBCE792704D816112c6",
+        "tag" : "CSR",
+        "description": "Contract Secured Revenue module account that pays a share of fees to smart contract owners",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "canto1kwd9aalfltyw76wu5skre0l6g3qwhlkrdgagwu",
+        "evm_address": "0xb39A5Ef7E9FAC8EF69DcA42c3CBFFA4440eBfec3",
+        "tag" : "Coinswap",
+        "description": "Coinswap module account that holds liquidity for swaps",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "canto1k7nccsjnysj2c7e9snczukxxdxwxvzf9zhsef2",
+        "evm_address": "0xB7a78c42532424AC7B2584F02E58C6699c660925",
+        "tag" : "Govshuttle",
+        "description": "Govshuttle module account that executes governance proposals on EVM contracts",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "canto1a9g2hd480kay4kzfh7mwjc8gf8sz9ka5lazwvl",
+        "evm_address": "0xe950aBb6A77dbA4Ad849bfB6E960e849E022dBb4",
+        "tag" : "Community Pool Recipient",
+        "description": "Canto liquidity mining emissions address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "canto1s52kk3dncr6q7ujxxl4lavp447efh5yrpmpd6v",
+        "evm_address": "0x85156B45B3C0F40f724637ebfEB035aFB29BD083",
+        "tag" : "Community Pool Recipient",
+        "description": "Neofinance coordinator address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "canto124pqj5ft35g536a8mywv40e75lrepszzlldcpe",
+        "evm_address": "0x554209512B8d1148eBA7D91cCabf3ea7C790c042",
+        "tag" : "Community Pool Recipient",
+        "description": "NOTE/USDC emissions address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "canto1qqe9wa7g9s0rujezyz9ur3mf7xdjkea69kjgfx",
+        "evm_address": "0x00325777c82C1E3E4B22208Bc1C769f19B2B67Ba",
+        "tag" : "Community Pool Recipient",
+        "description": "cNOTE/USDC emissions address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "canto1sv0hgmfmqymmpue3zqf7jkzzeas0538dc0vky0",
+        "evm_address": "0x831F746D3b0137B0F3311013e95842cf60Fa44Ed",
+        "tag" : "Community Pool Recipient",
+        "description": "Neofinance coordinator address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "canto1d3yrd69qp0es9t2h6hpjhggjmvy78nwmkmt8e7",
+        "evm_address": "0x6c4836E8A00BF302Ad57D5c32bA112DB09e3CddB",
+        "tag" : "Community Pool Recipient",
+        "description": "Retroactive public goods funding address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "canto1skpqww2vjtjdmdkd83wddhxgymjlpdjkvtf84h",
+        "evm_address": "0x858207394C92E4DDb6CD3C5cd6dcC826e5F0b656",
+        "tag" : "Community Pool Recipient",
+        "description": "Canto online hackathon partnership address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "canto1jmqf07qarknlvp0rudap4ysj2427r8prfllrju",
+        "evm_address": "0x96c097F81D1da7F605E3e37a1A92125555E19c23",
+        "tag" : "Community Pool Recipient",
+        "description": "Neofinance coordinator address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "canto14qcxxfleplm3tk03scthz4u832cufrac7vrkdk",
+        "evm_address": "0xA8306327f90Ff715D9f186177157878aB1C48FB8",
+        "tag" : "Community Pool Recipient",
+        "description": "Code4rena audits address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "canto1fljusk6pfmllj9fk7andedkwu2ed426zg8ejt9",
+        "evm_address": "0x4fe5C85B414effF91536f766dCb6cEe2b2dAAb42",
+        "tag" : "Community Pool Recipient",
+        "description": "Neofinance coordinator address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "canto1mx7j3j74nke0lwec5fxfsqf2rj8a9g577p09cp",
+        "evm_address": "0xd9bd28cBD59Db2fFBB38A24C98012A1c8fD2A29e",
+        "tag" : "Community Pool Recipient",
+        "description": "Hackathon awards address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "canto1p6dc9e60ut67tthud4wpkcujd6u3ru7ayet0x9",
+        "evm_address": "0x0e9B82E74FE2f5E5aEfc6d5c1B63926EB911f3Dd",
+        "tag" : "Community Pool Recipient",
+        "description": "IBC relayer multisig that received funds from the community pool",
+        "type": "WARNING"
+    }
+]

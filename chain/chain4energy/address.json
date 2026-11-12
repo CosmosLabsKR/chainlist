@@ -1,0 +1,80 @@
+[
+    {
+        "cosmos_address": "c4e1fl48vsnmsdzcv85q5d2q4z5ajdha8yu3krszqf",
+        "tag" : "Bonded Tokens Pool",
+        "description": "Module account that holds tokens staked to active validators",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "c4e1tygms3xhhs3yv487phx3dw4a95jn7t7lzrvnka",
+        "tag" : "Not Bonded Tokens Pool",
+        "description": "Module account that holds unbonding tokens and tokens staked to inactive validators",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "c4e1jv65s3grqf6v6jl3dp4t6c9t9rk99cd8y8a3sp",
+        "tag" : "Distribution",
+        "description": "Module account that holds the community pool and unclaimed staking rewards",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "c4e17xpfvakm2amg962yls6f84z3kell8c5lnp6djr",
+        "tag" : "Fee Collector",
+        "description": "Module account that collects block rewards and transaction fees",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "c4e10d07y265gmmuvt4z0w9aw880jnsr700je62g0d",
+        "tag" : "Gov",
+        "description": "Module account that holds governance proposal deposits",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "c4e1yl6hdjhmkf37639730gffanpzndzdpmhd80ywa",
+        "tag" : "Transfer",
+        "description": "IBC transfer module account that mints and burns IBC vouchers",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "c4e10mq3yj2lh4lx4waqtysjpepez49cu4t5nq530q",
+        "tag" : "CFE Minter",
+        "description": "CFE Minter module account that mints new C4E according to the minting schedule",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "c4e10wygsu660cjkfy0jwp8p4whefcxd3nv8phzn3k",
+        "tag" : "Distributor Main Account",
+        "description": "CFE Distributor module account that splits newly minted C4E across reward pools",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "c4e1ynpj2vdv0f9s32vku7kjr8a3wwmw4nhhtkmx6e",
+        "tag" : "Validators Rewards Collector",
+        "description": "Module account that collects C4E for validator rewards",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "c4e17hjqm36lerxsgvz6a0e6r08yjl2e9fdr059nw2",
+        "tag" : "Governance Booster Collector",
+        "description": "Module account that collects C4E for the governance booster",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "c4e16r2tvpquak29tq3jpc5872upz9mvtr8aal58zk",
+        "tag" : "Green Energy Booster Collector",
+        "description": "Module account that collects C4E for the green energy booster",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "c4e17yryahw88nkwsaphuywhv7ap8ty7zwgunjsple",
+        "tag" : "CFE Vesting",
+        "description": "CFE Vesting module account that holds tokens in vesting pools",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "c4e19dmpdgj9f90ttj2asa9uvuww4tktluttfg8hwt",
+        "tag" : "CFE Claim",
+        "description": "CFE Claim module account that holds tokens for airdrop claims",
+        "type": "SYSTEM"
+    }
+]

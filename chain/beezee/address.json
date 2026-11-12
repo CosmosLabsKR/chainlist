@@ -1,0 +1,122 @@
+[
+    {
+        "cosmos_address": "bze1fl48vsnmsdzcv85q5d2q4z5ajdha8yu3gl9ytq",
+        "tag" : "Bonded Tokens Pool",
+        "description": "Module account that holds tokens staked to active validators",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "bze1tygms3xhhs3yv487phx3dw4a95jn7t7lule4a5",
+        "tag" : "Not Bonded Tokens Pool",
+        "description": "Module account that holds unbonding tokens and tokens staked to inactive validators",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "bze1jv65s3grqf6v6jl3dp4t6c9t9rk99cd86mghmg",
+        "tag" : "Distribution",
+        "description": "Module account that holds the community pool and unclaimed staking rewards",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "bze17xpfvakm2amg962yls6f84z3kell8c5lda0te2",
+        "tag" : "Fee Collector",
+        "description": "Module account that collects block rewards and transaction fees",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "bze10d07y265gmmuvt4z0w9aw880jnsr700j8xlwyy",
+        "tag" : "Gov",
+        "description": "Module account that holds governance proposal deposits",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "bze1m3h30wlvsf8llruxtpukdvsy0km2kum844tn4h",
+        "tag" : "Mint",
+        "description": "Module account that mints new BZE as block rewards (inflation)",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "bze1yl6hdjhmkf37639730gffanpzndzdpmhnm6z95",
+        "tag" : "Transfer",
+        "description": "IBC transfer module account that mints and burns IBC vouchers",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "bze19ejy8n9qsectrf4semdp9cpknflld0j6qy3xlk",
+        "tag" : "Token Factory",
+        "description": "Token Factory module account that mints and burns tokens created by users",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "bze1v7uw4xhrcv0vk7qp8jf9lu3hm5d8uu5yjp5qun",
+        "tag" : "Burner",
+        "description": "Burner module account that periodically burns the tokens it holds",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "bze1pc5zjcvhx3e8l305zjl72grytfa30r5mdypmw4",
+        "tag" : "Burner Black Hole",
+        "description": "Burner module account that holds tokens that cannot be burned directly",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "bze18hsqalgwlzqavrrkfnxmrjmygwyjy8senx5tgs",
+        "tag" : "Burner Raffle",
+        "description": "Burner module account that holds funds for burner raffles",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "bze1245yut9zht8q4hz39sd0lzqtzkuw5us58k46ua",
+        "tag" : "Rewards",
+        "description": "Rewards module account that holds staking and trading rewards",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "bze18mhtjwczlzqqgvw84uz8lrdv4hqule3jp8allp",
+        "tag" : "Tradebin",
+        "description": "Tradebin module account that holds assets in the on-chain order book DEX",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "bze1k8py7ynzrrnmzqwk2mkz3a6znatmqshdnnsehy",
+        "tag" : "Tx Fee Collector",
+        "description": "Module account that collects transaction fees",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "bze1pj73qt0lk9q64vwx4veu53ez6la2409wewcfqq",
+        "tag" : "Tx Fee Collector (Burner)",
+        "description": "Module account that holds the share of transaction fees to be burned",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "bze1knfjgvdsv67u2ksejka54ulpfzegr6semkvjn0",
+        "tag" : "Tx Fee Collector (Community Pool)",
+        "description": "Module account that holds the share of transaction fees for the community pool",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "bze1z3mkcr2jz424w6m49frgjmy9uhlrx69phqwg3l",
+        "tag" : "Community Pool Recipient",
+        "description": "BeeZee Osmosis incentives and burner funding address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "bze1ucx0c63jut4x9ekstszed64hmcumaa62k84xex",
+        "tag" : "Community Pool Recipient",
+        "description": "BeeZee exchange listing and marketing address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "bze1dte8cgjyxnsg4zmrlhfv4h4hnxv5vy8khzfx4f",
+        "tag" : "Community Pool Recipient",
+        "description": "BeeZee AlphaTeam address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "bze1jx4x3kn8mlz2s03zdpf2a38x9gl66llvjqdd55",
+        "tag" : "Community Pool Recipient",
+        "description": "BeeZee liquidity pools address that received funds from the community pool",
+        "type": "WARNING"
+    }
+]

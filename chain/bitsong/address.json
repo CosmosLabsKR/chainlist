@@ -1,0 +1,80 @@
+[
+    {
+        "cosmos_address": "bitsong1fl48vsnmsdzcv85q5d2q4z5ajdha8yu3ejm8mc",
+        "tag" : "Bonded Tokens Pool",
+        "description": "Module account that holds tokens staked to active validators",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "bitsong1tygms3xhhs3yv487phx3dw4a95jn7t7ldj8kdv",
+        "tag" : "Not Bonded Tokens Pool",
+        "description": "Module account that holds unbonding tokens and tokens staked to inactive validators",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "bitsong1jv65s3grqf6v6jl3dp4t6c9t9rk99cd8tkk5ts",
+        "tag" : "Distribution",
+        "description": "Module account that holds the community pool and unclaimed staking rewards",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "bitsong17xpfvakm2amg962yls6f84z3kell8c5lus3gfj",
+        "tag" : "Fee Collector",
+        "description": "Module account that collects block rewards and transaction fees",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "bitsong10d07y265gmmuvt4z0w9aw880jnsr700jktpd5u",
+        "tag" : "Gov",
+        "description": "Module account that holds governance proposal deposits",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "bitsong1m3h30wlvsf8llruxtpukdvsy0km2kum8yc4s90",
+        "tag" : "Mint",
+        "description": "Module account that mints new BTSG as block rewards (inflation)",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "bitsong1yl6hdjhmkf37639730gffanpzndzdpmhzkyp4v",
+        "tag" : "Transfer",
+        "description": "IBC transfer module account that mints and burns IBC vouchers",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "bitsong1rdekccfpdd62d5q9h8xeh6stuk4ptw2yre908x",
+        "tag" : "Fan Token",
+        "description": "Fan Token module account that mints and burns fan tokens issued on BitSong",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "bitsong1mqcszwafr476x3rud8qyufdegn7gvxh9cqmjs5",
+        "tag" : "Hyperlane",
+        "description": "Hyperlane module account that handles interchain messaging fees",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "bitsong1m20fddqpmfuwcz2r9ckj6wd70p5e75t8effkcs",
+        "tag" : "Warp",
+        "description": "Hyperlane Warp module account that locks, mints and burns tokens bridged through Hyperlane warp routes",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "bitsong139js96huvt800a0rprnsdqrj3ymjdlwayvlku0",
+        "tag" : "Protocol Pool Escrow",
+        "description": "Protocol Pool escrow module account",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "bitsong108smxfpajke8kjlvgnmkg5xlxf5f2szczkm4lj",
+        "tag" : "Community Pool Recipient",
+        "description": "Felix delegation DAO address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "bitsong166d42nyufxrh3jps5wx3egdkmvvg7jl6k33yut",
+        "tag" : "Community Pool Recipient",
+        "description": "BTSG/ARCH Astrovault pool and DAO DAO deployment address that received funds from the community pool",
+        "type": "WARNING"
+    }
+]

@@ -1,0 +1,116 @@
+[
+    {
+        "cosmos_address": "cheqd1fl48vsnmsdzcv85q5d2q4z5ajdha8yu3me90jx",
+        "tag" : "Bonded Tokens Pool",
+        "description": "Module account that holds tokens staked to active validators",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "cheqd1tygms3xhhs3yv487phx3dw4a95jn7t7l0ee7yj",
+        "tag" : "Not Bonded Tokens Pool",
+        "description": "Module account that holds unbonding tokens and tokens staked to inactive validators",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "cheqd1jv65s3grqf6v6jl3dp4t6c9t9rk99cd8faguzw",
+        "tag" : "Distribution",
+        "description": "Module account that holds the community pool and unclaimed staking rewards",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "cheqd17xpfvakm2amg962yls6f84z3kell8c5l7m0qqv",
+        "tag" : "Fee Collector",
+        "description": "Module account that collects block rewards and transaction fees",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "cheqd13pxn9n3qw79e03844rdadagmg0nshmwfszqu0g",
+        "tag" : "Feemarket Fee Collector",
+        "description": "Module account that collects transaction fees charged by the fee market module",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "cheqd10d07y265gmmuvt4z0w9aw880jnsr700j5ql9az",
+        "tag" : "Gov",
+        "description": "Module account that holds governance proposal deposits",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "cheqd1m3h30wlvsf8llruxtpukdvsy0km2kum8xntcv3",
+        "tag" : "Mint",
+        "description": "Module account that mints new CHEQ as block rewards (inflation)",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "cheqd1yl6hdjhmkf37639730gffanpzndzdpmhqa6fuj",
+        "tag" : "Transfer",
+        "description": "IBC transfer module account that mints and burns IBC vouchers",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "cheqd1neus3an933cxp7ewuxw6jcuf6j8ka777h32p64",
+        "tag" : "Cheqd",
+        "description": "Cheqd module account that mints and burns CHEQ for identity transaction fees",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "cheqd1hq6049htg8dh9swl5cw6uqqqcasxttdv0af82y",
+        "tag" : "Fee Abstraction",
+        "description": "Fee Abstraction module account that converts fees paid in other tokens to CHEQ",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "cheqd1jgp27m8fykex4e4jtt0l7ze8q528ux2lln5hxc",
+        "tag" : "Oracle",
+        "description": "Oracle module account",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "cheqd1y0p067yqs8sktac487vcqgd40ghggt9qe2dl4n",
+        "tag" : "Community Pool Recipient",
+        "description": "Animo Solutions address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "cheqd1p4e6336js75d3qg9wqcypk9sdksalnaxxg7fyv",
+        "tag" : "Community Pool Recipient",
+        "description": "zkCreds on-chain verification address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "cheqd1vcnvev0hrw5e2ze7du9c346ws09nk4zn2qj5aa",
+        "tag" : "Community Pool Recipient",
+        "description": "cheqd Community DAO address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "cheqd1h0cqj294rq044tnjq68deeflu5e0u70575pr46",
+        "tag" : "Community Pool Recipient",
+        "description": "cheqd DEX liquidity and community programs address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "cheqd1akqyyul8q32nzxa2yzkenex0q2l4dx6ujtv0tt",
+        "tag" : "Community Pool Recipient",
+        "description": "AVIDA SD-JWT verifier address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "cheqd146rme0ghq3dcg6arf6yw5q9l2vd9nctrwsueuh",
+        "tag" : "Community Pool Recipient",
+        "description": "DID-Linked Resources support address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "cheqd1x2233gsnjjum2lm5tcekx3t0j5gpdsdjez0khe",
+        "tag" : "Community Pool Recipient",
+        "description": "Universal Trust Registries address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "cheqd1jta46em8uk9d5ktxav6zu5tes4zutvyjqn64yc",
+        "tag" : "Community Pool Recipient",
+        "description": "OriginVault address that received funds from the community pool",
+        "type": "WARNING"
+    }
+]
