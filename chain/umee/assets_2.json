@@ -110,7 +110,7 @@
         "description": "Wrapped Bitcoin on Axelar",
         "decimals": 8,
         "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/ethereum/asset/wbtc.png",
-        "coinGeckoId": "axlwbtc",
+        "coinGeckoId": "wrapped-bitcoin",
         "ibc_info" : {
             "path": "ethereum>axelar>umee",
             "client" : {

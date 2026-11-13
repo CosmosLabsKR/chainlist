@@ -70,7 +70,7 @@
         "description": "",
         "decimals": 8,
         "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/filecoin/asset/wbtc.png",
-        "coinGeckoId": "axlwbtc"
+        "coinGeckoId": "wrapped-bitcoin"
     },
     {
         "type": "erc20",
