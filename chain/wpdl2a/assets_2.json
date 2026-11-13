@@ -1,6 +1,16 @@
 [
   {
     "type": "native",
+    "denom": "poatoken",
+    "name": "POATOKEN",
+    "symbol": "POATOKEN",
+    "description": "poatoken",
+    "decimals": 8,
+    "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/wpdl2a/resource/chain_wpdl2a.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "native",
     "denom": "leea",
     "name": "LEEA",
     "symbol": "LEEA",
