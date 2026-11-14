@@ -1,0 +1,56 @@
+[
+  {
+    "cosmos_address": "luxa1fl48vsnmsdzcv85q5d2q4z5ajdha8yu3nm8adp",
+    "tag": "Bonded Tokens Pool",
+    "description": "Module account that holds tokens staked to active validators",
+    "type": "SYSTEM"
+  },
+  {
+    "cosmos_address": "luxa1tygms3xhhs3yv487phx3dw4a95jn7t7l8mmvm4",
+    "tag": "Not Bonded Tokens Pool",
+    "description": "Module account that holds unbonding tokens and tokens staked to inactive validators",
+    "type": "SYSTEM"
+  },
+  {
+    "cosmos_address": "luxa1jv65s3grqf6v6jl3dp4t6c9t9rk99cd8pl2waf",
+    "tag": "Distribution",
+    "description": "Module account that holds the community pool and unclaimed staking rewards",
+    "type": "SYSTEM"
+  },
+  {
+    "cosmos_address": "luxa17xpfvakm2amg962yls6f84z3kell8c5lkedjlt",
+    "tag": "Fee Collector",
+    "description": "Module account that collects block rewards and transaction fees",
+    "type": "SYSTEM"
+  },
+  {
+    "cosmos_address": "luxa10d07y265gmmuvt4z0w9aw880jnsr700juzahz9",
+    "tag": "Gov",
+    "description": "Module account that holds governance proposal deposits",
+    "type": "SYSTEM"
+  },
+  {
+    "cosmos_address": "luxa1m3h30wlvsf8llruxtpukdvsy0km2kum8w3f2nk",
+    "tag": "Mint",
+    "description": "Module account that mints new LUXA as block rewards",
+    "type": "SYSTEM"
+  },
+  {
+    "cosmos_address": "luxa1yl6hdjhmkf37639730gffanpzndzdpmhglcmr4",
+    "tag": "Transfer",
+    "description": "IBC transfer module account that mints and burns IBC vouchers",
+    "type": "SYSTEM"
+  },
+  {
+    "cosmos_address": "luxa176rcyfn5k9d0wcxel3kmwvxh0hy3xcwelvd3jj",
+    "tag": "Fee IBC",
+    "description": "Fee IBC middleware module account",
+    "type": "SYSTEM"
+  },
+  {
+    "cosmos_address": "luxa1hr93qzcjspaa32px0qqywlh9hf9a8plgfcgyn3",
+    "tag": "NFT",
+    "description": "NFT module account",
+    "type": "SYSTEM"
+  }
+]
