@@ -9,9 +9,9 @@
     "bech_validator_prefix": "stridevaloper",
     "origin_genesis_time": "2022-09-04T19:00:00Z",
     "api_name": "stride",
-    "is_support_mintscan": true,
-    "is_support_mobile_wallet": true,
-    "is_support_extension_wallet": true,
+    "is_support_mintscan": false,
+    "is_support_mobile_wallet": false,
+    "is_support_extension_wallet": false,
     "chain_type": [
         "cosmos"
     ],
