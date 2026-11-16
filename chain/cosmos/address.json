@@ -62,85 +62,115 @@
     {
         "cosmos_address": "cosmos18d3gg43rlrmudvcdrgdects3v5cd3w6ds7646v",
         "tag" : "Community Pool Recipient",
-        "description": "DCF / Agoric multisig that received funds from the community pool",
+        "description": "DCF / Agoric multisig that received funds from the community pool by Prop 912",
         "type": "WARNING"
     },
     {
         "cosmos_address": "cosmos127eafzymdwhlw67wtnqwqj4qf32yehcj0x5wg9",
         "tag" : "Community Pool Recipient",
-        "description": "DoraHacks address that received funds from the community pool",
+        "description": "DoraHacks address that received funds from the community pool by Prop 917",
         "type": "WARNING"
     },
     {
         "cosmos_address": "cosmos1vtqd2nynxwjhhteh945d78mpmfnrfzmmct4sh6",
         "tag" : "Community Pool Recipient",
-        "description": "Simply Staking multisig that received funds from the community pool",
+        "description": "Simply Staking multisig that received funds from the community pool by Prop 927",
         "type": "WARNING"
     },
     {
         "cosmos_address": "cosmos1h5pmn0uza3hphdfy9adew64cfgnvt00dnrmrg6",
         "tag" : "Community Pool Recipient",
-        "description": "Slinky incentives multisig that received funds from the community pool",
+        "description": "Slinky incentives multisig that received funds from the community pool by Prop 931",
         "type": "WARNING"
     },
     {
         "cosmos_address": "cosmos1eq62mta47ltpmncknzf70v3z70vn834fxxq5ra",
         "tag" : "Community Pool Recipient",
-        "description": "Simply Staking multisig that received funds from the community pool",
+        "description": "Simply Staking multisig that received funds from the community pool by Prop 943, 954",
         "type": "WARNING"
     },
     {
         "cosmos_address": "cosmos1syhp2rh3kgqpa5hjrkyfsqsh49mqyye5k9ejc70lev9pq5g9spxs7ya6zd",
         "tag" : "Community Pool Recipient",
-        "description": "AADAO / Hydro interchain account that received funds from the community pool",
+        "description": "AADAO / Hydro interchain account that received funds from the community pool by Prop 946",
         "type": "WARNING"
     },
     {
         "cosmos_address": "cosmos1ax7krw2ymq8upaxwce7df3xpalpp0jddm29fws",
         "tag" : "Community Pool Recipient",
-        "description": "Hypha Worker Co-operative address that received funds from the community pool",
+        "description": "Hypha Worker Co-operative address that received funds from the community pool by Prop 985, 1043",
         "type": "WARNING"
     },
     {
         "cosmos_address": "cosmos1jskgwzken05wjflz2f92hn3apa0pql6nxtj947dtlqwrkk88q8pq35gtq5",
         "tag" : "Community Pool Recipient",
-        "description": "Hydro DAO DAO contract that received funds from the community pool",
+        "description": "Hydro DAO DAO contract that received funds from the community pool by Prop 986",
         "type": "WARNING"
     },
     {
         "cosmos_address": "cosmos1hj9zuecf0xcjhx8ttcrwd9pmee25xe2plglgcpfk2kjjveet3zyq9nellq",
         "tag" : "Community Pool Recipient",
-        "description": "Hydro Polytone proxy that received funds from the community pool",
+        "description": "Hydro Polytone proxy that received funds from the community pool by Prop 991",
         "type": "WARNING"
     },
     {
         "cosmos_address": "cosmos1fl657t883v2l3s953qngd26wn49v8eddygw9rc44v5ms0cxfwk4qddhuhx",
         "tag" : "Community Pool Recipient",
-        "description": "Neutron DAO DAO contract that received funds from the community pool",
+        "description": "Neutron DAO DAO contract that received funds from the community pool by Prop 993",
         "type": "WARNING"
     },
     {
         "cosmos_address": "cosmos1vdqfavw0cu0fpvlcl52ku3qztt38szktlpfsuz",
         "tag" : "Community Pool Recipient",
-        "description": "Stargaze multisig that received funds from the community pool",
+        "description": "Stargaze multisig that received funds from the community pool by Prop 1017",
         "type": "WARNING"
     },
     {
         "cosmos_address": "cosmos1fhwnl8tls2z4leyyvluyqq8erzmwzepcku8zkg",
         "tag" : "Community Pool Recipient",
-        "description": "Paxos Trust Company address that received funds from the community pool",
+        "description": "Paxos Trust Company address that received funds from the community pool by Prop 1054",
         "type": "WARNING"
     },
     {
         "cosmos_address": "cosmos1amny2nf23uauu79lzp299tvh9v4a62uuxvh8xyj7qavrm0adztsq5sz864",
         "tag" : "Community Pool Recipient",
-        "description": "DAO DAO multisig that received funds from the community pool",
+        "description": "DAO DAO multisig that received funds from the community pool by Prop 1060",
         "type": "WARNING"
     },
     {
         "cosmos_address": "cosmos1dd25c4sshelrpfs0433apg24c5phrhk8m96c4n",
         "tag" : "Exploiter",
         "description": "Attacker address of the Neutron governance exploit (Sep 2026)",
+        "type": "DANGER"
+    },
+    {
+        "cosmos_address": "cosmos1erfkasmmsql03l8f7y7hzlfu3e7n2jy7qtf6f7",
+        "tag" : "Exploiter",
+        "description": "Attacker address suspected to be involved in the Keplr social login key breach (Nov 2026)",
+        "type": "DANGER"
+    },
+    {
+        "cosmos_address": "cosmos1zmd0f9xk078l5jjuy83lg6gvztr0avz3zwmya8",
+        "tag" : "Exploiter",
+        "description": "Attacker address suspected to be involved in the Keplr social login key breach (Nov 2026)",
+        "type": "DANGER"
+    },
+    {
+        "cosmos_address": "cosmos1u9ely9e4ts0t8a49a8d6lusdgt7hd6r6ukf22s",
+        "tag" : "Exploiter",
+        "description": "Attacker address suspected to be involved in the Keplr social login key breach (Nov 2026)",
+        "type": "DANGER"
+    },
+    {
+        "cosmos_address": "cosmos16sjgetg98h4tj8ejuz3ddxtsr8903punkkhzxs",
+        "tag" : "Exploiter",
+        "description": "Attacker address suspected to be involved in the Keplr social login key breach (Nov 2026)",
+        "type": "DANGER"
+    },
+    {
+        "cosmos_address": "cosmos1twkvlclqug3d62hunamgj2ygeue7jl0rydhem2",
+        "tag" : "Exploiter",
+        "description": "Attacker address suspected to be involved in the Keplr social login key breach (Nov 2026)",
         "type": "DANGER"
     }
 ]

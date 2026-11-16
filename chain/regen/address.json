@@ -68,37 +68,37 @@
     {
         "cosmos_address": "regen1geu8vpq75kkc3yld9k9tp8jqcykeaguv7tnh8p",
         "tag" : "Community Pool Recipient",
-        "description": "Climate Wiki address that received funds from the community pool",
+        "description": "Climate Wiki address that received funds from the community pool by Prop 12",
         "type": "WARNING"
     },
     {
         "cosmos_address": "regen1su3tu4zs3e0hyxudk7swz59ne2qtzd60k7lhd0",
         "tag" : "Community Pool Recipient",
-        "description": "City Forest Credits offset address that received funds from the community pool",
+        "description": "City Forest Credits offset address that received funds from the community pool by Prop 23, 25, 30",
         "type": "WARNING"
     },
     {
         "cosmos_address": "regen1vpxm32hark2kh4l6jcrn2c40pwgzw40jnzpjs3",
         "tag" : "Community Pool Recipient",
-        "description": "LiquidityDAO address that received funds from the community pool",
+        "description": "LiquidityDAO address that received funds from the community pool by Prop 54, 55, 58 and 3 more",
         "type": "WARNING"
     },
     {
         "cosmos_address": "regen13htuznz7xtar7xrgwgww3lrcefw774p27xzgel",
         "tag" : "Community Pool Recipient",
-        "description": "Tokenomics working group address that received funds from the community pool",
+        "description": "Tokenomics working group address that received funds from the community pool by Prop 57",
         "type": "WARNING"
     },
     {
         "cosmos_address": "regen1tp9u796xh6zzl4mvsn042u2hycveltepzj5utw",
         "tag" : "Community Pool Recipient",
-        "description": "X-Influencers program address that received funds from the community pool",
+        "description": "X-Influencers program address that received funds from the community pool by Prop 59",
         "type": "WARNING"
     },
     {
         "cosmos_address": "regen1jfheyvsah5wqfyawmedme43te056z8gzdnpf3j",
         "tag" : "Community Pool Recipient",
-        "description": "Stewardship program payout address that received funds from the community pool",
+        "description": "Stewardship program payout address that received funds from the community pool by Prop 77",
         "type": "WARNING"
     }
 ]

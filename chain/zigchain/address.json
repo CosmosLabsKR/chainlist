@@ -92,7 +92,7 @@
     {
         "cosmos_address": "zig14har2kjzze5adwprvwjtruf2lzvfta53wflpml",
         "tag" : "Community Pool Recipient",
-        "description": "ZIG Retirement Wallet that received funds from the community pool to permanently retire ZIG from circulation",
+        "description": "ZIG Retirement Wallet that received funds from the community pool to permanently retire ZIG from circulation by Prop 34, 44",
         "type": "WARNING"
     }
 ]

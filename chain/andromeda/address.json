@@ -56,13 +56,13 @@
     {
         "cosmos_address": "andr1p9rrxp5f5cksqtkk7au4p2a305qmwxjy08r0d4flmu8rzu3c4sds7zh3cd",
         "tag" : "Community Pool Recipient",
-        "description": "Andromeda core team multisig that received funds from the community pool for staking incentives",
+        "description": "Andromeda core team multisig that received funds from the community pool for staking incentives by Prop 7",
         "type": "WARNING"
     },
     {
         "cosmos_address": "andr1eq368l7nr53kcpq3w27plmpq6u3ccmk0qwp72d",
         "tag" : "Community Pool Recipient",
-        "description": "Andromeda core team address that received funds from the community pool for staking incentives",
+        "description": "Andromeda core team address that received funds from the community pool for staking incentives by Prop 12",
         "type": "WARNING"
     }
 ]

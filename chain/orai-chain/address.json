@@ -74,31 +74,31 @@
     {
         "cosmos_address": "orai1uq6znztqa6vawcgmzxs2r2p4kw4k40grg6cdfd",
         "tag" : "Community Pool Recipient",
-        "description": "Texans for the Arts address that received funds from the community pool",
+        "description": "Texans for the Arts address that received funds from the community pool by Prop 195",
         "type": "WARNING"
     },
     {
         "cosmos_address": "orai1fwq0ct8ww0hm574vsdrhj7p5h0rd0vcz2hxsd0hfufwdlw4u78ksp4wj4y",
         "tag" : "Community Pool Recipient",
-        "description": "Oraichain DAO multisig that received funds from the community pool",
+        "description": "Oraichain DAO multisig that received funds from the community pool by Prop 312, 331",
         "type": "WARNING"
     },
     {
         "cosmos_address": "orai1fs25usz65tsryf0f8d5cpfmqgr0xwup4kjqpa0",
         "tag" : "Community Pool Recipient",
-        "description": "Oraichain Bridge liquidity address that received funds from the community pool",
+        "description": "Oraichain Bridge liquidity address that received funds from the community pool by Prop 318",
         "type": "WARNING"
     },
     {
         "cosmos_address": "orai1ccdaslj5lrfr7ud9p5e2atnz9d2phzkxw0y02e",
         "tag" : "Community Pool Recipient",
-        "description": "Oraichain Quant Terminal address that received funds from the community pool",
+        "description": "Oraichain Quant Terminal address that received funds from the community pool by Prop 320",
         "type": "WARNING"
     },
     {
         "cosmos_address": "orai1l2226v9yud98hgw7zsppf2zr63ruy7cg7g85at",
         "tag" : "Community Pool Recipient",
-        "description": "Oraichain Foundation block reward address that received funds from the community pool",
+        "description": "Oraichain Foundation block reward address that received funds from the community pool by Prop 322",
         "type": "WARNING"
     }
 ]

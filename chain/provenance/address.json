@@ -62,7 +62,7 @@
     {
         "cosmos_address": "pb1ef8kr26thn0xfh0hsv0zphe88lnyrnw2uzceu8",
         "tag" : "Community Pool Recipient",
-        "description": "Figure validator incentive distribution address that received funds from the community pool",
+        "description": "Figure validator incentive distribution address that received funds from the community pool by Prop 17",
         "type": "WARNING"
     }
 ]

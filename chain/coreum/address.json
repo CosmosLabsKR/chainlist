@@ -98,25 +98,25 @@
     {
         "cosmos_address": "core1uzr4cka66rq7xcsvxymxyuzxhac7pyrtnhq28u",
         "tag" : "Community Pool Recipient",
-        "description": "Multichain halt compensation address that received funds from the community pool",
+        "description": "Multichain halt compensation address that received funds from the community pool by Prop 9",
         "type": "WARNING"
     },
     {
         "cosmos_address": "core1he45sc3arcxtzztlq9733g26acej2ltat5f2jj",
         "tag" : "Community Pool Recipient",
-        "description": "Coreum Labs (Cruise Control) address that received funds from the community pool",
+        "description": "Coreum Labs (Cruise Control) address that received funds from the community pool by Prop 19, 31",
         "type": "WARNING"
     },
     {
         "cosmos_address": "core1jfrh2q0f53mjhqdtwffcefpznjzntaalskkt70",
         "tag" : "Community Pool Recipient",
-        "description": "Bidds address that received funds from the community pool",
+        "description": "Bidds address that received funds from the community pool by Prop 20",
         "type": "WARNING"
     },
     {
         "cosmos_address": "core14g8v6h6pwu46kyvsljlgx0rqka57thm9a2c8su",
         "tag" : "Community Pool Recipient",
-        "description": "Bidds (Lendore) address that received funds from the community pool",
+        "description": "Bidds (Lendore) address that received funds from the community pool by Prop 35",
         "type": "WARNING"
     }
 ]

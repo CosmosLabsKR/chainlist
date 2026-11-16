@@ -62,49 +62,49 @@
     {
         "cosmos_address": "persistence1dl9lwzlzu5z6jklgpkmanchz95pmyd4yaxcex9",
         "tag" : "Community Pool Recipient",
-        "description": "XPRT Osmosis incentives address that received funds from the community pool",
+        "description": "XPRT Osmosis incentives address that received funds from the community pool by Prop 2",
         "type": "WARNING"
     },
     {
         "cosmos_address": "persistence1llm8kplnypxhhkh6f9jwmppgsvxg8ees3xjvfa",
         "tag" : "Community Pool Recipient",
-        "description": "Dexter grant address that received funds from the community pool",
+        "description": "Dexter grant address that received funds from the community pool by Prop 13",
         "type": "WARNING"
     },
     {
         "cosmos_address": "persistence1axw5he6ktvz8rgacec3ldxmegy0urn0xevsysl7e0hx6dx90er6qlcv78s",
         "tag" : "Community Pool Recipient",
-        "description": "PCOL (community owned liquidity) multisig that received funds from the community pool",
+        "description": "PCOL (community owned liquidity) multisig that received funds from the community pool by Prop 37, 54",
         "type": "WARNING"
     },
     {
         "cosmos_address": "persistence1dfuxyp2k8n7el6n5jgqqqrh5dluajrfn3z375g",
         "tag" : "Community Pool Recipient",
-        "description": "CryptoCrew IBC relayer address that received funds from the community pool",
+        "description": "CryptoCrew IBC relayer address that received funds from the community pool by Prop 63, 97",
         "type": "WARNING"
     },
     {
         "cosmos_address": "persistence1zlc6d8nr2uwqym32mk7pqv2k7qjkwlcm6vfh29",
         "tag" : "Community Pool Recipient",
-        "description": "XPRT liquidity and Dexter incentives address that received funds from the community pool",
+        "description": "XPRT liquidity and Dexter incentives address that received funds from the community pool by Prop 70, 77",
         "type": "WARNING"
     },
     {
         "cosmos_address": "persistence1xkhjn2pl7hduku2ue8f2z8atxywz4clxantaxp",
         "tag" : "Community Pool Recipient",
-        "description": "Multi-DEX liquidity address that received funds from the community pool",
+        "description": "Multi-DEX liquidity address that received funds from the community pool by Prop 114",
         "type": "WARNING"
     },
     {
         "cosmos_address": "persistence178fzm0n933lzp28x367a78j7qe5pr8zsfmrq4k",
         "tag" : "Community Pool Recipient",
-        "description": "Persistence DEX V2 incentivized testnet address that received funds from the community pool",
+        "description": "Persistence DEX V2 incentivized testnet address that received funds from the community pool by Prop 123",
         "type": "WARNING"
     },
     {
         "cosmos_address": "persistence1fn5td7lw575xwhuyjtvearzc8p546mj6agaw0c",
         "tag" : "Community Pool Recipient",
-        "description": "Persistence DEX liquidity address that received funds from the community pool",
+        "description": "Persistence DEX liquidity address that received funds from the community pool by Prop 128, 143",
         "type": "WARNING"
     }
 ]

@@ -87,84 +87,84 @@
         "cosmos_address": "canto1a9g2hd480kay4kzfh7mwjc8gf8sz9ka5lazwvl",
         "evm_address": "0xe950aBb6A77dbA4Ad849bfB6E960e849E022dBb4",
         "tag" : "Community Pool Recipient",
-        "description": "Canto liquidity mining emissions address that received funds from the community pool",
+        "description": "Canto liquidity mining emissions address that received funds from the community pool by Prop 115, 126, 132 and 8 more",
         "type": "WARNING"
     },
     {
         "cosmos_address": "canto1s52kk3dncr6q7ujxxl4lavp447efh5yrpmpd6v",
         "evm_address": "0x85156B45B3C0F40f724637ebfEB035aFB29BD083",
         "tag" : "Community Pool Recipient",
-        "description": "Neofinance coordinator address that received funds from the community pool",
+        "description": "Neofinance coordinator address that received funds from the community pool by Prop 134, 139, 160 and 2 more",
         "type": "WARNING"
     },
     {
         "cosmos_address": "canto124pqj5ft35g536a8mywv40e75lrepszzlldcpe",
         "evm_address": "0x554209512B8d1148eBA7D91cCabf3ea7C790c042",
         "tag" : "Community Pool Recipient",
-        "description": "NOTE/USDC emissions address that received funds from the community pool",
+        "description": "NOTE/USDC emissions address that received funds from the community pool by Prop 141, 162, 166 and 2 more",
         "type": "WARNING"
     },
     {
         "cosmos_address": "canto1qqe9wa7g9s0rujezyz9ur3mf7xdjkea69kjgfx",
         "evm_address": "0x00325777c82C1E3E4B22208Bc1C769f19B2B67Ba",
         "tag" : "Community Pool Recipient",
-        "description": "cNOTE/USDC emissions address that received funds from the community pool",
+        "description": "cNOTE/USDC emissions address that received funds from the community pool by Prop 121, 123, 127 and 4 more",
         "type": "WARNING"
     },
     {
         "cosmos_address": "canto1sv0hgmfmqymmpue3zqf7jkzzeas0538dc0vky0",
         "evm_address": "0x831F746D3b0137B0F3311013e95842cf60Fa44Ed",
         "tag" : "Community Pool Recipient",
-        "description": "Neofinance coordinator address that received funds from the community pool",
+        "description": "Neofinance coordinator address that received funds from the community pool by Prop 168, 178",
         "type": "WARNING"
     },
     {
         "cosmos_address": "canto1d3yrd69qp0es9t2h6hpjhggjmvy78nwmkmt8e7",
         "evm_address": "0x6c4836E8A00BF302Ad57D5c32bA112DB09e3CddB",
         "tag" : "Community Pool Recipient",
-        "description": "Retroactive public goods funding address that received funds from the community pool",
+        "description": "Retroactive public goods funding address that received funds from the community pool by Prop 173",
         "type": "WARNING"
     },
     {
         "cosmos_address": "canto1skpqww2vjtjdmdkd83wddhxgymjlpdjkvtf84h",
         "evm_address": "0x858207394C92E4DDb6CD3C5cd6dcC826e5F0b656",
         "tag" : "Community Pool Recipient",
-        "description": "Canto online hackathon partnership address that received funds from the community pool",
+        "description": "Canto online hackathon partnership address that received funds from the community pool by Prop 180",
         "type": "WARNING"
     },
     {
         "cosmos_address": "canto1jmqf07qarknlvp0rudap4ysj2427r8prfllrju",
         "evm_address": "0x96c097F81D1da7F605E3e37a1A92125555E19c23",
         "tag" : "Community Pool Recipient",
-        "description": "Neofinance coordinator address that received funds from the community pool",
+        "description": "Neofinance coordinator address that received funds from the community pool by Prop 186",
         "type": "WARNING"
     },
     {
         "cosmos_address": "canto14qcxxfleplm3tk03scthz4u832cufrac7vrkdk",
         "evm_address": "0xA8306327f90Ff715D9f186177157878aB1C48FB8",
         "tag" : "Community Pool Recipient",
-        "description": "Code4rena audits address that received funds from the community pool",
+        "description": "Code4rena audits address that received funds from the community pool by Prop 30, 90, 102 and 4 more",
         "type": "WARNING"
     },
     {
         "cosmos_address": "canto1fljusk6pfmllj9fk7andedkwu2ed426zg8ejt9",
         "evm_address": "0x4fe5C85B414effF91536f766dCb6cEe2b2dAAb42",
         "tag" : "Community Pool Recipient",
-        "description": "Neofinance coordinator address that received funds from the community pool",
+        "description": "Neofinance coordinator address that received funds from the community pool by Prop 193",
         "type": "WARNING"
     },
     {
         "cosmos_address": "canto1mx7j3j74nke0lwec5fxfsqf2rj8a9g577p09cp",
         "evm_address": "0xd9bd28cBD59Db2fFBB38A24C98012A1c8fD2A29e",
         "tag" : "Community Pool Recipient",
-        "description": "Hackathon awards address that received funds from the community pool",
+        "description": "Hackathon awards address that received funds from the community pool by Prop 194",
         "type": "WARNING"
     },
     {
         "cosmos_address": "canto1p6dc9e60ut67tthud4wpkcujd6u3ru7ayet0x9",
         "evm_address": "0x0e9B82E74FE2f5E5aEfc6d5c1B63926EB911f3Dd",
         "tag" : "Community Pool Recipient",
-        "description": "IBC relayer multisig that received funds from the community pool",
+        "description": "IBC relayer multisig that received funds from the community pool by Prop 204",
         "type": "WARNING"
     }
 ]

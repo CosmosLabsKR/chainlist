@@ -62,25 +62,25 @@
     {
         "cosmos_address": "arkeo1n2g60ykpmurqwsxce44e3l3dt6lsm2mv7u37a5",
         "tag" : "Community Pool Recipient",
-        "description": "Arkeo liquidity, incentives and business development workstream address that received funds from the community pool",
+        "description": "Arkeo liquidity, incentives and business development workstream address that received funds from the community pool by Prop 11, 23, 28 and 2 more",
         "type": "WARNING"
     },
     {
         "cosmos_address": "arkeo107n5tauaewc5sz0lr27erlqyuxr62afuf8w78k",
         "tag" : "Community Pool Recipient",
-        "description": "Arkeo moderation workstream address that received funds from the community pool",
+        "description": "Arkeo moderation workstream address that received funds from the community pool by Prop 24",
         "type": "WARNING"
     },
     {
         "cosmos_address": "arkeo1w2ln0prejgrztmf9w23e0rsnlks7djneh5te7p",
         "tag" : "Community Pool Recipient",
-        "description": "Arkeo core engineering and support address that received funds from the community pool",
+        "description": "Arkeo core engineering and support address that received funds from the community pool by Prop 25",
         "type": "WARNING"
     },
     {
         "cosmos_address": "arkeo1dddfu4mak938q78xwf36fjcm3lkutlt5fcrc7h",
         "tag" : "Community Pool Recipient",
-        "description": "Arkeo moderation workstream address that received funds from the community pool",
+        "description": "Arkeo moderation workstream address that received funds from the community pool by Prop 32",
         "type": "WARNING"
     }
 ]

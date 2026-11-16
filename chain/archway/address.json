@@ -62,19 +62,19 @@
     {
         "cosmos_address": "archway1gwm6mrnse9atzf4mer4dnrz64mp6pa75wpsxywu8gymt9fwsk46sw8dc65",
         "tag" : "Community Pool Recipient",
-        "description": "Community Treasury contract that received funds from the community pool for the Liquidity Council and Marketing and Growth DAO",
+        "description": "Community Treasury contract that received funds from the community pool for the Liquidity Council and Marketing and Growth DAO by Prop 16, 17",
         "type": "WARNING"
     },
     {
         "cosmos_address": "archway1qpt8anr3948yea9z6tp8ydcdnw5ug4ql9f8q5fnwrnrqk8qq7d9sd6cxet",
         "tag" : "Community Pool Recipient",
-        "description": "Liquidity Council multisig that received funds from the community pool",
+        "description": "Liquidity Council multisig that received funds from the community pool by Prop 37",
         "type": "WARNING"
     },
     {
         "cosmos_address": "archway1t8lz3zjv9cyd8x4h060w3hhdnzagm5cusj6wx7",
         "tag" : "Community Pool Recipient",
-        "description": "Demex address that received funds from the community pool for ARCH collateral incentives",
+        "description": "Demex address that received funds from the community pool for ARCH collateral incentives by Prop 42, 46",
         "type": "WARNING"
     }
 ]

@@ -68,145 +68,145 @@
     {
         "cosmos_address": "terra1hr7svdp2rga9vf3ry95sx7g5wyspgwmg94qac8",
         "tag" : "Community Pool Recipient",
-        "description": "Social KYC oracle (TYC) address that received funds from the community pool",
+        "description": "Social KYC oracle (TYC) address that received funds from the community pool by Prop 1502",
         "type": "WARNING"
     },
     {
         "cosmos_address": "terra1tsfz9w20jj8n9vv4qksenlq7y3x9l96ee44at8dccf2764uj95aselwdrh",
         "tag" : "Community Pool Recipient",
-        "description": "Genie rewards distribution platform address that received funds from the community pool",
+        "description": "Genie rewards distribution platform address that received funds from the community pool by Prop 1525",
         "type": "WARNING"
     },
     {
         "cosmos_address": "terra1nmrn2qsalrdsm42d25eswer8zuvvfa4qx8y362yth84ff9sszz3s4e773g",
         "tag" : "Community Pool Recipient",
-        "description": "Capapult address that received funds from the community pool",
+        "description": "Capapult address that received funds from the community pool by Prop 2616",
         "type": "WARNING"
     },
     {
         "cosmos_address": "terra18ruqkccl5tp493uhvra0u6jylrzq8t8dv5qs4c",
         "tag" : "Community Pool Recipient",
-        "description": "SCV Security address that received funds from the community pool",
+        "description": "SCV Security address that received funds from the community pool by Prop 3534",
         "type": "WARNING"
     },
     {
         "cosmos_address": "terra1rc8sz3wxhjgl5kgzpp5l9qmcpm5ey3fj880ry6kfgr9mqdhlakwsl9tgyw",
         "tag" : "Community Pool Recipient",
-        "description": "TFM address that received funds from the community pool",
+        "description": "TFM address that received funds from the community pool by Prop 3612",
         "type": "WARNING"
     },
     {
         "cosmos_address": "terra1re2uhr2dwat4nnj3e45jss7fs2x2fel6n0f9h7",
         "tag" : "Community Pool Recipient",
-        "description": "Contro Protocol address that received funds from the community pool",
+        "description": "Contro Protocol address that received funds from the community pool by Prop 3665",
         "type": "WARNING"
     },
     {
         "cosmos_address": "terra18997xdg3mkrw5kl7jddpje687ude4j6y0cz4e3q6kfsl7037lk8qpcvavn",
         "tag" : "Community Pool Recipient",
-        "description": "ERIS Protocol address that received funds from the community pool",
+        "description": "ERIS Protocol address that received funds from the community pool by Prop 3796",
         "type": "WARNING"
     },
     {
         "cosmos_address": "terra1tcrd8lzt0ys2gfnqptve9mr8yr3pgf6xlxdn6nx78varhwj0n3uqapqhg6",
         "tag" : "Community Pool Recipient",
-        "description": "Cavern Protocol audit address that received funds from the community pool",
+        "description": "Cavern Protocol audit address that received funds from the community pool by Prop 4592",
         "type": "WARNING"
     },
     {
         "cosmos_address": "terra1d6yuxj62qefw8wwmmskmfm8503g59fxdrr0z8s",
         "tag" : "Community Pool Recipient",
-        "description": "Kujira LUNA-USK pool incentives address that received funds from the community pool",
+        "description": "Kujira LUNA-USK pool incentives address that received funds from the community pool by Prop 4596",
         "type": "WARNING"
     },
     {
         "cosmos_address": "terra18p78m63huyrhamg86a3md5yckkj2sdv09m3je0",
         "tag" : "Community Pool Recipient",
-        "description": "Backbone Labs audit address that received funds from the community pool",
+        "description": "Backbone Labs audit address that received funds from the community pool by Prop 4715",
         "type": "WARNING"
     },
     {
         "cosmos_address": "terra17c6ts8grcfrgquhj3haclg44le8s7qkx6l2yx33acguxhpf000xqhnl3je",
         "tag" : "Community Pool Recipient",
-        "description": "Lion DAO treasury address that received funds from the community pool",
+        "description": "Lion DAO treasury address that received funds from the community pool by Prop 4716",
         "type": "WARNING"
     },
     {
         "cosmos_address": "terra16f874e52x5704ecrxyg5m9ljfv20cn0hajpng7",
         "tag" : "Community Pool Recipient",
-        "description": "TerraSpaces address that received funds from the community pool",
+        "description": "TerraSpaces address that received funds from the community pool by Prop 4722",
         "type": "WARNING"
     },
     {
         "cosmos_address": "terra1xcr4qwvasqc7x2mu5vvxxk9xkjhv00qa3qrwddzkf5nu3h5jgcgsgeyvt4",
         "tag" : "Community Pool Recipient",
-        "description": "Confio CosmWasm grant address that received funds from the community pool",
+        "description": "Confio CosmWasm grant address that received funds from the community pool by Prop 4723",
         "type": "WARNING"
     },
     {
         "cosmos_address": "terra1dzyexvmnwce855tcrerszch89cnk408mrp3l34",
         "tag" : "Community Pool Recipient",
-        "description": "Neptune Finance audit reimbursement address that received funds from the community pool",
+        "description": "Neptune Finance audit reimbursement address that received funds from the community pool by Prop 4725",
         "type": "WARNING"
     },
     {
         "cosmos_address": "terra1gtw2uxdkdt3tvq790ckjz8jm8qgwkdw3uw8dmq",
         "tag" : "Community Pool Recipient",
-        "description": "TERRAN.ONE address that received funds from the community pool",
+        "description": "TERRAN.ONE address that received funds from the community pool by Prop 4728",
         "type": "WARNING"
     },
     {
         "cosmos_address": "terra1zsxq90mrkxjnr9zgev4ulyg3vs0fk4afcrw9zy6agzrdnwv7yevser7pye",
         "tag" : "Community Pool Recipient",
-        "description": "Backbone Labs and Eris Protocol (Revitalizing Terra) address that received funds from the community pool",
+        "description": "Backbone Labs and Eris Protocol (Revitalizing Terra) address that received funds from the community pool by Prop 4736",
         "type": "WARNING"
     },
     {
         "cosmos_address": "terra12lctlzn35jes5t9a8p876xg86wsj65yphvlalc",
         "tag" : "Community Pool Recipient",
-        "description": "Chainscope address that received funds from the community pool",
+        "description": "Chainscope address that received funds from the community pool by Prop 4742",
         "type": "WARNING"
     },
     {
         "cosmos_address": "terra1mapju8pck5ppzu0sfexcyvwx0j8k4jfvzgdphhztp8k398slfftqjlf595",
         "tag" : "Community Pool Recipient",
-        "description": "Y-Foundry address that received funds from the community pool",
+        "description": "Y-Foundry address that received funds from the community pool by Prop 4744",
         "type": "WARNING"
     },
     {
         "cosmos_address": "terra1w2q5am5agfwpl7v5hwczc562v807ehd0aun0va3tzfteswc9drwqu3h9cs",
         "tag" : "Community Pool Recipient",
-        "description": "Missed protocols airdrop contract that received funds from the community pool",
+        "description": "Missed protocols airdrop contract that received funds from the community pool by Prop 4765",
         "type": "WARNING"
     },
     {
         "cosmos_address": "terra19yxffalxzu88n5lnj40trehpryemqsz7pnnwxp8v73hxz0rl2u9q5qqwh4",
         "tag" : "Community Pool Recipient",
-        "description": "TFL community grant address that received funds from the community pool",
+        "description": "TFL community grant address that received funds from the community pool by Prop 4790",
         "type": "WARNING"
     },
     {
         "cosmos_address": "terra1vm5azhvaxeanc7auxh02y8jmxrk8tj93f6aywp",
         "tag" : "Community Pool Recipient",
-        "description": "Terra Liquidity Alliance address that received funds from the community pool",
+        "description": "Terra Liquidity Alliance address that received funds from the community pool by Prop 4813",
         "type": "WARNING"
     },
     {
         "cosmos_address": "terra1865jh4k8783l7jewnjhfmjc0hnu69yl5ve092xyqc4zekdqt44ss8phq83",
         "tag" : "Community Pool Recipient",
-        "description": "Phoenix Directive address that received funds from the community pool",
+        "description": "Phoenix Directive address that received funds from the community pool by Prop 4816",
         "type": "WARNING"
     },
     {
         "cosmos_address": "terra1uh34jacuacgzlc7tmd99txafk29g22zqkdervya9nktzhu2q3hlsenfcyq",
         "tag" : "Community Pool Recipient",
-        "description": "Phoenix Directive recovery address that received funds from the community pool",
+        "description": "Phoenix Directive recovery address that received funds from the community pool by Prop 4819",
         "type": "WARNING"
     },
     {
         "cosmos_address": "terra1kzkrm2a8qquer9dgztg4a3fvhh8d7fudsd7ualae843wsv9plhksv8ea3g",
         "tag" : "Community Pool Recipient",
-        "description": "Phoenix Directive protocol owned liquidity address that received funds from the community pool",
+        "description": "Phoenix Directive protocol owned liquidity address that received funds from the community pool by Prop 4844",
         "type": "WARNING"
     },
     {

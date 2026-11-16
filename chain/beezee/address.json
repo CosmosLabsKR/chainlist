@@ -98,25 +98,25 @@
     {
         "cosmos_address": "bze1z3mkcr2jz424w6m49frgjmy9uhlrx69phqwg3l",
         "tag" : "Community Pool Recipient",
-        "description": "BeeZee Osmosis incentives and burner funding address that received funds from the community pool",
+        "description": "BeeZee Osmosis incentives and burner funding address that received funds from the community pool by Prop 4, 5, 6 and 2 more",
         "type": "WARNING"
     },
     {
         "cosmos_address": "bze1ucx0c63jut4x9ekstszed64hmcumaa62k84xex",
         "tag" : "Community Pool Recipient",
-        "description": "BeeZee exchange listing and marketing address that received funds from the community pool",
+        "description": "BeeZee exchange listing and marketing address that received funds from the community pool by Prop 33, 34",
         "type": "WARNING"
     },
     {
         "cosmos_address": "bze1dte8cgjyxnsg4zmrlhfv4h4hnxv5vy8khzfx4f",
         "tag" : "Community Pool Recipient",
-        "description": "BeeZee AlphaTeam address that received funds from the community pool",
+        "description": "BeeZee AlphaTeam address that received funds from the community pool by Prop 38",
         "type": "WARNING"
     },
     {
         "cosmos_address": "bze1jx4x3kn8mlz2s03zdpf2a38x9gl66llvjqdd55",
         "tag" : "Community Pool Recipient",
-        "description": "BeeZee liquidity pools address that received funds from the community pool",
+        "description": "BeeZee liquidity pools address that received funds from the community pool by Prop 45",
         "type": "WARNING"
     }
 ]

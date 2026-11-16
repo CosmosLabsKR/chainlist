@@ -68,79 +68,79 @@
     {
         "cosmos_address": "chihuahua19eyp4rq08030xn4f43dmmw8v7prk7rjajej5rl",
         "tag" : "Community Pool Recipient",
-        "description": "Chihuahua Community DAO address that received funds from the community pool",
+        "description": "Chihuahua Community DAO address that received funds from the community pool by Prop 2, 13, 30 and 1 more",
         "type": "WARNING"
     },
     {
         "cosmos_address": "chihuahua1vf2cwmapd77tsxewd04s66deu4t4jn5zf76lmw",
         "tag" : "Community Pool Recipient",
-        "description": "Validator decentralization prize pool address that received funds from the community pool",
+        "description": "Validator decentralization prize pool address that received funds from the community pool by Prop 4",
         "type": "WARNING"
     },
     {
         "cosmos_address": "chihuahua18qpryc2jgwcx7xaw7j7ze6cfausvf4hmdvjg4t",
         "tag" : "Community Pool Recipient",
-        "description": "stake.tax address that received funds from the community pool",
+        "description": "stake.tax address that received funds from the community pool by Prop 6",
         "type": "WARNING"
     },
     {
         "cosmos_address": "chihuahua1encclv5q4zg0xs6r5aent2j2r9mk5msyqw4ysj",
         "tag" : "Community Pool Recipient",
-        "description": "Passage address that received funds from the community pool",
+        "description": "Passage address that received funds from the community pool by Prop 8",
         "type": "WARNING"
     },
     {
         "cosmos_address": "chihuahua18u39rxta2kl2huycqedvqjpex24nggl3ttu4z4",
         "tag" : "Community Pool Recipient",
-        "description": "Stafi Hub (rHUAHUA) address that received funds from the community pool",
+        "description": "Stafi Hub (rHUAHUA) address that received funds from the community pool by Prop 28",
         "type": "WARNING"
     },
     {
         "cosmos_address": "chihuahua1eqntnl6tzcj9h86psg4y4h6hh05g2h9nuxam3n",
         "tag" : "Community Pool Recipient",
-        "description": "Chihuahua NFT Marketplace address that received funds from the community pool",
+        "description": "Chihuahua NFT Marketplace address that received funds from the community pool by Prop 43",
         "type": "WARNING"
     },
     {
         "cosmos_address": "chihuahua10guxn5tnsnjwrky0wc7uj3c33g6l76g83dgug4",
         "tag" : "Community Pool Recipient",
-        "description": "White Whale SAIL program address that received funds from the community pool",
+        "description": "White Whale SAIL program address that received funds from the community pool by Prop 50",
         "type": "WARNING"
     },
     {
         "cosmos_address": "chihuahua1zxp5n9mmhcwswdhu5pvh26kwtd306v36sv4jxq",
         "tag" : "Community Pool Recipient",
-        "description": "Kado address that received funds from the community pool",
+        "description": "Kado address that received funds from the community pool by Prop 64",
         "type": "WARNING"
     },
     {
         "cosmos_address": "chihuahua12hdn72vl8e9hkux2hzjmyuvag3gccr95mcu64a",
         "tag" : "Community Pool Recipient",
-        "description": "Paws and Prosper program address that received funds from the community pool",
+        "description": "Paws and Prosper program address that received funds from the community pool by Prop 69",
         "type": "WARNING"
     },
     {
         "cosmos_address": "chihuahua1rqya48t6u5vtj55uumrx3puwucq6tpppz6tj6w",
         "tag" : "Community Pool Recipient",
-        "description": "Coinhall address that received funds from the community pool",
+        "description": "Coinhall address that received funds from the community pool by Prop 71",
         "type": "WARNING"
     },
     {
         "cosmos_address": "chihuahua1gcdfar3d56l7wwd57ncqkygcmhpmpyxusfefj9",
         "tag" : "Community Pool Recipient",
-        "description": "Cosmos Pay address that received funds from the community pool",
+        "description": "Cosmos Pay address that received funds from the community pool by Prop 72",
         "type": "WARNING"
     },
     {
         "cosmos_address": "chihuahua1e26kfsfww334jcj8w2ela9yhh4yuzwfmv7sc00",
         "tag" : "Community Pool Recipient",
-        "description": "Chihuahua Communications Program address that received funds from the community pool",
+        "description": "Chihuahua Communications Program address that received funds from the community pool by Prop 79, 82",
         "type": "WARNING"
     },
     {
         "cosmos_address": "chihuahua14fketv99hlrlk80mkggw643spsj3yyf7qylvqn",
         "tag" : "Community Pool Recipient",
-        "description": "Chihuahua ecosystem fund address that received funds from the community pool",
+        "description": "Chihuahua ecosystem fund address that received funds from the community pool by Prop 105",
         "type": "WARNING"
     }
 ]

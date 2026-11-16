@@ -62,13 +62,13 @@
     {
         "cosmos_address": "shentu1fgdasxk84rzvpp8k9s7w6lru47leu2f20keknq",
         "tag" : "Community Pool Recipient",
-        "description": "OpenBounty whitehat reward address that received funds from the community pool",
+        "description": "OpenBounty whitehat reward address that received funds from the community pool by Prop 36",
         "type": "WARNING"
     },
     {
         "cosmos_address": "shentu1makuxcm7s5dpm3jnkwj2l8n3uqjrd7pmdeeu3u",
         "tag" : "Community Pool Recipient",
-        "description": "OpenBounty bounty payment address that received funds from the community pool",
+        "description": "OpenBounty bounty payment address that received funds from the community pool by Prop 39",
         "type": "WARNING"
     }
 ]

@@ -200,223 +200,223 @@
     {
         "cosmos_address": "osmo15lweg3x8reukpjhuwg49s98rkz74527u88k3un",
         "tag" : "Community Pool Recipient",
-        "description": "CCC proposal address that received funds from the community pool",
+        "description": "CCC proposal address that received funds from the community pool by Prop 44",
         "type": "WARNING"
     },
     {
         "cosmos_address": "osmo1ddvq48lvj7z4kzpzg9fhyls4v2adhpkjnhk5a5",
         "tag" : "Community Pool Recipient",
-        "description": "Osmosis Marketing DAO address that received funds from the community pool",
+        "description": "Osmosis Marketing DAO address that received funds from the community pool by Prop 53",
         "type": "WARNING"
     },
     {
         "cosmos_address": "osmo1r9pjvsuahxwkxg8cnhacd6alkmxq330fl9pqqt",
         "tag" : "Community Pool Recipient",
-        "description": "Osmosis Community Support DAO address that received funds from the community pool",
+        "description": "Osmosis Community Support DAO address that received funds from the community pool by Prop 57",
         "type": "WARNING"
     },
     {
         "cosmos_address": "osmo1s3unu92e8zv8mfw7n5d4vrgkj9chn7yv0sh8rw",
         "tag" : "Community Pool Recipient",
-        "description": "Stargaze community loan and LBP address that received funds from the community pool",
+        "description": "Stargaze community loan and LBP address that received funds from the community pool by Prop 99",
         "type": "WARNING"
     },
     {
         "cosmos_address": "osmo1vt02qfdus5x2lt9zkncpl6g8kq4aq2t9824555",
         "tag" : "Community Pool Recipient",
-        "description": "CosmWasm integration address that received funds from the community pool",
+        "description": "CosmWasm integration address that received funds from the community pool by Prop 107",
         "type": "WARNING"
     },
     {
         "cosmos_address": "osmo1u5dt6aymc4y6zw9rwdjlkx7geyn3t3ur9zg0qt",
         "tag" : "Community Pool Recipient",
-        "description": "Cosmoverse 2021 address that received funds from the community pool",
+        "description": "Cosmoverse 2021 address that received funds from the community pool by Prop 110",
         "type": "WARNING"
     },
     {
         "cosmos_address": "osmo10naz63zd0f90dmz6a3rskhfqyasxf7ges2pymq",
         "tag" : "Community Pool Recipient",
-        "description": "Osmosis Support Lab address that received funds from the community pool",
+        "description": "Osmosis Support Lab address that received funds from the community pool by Prop 143, 245, 324",
         "type": "WARNING"
     },
     {
         "cosmos_address": "osmo18ae7p2q7e79cdgv7y2zvq5txlnnwscjls6axyc",
         "tag" : "Community Pool Recipient",
-        "description": "HackAtom VI address that received funds from the community pool",
+        "description": "HackAtom VI address that received funds from the community pool by Prop 147",
         "type": "WARNING"
     },
     {
         "cosmos_address": "osmo12hes6z0ln4c5m38l00fumdemsr3v8t76s2zxc9",
         "tag" : "Community Pool Recipient",
-        "description": "Osmosis carbon neutrality address that received funds from the community pool",
+        "description": "Osmosis carbon neutrality address that received funds from the community pool by Prop 176, 182",
         "type": "WARNING"
     },
     {
         "cosmos_address": "osmo1auheafvzrej6ljjdz9vqt6caxzz7rewaqknqpc",
         "tag" : "Community Pool Recipient",
-        "description": "Osmosis Grants Program address that received funds from the community pool",
+        "description": "Osmosis Grants Program address that received funds from the community pool by Prop 186, 246",
         "type": "WARNING"
     },
     {
         "cosmos_address": "osmo1gpn2fnkyfssuqnd4de6guqp4llvfv64p308jhh",
         "tag" : "Community Pool Recipient",
-        "description": "Osmosis Ministry of Marketing address that received funds from the community pool",
+        "description": "Osmosis Ministry of Marketing address that received funds from the community pool by Prop 251",
         "type": "WARNING"
     },
     {
         "cosmos_address": "osmo13qaek239lqhvwecdtmfg5jdhjh7c76eprurw6a",
         "tag" : "Community Pool Recipient",
-        "description": "Flipside community analytics address that received funds from the community pool",
+        "description": "Flipside community analytics address that received funds from the community pool by Prop 330",
         "type": "WARNING"
     },
     {
         "cosmos_address": "osmo1z6mf937x9ug4ck7lt45f2wyrt9lnway68lpta9",
         "tag" : "Community Pool Recipient",
-        "description": "Axelar OSMO loan swap address that received funds from the community pool",
+        "description": "Axelar OSMO loan swap address that received funds from the community pool by Prop 332",
         "type": "WARNING"
     },
     {
         "cosmos_address": "osmo1j52d6r4zltd5rzl0cw6sag0u4fsj9e0a2mmf3g",
         "tag" : "Community Pool Recipient",
-        "description": "Gravity incentivised pools address that received funds from the community pool",
+        "description": "Gravity incentivised pools address that received funds from the community pool by Prop 347",
         "type": "WARNING"
     },
     {
         "cosmos_address": "osmo1k8re7jwz6rnnwrktnejdwkwnncte7ek7gt29gvnl3sdrg9mtnqkse6nmqm",
         "tag" : "Community Pool Recipient",
-        "description": "ION DAO governance contract that received funds from the community pool",
+        "description": "ION DAO governance contract that received funds from the community pool by Prop 375",
         "type": "WARNING"
     },
     {
         "cosmos_address": "osmo1rsc56qdxmkdequ4y00900xrf24xdkqzv8ap5ln",
         "tag" : "Community Pool Recipient",
-        "description": "Osmosis Support Lab address that received funds from the community pool",
+        "description": "Osmosis Support Lab address that received funds from the community pool by Prop 378",
         "type": "WARNING"
     },
     {
         "cosmos_address": "osmo1yxpxl9mg3kfkxzskluynpru888cm7xhfcj6vkw",
         "tag" : "Community Pool Recipient",
-        "description": "Mars Protocol liquidity address that received funds from the community pool",
+        "description": "Mars Protocol liquidity address that received funds from the community pool by Prop 415",
         "type": "WARNING"
     },
     {
         "cosmos_address": "osmo1yxqyraaxnqpmjfwm9djgecgezlcak5836j2fdv",
         "tag" : "Community Pool Recipient",
-        "description": "WYND token swap address that received funds from the community pool",
+        "description": "WYND token swap address that received funds from the community pool by Prop 420",
         "type": "WARNING"
     },
     {
         "cosmos_address": "osmo1jntsj9h7nkf8388xug2qxy6nlpvxw7kng9gk0k",
         "tag" : "Community Pool Recipient",
-        "description": "Osmosis Support Lab address that received funds from the community pool",
+        "description": "Osmosis Support Lab address that received funds from the community pool by Prop 461",
         "type": "WARNING"
     },
     {
         "cosmos_address": "osmo1wc9t958w97kcc5gnuqh2x6q5rnxlkmla8vey0l",
         "tag" : "Community Pool Recipient",
-        "description": "ShapeShift bounty address that received funds from the community pool",
+        "description": "ShapeShift bounty address that received funds from the community pool by Prop 500",
         "type": "WARNING"
     },
     {
         "cosmos_address": "osmo190pgmj969xw9qcv3cgj4q72cz9vm7fx8dgetq4v7rldyuu8k23zqlx4x5q",
         "tag" : "Community Pool Recipient",
-        "description": "USDT Rise contract that received funds from the community pool",
+        "description": "USDT Rise contract that received funds from the community pool by Prop 593",
         "type": "WARNING"
     },
     {
         "cosmos_address": "osmo1fq3wmetv8xme6v0fn53ujdmtazgz5f04vz3ta9d7qdz8gmrxwpwsy9kelc",
         "tag" : "Community Pool Recipient",
-        "description": "Osmosis Support Lab contract that received funds from the community pool",
+        "description": "Osmosis Support Lab contract that received funds from the community pool by Prop 601, 643, 747 and 1 more",
         "type": "WARNING"
     },
     {
         "cosmos_address": "osmo1rfcf70z0052zsjp9kz9zgal93exljj3fgka75wve0e3sazq724mqv2vqdm",
         "tag" : "Community Pool Recipient",
-        "description": "MantaDAO treasury swap custody multisig that received funds from the community pool",
+        "description": "MantaDAO treasury swap custody multisig that received funds from the community pool by Prop 639, 922",
         "type": "WARNING"
     },
     {
         "cosmos_address": "osmo1z8q568n9gsx3sp9rcd73jw590g0h4kfy69rq9nwf808zsugkpaxsxg2fep",
         "tag" : "Community Pool Recipient",
-        "description": "OSMO POL DAO that received funds from the community pool",
+        "description": "OSMO POL DAO that received funds from the community pool by Prop 641",
         "type": "WARNING"
     },
     {
         "cosmos_address": "osmo1qzm2kyesqqpu4d7uaskkf023t4husm6vaan2gkc2xru0xcvzx23qq5f5c7",
         "tag" : "Community Pool Recipient",
-        "description": "Levana liquidity contract that received funds from the community pool",
+        "description": "Levana liquidity contract that received funds from the community pool by Prop 655",
         "type": "WARNING"
     },
     {
         "cosmos_address": "osmo1egrl60r60h9twhhapyxn9u9xhzuezwecdm30fnjpsjhmmtgq863sxqqke5",
         "tag" : "Community Pool Recipient",
-        "description": "DYDX incentive spend contract that received funds from the community pool",
+        "description": "DYDX incentive spend contract that received funds from the community pool by Prop 660",
         "type": "WARNING"
     },
     {
         "cosmos_address": "osmo1g6dsaslf2gyzf6yexgmefsf4c4kc7ddu0jh3jtpg4a7x9xxy6z9qttelz7",
         "tag" : "Community Pool Recipient",
-        "description": "Celestia incentive spend contract that received funds from the community pool",
+        "description": "Celestia incentive spend contract that received funds from the community pool by Prop 665",
         "type": "WARNING"
     },
     {
         "cosmos_address": "osmo128laly00yvpr69usz6s9n7j8f8sx6780npyauyt9ku46mpwx2n5qsxapq6",
         "tag" : "Community Pool Recipient",
-        "description": "NeutrOsmosis contract that received funds from the community pool",
+        "description": "NeutrOsmosis contract that received funds from the community pool by Prop 700",
         "type": "WARNING"
     },
     {
         "cosmos_address": "osmo106tvcj58rvdn9k36m9m3xcmcwk2c3fgft3ldcst9lgy05gcmjanqexru3h",
         "tag" : "Community Pool Recipient",
-        "description": "Sail DAO that received funds from the community pool",
+        "description": "Sail DAO that received funds from the community pool by Prop 708",
         "type": "WARNING"
     },
     {
         "cosmos_address": "osmo1vpmwzt4mt6cfnnwtrpv79tn09yx2r3s56chpln",
         "tag" : "Community Pool Recipient",
-        "description": "Osmosis Grants Program address that received funds from the community pool",
+        "description": "Osmosis Grants Program address that received funds from the community pool by Prop 711, 712",
         "type": "WARNING"
     },
     {
         "cosmos_address": "osmo1rvq5cq2j35k7sqqz49e5e8zezl45fcywcawazh46qnc0g96d0d6sasqsgc",
         "tag" : "Community Pool Recipient",
-        "description": "Osmosis Liquidity SubDAO that received funds from the community pool",
+        "description": "Osmosis Liquidity SubDAO that received funds from the community pool by Prop 715, 756, 769 and 39 more",
         "type": "WARNING"
     },
     {
         "cosmos_address": "osmo1yyw80yqf7vytg6l9mtjlj8ru6egd3svvl77zye",
         "tag" : "Community Pool Recipient",
-        "description": "Astroport TIA/OSMO incentives address that received funds from the community pool",
+        "description": "Astroport TIA/OSMO incentives address that received funds from the community pool by Prop 754",
         "type": "WARNING"
     },
     {
         "cosmos_address": "osmo1wwgnamyd87xec075m449vfdhwranm53nu0dx8pl2a0p5l4y2xx2qnzrw9j",
         "tag" : "Community Pool Recipient",
-        "description": "Frax incentivization contract that received funds from the community pool",
+        "description": "Frax incentivization contract that received funds from the community pool by Prop 786",
         "type": "WARNING"
     },
     {
         "cosmos_address": "osmo1xdeaq4hhnalna5knp6w2g888q8hw3lemvu5847h97x6s0y2adrysv92ygu",
         "tag" : "Community Pool Recipient",
-        "description": "bOSMO and ampOSMO liquidity storage contract that received funds from the community pool",
+        "description": "bOSMO and ampOSMO liquidity storage contract that received funds from the community pool by Prop 821",
         "type": "WARNING"
     },
     {
         "cosmos_address": "osmo1nth409hr75c00jm07kl27tmqry55xe7e9plq26vqxtrwxlhw5l7qlhgw0q",
         "tag" : "Community Pool Recipient",
-        "description": "Crypto Summit del Caribe (Polytone proxy) address that received funds from the community pool",
+        "description": "Crypto Summit del Caribe (Polytone proxy) address that received funds from the community pool by Prop 841",
         "type": "WARNING"
     },
     {
         "cosmos_address": "osmo15dwvndrzndzy7nls57rvq379xeta3dlt467dxerxc4pvkul0thvq6umm9z",
         "tag" : "Community Pool Recipient",
-        "description": "Osmosis Grants Program DAO that received funds from the community pool",
+        "description": "Osmosis Grants Program DAO that received funds from the community pool by Prop 880",
         "type": "WARNING"
     },
     {
         "cosmos_address": "osmo12e0c4wcw72rprzntrvnfk0egn8q9d2tz6zexls",
         "tag" : "Community Pool Recipient",
-        "description": "ProtoRev bounty address that received funds from the community pool",
+        "description": "ProtoRev bounty address that received funds from the community pool by Prop 969",
         "type": "WARNING"
     }
 ]

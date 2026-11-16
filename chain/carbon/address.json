@@ -230,49 +230,49 @@
     {
         "cosmos_address": "swth1e7cfyfgdj47fpz24hkyv4elr8x4eaj9xau0j8s",
         "tag" : "Community Pool Recipient",
-        "description": "SWTH/OSMO Osmosis pool address that received funds from the community pool",
+        "description": "SWTH/OSMO Osmosis pool address that received funds from the community pool by Prop 211",
         "type": "WARNING"
     },
     {
         "cosmos_address": "swth19rklx5v8sejkrs0an605ljee4hyn8m0qst4j7a",
         "tag" : "Community Pool Recipient",
-        "description": "CarbonTipBot address that received funds from the community pool",
+        "description": "CarbonTipBot address that received funds from the community pool by Prop 220",
         "type": "WARNING"
     },
     {
         "cosmos_address": "swth164dwck5ntfqrat28c5cjwyyxtqla9u4gg5ka7s",
         "tag" : "Community Pool Recipient",
-        "description": "Carbon community incentives address that received funds from the community pool",
+        "description": "Carbon community incentives address that received funds from the community pool by Prop 267",
         "type": "WARNING"
     },
     {
         "cosmos_address": "swth1j8rs8vx45q6puzy9rpchtkchdxp5h4qcmvn9jy",
         "tag" : "Community Pool Recipient",
-        "description": "StaFi Hub development address that received funds from the community pool",
+        "description": "StaFi Hub development address that received funds from the community pool by Prop 275",
         "type": "WARNING"
     },
     {
         "cosmos_address": "swth1cqu53xzn6k0t5v48g5wydy2r9ppxv7jhrv3x7n",
         "tag" : "Community Pool Recipient",
-        "description": "Co-incentives address that received funds from the community pool",
+        "description": "Co-incentives address that received funds from the community pool by Prop 282, 315",
         "type": "WARNING"
     },
     {
         "cosmos_address": "swth1yyepjpjsrve6vy6l77nk88dtts8la9r3kpy3jz",
         "tag" : "Community Pool Recipient",
-        "description": "IBC relayer incentives address that received funds from the community pool",
+        "description": "IBC relayer incentives address that received funds from the community pool by Prop 294",
         "type": "WARNING"
     },
     {
         "cosmos_address": "swth14hr4ljysqzx80j7wql4458x5x2k7u3x5mf5lxw",
         "tag" : "Community Pool Recipient",
-        "description": "SWTH/SHD liquidity match address that received funds from the community pool",
+        "description": "SWTH/SHD liquidity match address that received funds from the community pool by Prop 354",
         "type": "WARNING"
     },
     {
         "cosmos_address": "swth1nsrewl2lsfpuf0k69tzywf905ar789dgj5yu85",
         "tag" : "Community Pool Recipient",
-        "description": "Carbon community incentives (CIP-85) address that received funds from the community pool",
+        "description": "Carbon community incentives (CIP-85) address that received funds from the community pool by Prop 363",
         "type": "WARNING"
     }
 ]

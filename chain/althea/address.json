@@ -86,20 +86,20 @@
     {
         "cosmos_address": "althea1afk9zr2hn2jsac63h4hm60vl9z3e5u69gndzf7c99cqge3vzwjzsg9vzmq",
         "tag" : "Community Pool Recipient",
-        "description": "Althea Limited Treasury group account that received funds from the community pool",
+        "description": "Althea Limited Treasury group account that received funds from the community pool by Prop 9",
         "type": "WARNING"
     },
     {
         "cosmos_address": "althea1dlszg2sst9r69my4f84l3mj66zxcf3umcgujys30t84srg95dgvs6ctcr3",
         "tag" : "Community Pool Recipient",
-        "description": "IBC relayer multisig group account that received funds from the community pool",
+        "description": "IBC relayer multisig group account that received funds from the community pool by Prop 10",
         "type": "WARNING"
     },
     {
         "cosmos_address": "althea1p0g99uts74nm5eet63sn7zahg0xdpxw6c4zc34",
         "evm_address": "0x0Bd052f170f567bA672BD4613f0Bb743CcD099dA",
         "tag" : "Community Pool Recipient",
-        "description": "iFi DEX incentives contract that received funds from the community pool",
+        "description": "iFi DEX incentives contract that received funds from the community pool by Prop 25",
         "type": "WARNING"
     }
 ]

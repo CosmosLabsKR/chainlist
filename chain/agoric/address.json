@@ -68,7 +68,7 @@
     {
         "cosmos_address": "agoric1xa6vdy5lzkwv685j3rvyuegwtq0z57lgauwsk5",
         "tag" : "Community Pool Recipient",
-        "description": "DCF Economic Committee address that received funds from the community pool",
+        "description": "DCF Economic Committee address that received funds from the community pool by Prop 50",
         "type": "WARNING"
     },
     {

@@ -68,139 +68,139 @@
     {
         "cosmos_address": "axelar1tn323sc0rqj08tu2y6xz20ptg0ypf2sgwfg86a",
         "tag" : "Community Pool Recipient",
-        "description": "Map of Zones address that received funds from the community pool",
+        "description": "Map of Zones address that received funds from the community pool by Prop 29",
         "type": "WARNING"
     },
     {
         "cosmos_address": "axelar1z6a60khj2y3sqftf27rrxavrfut6hnhz6fpaxl",
         "tag" : "Community Pool Recipient",
-        "description": "PancakeSwap axlUSDC liquidity incentives address that received funds from the community pool",
+        "description": "PancakeSwap axlUSDC liquidity incentives address that received funds from the community pool by Prop 167, 172",
         "type": "WARNING"
     },
     {
         "cosmos_address": "axelar1tm6u67yldxhy9t4tkmf63460gaa698arkexq4u",
         "tag" : "Community Pool Recipient",
-        "description": "axlUSDC pool incentives address that received funds from the community pool",
+        "description": "axlUSDC pool incentives address that received funds from the community pool by Prop 168, 188",
         "type": "WARNING"
     },
     {
         "cosmos_address": "axelar12ryez249vqaxeqgxs5ct80u7u3zd6stp38693r",
         "tag" : "Community Pool Recipient",
-        "description": "Axelar India community address that received funds from the community pool",
+        "description": "Axelar India community address that received funds from the community pool by Prop 170, 191",
         "type": "WARNING"
     },
     {
         "cosmos_address": "axelar1vyg0gc7kh28ajvq2a4w3sdn33rc2txmkazks2v",
         "tag" : "Community Pool Recipient",
-        "description": "Lava Network public RPC address that received funds from the community pool",
+        "description": "Lava Network public RPC address that received funds from the community pool by Prop 171",
         "type": "WARNING"
     },
     {
         "cosmos_address": "axelar17wr0uz0uqsphtcep3ndx3m2qg8xr666e576t4q",
         "tag" : "Community Pool Recipient",
-        "description": "Axelar Latam community address that received funds from the community pool",
+        "description": "Axelar Latam community address that received funds from the community pool by Prop 174, 194, 208",
         "type": "WARNING"
     },
     {
         "cosmos_address": "axelar1xgv8kkf3re8yyd9amrup9up2a83zuuu2qszkyp",
         "tag" : "Community Pool Recipient",
-        "description": "Interlinked DAO address that received funds from the community pool",
+        "description": "Interlinked DAO address that received funds from the community pool by Prop 178, 196, 206 and 2 more",
         "type": "WARNING"
     },
     {
         "cosmos_address": "axelar14ua0adclqa7kumdcm7dcc338e2d8y04z5hr9y2ut7gagtw4w8t8qtzmjcj",
         "tag" : "Community Pool Recipient",
-        "description": "Axelar regional communities multisig (2023) that received funds from the community pool",
+        "description": "Axelar regional communities multisig (2023) that received funds from the community pool by Prop 190",
         "type": "WARNING"
     },
     {
         "cosmos_address": "axelar1rvjv7g39xpappe2k2qy5xrevp0ag7d8r8v9g768vy43s8t5ly08qezfp0r",
         "tag" : "Community Pool Recipient",
-        "description": "Axelar regional communities multisig (Dec 2023 - Jan 2024) that received funds from the community pool",
+        "description": "Axelar regional communities multisig (Dec 2023 - Jan 2024) that received funds from the community pool by Prop 192",
         "type": "WARNING"
     },
     {
         "cosmos_address": "axelar133uzcxlfz4g2k369fuqguf9zeh33x0mq368umnagynjmay2zq6tq92jjpy",
         "tag" : "Community Pool Recipient",
-        "description": "Axelar regional communities multisig (Feb - Jul 2024) that received funds from the community pool",
+        "description": "Axelar regional communities multisig (Feb - Jul 2024) that received funds from the community pool by Prop 193",
         "type": "WARNING"
     },
     {
         "cosmos_address": "axelar15ptswp2fvh5xqchj7rx86jjukq65z6x3n65w7n",
         "tag" : "Community Pool Recipient",
-        "description": "Lava Network public RPC address that received funds from the community pool",
+        "description": "Lava Network public RPC address that received funds from the community pool by Prop 204, 253",
         "type": "WARNING"
     },
     {
         "cosmos_address": "axelar1nw3d6elxkp272smvevjx2zz8zhxg67ezq46v4j",
         "tag" : "Community Pool Recipient",
-        "description": "BonusBlock Axelar Explorers Program address that received funds from the community pool",
+        "description": "BonusBlock Axelar Explorers Program address that received funds from the community pool by Prop 207",
         "type": "WARNING"
     },
     {
         "cosmos_address": "axelar1tavxs7ydxs5e92mxwwa7m87ysdclrnppuakvpm",
         "tag" : "Community Pool Recipient",
-        "description": "Multichain Nation podcast address that received funds from the community pool",
+        "description": "Multichain Nation podcast address that received funds from the community pool by Prop 215",
         "type": "WARNING"
     },
     {
         "cosmos_address": "axelar1fd7pykg6zjhdlp67hu9z86a0n45h9ew2vu8h2demlp5rujt2cqyqlqgr25",
         "tag" : "Community Pool Recipient",
-        "description": "Axelar regional communities multisig (Aug 2024 - Jan 2025) that received funds from the community pool",
+        "description": "Axelar regional communities multisig (Aug 2024 - Jan 2025) that received funds from the community pool by Prop 219",
         "type": "WARNING"
     },
     {
         "cosmos_address": "axelar17h0qjtexpu6tq8lsxmpz7t4ntv3rhwe9n0hpgt",
         "tag" : "Community Pool Recipient",
-        "description": "CipherClout PR campaign address that received funds from the community pool",
+        "description": "CipherClout PR campaign address that received funds from the community pool by Prop 220",
         "type": "WARNING"
     },
     {
         "cosmos_address": "axelar1374jcmlqeqn8eexmqeuwf4853s7l3kfsyl9f5z",
         "tag" : "Community Pool Recipient",
-        "description": "Blockchaincon onboarding and hackathon address that received funds from the community pool",
+        "description": "Blockchaincon onboarding and hackathon address that received funds from the community pool by Prop 223",
         "type": "WARNING"
     },
     {
         "cosmos_address": "axelar1dvnxtvcmdhz0s4p66304hknn98l9muvlafavqz",
         "tag" : "Community Pool Recipient",
-        "description": "Axelar Spanish community moderators address that received funds from the community pool",
+        "description": "Axelar Spanish community moderators address that received funds from the community pool by Prop 239",
         "type": "WARNING"
     },
     {
         "cosmos_address": "axelar1jnnhdv5mxpt4zkpxghcwp4fad5m7hu5hage4nl",
         "tag" : "Community Pool Recipient",
-        "description": "Axelarate Series address that received funds from the community pool",
+        "description": "Axelarate Series address that received funds from the community pool by Prop 240",
         "type": "WARNING"
     },
     {
         "cosmos_address": "axelar1yx2ywn7ydqucvdcywjc55caux3enndxasfmkwy",
         "tag" : "Community Pool Recipient",
-        "description": "Interlinked DAO address that received funds from the community pool",
+        "description": "Interlinked DAO address that received funds from the community pool by Prop 283, 367",
         "type": "WARNING"
     },
     {
         "cosmos_address": "axelar19jskzz62v5ey0rd64hzdwuazjnerxnrvpdxecl2zx5hs3ce7kyuqjctujg",
         "tag" : "Community Pool Recipient",
-        "description": "Axelar regional communities multisig (Feb - Apr 2025) that received funds from the community pool",
+        "description": "Axelar regional communities multisig (Feb - Apr 2025) that received funds from the community pool by Prop 286",
         "type": "WARNING"
     },
     {
         "cosmos_address": "axelar1k7dsy9aylw384nq3780zq6s0at8utz8ngu2zhq",
         "tag" : "Community Pool Recipient",
-        "description": "Axelar Robot NFTs address that received funds from the community pool",
+        "description": "Axelar Robot NFTs address that received funds from the community pool by Prop 296",
         "type": "WARNING"
     },
     {
         "cosmos_address": "axelar1kg3nt6w374nhslrzfhjqtyc6f7pe28vft5w60mfzf8fy8zdfnvjqedeqgc",
         "tag" : "Community Pool Recipient",
-        "description": "Axelar regional communities multisig (May 2025) that received funds from the community pool",
+        "description": "Axelar regional communities multisig (May 2025) that received funds from the community pool by Prop 357",
         "type": "WARNING"
     },
     {
         "cosmos_address": "axelar1z0g56e09a2vscexjkzvnr2jjmmrvvlnkxg9nf6",
         "tag" : "Community Pool Recipient",
-        "description": "Multichain Nation podcast address that received funds from the community pool",
+        "description": "Multichain Nation podcast address that received funds from the community pool by Prop 369",
         "type": "WARNING"
     },
     {

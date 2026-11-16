@@ -73,41 +73,41 @@
         "cosmos_address": "xpla1vdgctad2cy0erzjy7t7txzvyktqnjl0ujahg97",
         "evm_address": "0x635185F5AAc11F918a44F2FcB30984B2c1397DfC",
         "tag" : "Community Pool Recipient",
-        "description": "XPLA Osmosis liquidity address that received funds from the community pool",
+        "description": "XPLA Osmosis liquidity address that received funds from the community pool by Prop 7",
         "type": "WARNING"
     },
     {
         "cosmos_address": "xpla1e528mhrl2awwsf3pwfwvm5scz7xtljrhmszn8kf24pf4w965cuxqr5cvzt",
         "tag" : "Community Pool Recipient",
-        "description": "CONX core development vesting contract that received funds from the community pool",
+        "description": "CONX core development vesting contract that received funds from the community pool by Prop 108, 119",
         "type": "WARNING"
     },
     {
         "cosmos_address": "xpla1zvvxyhqush4lmm0khvcdktv4ufhq0eag9dje42",
         "evm_address": "0x1318625c1c85ebFdeDf6bB30db2d95E26e07E7a8",
         "tag" : "Community Pool Recipient",
-        "description": "XPLA exchange liquidity provider address that received funds from the community pool",
+        "description": "XPLA exchange liquidity provider address that received funds from the community pool by Prop 110",
         "type": "WARNING"
     },
     {
         "cosmos_address": "xpla1zak58js7kpgyjpawx3tfvpcfyxpn5nxpjkkvpv",
         "evm_address": "0x176d43cA1eb0504907aE345696070921833A4cC1",
         "tag" : "Community Pool Recipient",
-        "description": "CONX TVL and stablecoin adoption address that received funds from the community pool",
+        "description": "CONX TVL and stablecoin adoption address that received funds from the community pool by Prop 113",
         "type": "WARNING"
     },
     {
         "cosmos_address": "xpla1wpkkgexnraq38le0mp5me7hkc783vd967mu2qr",
         "evm_address": "0x706D6464D31F4113fF2Fd869bCfAF6C78f1634BA",
         "tag" : "Community Pool Recipient",
-        "description": "DayOneDream x CONX K-Content fund address that received funds from the community pool",
+        "description": "DayOneDream x CONX K-Content fund address that received funds from the community pool by Prop 118, 129",
         "type": "WARNING"
     },
     {
         "cosmos_address": "xpla10n42d4ckyurqrulhfwyqxhg4709uss65m9ayv3",
         "evm_address": "0x7CEAa6d716270601f3f74b88035d15F3cBC84354",
         "tag" : "Community Pool Recipient",
-        "description": "CONX validator settlement and infrastructure address that received funds from the community pool",
+        "description": "CONX validator settlement and infrastructure address that received funds from the community pool by Prop 136",
         "type": "WARNING"
     }
 ]

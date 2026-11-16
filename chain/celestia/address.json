@@ -62,10 +62,10 @@
     {
         "cosmos_address": "celestia1j4h0ec6t2ktr465uxlcqwy2yqw2gef8h8xjned",
         "tag" : "Community Pool Recipient",
-        "description": "IBC middleware audit funding address that received funds from the community pool",
+        "description": "IBC middleware audit funding address that received funds from the community pool by Prop 2",
         "type": "WARNING"
     },
-        {
+    {
         "cosmos_address": "celestia1atuap9kfnt6y8ykvn3437e7j3z8qffh33pzt53",
         "tag" : "Web3Auth Keplr Recovery",
         "description": "Holds assets rescued from Keplr social login wallets after the Web3Auth key breach (Nov 2026)",

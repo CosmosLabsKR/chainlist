@@ -56,19 +56,19 @@
     {
         "cosmos_address": "fetch1avjxgzpwtvvh5w9chthcua755pyudut6nhcs8m",
         "tag" : "Community Pool Recipient",
-        "description": "stake.tax address that received funds from the community pool",
+        "description": "stake.tax address that received funds from the community pool by Prop 5",
         "type": "WARNING"
     },
     {
         "cosmos_address": "fetch18m26lkjly2hkck25t7sdsrnu72x0g6gxtsnraq",
         "tag" : "Community Pool Recipient",
-        "description": "Azoyalabs (AI NFT marketplace) address that received funds from the community pool",
+        "description": "Azoyalabs (AI NFT marketplace) address that received funds from the community pool by Prop 18",
         "type": "WARNING"
     },
     {
         "cosmos_address": "fetch1hlj4ealhhg7n75dmvtj6ynp9q3yeqhh02pclqx",
         "tag" : "Community Pool Recipient",
-        "description": "Mettalex address that received funds from the community pool",
+        "description": "Mettalex address that received funds from the community pool by Prop 29",
         "type": "WARNING"
     }
 ]

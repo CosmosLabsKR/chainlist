@@ -74,91 +74,91 @@
     {
         "cosmos_address": "terra1jzwg8lgqzxymnpz4va7dfumgzkqzrll5v62cq4",
         "tag" : "Community Pool Recipient",
-        "description": "Joint L1 Task Force address that received funds from the community pool",
+        "description": "Joint L1 Task Force address that received funds from the community pool by Prop 11599",
         "type": "WARNING"
     },
     {
         "cosmos_address": "terra10w7dmaj6nph8ta6ehwa70pzqw08tjgjle45xxq",
         "tag" : "Community Pool Recipient",
-        "description": "Hexxagon infrastructure address that received funds from the community pool",
+        "description": "Hexxagon infrastructure address that received funds from the community pool by Prop 11479, 11601",
         "type": "WARNING"
     },
     {
         "cosmos_address": "terra1n78s7qdflvxk4xn00yl9jrpmg8e578zx09r494",
         "tag" : "Community Pool Recipient",
-        "description": "USTC / Stable Algo Quant Team address that received funds from the community pool",
+        "description": "USTC / Stable Algo Quant Team address that received funds from the community pool by Prop 11597, 11730",
         "type": "WARNING"
     },
     {
         "cosmos_address": "terra1skahyp7dzcu5uu2jarresqhnsn99mz6pd7r57d",
         "tag" : "Community Pool Recipient",
-        "description": "Genuine Labs address that received funds from the community pool",
+        "description": "Genuine Labs address that received funds from the community pool by Prop 12019, 12113",
         "type": "WARNING"
     },
     {
         "cosmos_address": "terra14qk5u5yqhz9w3snz5mdl0ve5awgtjrpfy0rsjh",
         "tag" : "Community Pool Recipient",
-        "description": "LuncGoblin address that received funds from the community pool",
+        "description": "LuncGoblin address that received funds from the community pool by Prop 12121",
         "type": "WARNING"
     },
     {
         "cosmos_address": "terra1jcdhx3ddlpunyu40ufd2z3j3wx70v2ehg9ul7y",
         "tag" : "Community Pool Recipient",
-        "description": "OrbitLabs address that received funds from the community pool",
+        "description": "OrbitLabs address that received funds from the community pool by Prop 12150, 12158, 12164",
         "type": "WARNING"
     },
     {
         "cosmos_address": "terra16r0fdcyy6whsfx9nxfx5zhhdwte59kaf3jm502",
         "tag" : "Community Pool Recipient",
-        "description": "BLV Labs address that received funds from the community pool",
+        "description": "BLV Labs address that received funds from the community pool by Prop 12155, 12183",
         "type": "WARNING"
     },
     {
         "cosmos_address": "terra1wun64uuszwc6wn3pmy4w592j0dp0677tfjxxzj",
         "tag" : "Community Pool Recipient",
-        "description": "Development and audit compensation address that received funds from the community pool",
+        "description": "Development and audit compensation address that received funds from the community pool by Prop 12169",
         "type": "WARNING"
     },
     {
         "cosmos_address": "terra132qeqedz0yztuztj0rjav4rzlkashpsdxsmh64jpgp2ul0wdlkzquzvln6",
         "tag" : "Community Pool Recipient",
-        "description": "DEX liquidity injection contract that received funds from the community pool",
+        "description": "DEX liquidity injection contract that received funds from the community pool by Prop 12179, 12180, 12182",
         "type": "WARNING"
     },
     {
         "cosmos_address": "terra1gfdpna8xkxhergv37lkpjq67txergkhz83v2fv",
         "tag" : "Community Pool Recipient",
-        "description": "OrbitLabs (Phase 2) address that received funds from the community pool",
+        "description": "OrbitLabs (Phase 2) address that received funds from the community pool by Prop 12197",
         "type": "WARNING"
     },
     {
         "cosmos_address": "terra1jf47h267hvm9sa456j9jkzgjnaddm3pwglr5tl",
         "tag" : "Community Pool Recipient",
-        "description": "IBC relaying address that received funds from the community pool",
+        "description": "IBC relaying address that received funds from the community pool by Prop 12198",
         "type": "WARNING"
     },
     {
         "cosmos_address": "terra1dmqa34vl5u4hfnftkwh57dn96hrvx6p8rwe86v",
         "tag" : "Community Pool Recipient",
-        "description": "Cosmos SDK v0.53 upgrade address that received funds from the community pool",
+        "description": "Cosmos SDK v0.53 upgrade address that received funds from the community pool by Prop 12213, 12220",
         "type": "WARNING"
     },
     {
         "cosmos_address": "terra1run9wz09uhh6pu7ggcwwetrgye4wu7wn26mawp",
         "tag" : "Community Pool Recipient",
-        "description": "Hyperlane Warp Routes deployment address that received funds from the community pool",
+        "description": "Hyperlane Warp Routes deployment address that received funds from the community pool by Prop 12222",
         "type": "WARNING"
     },
     {
         "cosmos_address": "terra14vncu76jm49xsf6qjwdfe46pw8e6e47nyfsmfemp8duf436mjwfq6jmt67",
         "tag" : "Community Pool Recipient",
-        "description": "IBC relaying (2026) address that received funds from the community pool",
+        "description": "IBC relaying (2026) address that received funds from the community pool by Prop 12225",
         "type": "WARNING"
     },
     {
         "cosmos_address": "terra14yvuxm40affmkt36m2ummvzvlka25u3ucurxjl",
         "tag" : "Community Pool Recipient",
-        "description": "Hyperlane delivery payment address that received funds from the community pool",
+        "description": "Hyperlane delivery payment address that received funds from the community pool by Prop 12232",
         "type": "WARNING"
     }
 ]

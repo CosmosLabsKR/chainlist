@@ -110,7 +110,7 @@
     {
         "cosmos_address": "neutron1ckxf7y9tmvs7zlgrk6gcxxen2ryasjr7kgvrxn",
         "tag" : "Community Pool Recipient",
-        "description": "Solva address that received funds from the community pool",
+        "description": "Solva address that received funds from the community pool by Prop 4",
         "type": "WARNING"
     },
     {

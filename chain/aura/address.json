@@ -62,7 +62,7 @@
     {
         "cosmos_address": "aura10h87v6as4ja47pldh8wt9gshwuqce3tkchd8fl",
         "tag" : "Community Pool Recipient",
-        "description": "Aura randomness dApp support (Nois) address that received funds from the community pool",
+        "description": "Aura randomness dApp support (Nois) address that received funds from the community pool by Prop 6",
         "type": "WARNING"
     }
 ]

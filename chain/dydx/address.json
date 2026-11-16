@@ -92,61 +92,61 @@
     {
         "cosmos_address": "dydx1vx93pwuxf7j5c90tukj084ka26fclcjuqdmw2a",
         "tag" : "Community Pool Recipient",
-        "description": "dYdX Treasury SubDAO address that received funds from the community treasury",
+        "description": "dYdX Treasury SubDAO address that received funds from the community treasury by Prop 174, 211, 217 and 1 more",
         "type": "WARNING"
     },
     {
         "cosmos_address": "dydx1ek4apjmgzjw3fanz4hsh4akm90sze7qplxhypaffp5p6xf8vqr5q897cft",
         "tag" : "Community Pool Recipient",
-        "description": "Stride interchain account that received funds from the community treasury",
+        "description": "Stride interchain account that received funds from the community treasury by Prop 49",
         "type": "WARNING"
     },
     {
         "cosmos_address": "dydx126h08stz9xpln0pesthql4g8clq42kc8au7uys",
         "tag" : "Community Pool Recipient",
-        "description": "dYdX Operations SubDAO multisig that received funds from the community treasury",
+        "description": "dYdX Operations SubDAO multisig that received funds from the community treasury by Prop 222",
         "type": "WARNING"
     },
     {
         "cosmos_address": "dydx1pjc7qsef3lsljfchutxph45ne6wuhw3fvpgfgr",
         "tag" : "Community Pool Recipient",
-        "description": "dYdX Foundation address that received funds from the community treasury",
+        "description": "dYdX Foundation address that received funds from the community treasury by Prop 268",
         "type": "WARNING"
     },
     {
         "cosmos_address": "dydx1he0e9veu60gmcry2d9yqhafm0t0cpmnq5hdytu",
         "tag" : "Community Pool Recipient",
-        "description": "dYdX Foundation address that received funds from the community treasury and insurance fund",
+        "description": "dYdX Foundation address that received funds from the community treasury and insurance fund by Prop 8, 372",
         "type": "WARNING"
     },
     {
         "cosmos_address": "dydx1lxjqtqzsnnxygkax03d8ygxrm7er23xjqpg4e6",
         "tag" : "Community Pool Recipient",
-        "description": "Rebates and rewards distribution address that received funds from the community treasury",
+        "description": "Rebates and rewards distribution address that received funds from the community treasury by Prop 329, 336, 338 and 6 more",
         "type": "WARNING"
     },
     {
         "cosmos_address": "dydx16jll55tag2aj3c4mtysptefn8d274dmdsxvank",
         "tag" : "Community Pool Recipient",
-        "description": "dYdX Ecosystem Development Program multisig that received funds from the community treasury",
+        "description": "dYdX Ecosystem Development Program multisig that received funds from the community treasury by Prop 19",
         "type": "WARNING"
     },
     {
         "cosmos_address": "dydx10azu6arkhqjfzvya6877neq86h2awp79m84w6q",
         "tag" : "Community Pool Recipient",
-        "description": "dYdX Trading Leagues address that received funds from the community treasury",
+        "description": "dYdX Trading Leagues address that received funds from the community treasury by Prop 300",
         "type": "WARNING"
     },
     {
         "cosmos_address": "dydx1p0wrtn732ecpgzrf4lzqvf9sswy9pya9p85m8x",
         "tag" : "Community Pool Recipient",
-        "description": "dYdX Operations SubDAO multisig that received funds from the insurance fund",
+        "description": "dYdX Operations SubDAO multisig that received funds from the insurance fund by Prop 372",
         "type": "WARNING"
     },
     {
         "cosmos_address": "dydx1aakf4gq5wep9ukeemtuvrjvccz2lhnjteerrme",
         "tag" : "Community Pool Recipient",
-        "description": "Address that received funds from the community treasury",
+        "description": "Address that received funds from the community treasury by Prop 4",
         "type": "WARNING"
     },
     {

@@ -68,13 +68,13 @@
     {
         "cosmos_address": "bitsong108smxfpajke8kjlvgnmkg5xlxf5f2szczkm4lj",
         "tag" : "Community Pool Recipient",
-        "description": "Felix delegation DAO address that received funds from the community pool",
+        "description": "Felix delegation DAO address that received funds from the community pool by Prop 17",
         "type": "WARNING"
     },
     {
         "cosmos_address": "bitsong166d42nyufxrh3jps5wx3egdkmvvg7jl6k33yut",
         "tag" : "Community Pool Recipient",
-        "description": "BTSG/ARCH Astrovault pool and DAO DAO deployment address that received funds from the community pool",
+        "description": "BTSG/ARCH Astrovault pool and DAO DAO deployment address that received funds from the community pool by Prop 35, 36",
         "type": "WARNING"
     }
 ]
