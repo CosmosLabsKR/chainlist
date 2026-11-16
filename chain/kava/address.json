@@ -157,21 +157,42 @@
         "cosmos_address": "kava1jq5dtpgx0f7xlfv2whjq3ng800wxazhxkmwe33",
         "evm_address": "0x9028D585067a7c6FA58A75E408CD077Bdc6e8AE6",
         "tag" : "Community Pool Recipient",
-        "description": "WAGMI address that received funds from the community pool",
+        "description": "WAGMI address that received funds from the community pool by Prop 163, 167, 170 and 25 more",
         "type": "WARNING"
     },
     {
         "cosmos_address": "kava1m9uhe8rhu4rmx3jrrwz05d763esc06ndevatn9",
         "evm_address": "0xd9797c9c77e547B346431B84fa37da8E6187ea6D",
         "tag" : "Community Pool Recipient",
-        "description": "Injective USDt adoption address that received funds from the community pool",
+        "description": "Injective USDt adoption address that received funds from the community pool by Prop 165, 167, 170",
         "type": "WARNING"
     },
     {
         "cosmos_address": "kava1yjj0hv0uaxucrjlua27h92nt9nf72084xjqy60",
         "evm_address": "0x24A4Fbb1fCe9b981cBfCeabD72AA6B2CD3E53CF5",
         "tag" : "Community Pool Recipient",
-        "description": "Kava Origin Foundation address that received funds from the community pool",
+        "description": "Kava Origin Foundation address that received funds from the community pool by Prop 205",
         "type": "WARNING"
+    },
+    {
+        "cosmos_address": "kava1v2s266sll8ca5xrs06swmsc00nwwt7u77eufk4",
+        "evm_address": "0x62a0Ad6A1Ff9f1da18707eA0edC30f7cdCE5Fb9e",
+        "tag" : "Exploiter",
+        "description": "Attacker address of the Kava Lend exploit (Nov 2026) that manipulated the BUSD market and borrowed KAVA from Kava Lend",
+        "type": "DANGER"
+    },
+    {
+        "cosmos_address": "kava1uzx5924cqsutcw365ajs8kkc3rr4vtlyzms255",
+        "evm_address": "0xe08D42aAb80438Bc3A3aA76503daD888C7562fE4",
+        "tag" : "Exploiter",
+        "description": "Attacker address of the Kava Lend exploit (Nov 2026) that funded the attack and distributed the stolen KAVA",
+        "type": "DANGER"
+    },
+    {
+        "cosmos_address": "kava1xltn9y20smxxav0gwsv7xpr2ww0szyzzga76lv",
+        "evm_address": "0x37D732914F86Cc6eb1E87419e3046A739F011042",
+        "tag" : "Exploiter",
+        "description": "Attacker address of the Kava Lend exploit (Nov 2026) that bridged the stolen KAVA to BNB Smart Chain via LayerZero",
+        "type": "DANGER"
     }
 ]
