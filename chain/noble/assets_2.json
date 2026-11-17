@@ -207,5 +207,51 @@
                 "denom": "azig"
             }
         }
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/7B1C63A97050D37EFF7B06F2E073D62AF2D8483C7F689A1B495ECE1D7D144EA1",
+        "name": "LUXA",
+        "symbol": "LUXA",
+        "description": "The native sovereign currency and governance token of the LUXA Layer 1 blockchain.",
+        "decimals": 6,
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/luxa/asset/luxa.png",
+        "coinGeckoId": "",
+        "ibc_info": {
+            "path": "luxa>noble",
+            "client": {
+                "channel": "channel-640",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-4",
+                "port": "transfer",
+                "chain": "luxa",
+                "denom": "uluxa"
+            }
+        }
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/E77EEE473A1DBA8933284AC436833271198E9898FAE9BF9842F48D08FF2F0C05",
+        "name": "LUXA Shard",
+        "symbol": "SHARD",
+        "description": "The utility and energy token of the LUXA Network ecosystem.",
+        "decimals": 6,
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/luxa/asset/ushard.png",
+        "coinGeckoId": "",
+        "ibc_info": {
+            "path": "luxa>noble",
+            "client": {
+                "channel": "channel-640",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-4",
+                "port": "transfer",
+                "chain": "luxa",
+                "denom": "ushard"
+            }
+        }
     }
 ]
