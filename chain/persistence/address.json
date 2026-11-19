@@ -106,5 +106,29 @@
         "tag" : "Community Pool Recipient",
         "description": "Persistence DEX liquidity address that received funds from the community pool by Prop 128, 143",
         "type": "WARNING"
+    },
+    {
+        "cosmos_address": "persistence155svs6sgxe55rnvs6ghprtqu0mh69kehdlf7w8",
+        "tag" : "Gate",
+        "description": "Gate exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "persistence1jm068whkhkxk48gx80ppm2m0nwy677prcjps80",
+        "tag" : "Gate",
+        "description": "Gate exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "persistence1xunyznpjmj9jv5e2zwngp2qrzmulr2ggk58d8j",
+        "tag" : "Gate",
+        "description": "Gate exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "persistence1n5ukn9q2r5vrgt6su0e6cvm5lyxe2cn90shtef",
+        "tag" : "Gate",
+        "description": "Gate exchange",
+        "type": "WELL_KNOWN"
     }
 ]

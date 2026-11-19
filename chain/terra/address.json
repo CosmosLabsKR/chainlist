@@ -210,6 +210,12 @@
         "type": "WARNING"
     },
     {
+        "cosmos_address": "terra13x5jkljx69vyak47k9e9u9qetu0sckxpfysrp7",
+        "tag" : "LATOKEN",
+        "description": "LATOKEN exchange hot wallet",
+        "type": "WELL_KNOWN"
+    },
+    {
         "cosmos_address": "terra1wrve5z5vsmrgy6ldcveq93aldr6wk3qmxavs4j",
         "tag" : "Exploiter",
         "description": "Attacker address of the Terra IBC hooks exploit (Jul 2024)",

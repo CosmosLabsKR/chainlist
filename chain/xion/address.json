@@ -46,5 +46,11 @@
         "tag" : "Token Factory",
         "description": "Token Factory module account that mints and burns tokens created by users",
         "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "xion1gaym9l53jwp5na0kpv8h5r5kuxs0zpw22ugx6v",
+        "tag" : "Bitget",
+        "description": "Bitget exchange",
+        "type": "WELL_KNOWN"
     }
 ]

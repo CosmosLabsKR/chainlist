@@ -64,5 +64,29 @@
         "tag" : "Community Pool Recipient",
         "description": "Aura randomness dApp support (Nois) address that received funds from the community pool by Prop 6",
         "type": "WARNING"
+    },
+    {
+        "cosmos_address": "aura155svs6sgxe55rnvs6ghprtqu0mh69kehc9c0z6",
+        "tag" : "Gate",
+        "description": "Gate exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "aura1jm068whkhkxk48gx80ppm2m0nwy677prdgsptj",
+        "tag" : "Gate",
+        "description": "Gate exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "aura1xunyznpjmj9jv5e2zwngp2qrzmulr2ggrwkut0",
+        "tag" : "Gate",
+        "description": "Gate exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "aura1n5ukn9q2r5vrgt6su0e6cvm5lyxe2cn962x645",
+        "tag" : "Gate",
+        "description": "Gate exchange",
+        "type": "WELL_KNOWN"
     }
 ]

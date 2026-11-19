@@ -150,6 +150,42 @@
         "type": "WARNING"
     },
     {
+        "cosmos_address": "dydx1zgx5m9ly6fzt4y9tdlnxa70u96fr5ygjxjzmhg",
+        "tag" : "Bitget",
+        "description": "Bitget exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "dydx155svs6sgxe55rnvs6ghprtqu0mh69keh22pfq5",
+        "tag" : "Gate",
+        "description": "Gate exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "dydx1jm068whkhkxk48gx80ppm2m0nwy677prl8f8fu",
+        "tag" : "Gate",
+        "description": "Gate exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "dydx1xunyznpjmj9jv5e2zwngp2qrzmulr2gg3p06fp",
+        "tag" : "Gate",
+        "description": "Gate exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "dydx1n5ukn9q2r5vrgt6su0e6cvm5lyxe2cn9g9luh6",
+        "tag" : "Gate",
+        "description": "Gate exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "dydx10v2gu0vvdeuv8pexnl98lmyva4cq8jka5vf350",
+        "tag" : "Gate",
+        "description": "Gate Earn staking wallet",
+        "type": "WELL_KNOWN"
+    },
+    {
         "cosmos_address": "dydx1dd25c4sshelrpfs0433apg24c5phrhk8ju5u4y",
         "tag" : "Exploiter",
         "description": "Attacker address of the Neutron governance exploit (Sep 2026)",

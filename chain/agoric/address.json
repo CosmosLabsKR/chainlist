@@ -76,5 +76,29 @@
         "tag" : "Web3Auth Keplr Recovery",
         "description": "Holds assets rescued from Keplr social login wallets after the Web3Auth key breach (Nov 2026)",
         "type": "WARNING"
+    },
+    {
+        "cosmos_address": "agoric155svs6sgxe55rnvs6ghprtqu0mh69keh3wdjs4",
+        "tag" : "Gate",
+        "description": "Gate exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "agoric1jm068whkhkxk48gx80ppm2m0nwy677pryr9uea",
+        "tag" : "Gate",
+        "description": "Gate exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "agoric1n5ukn9q2r5vrgt6su0e6cvm5lyxe2cn9npn88m",
+        "tag" : "Gate",
+        "description": "Gate exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "agoric1xunyznpjmj9jv5e2zwngp2qrzmulr2gg29rpeq",
+        "tag" : "Gate",
+        "description": "Gate exchange",
+        "type": "WELL_KNOWN"
     }
 ]

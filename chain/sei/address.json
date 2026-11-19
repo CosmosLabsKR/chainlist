@@ -75,5 +75,40 @@
         "tag" : "Dex",
         "description": "Dex module account",
         "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "sei1xm7q4xv75udvq6y62jmhhjwjchnsrjaday2c2h",
+        "evm_address": "0x36fc0a999Ea71Ac0689A54b77bC9d2c5E701cBad",
+        "tag" : "Gate US",
+        "description": "Gate US exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "sei1xunyznpjmj9jv5e2zwngp2qrzmulr2gg45sg0h",
+        "evm_address": "0x3726414c32DC8B26532a13a680A80316F9f1a908",
+        "tag" : "Gate",
+        "description": "Gate exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "sei155svs6sgxe55rnvs6ghprtqu0mh69kehwl7mxz",
+        "evm_address": "0xa520c86a08366941cd90d22e11ac1C7EEFa2Db37",
+        "tag" : "Gate",
+        "description": "Gate exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "sei1jm068whkhkxk48gx80ppm2m0nwy677prmjk402",
+        "evm_address": "0x96dFa3Baf6BD8D6a9d063Bc21daB6F9b89af7823",
+        "tag" : "Gate",
+        "description": "Gate exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "sei1n5ukn9q2r5vrgt6su0e6cvm5lyxe2cn9vsqw3v",
+        "evm_address": "0x9d3969940a1d18342f50e3F3ac3374F90D956265",
+        "tag" : "Gate",
+        "description": "Gate exchange",
+        "type": "WELL_KNOWN"
     }
 ]

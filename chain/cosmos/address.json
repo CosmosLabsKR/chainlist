@@ -138,6 +138,510 @@
         "type": "WARNING"
     },
     {
+        "cosmos_address": "cosmos16tpt327wedq0xkxwxpj03jyqa27m3q4ywc4s7m",
+        "tag" : "Community Pool Recipient",
+        "description": "Address that received funds from the community pool",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "cosmos1z8pq5cn7tdrwwzlwm0e44fgq07e43ner6vph64",
+        "tag" : "Neutron Exploit Recovery",
+        "description": "Holds funds recovered from the Neutron governance exploit (Sep 2026)",
+        "type": "WARNING"
+    },
+    {
+        "cosmos_address": "cosmos1h9ymfm2fxrqgd257dlw5nku3jgqjgpl59sm5ns",
+        "tag" : "Bitfinex",
+        "description": "Bitfinex exchange hot wallet",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "cosmos1jtdkj8hxhj88jxv8lul9xvdpnwsl00evvvpnhj",
+        "tag" : "Bitfinex",
+        "description": "Bitfinex exchange cold wallet",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "cosmos134amdum68rsfv4wpkanx253vw6zkmmfa3ssrxa",
+        "tag" : "Bitget",
+        "description": "Bitget exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "cosmos1mtauzk3q40zt3weujcqwu009vw5t6m5fnv4xxr",
+        "tag" : "Bitrue",
+        "description": "Bitrue exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "cosmos1g2uxd7f04ev8ume2tt8lujmryjz3zw6lwg7z97",
+        "tag" : "BloFin",
+        "description": "BloFin exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "cosmos1ruqrgv8wh4fqm24uyeuvmg8jwv737qv9vxl8q9",
+        "tag" : "CEX.IO",
+        "description": "CEX.IO exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "cosmos12chvl78ffgvzc29mvrg5auz94vgksne5svsje4",
+        "tag" : "Coinsquare",
+        "description": "Coinsquare exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "cosmos1gcsur9g2vxagmyr0u7pc9kcvtyd7zuyen3n5x7",
+        "tag" : "Flipster",
+        "description": "Flipster exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "cosmos10v2gu0vvdeuv8pexnl98lmyva4cq8jkaa4845c",
+        "tag" : "Gate",
+        "description": "Gate Earn staking wallet",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "cosmos155svs6sgxe55rnvs6ghprtqu0mh69kehrn0dqr",
+        "tag" : "Gate",
+        "description": "Gate exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "cosmos18njk2lz5q7juryvzgyly2qxetuwqadxzt9vc92",
+        "tag" : "Gate",
+        "description": "Gate Earn staking wallet",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "cosmos19yhugy8qzps8rur4mnp6tnz8w6nh7qrqqttgnp",
+        "tag" : "Gate",
+        "description": "Gate exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "cosmos1hpcfdtv84srdq7n9a7mhnnmd3jwuda970ya92j",
+        "tag" : "Gate",
+        "description": "Gate exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "cosmos1jm068whkhkxk48gx80ppm2m0nwy677prk78rft",
+        "tag" : "Gate",
+        "description": "Gate exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "cosmos1n5ukn9q2r5vrgt6su0e6cvm5lyxe2cn9pu3chd",
+        "tag" : "Gate",
+        "description": "Gate exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "cosmos1xunyznpjmj9jv5e2zwngp2qrzmulr2ggccp7fk",
+        "tag" : "Gate",
+        "description": "Gate exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "cosmos1ny7sr4sehuhu3uyv53ln5qh4s6wd7dn5vq02kf",
+        "tag" : "Gate US",
+        "description": "Gate US exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "cosmos1xm7q4xv75udvq6y62jmhhjwjchnsrjadsgmwvk",
+        "tag" : "Gate US",
+        "description": "Gate US exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "cosmos10zzdw24k8ytenpx95rklhnqnr95qutvhdwj0ez",
+        "tag" : "LATOKEN",
+        "description": "LATOKEN exchange hot wallet",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "cosmos10dfzd2wpnpeuy2lgan35ah8dg5p4l298v0n8e8",
+        "tag" : "SwissBorg",
+        "description": "SwissBorg exchange staking address",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "cosmos197v98nkhnxr54x45hrcagnu2rr2ckyn7dz37t6",
+        "tag" : "SwissBorg",
+        "description": "SwissBorg exchange deposit address",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "cosmos1trvqv850ft2p7ntewneevd690qde2uvt6dxvnp",
+        "tag" : "SwissBorg",
+        "description": "SwissBorg exchange hot wallet",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "cosmos176m2p8l3fps3dal7h8gf9jvrv98tu3rqfdht86",
+        "tag" : "All in Bits",
+        "description": "All in Bits wallet",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "cosmos1gs5595tkkvgr7vjc48vl9dv99pw7m6055lql4xrm0evwqa90pa7qtkm26j",
+        "tag" : "Atom Accelerator DAO",
+        "description": "Atom Accelerator DAO address",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "cosmos17kvae2jckzpkct78yealre3ms2gu28cdmtwsv7",
+        "tag" : "Bybit",
+        "description": "Bybit exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "cosmos1f2jf7rjl7zuhymufvfe8776z20wmln2prjrqpf",
+        "tag" : "Bybit",
+        "description": "Bybit exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "cosmos1pyarvcy2ehrw86rcvfun34gyu2dlunnthvkc83",
+        "tag" : "Bybit",
+        "description": "Bybit exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "cosmos1qtgrfzx7tjkql6fr40t3h7npn44kyyhyx4cq05",
+        "tag" : "Bybit",
+        "description": "Bybit exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "cosmos1rwc504n9l4ll5hpszdc59sk4uqj2j4hpjcn4dj",
+        "tag" : "Bybit",
+        "description": "Bybit exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "cosmos1xf2crjfqjne20rmhvu8h5pypjuxem8qukg85ye",
+        "tag" : "Bybit",
+        "description": "Bybit exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "cosmos1n8xr95j2cun75tq0r0rr9vsvqhehvgx0wujc86",
+        "tag" : "CoinSwitch",
+        "description": "CoinSwitch exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "cosmos1qm4zuta0hr5lnlkd7e5rk9vjyf75y3s90k5um7",
+        "tag" : "CoinSwitch",
+        "description": "CoinSwitch exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "cosmos17vmmtutms07xlauu37keag85kc309kg9afnyx6",
+        "tag" : "CoinSwitch",
+        "description": "CoinSwitch exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "cosmos1al3wpmzyy3m4g6lhlhnc3y9ruq6hycgmyklunu",
+        "tag" : "CoinSwitch",
+        "description": "CoinSwitch exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "cosmos15jlv4jfc0593mjm9n5dlkq76ed5k7dr88yr6ks",
+        "tag" : "CoinSwitch",
+        "description": "CoinSwitch exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "cosmos1pth8u472jf003zaxhdgy5j5mdlz2n5rf6sn5wc",
+        "tag" : "CoinSwitch",
+        "description": "CoinSwitch exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "cosmos1mdhn68w8fvkzagg3qjf8rckhfm22s0rsa2uscd",
+        "tag" : "CoinSwitch",
+        "description": "CoinSwitch exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "cosmos1cn6jsd9wae3jv8tk85jsy5qfzse7h8e8qmg7tx",
+        "tag" : "CoinSwitch",
+        "description": "CoinSwitch exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "cosmos16ajjq0pnz2vsz2eddad4uqng9qvdcvcguynch7",
+        "tag" : "CoinSwitch",
+        "description": "CoinSwitch exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "cosmos1z8mzakma7vnaajysmtkwt4wgjqr2m84tzvyfkz",
+        "tag" : "Interchain Foundation",
+        "description": "Interchain Foundation wallet",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "cosmos1unc788q8md2jymsns24eyhua58palg5kc7cstv",
+        "tag" : "Interchain Foundation",
+        "description": "Interchain Foundation wallet",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "cosmos12m4dshpc5qqvrafw46pu6rg4743aswljupx445",
+        "tag" : "Kraken",
+        "description": "Kraken exchange deposit address",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "cosmos1u0463hyz0f5655km9cwua5r3q9h7ddn0a876e9",
+        "tag" : "NBX",
+        "description": "NBX exchange cold wallet",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "cosmos1tm74ywq039s0e7ys6v76cedxzw5frsaj260360",
+        "tag" : "NBX",
+        "description": "NBX exchange hot wallet",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "cosmos1dm68mx9jcsyqkyzp3up7gmnu3ku84v8gf6v75u",
+        "tag" : "Paribu",
+        "description": "Paribu exchange deposit address",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "cosmos15v50ymp6n5dn73erkqtmq0u8adpl8d3ujv2e74",
+        "tag" : "Binance",
+        "description": "Binance exchange deposit address",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "cosmos1j8pp7zvcu9z8vd882m284j29fn2dszh05cqvf9",
+        "tag" : "Binance",
+        "description": "Binance exchange deposit address",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "cosmos1l0znsvddllw9knha3yx2svnlxny676d8ns7uys",
+        "tag" : "Binance",
+        "description": "Binance exchange hot wallet",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "cosmos1p3ucd3ptpw902fluyjzhq3ffgq4ntddac9sa3s",
+        "tag" : "Binance",
+        "description": "Binance exchange staking address",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "cosmos1yp8q44e4t4evksnczmzlw0ngxj4hwuv5rjw3a8",
+        "tag" : "Bithumb",
+        "description": "Bithumb exchange hot wallet",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "cosmos1spe44szj45alspv47p7zss595rdd0aup0k663u",
+        "tag" : "Bithumb",
+        "description": "Bithumb exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "cosmos13557nkpqpnnhxmdu3euj3gkta762jym6hljgn4",
+        "tag" : "Bithumb",
+        "description": "Bithumb exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "cosmos1z3a0wasepmcs64drt2gs62lfa0wkhj6rx0l5dt",
+        "tag" : "Bithumb",
+        "description": "Bithumb exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "cosmos1xlp4k2yz6zhhqxlp0hwdfqlpsz9k9gru3ezese",
+        "tag" : "BtcTurk",
+        "description": "BtcTurk exchange deposit address",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "cosmos1rze80zh5egm2n595a9r3megs6wvsflatn9dl4k",
+        "tag" : "Bybit",
+        "description": "Bybit exchange deposit address",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "cosmos1t5u0jfg3ljsjrh2m9e47d4ny2hea7eehxrzdgd",
+        "tag" : "Coinbase",
+        "description": "Coinbase exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "cosmos10wenc4mxggk2nv49rca808a834hnnrg47hnkeu",
+        "tag" : "Coinbase Custody",
+        "description": "Coinbase Custody staking rewards address",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "cosmos1u7at27nzzl0p6h7j0x5wq0s0e8dw7ezzv75q6c",
+        "tag" : "Coinbase Custody",
+        "description": "Coinbase Custody staking rewards address",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "cosmos18zdww6md2ym8yfat9h0aztcts5vad2nh07w48x",
+        "tag" : "Coinbase Custody",
+        "description": "Coinbase Custody wallet",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "cosmos105hssfshxkdrj4ycpdd5yn00wmscjyfc6vk6zw",
+        "tag" : "Coinbase Custody",
+        "description": "Coinbase Custody wallet",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "cosmos1nynns8ex9fq6sjjfj8k79ymkdz4sqth06xexae",
+        "tag" : "HTX",
+        "description": "HTX exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "cosmos15hmqrc245kryaehxlch7scl9d9znxa58qkpjet",
+        "tag" : "Ignite",
+        "description": "Ignite (All in Bits) wallet",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "cosmos1sufkm72dw7ua9crpfhhp0dqpyuggtlhdse98e7",
+        "tag" : "Interchain Foundation",
+        "description": "Interchain Foundation wallet",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "cosmos1z6czaavlk6kjd48rpf58kqqw9ssad2uaxnazgl",
+        "tag" : "Interchain Foundation",
+        "description": "Interchain Foundation wallet",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "cosmos1hgp84me0lze8t4jfrwsr05aep2kr57zrk4gecx",
+        "tag" : "Kraken",
+        "description": "Kraken exchange deposit address",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "cosmos1vl8xm7x04cedgh639hc9ucvf6zc754fyfewhef",
+        "tag" : "KuCoin",
+        "description": "KuCoin exchange deposit address",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "cosmos144sh8vyv5nqfylmg4mlydnpe3l4w780jsrmf4k",
+        "tag" : "MEXC",
+        "description": "MEXC exchange deposit address",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "cosmos144fzpepuvdftv4u4r9kq8t35ap2crruv4u3udz",
+        "tag" : "OKX",
+        "description": "OKX exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "cosmos1hjyde2kfgtl78twvhs53u5j2gcsxrt649nn8j5",
+        "tag" : "Upbit",
+        "description": "Upbit exchange deposit address",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "cosmos1347r7znpxr9uxsd8t66wjurgfgn93u3vxr348v",
+        "tag" : "Upbit",
+        "description": "Upbit exchange hot wallet",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "cosmos1pnfunk0cl7lpwyrxw7m57kt74zd6g2qh4udppy",
+        "tag" : "Upbit",
+        "description": "Upbit exchange staking address",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "cosmos176nve774xk0wvtw6atn4vtg9w2nejcscqzd0fm",
+        "tag" : "Upbit",
+        "description": "Upbit exchange staking address",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "cosmos1ut6vfjcltr5fmlthr86vpmcxnus9keavxmstlr",
+        "tag" : "Upbit",
+        "description": "Upbit exchange staking address",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "cosmos1helwgzrpwqvjsgv5nrflwdc68n5dtcffwgnegu",
+        "tag" : "Upbit",
+        "description": "Upbit exchange staking address",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "cosmos1rh65gtzdeavc45t7ylmurvhyd0hcht9hkdg7fz",
+        "tag" : "Upbit",
+        "description": "Upbit exchange staking address",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "cosmos1peha5yfjnt2ua8x7th85say0pmm9t5mj35angp",
+        "tag" : "Upbit",
+        "description": "Upbit exchange staking address",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "cosmos102pcnjqspyrfplhdccrz8usg5qhxjxv5a0q9dx",
+        "tag" : "Upbit",
+        "description": "Upbit exchange staking address",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "cosmos1024dxg29cnwq6ljvwgt284xkk5xgmep79rtw5g",
+        "tag" : "Upbit",
+        "description": "Upbit exchange staking address",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "cosmos1kglms05v6jlazkdeel46h0famvpredkluu7c4w",
+        "tag" : "Upbit",
+        "description": "Upbit exchange staking address",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "cosmos1ty4z8vumqk7uxd43e22l974ekqj4lta0vf0qtx",
+        "tag" : "Upbit",
+        "description": "Upbit exchange staking address",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "cosmos1crje20aj4gxdtyct7z3knxqry2jqt2fuaey6u5",
+        "tag" : "Upbit",
+        "description": "Upbit exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "cosmos1spm39dtap4454tutu7xctwgwqd3udstnaptrzw",
+        "tag" : "WhiteBIT",
+        "description": "WhiteBIT exchange deposit address",
+        "type": "WELL_KNOWN"
+    },
+    {
         "cosmos_address": "cosmos1dd25c4sshelrpfs0433apg24c5phrhk8m96c4n",
         "tag" : "Exploiter",
         "description": "Attacker address of the Neutron governance exploit (Sep 2026)",

@@ -126,6 +126,20 @@
         "type": "SYSTEM"
     },
     {
+        "cosmos_address": "mantra16l5qsgzjueayxa2z78eee53lv3t0kfy3z68pqc",
+        "evm_address": "0xD7E8082052e67a437542F1f39Cd23F6456Fb2491",
+        "tag" : "Bitget",
+        "description": "Bitget exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "mantra155svs6sgxe55rnvs6ghprtqu0mh69kehgc9fre",
+        "evm_address": "0xa520c86a08366941cd90d22e11ac1C7EEFa2Db37",
+        "tag" : "Gate",
+        "description": "Gate exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
         "cosmos_address": "mantra13n9sk3p8x7tpq9adgxvzv9q0qev953mld0hwva",
         "evm_address": "0x8cCB0b442737961017ad419826140F06585A477F",
         "tag" : "Exploiter",

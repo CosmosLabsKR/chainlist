@@ -418,5 +418,59 @@
         "tag" : "Community Pool Recipient",
         "description": "ProtoRev bounty address that received funds from the community pool by Prop 969",
         "type": "WARNING"
+    },
+    {
+        "cosmos_address": "osmo155svs6sgxe55rnvs6ghprtqu0mh69kehtguak3",
+        "tag" : "Gate",
+        "description": "Gate exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "osmo1jm068whkhkxk48gx80ppm2m0nwy677pr795nle",
+        "tag" : "Gate",
+        "description": "Gate exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "osmo1xunyznpjmj9jv5e2zwngp2qrzmulr2ggsrjwly",
+        "tag" : "Gate",
+        "description": "Gate exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "osmo1n5ukn9q2r5vrgt6su0e6cvm5lyxe2cn9f8zgpl",
+        "tag" : "Gate",
+        "description": "Gate exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "osmo1ny7sr4sehuhu3uyv53ln5qh4s6wd7dn5ymu6qm",
+        "tag" : "Gate US",
+        "description": "Gate US exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "osmo1xm7q4xv75udvq6y62jmhhjwjchnsrjadcng76y",
+        "tag" : "Gate US",
+        "description": "Gate US exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "osmo1h9sy6z5hnk5wjf6ds8w4syq0yqs706n9m6qlap",
+        "tag" : "SwissBorg",
+        "description": "SwissBorg exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "osmo197v98nkhnxr54x45hrcagnu2rr2ckyn79ezwag",
+        "tag" : "SwissBorg",
+        "description": "SwissBorg exchange deposit address",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "osmo1tulvk3qsrt9u3h28z3mt83v97n37as5r2v5w3l",
+        "tag" : "Bitget",
+        "description": "Bitget exchange",
+        "type": "WELL_KNOWN"
     }
 ]

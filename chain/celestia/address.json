@@ -70,5 +70,71 @@
         "tag" : "Web3Auth Keplr Recovery",
         "description": "Holds assets rescued from Keplr social login wallets after the Web3Auth key breach (Nov 2026)",
         "type": "WARNING"
+    },
+    {
+        "cosmos_address": "celestia155svs6sgxe55rnvs6ghprtqu0mh69kehje7a6w",
+        "tag" : "Gate",
+        "description": "Gate exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "celestia1jm068whkhkxk48gx80ppm2m0nwy677pr85knnx",
+        "tag" : "Gate",
+        "description": "Gate exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "celestia1xunyznpjmj9jv5e2zwngp2qrzmulr2ggfjswnm",
+        "tag" : "Gate",
+        "description": "Gate exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "celestia1n5ukn9q2r5vrgt6su0e6cvm5lyxe2cn9skqgdq",
+        "tag" : "Gate",
+        "description": "Gate exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "celestia10v2gu0vvdeuv8pexnl98lmyva4cq8jkavlk9w4",
+        "tag" : "Gate",
+        "description": "Gate Earn staking wallet",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "celestia1ny7sr4sehuhu3uyv53ln5qh4s6wd7dn5a276vy",
+        "tag" : "Gate US",
+        "description": "Gate US exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "celestia1xm7q4xv75udvq6y62jmhhjwjchnsrjadpz27km",
+        "tag" : "Gate US",
+        "description": "Gate US exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "celestia197v98nkhnxr54x45hrcagnu2rr2ckyn7ugqw3h",
+        "tag" : "SwissBorg",
+        "description": "SwissBorg exchange deposit address",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "celestia1trvqv850ft2p7ntewneevd690qde2uvtt8hufv",
+        "tag" : "SwissBorg",
+        "description": "SwissBorg exchange hot wallet",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "celestia1jm9gwpdk0v69kva9hepgnprfjl3u2z4duh9ver",
+        "tag" : "Bitget",
+        "description": "Bitget exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "celestia1g2uxd7f04ev8ume2tt8lujmryjz3zw6llz0jln",
+        "tag" : "BloFin",
+        "description": "BloFin exchange",
+        "type": "WELL_KNOWN"
     }
 ]

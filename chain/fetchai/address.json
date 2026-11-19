@@ -70,5 +70,23 @@
         "tag" : "Community Pool Recipient",
         "description": "Mettalex address that received funds from the community pool by Prop 29",
         "type": "WARNING"
+    },
+    {
+        "cosmos_address": "fetch1s3l4s5f2j79872qjtt9f3p86vxxyf6g854lw4v",
+        "tag" : "Bitget",
+        "description": "Bitget exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "fetch155svs6sgxe55rnvs6ghprtqu0mh69kehswxfz5",
+        "tag" : "Gate",
+        "description": "Gate exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "fetch1xunyznpjmj9jv5e2zwngp2qrzmulr2ggt9g6tp",
+        "tag" : "Gate",
+        "description": "Gate exchange",
+        "type": "WELL_KNOWN"
     }
 ]

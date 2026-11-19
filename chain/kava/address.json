@@ -175,6 +175,55 @@
         "type": "WARNING"
     },
     {
+        "cosmos_address": "kava1vqhpcrvf9260aj689p3mqkkd3vdvflqp0vc469",
+        "evm_address": "0x602E1c0d892AB4fECb472863B05aCD8b1aC4FC01",
+        "tag" : "Bitget",
+        "description": "Bitget exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "kava155svs6sgxe55rnvs6ghprtqu0mh69kehlxmsky",
+        "evm_address": "0xa520c86a08366941cd90d22e11ac1C7EEFa2Db37",
+        "tag" : "Gate",
+        "description": "Gate exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "kava1jm068whkhkxk48gx80ppm2m0nwy677pr2tn7lv",
+        "evm_address": "0x96dFa3Baf6BD8D6a9d063Bc21daB6F9b89af7823",
+        "tag" : "Gate",
+        "description": "Gate exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "kava1hpcfdtv84srdq7n9a7mhnnmd3jwuda97n3fcu4",
+        "evm_address": "0xB87096Ad87Ac06d07A65eFB779CF6d8C9dC6F4bE",
+        "tag" : "Gate",
+        "description": "Gate exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "kava19yhugy8qzps8rur4mnp6tnz8w6nh7qrqu7l49x",
+        "evm_address": "0x292Fc410E0106071F075Dcc3a5cC4776a77f0060",
+        "tag" : "Gate",
+        "description": "Gate exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "kava1xunyznpjmj9jv5e2zwngp2qrzmulr2ggyd4rl3",
+        "evm_address": "0x3726414c32DC8B26532a13a680A80316F9f1a908",
+        "tag" : "Gate",
+        "description": "Gate exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "kava1n5ukn9q2r5vrgt6su0e6cvm5lyxe2cn9af99p2",
+        "evm_address": "0x9d3969940a1d18342f50e3F3ac3374F90D956265",
+        "tag" : "Gate",
+        "description": "Gate exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
         "cosmos_address": "kava1v2s266sll8ca5xrs06swmsc00nwwt7u77eufk4",
         "evm_address": "0x62a0Ad6A1Ff9f1da18707eA0edC30f7cdCE5Fb9e",
         "tag" : "Exploiter",

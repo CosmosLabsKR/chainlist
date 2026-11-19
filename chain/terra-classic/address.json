@@ -160,5 +160,53 @@
         "tag" : "Community Pool Recipient",
         "description": "Hyperlane delivery payment address that received funds from the community pool by Prop 12232",
         "type": "WARNING"
+    },
+    {
+        "cosmos_address": "terra155svs6sgxe55rnvs6ghprtqu0mh69keh9h4dzr",
+        "tag" : "Gate",
+        "description": "Gate exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "terra1f62zqvvm6y2vlp6rhn94k9spsuqmh727twq8e4",
+        "tag" : "Gate",
+        "description": "Gate exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "terra1jm068whkhkxk48gx80ppm2m0nwy677prs6artt",
+        "tag" : "Gate",
+        "description": "Gate exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "terra1xunyznpjmj9jv5e2zwngp2qrzmulr2gg7um7tk",
+        "tag" : "Gate",
+        "description": "Gate exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "terra1n5ukn9q2r5vrgt6su0e6cvm5lyxe2cn98ctc4d",
+        "tag" : "Gate",
+        "description": "Gate exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "terra1j95fa7sdyudcw2rf96kyxdv42l90k0x8xtc8c3",
+        "tag" : "Bitget",
+        "description": "Bitget exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "terra1vq3dyzwxrhlwxkl9ld8yjxzpedcs75h7w3afr2",
+        "tag" : "Bitget",
+        "description": "Bitget exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "terra1zjq4jdvqtruvxgug64rn0p06kvp7r3qpxzrxdg",
+        "tag" : "LATOKEN",
+        "description": "LATOKEN exchange hot wallet",
+        "type": "WELL_KNOWN"
     }
 ]

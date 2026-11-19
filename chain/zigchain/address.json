@@ -94,5 +94,17 @@
         "tag" : "Community Pool Recipient",
         "description": "ZIG Retirement Wallet that received funds from the community pool to permanently retire ZIG from circulation by Prop 34, 44",
         "type": "WARNING"
+    },
+    {
+        "cosmos_address": "zig155svs6sgxe55rnvs6ghprtqu0mh69kehze2lzt",
+        "tag" : "Gate",
+        "description": "Gate exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "zig1xunyznpjmj9jv5e2zwngp2qrzmulr2ggejyvt7",
+        "tag" : "Gate",
+        "description": "Gate exchange",
+        "type": "WELL_KNOWN"
     }
 ]
