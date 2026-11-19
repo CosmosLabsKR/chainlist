@@ -10,8 +10,8 @@
     "origin_genesis_time" : "2026-03-15T00:00:00Z",
     "api_name" : "rubin",
     "is_support_mintscan": false,
-    "is_support_mobile_wallet" : false,
-    "is_support_extension_wallet" : false,
+    "is_support_mobile_wallet" : true,
+    "is_support_extension_wallet" : true,
     "is_support_moblie_dapp": true,
     "chain_type": [
         "cosmos"
@@ -37,12 +37,20 @@
         {
             "provider": "Rubin",
             "url": "grpc.mainnet.rubin.trade:443"
+        },
+        {
+            "provider": "Rubin (mirror)",
+            "url": "grpc.mainnet.ritbit.xyz:443"
         }
     ],
     "lcd_endpoint" : [
         {
             "provider": "Rubin",
             "url": "https://rest.mainnet.rubin.trade/"
+        },
+        {
+            "provider": "Rubin (mirror)",
+            "url": "https://rest.mainnet.ritbit.xyz/"
         }
     ],
     "explorer" : {
