@@ -8,5 +8,15 @@
         "decimals": 6,
         "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/lumera/asset/lume.png",
         "coinGeckoId": "lumera"
+    },
+    {
+        "type": "native",
+        "denom": "alume",
+        "name": "Lumera",
+        "symbol": "LUME",
+        "description": "Lumera Mainnet EVM Fee Coin",
+        "decimals": 18,
+        "image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/lumera/asset/lume.png",
+        "coinGeckoId": "lumera"
     }
 ]
