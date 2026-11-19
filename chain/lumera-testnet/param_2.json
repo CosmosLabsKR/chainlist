@@ -1,5 +1,6 @@
 {
     "chain_id_cosmos" : "lumera-testnet-2",
+    "chain_id_evm" : "0x494c1a9",
     "chain_name": "Lumera Testnet",
     "chain_image": "https://raw.githubusercontent.com/CosmosLabsKR/chainlist/master/chain/lumera-testnet/resource/chain_lumera-testnet.png",
     "staking_asset_denom" : "ulume",
@@ -12,13 +13,14 @@
     "is_support_mobile_wallet": true,
     "is_support_extension_wallet": true,
     "chain_type": [
-        "cosmos"
+        "cosmos",
+        "evm"
     ],
     "account_type" : [
         {
-            "hd_path": "m/44'/118'/0'/0/X",
-            "pubkey_style": "secp256k1",
-            "pubkey_type": "/cosmos.crypto.secp256k1.PubKey"
+            "hd_path": "m/44'/60'/0'/0/X",
+            "pubkey_style": "keccak256",
+            "pubkey_type": "/cosmos.evm.crypto.v1.ethsecp256k1.PubKey"
         }
     ],
     "cosmos_fee_info" : {
@@ -31,7 +33,17 @@
         "init_gas_limit" : 300000,
         "fee_threshold" : ""
     },
+    "evm_fee_info" : {
+        "is_eip1559" : true,
+        "simulated_gas_multiply" : 1.2
+    },
     "grpc_endpoint" : [
+    ],
+    "evm_rpc_endpoint" : [
+        {
+            "provider": "Lumera Protocol",
+            "url": "https://evm-rpc.testnet.lumera.io"
+        }
     ],
     "lcd_endpoint" : [
         {
