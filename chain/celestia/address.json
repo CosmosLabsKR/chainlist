@@ -136,5 +136,65 @@
         "tag" : "BloFin",
         "description": "BloFin exchange",
         "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "celestia1qm4zuta0hr5lnlkd7e5rk9vjyf75y3s97u9vpn",
+        "tag" : "CoinSwitch",
+        "description": "CoinSwitch exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "celestia1cn6jsd9wae3jv8tk85jsy5qfzse7h8e833ew3t",
+        "tag" : "CoinSwitch",
+        "description": "CoinSwitch exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "celestia16lmy8eg44ml607e4yxzaww0tw3r56hl8gpsf9f",
+        "tag" : "CoinSwitch",
+        "description": "CoinSwitch exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "celestia1vujdgzt7n2llut998vugs0gwtpyjzvym9mns2x",
+        "tag" : "CoinSwitch",
+        "description": "CoinSwitch exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "celestia1feg4zzuthgplu2kyxx6hq8dn48mmvz9855f5r5",
+        "tag" : "CoinSwitch",
+        "description": "CoinSwitch exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "celestia1xlf5fwzz8upgx22h6jag9zm4xqq7haxtjkwgcp",
+        "tag" : "CoinSwitch",
+        "description": "CoinSwitch exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "celestia15zmjcntld38r575xmeayyw2zdhl8ex7aue9ams",
+        "tag" : "CoinSwitch",
+        "description": "CoinSwitch exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "celestia1cquxjgce0mc2cryf7t48qset65708xsu8us89w",
+        "tag" : "CoinSwitch",
+        "description": "CoinSwitch exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "celestia1d7vqp2lepmt6xcarw47x694zkazvjcu7duxltw",
+        "tag" : "CoinSwitch",
+        "description": "CoinSwitch exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "celestia1r9s5kxn8hs887w0uwwpun43hlvvapmduz9my9s",
+        "tag" : "SwissBorg",
+        "description": "SwissBorg exchange staking address",
+        "type": "WELL_KNOWN"
     }
 ]

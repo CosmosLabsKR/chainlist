@@ -148,5 +148,17 @@
         "tag" : "Community Pool Recipient",
         "description": "Reigniting Gravity Bridge grant address that received funds from the community pool by Prop 249",
         "type": "WARNING"
+    },
+    {
+        "cosmos_address": "gravity1wy3cfsv4k5g0u8kxyfuyd9xm2r46l2djyu4nel",
+        "tag" : "Exploiter",
+        "description": "Attacker address of the Gravity Bridge exploit (May 2026), linked to the attacker orchestrator key",
+        "type": "DANGER"
+    },
+    {
+        "cosmos_address": "gravity1rdwckpx2p3mwu4k8xdz8vmd4x3mqx4v9kk6wdz",
+        "tag" : "Exploiter",
+        "description": "Attacker address of the Gravity Bridge exploit (May 2026), tied to the attacker-run validator",
+        "type": "DANGER"
     }
 ]

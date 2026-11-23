@@ -114,6 +114,12 @@
         "type": "WARNING"
     },
     {
+        "cosmos_address": "neutron1yr29fd7uzdjp2jsq8hrta8mvyd6ex7vumn0shy",
+        "tag" : "Neutron Exploit Recovery",
+        "description": "Recipient of funds clawed back from the Neutron governance exploit attacker (Sep 2026)",
+        "type": "WARNING"
+    },
+    {
         "cosmos_address": "neutron155svs6sgxe55rnvs6ghprtqu0mh69keh8vx06y",
         "tag" : "Gate",
         "description": "Gate exchange",
@@ -135,6 +141,30 @@
         "cosmos_address": "neutron1n5ukn9q2r5vrgt6su0e6cvm5lyxe2cn99rc6d2",
         "tag" : "Gate",
         "description": "Gate exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "neutron10xwzc88kefwtlup9c2tmw4mj4ng7u79g8lsapp0c9jc02xt247zqwzzghf",
+        "tag" : "Atom Accelerator DAO",
+        "description": "Atom Accelerator DAO (AADAO) Grants SubDAO on DAO DAO",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "neutron1t8esqdrptfxj9th28ysa9cnxlnnhmrsukl4vlsjp7207vs8adpfqhfu4s3",
+        "tag" : "Atom Accelerator DAO",
+        "description": "Atom Accelerator DAO (AADAO) Operations SubDAO on DAO DAO",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "neutron1y0ms6y2ja7j6fpcq382dyejgm99re5jzmnnrsrn5gn8h2ldukj7sak39ry",
+        "tag" : "Atom Accelerator DAO",
+        "description": "Atom Accelerator DAO (AADAO) Oversight SubDAO on DAO DAO",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "neutron1rxul9vzdct7ksvf0cvccf02ukg0phun6s2hfneg35hxm7ldmtu6s7pdav7",
+        "tag" : "Atom Accelerator DAO",
+        "description": "Atom Accelerator DAO (AADAO) Strategy SubDAO on DAO DAO",
         "type": "WELL_KNOWN"
     },
     {

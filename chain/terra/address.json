@@ -216,6 +216,30 @@
         "type": "WELL_KNOWN"
     },
     {
+        "cosmos_address": "terra1hnsch5v36w8h5el6x2hc6rcg459t3yfwnvc6gm",
+        "tag" : "Bitfinex",
+        "description": "Bitfinex exchange cold wallet",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "terra1mmlh4ard48whr86cg0uuxrgj2g3k0jhns56e6u",
+        "tag" : "CoinSwitch",
+        "description": "CoinSwitch exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "terra1k6m4qa0trepfdzh4pqtd2vqunq36qhkdscjv0f",
+        "tag" : "CoinSwitch",
+        "description": "CoinSwitch exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "terra1sfyxcjfzxenjcxvm4ehhndjwwl9vasfr07xlay",
+        "tag" : "CoinSwitch",
+        "description": "CoinSwitch exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
         "cosmos_address": "terra1wrve5z5vsmrgy6ldcveq93aldr6wk3qmxavs4j",
         "tag" : "Exploiter",
         "description": "Attacker address of the Terra IBC hooks exploit (Jul 2024)",

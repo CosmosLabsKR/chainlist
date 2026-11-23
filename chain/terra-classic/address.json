@@ -208,5 +208,23 @@
         "tag" : "LATOKEN",
         "description": "LATOKEN exchange hot wallet",
         "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "terra1hnsch5v36w8h5el6x2hc6rcg459t3yfwnvc6gm",
+        "tag" : "Bitfinex",
+        "description": "Bitfinex exchange cold wallet",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "terra1t0an4m6t47rp3mj57rdfzw6dpd3lw8erxjppgw",
+        "tag" : "Bitfinex",
+        "description": "Bitfinex exchange hot wallet",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "terra1tj0a70z6lpaumu5rakesaptzmewhcumpws2gjv",
+        "tag" : "Bitfinex",
+        "description": "Bitfinex exchange hot wallet",
+        "type": "WELL_KNOWN"
     }
 ]

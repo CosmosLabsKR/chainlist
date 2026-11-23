@@ -224,6 +224,62 @@
         "type": "WELL_KNOWN"
     },
     {
+        "cosmos_address": "kava1j54k02xavngndh0w36npz7ny8c8cy798n8kvhq",
+        "evm_address": "0x952B67A8dd64d136DDEe8ea6117a643e0f8278a7",
+        "tag" : "Binance",
+        "description": "Binance exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "kava1rsu5g9e6hm39v3ttzjvzn879qxk4h0t0lq2jsr",
+        "evm_address": "0x1c3944173abee256456B1498299FC501AD5bBd6f",
+        "tag" : "Bybit",
+        "description": "Bybit exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "kava173qp8xnzk2unj6vutvlqn7ywgpry4wdu2nkp6k",
+        "evm_address": "0xf440139a62b2B939699C5b3e09F88E40464Ab9bc",
+        "tag" : "Bybit",
+        "description": "Bybit exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "kava1lzwhh8yxfavfh06n4qss2yrky2e4a2jq96dzp8",
+        "evm_address": "0xf89d7b9c864f589bbF53a82105107622B35EaA40",
+        "tag" : "Bybit",
+        "description": "Bybit exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "kava1p5rs093e2te0hfva6phjksj6eeqtfyh79f2t7d",
+        "evm_address": "0x0D0707963952f2fBA59dD06f2b425ace40b492Fe",
+        "tag" : "Gate",
+        "description": "Gate exchange hot wallet",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "kava1rhvnrxs3t5mt6rm3cfmggnm8zut83ctmzhk76n",
+        "evm_address": "0x1dD9319a115D36bD0f71C276844f67171678E17b",
+        "tag" : "KuCoin",
+        "description": "KuCoin exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "kava16csklsvaka6al9m55m3n2fsnrknarx3vqffayy",
+        "evm_address": "0xD6216fC19DB775Df9774a6E33526131dA7D19a2c",
+        "tag" : "KuCoin",
+        "description": "KuCoin exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "kava1ld48xwlhajwwq37pc5ve7xzqzpfwkp3dcv73cs",
+        "evm_address": "0xfB6a733bf7eC9CE047c1c5199F18401052Eb062D",
+        "tag" : "KuCoin",
+        "description": "KuCoin exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
         "cosmos_address": "kava1v2s266sll8ca5xrs06swmsc00nwwt7u77eufk4",
         "evm_address": "0x62a0Ad6A1Ff9f1da18707eA0edC30f7cdCE5Fb9e",
         "tag" : "Exploiter",

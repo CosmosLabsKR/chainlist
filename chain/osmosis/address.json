@@ -458,7 +458,7 @@
     {
         "cosmos_address": "osmo1h9sy6z5hnk5wjf6ds8w4syq0yqs706n9m6qlap",
         "tag" : "SwissBorg",
-        "description": "SwissBorg exchange",
+        "description": "SwissBorg exchange staking address",
         "type": "WELL_KNOWN"
     },
     {
@@ -472,5 +472,41 @@
         "tag" : "Bitget",
         "description": "Bitget exchange",
         "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "osmo16zm8crvnpawjf3mnnrdasma2m5d6q0edtllrg3w5dul7dg2tp2vsy2ftxm",
+        "tag" : "Atom Accelerator DAO",
+        "description": "Atom Accelerator DAO (AADAO) Grants Committee sub-account linked to the Grants SubDAO on Neutron",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "osmo13w39u0fjv65zshm6xq54mme5nuyg552crf5adjygydelw5htx6pqyyx3ey",
+        "tag" : "Atom Accelerator DAO",
+        "description": "Atom Accelerator DAO (AADAO) Operations Committee sub-account linked to the Operations SubDAO on Neutron",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "osmo1d2cjl6k99yk4np5h97a4trxx5x2cnq9n6l2fmmu408agxltcpqaqp972k4",
+        "tag" : "Atom Accelerator DAO",
+        "description": "Atom Accelerator DAO (AADAO) Strategy Committee sub-account linked to the Strategy SubDAO on Neutron",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "osmo1m9athjzah02f2mnrgtcke7e5ya3zpvw8lccuss",
+        "tag" : "Exploiter",
+        "description": "Address that minted fake tokens on Osmosis in the Gravity Bridge exploit (May 2026)",
+        "type": "DANGER"
+    },
+    {
+        "cosmos_address": "osmo1wq76r2mhqsa9yaygghuwyq4wy6dcsgf8vtzltn",
+        "tag" : "Exploiter",
+        "description": "Attacker address of the Nomic bridge nBTC exploit (Jun 2026); its allBTC was frozen and seized by Osmosis governance",
+        "type": "DANGER"
+    },
+    {
+        "cosmos_address": "osmo1hzra9z4zn8q0w8f3dj2wnw0xgetu8dfdm2l9s5",
+        "tag" : "Exploiter",
+        "description": "Attacker-linked address that received funds forwarded from the Secret Network Axelar bridge exploit (Jun 2026)",
+        "type": "DANGER"
     }
 ]

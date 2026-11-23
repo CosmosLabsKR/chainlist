@@ -325,14 +325,21 @@
         "cosmos_address": "inj1xdalk5nsudad3vxnnf3t28w4qljfedlnu7pk5e",
         "evm_address": "0x337Bfb5270e37Ad8b0D39A62B51Dd507e49CB7f3",
         "tag" : "SwissBorg",
-        "description": "SwissBorg exchange",
+        "description": "SwissBorg exchange deposit address",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "inj105zqcfv3z9z79yhsfg8v6rql3huzhyfp0sana9",
         "evm_address": "0x7d040C25911145e292F04a0eCD0C1F8df82B9121",
         "tag" : "SwissBorg",
-        "description": "SwissBorg exchange",
+        "description": "SwissBorg exchange hot wallet",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "inj1wvhk7xhzf9kus9a4tpa6v8vhuqvm265rz7zd6n",
+        "evm_address": "0x732F6F1ae2496Dc817b5587BA61D97e019B56A83",
+        "tag" : "SwissBorg",
+        "description": "SwissBorg exchange staking address",
         "type": "WELL_KNOWN"
     },
     {
@@ -346,7 +353,7 @@
         "cosmos_address": "inj1uyc234cek2ja9ru7a870cmx2lcavt5um2nk6hh",
         "evm_address": "0xe130a8D719B2a5d28F9ee9FCFC6CCAfe3Ac5D39B",
         "tag" : "LATOKEN",
-        "description": "LATOKEN exchange",
+        "description": "LATOKEN exchange hot wallet",
         "type": "WELL_KNOWN"
     }
 ]

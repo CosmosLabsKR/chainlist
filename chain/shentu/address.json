@@ -70,5 +70,11 @@
         "tag" : "Community Pool Recipient",
         "description": "OpenBounty bounty payment address that received funds from the community pool by Prop 39",
         "type": "WARNING"
+    },
+    {
+        "cosmos_address": "shentu1azxdh422fnx4df78xsk3j4vsz2wl224wygn8am",
+        "tag" : "Bitfinex",
+        "description": "Bitfinex exchange hot wallet",
+        "type": "WELL_KNOWN"
     }
 ]

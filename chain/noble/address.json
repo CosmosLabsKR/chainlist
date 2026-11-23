@@ -82,5 +82,23 @@
         "tag" : "Web3Auth Keplr Recovery",
         "description": "Holds assets rescued from Keplr social login wallets after the Web3Auth key breach (Nov 2026)",
         "type": "WARNING"
+    },
+    {
+        "cosmos_address": "noble12rt0mgzsuqsnm2klsexdnry0zfkyvdmm9c9acy7949g5hrf6kgasql8zxy",
+        "tag" : "Atom Accelerator DAO",
+        "description": "Atom Accelerator DAO (AADAO) Grants Committee sub-account linked to the Grants SubDAO on Neutron",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "noble1e0yrkugktc4av38ms5esd5qrpsgg4jwztfp0nhktpt22g26jmaeq7y4222",
+        "tag" : "Atom Accelerator DAO",
+        "description": "Atom Accelerator DAO (AADAO) Operations Committee sub-account linked to the Operations SubDAO on Neutron",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "noble1wq76r2mhqsa9yaygghuwyq4wy6dcsgf8vny890",
+        "tag" : "Exploiter",
+        "description": "Attacker address of the Nomic bridge nBTC exploit (Jun 2026), used to move funds out via CCTP",
+        "type": "DANGER"
     }
 ]

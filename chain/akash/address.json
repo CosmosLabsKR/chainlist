@@ -424,5 +424,11 @@
         "tag" : "Gate",
         "description": "Gate exchange",
         "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "akash1mq8qwhaajdlnupp04rtyvwe9604l09ynk0lwee",
+        "tag" : "CoinSwitch",
+        "description": "CoinSwitch exchange",
+        "type": "WELL_KNOWN"
     }
 ]

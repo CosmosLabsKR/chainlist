@@ -1,0 +1,26 @@
+[
+    {
+        "cosmos_address": "init150mx83aq0jsuczew768maz2dv8krr8zufk6ye0",
+        "tag" : "Bitget",
+        "description": "Bitget exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "init1xunyznpjmj9jv5e2zwngp2qrzmulr2ggkwpdz5",
+        "tag" : "Gate",
+        "description": "Gate exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "init155svs6sgxe55rnvs6ghprtqu0mh69kehd907tp",
+        "tag" : "Gate",
+        "description": "Gate exchange",
+        "type": "WELL_KNOWN"
+    },
+    {
+        "cosmos_address": "init1mkfzepqashsjmtpdcth0tf0znnlldm06a5m89u",
+        "tag" : "Exploiter",
+        "description": "Attacker address of the Initia exploit (Oct 2026)",
+        "type": "DANGER"
+    }
+]
