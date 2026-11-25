@@ -45,7 +45,7 @@ Chain metadata used by Mintscan Explorer, managed by [Cosmos](https://github.com
 <details>
   <summary><h2 style='display: inline; font-size: 24px'>How to add your asset info</h2></summary>
 
-‼️ Please be noted that assets of Testnets and unverified networks may not be merged to master.
+‼️ Please be noted that assets of Testnets and unverified networks may not be merged to main.
 1. Fork this repo to your own github account
 2. Clone fork and create new branch
 
@@ -59,7 +59,7 @@ Chain metadata used by Mintscan Explorer, managed by [Cosmos](https://github.com
 3. Add the info of your asset in the chain `assets_2.json` file that your asset needs to be displayed
     >If there is no chain in the list, create a folder for the chain  
     Then add `assets_2.json` file to the folder, add asset info to that file  
-    Changes will be updated within 24 hours after merged to master
+    Changes will be updated within 24 hours after merged to main
 
 
    - ***Common info to fill***
@@ -276,7 +276,7 @@ Chain metadata used by Mintscan Explorer, managed by [Cosmos](https://github.com
 3. Add the info of your token in the chain `cw20_2.json` file that your token needs to be displayed  
    >If there is no chain in the list, create a folder for the chain  
    Then add `cw20_2.json` file to the folder, add token info to that file   
-   Changes will be updated within 24 hours after merged to master
+   Changes will be updated within 24 hours after merged to main
       - `type`
         - cw20 
       - `contract`
@@ -366,7 +366,7 @@ Chain metadata used by Mintscan Explorer, managed by [Cosmos](https://github.com
 3. Add the info of your token in the chain that your token needs to be displayed  
    >If there is no chain in the list, create a folder for the chain  
    Then add `erc20_2.json` file to the folder, add token info to that file   
-   Changes will be updated within 24 hours after merged to master
+   Changes will be updated within 24 hours after merged to main
    - `type`
      - erc20
    - `contract`
@@ -453,7 +453,7 @@ Chain metadata used by Mintscan Explorer, managed by [Cosmos](https://github.com
 
 3. Add the info of your asset in the chain `assets_2.json` file that your asset needs to be displayed
    >If there is no chain in the list, create a folder for the chain  
-   Changes will be updated within 24 hours after merged to master
+   Changes will be updated within 24 hours after merged to main
    - `type`
      - `ibc`
    - `denom`
@@ -631,12 +631,12 @@ curl --location '$EVM_URL' \
 <details>
   <summary><h2 style='display: inline; font-size: 24px'>How to add your address label info</h2></summary>
 
-<!-- Address labels are displayed on Mintscan to identify notable addresses on each chain (module accounts, exchanges, exploiters, etc.). -->
+Address labels are displayed on Mintscan to identify notable addresses on each chain (module accounts, exchanges, exploiters, etc.).
 
 To add address labels managed by chainlist,
 You must add an address label to `https://github.com/CosmosLabsKR/chainlist/blob/main/chain/{chain}/address.json`
 
-<!-- ‼️ All additions and changes are accepted via Pull Request only, and will be merged after review.
+‼️ All additions and changes are accepted via Pull Request only, and will be merged after review.
 
 1. Fork this repo to your own github account
 2. Clone fork and create new branch
@@ -650,7 +650,7 @@ You must add an address label to `https://github.com/CosmosLabsKR/chainlist/blob
 
 3. Add the address info to `chain/${chain}/address.json`
    >If the file does not exist, create `address.json` in the chain folder  
-   Changes will be updated within 24 hours after merged to master
+   Changes will be updated within 24 hours after merged to main
 
    - ***Address fields***
      - Fill in the address fields according to the `chain_type` in `chain/${chain}/param_2.json`
@@ -665,15 +665,16 @@ You must add an address label to `https://github.com/CosmosLabsKR/chainlist/blob
    - `description`
      - Detailed description of the address
      - Include the evidence and source (e.g. official announcement, news article, explorer link, on-chain tx hash)
+       - For `WARNING`, describe why the address needs caution (e.g. "received funds from the community pool via proposal #123"), even if its owner is unknown
 
    - `type`
 
      | type | Color | Usage | `tag` format | `tag` examples |
      |---|---|---|---|---|
-     | `DANGER` | 🔴 Red | Hacker, exploit, phishing, scam addresses | `{Incident/Project} {Type}` | Wormhole Exploiter, Phishing Scam, Fake Airdrop Scam |
-     | `WARNING` | 🟡 Yellow | Unverified addresses or addresses that need caution (e.g. received a large amount from the community pool) | `{Reason}` | Community Pool Recipient, Suspicious Activity, Unverified |
-     | `WELL_KNOWN` | 🟢 Green | Addresses with a verified identity (exchanges, foundations, etc.) | `{Organization} {Purpose}` | Binance Hot Wallet, Upbit Cold Wallet, Interchain Foundation |
-     | `SYSTEM` | 🔵 Blue | Chain module accounts | `{Module name}` | Bonded Tokens Pool, Not Bonded Tokens Pool, Distribution, Gov, Mint |
+     | `DANGER` | 🔴&nbsp;Red | Hacker, exploit, phishing, scam addresses | <code>{Incident/Project}&nbsp;{Type}</code> | Exploiter, Phishing Scam, Fake Airdrop Scam |
+     | `WARNING` | 🟡&nbsp;Yellow | Unverified addresses or addresses that need caution (e.g. received a large amount from the community pool) | `{Reason}` | Community Pool Recipient, Suspicious Activity, Unverified |
+     | `WELL_KNOWN` | 🟢&nbsp;Green | Addresses with a verified identity (exchanges, foundations, etc.) | <code>{Organization}&nbsp;{Purpose}</code> | Binance Exchange, Upbit Exchange, Interchain Foundation |
+     | `SYSTEM` | 🔵&nbsp;Blue | Chain module accounts | <code>{Module&nbsp;name}</code> | Bonded Tokens Pool, Not Bonded Tokens Pool, Distribution, Gov, Mint |
 
    ### Address label json example
    `chain/${chain}/address.json`
@@ -719,8 +720,10 @@ You must add an address label to `https://github.com/CosmosLabsKR/chainlist/blob
    - In the PR description, include:
      - Chain name and the address(es) added or changed
      - Reason for the label and the `type`
-     - Evidence / source links (required for `DANGER`, `WARNING` and `WELL_KNOWN`)
-   - PRs without a verifiable source may not be merged. -->
+     - Evidence / source links
+       - `DANGER`, `WELL_KNOWN`: source links are required (e.g. official announcement, news article, explorer link)
+       - `WARNING`: on-chain evidence for the concern is required (e.g. tx hash, governance proposal), even if the identity is unverified
+   - PRs without verifiable evidence may not be merged.
 
 </details>
 
