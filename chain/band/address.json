@@ -67,31 +67,31 @@
     },
     {
         "cosmos_address": "band15m7nzph3v9wvlehjl2gqmhp2avfut6ha3dx3y9",
-        "tag" : "Bitget",
+        "tag" : "Bitget Exchange",
         "description": "Bitget exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "band155svs6sgxe55rnvs6ghprtqu0mh69keh6u00ct",
-        "tag" : "Gate",
+        "tag" : "Gate Exchange",
         "description": "Gate exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "band1jm068whkhkxk48gx80ppm2m0nwy677pr038p3r",
-        "tag" : "Gate",
+        "tag" : "Gate Exchange",
         "description": "Gate exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "band1xunyznpjmj9jv5e2zwngp2qrzmulr2ggphpu37",
-        "tag" : "Gate",
+        "tag" : "Gate Exchange",
         "description": "Gate exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "band1n5ukn9q2r5vrgt6su0e6cvm5lyxe2cn9cn3609",
-        "tag" : "Gate",
+        "tag" : "Gate Exchange",
         "description": "Gate exchange",
         "type": "WELL_KNOWN"
     }

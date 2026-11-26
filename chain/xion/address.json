@@ -49,7 +49,7 @@
     },
     {
         "cosmos_address": "xion1gaym9l53jwp5na0kpv8h5r5kuxs0zpw22ugx6v",
-        "tag" : "Bitget",
+        "tag" : "Bitget Exchange",
         "description": "Bitget exchange",
         "type": "WELL_KNOWN"
     }

@@ -1,25 +1,25 @@
 [
     {
         "cosmos_address": "nibi155svs6sgxe55rnvs6ghprtqu0mh69keh5kt5fs",
-        "tag" : "Gate",
+        "tag" : "Gate Exchange",
         "description": "Gate exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "nibi1jm068whkhkxk48gx80ppm2m0nwy677prpmr6qc",
-        "tag" : "Gate",
+        "tag" : "Gate Exchange",
         "description": "Gate exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "nibi1xunyznpjmj9jv5e2zwngp2qrzmulr2gg0a98q9",
-        "tag" : "Gate",
+        "tag" : "Gate Exchange",
         "description": "Gate exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "nibi1n5ukn9q2r5vrgt6su0e6cvm5lyxe2cn9ke4p77",
-        "tag" : "Gate",
+        "tag" : "Gate Exchange",
         "description": "Gate exchange",
         "type": "WELL_KNOWN"
     }

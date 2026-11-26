@@ -73,7 +73,7 @@
     },
     {
         "cosmos_address": "shentu1azxdh422fnx4df78xsk3j4vsz2wl224wygn8am",
-        "tag" : "Bitfinex",
+        "tag" : "Bitfinex Exchange",
         "description": "Bitfinex exchange hot wallet",
         "type": "WELL_KNOWN"
     }

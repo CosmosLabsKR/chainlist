@@ -151,133 +151,133 @@
     },
     {
         "cosmos_address": "cosmos1h9ymfm2fxrqgd257dlw5nku3jgqjgpl59sm5ns",
-        "tag" : "Bitfinex",
+        "tag" : "Bitfinex Exchange",
         "description": "Bitfinex exchange hot wallet",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "cosmos1jtdkj8hxhj88jxv8lul9xvdpnwsl00evvvpnhj",
-        "tag" : "Bitfinex",
+        "tag" : "Bitfinex Exchange",
         "description": "Bitfinex exchange cold wallet",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "cosmos134amdum68rsfv4wpkanx253vw6zkmmfa3ssrxa",
-        "tag" : "Bitget",
+        "tag" : "Bitget Exchange",
         "description": "Bitget exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "cosmos1mtauzk3q40zt3weujcqwu009vw5t6m5fnv4xxr",
-        "tag" : "Bitrue",
+        "tag" : "Bitrue Exchange",
         "description": "Bitrue exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "cosmos1g2uxd7f04ev8ume2tt8lujmryjz3zw6lwg7z97",
-        "tag" : "BloFin",
+        "tag" : "BloFin Exchange",
         "description": "BloFin exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "cosmos1ruqrgv8wh4fqm24uyeuvmg8jwv737qv9vxl8q9",
-        "tag" : "CEX.IO",
+        "tag" : "CEX.IO Exchange",
         "description": "CEX.IO exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "cosmos12chvl78ffgvzc29mvrg5auz94vgksne5svsje4",
-        "tag" : "Coinsquare",
+        "tag" : "Coinsquare Exchange",
         "description": "Coinsquare exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "cosmos1gcsur9g2vxagmyr0u7pc9kcvtyd7zuyen3n5x7",
-        "tag" : "Flipster",
+        "tag" : "Flipster Exchange",
         "description": "Flipster exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "cosmos10v2gu0vvdeuv8pexnl98lmyva4cq8jkaa4845c",
-        "tag" : "Gate",
+        "tag" : "Gate Exchange",
         "description": "Gate Earn staking wallet",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "cosmos155svs6sgxe55rnvs6ghprtqu0mh69kehrn0dqr",
-        "tag" : "Gate",
+        "tag" : "Gate Exchange",
         "description": "Gate exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "cosmos18njk2lz5q7juryvzgyly2qxetuwqadxzt9vc92",
-        "tag" : "Gate",
+        "tag" : "Gate Exchange",
         "description": "Gate Earn staking wallet",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "cosmos19yhugy8qzps8rur4mnp6tnz8w6nh7qrqqttgnp",
-        "tag" : "Gate",
+        "tag" : "Gate Exchange",
         "description": "Gate exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "cosmos1hpcfdtv84srdq7n9a7mhnnmd3jwuda970ya92j",
-        "tag" : "Gate",
+        "tag" : "Gate Exchange",
         "description": "Gate exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "cosmos1jm068whkhkxk48gx80ppm2m0nwy677prk78rft",
-        "tag" : "Gate",
+        "tag" : "Gate Exchange",
         "description": "Gate exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "cosmos1n5ukn9q2r5vrgt6su0e6cvm5lyxe2cn9pu3chd",
-        "tag" : "Gate",
+        "tag" : "Gate Exchange",
         "description": "Gate exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "cosmos1xunyznpjmj9jv5e2zwngp2qrzmulr2ggccp7fk",
-        "tag" : "Gate",
+        "tag" : "Gate Exchange",
         "description": "Gate exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "cosmos1ny7sr4sehuhu3uyv53ln5qh4s6wd7dn5vq02kf",
-        "tag" : "Gate US",
+        "tag" : "Gate US Exchange",
         "description": "Gate US exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "cosmos1xm7q4xv75udvq6y62jmhhjwjchnsrjadsgmwvk",
-        "tag" : "Gate US",
+        "tag" : "Gate US Exchange",
         "description": "Gate US exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "cosmos10zzdw24k8ytenpx95rklhnqnr95qutvhdwj0ez",
-        "tag" : "LATOKEN",
+        "tag" : "LATOKEN Exchange",
         "description": "LATOKEN exchange hot wallet",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "cosmos10dfzd2wpnpeuy2lgan35ah8dg5p4l298v0n8e8",
-        "tag" : "SwissBorg",
+        "tag" : "SwissBorg Exchange",
         "description": "SwissBorg exchange staking address",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "cosmos197v98nkhnxr54x45hrcagnu2rr2ckyn7dz37t6",
-        "tag" : "SwissBorg",
+        "tag" : "SwissBorg Exchange",
         "description": "SwissBorg exchange deposit address",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "cosmos1trvqv850ft2p7ntewneevd690qde2uvt6dxvnp",
-        "tag" : "SwissBorg",
+        "tag" : "SwissBorg Exchange",
         "description": "SwissBorg exchange hot wallet",
         "type": "WELL_KNOWN"
     },
@@ -295,91 +295,91 @@
     },
     {
         "cosmos_address": "cosmos17kvae2jckzpkct78yealre3ms2gu28cdmtwsv7",
-        "tag" : "Bybit",
+        "tag" : "Bybit Exchange",
         "description": "Bybit exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "cosmos1f2jf7rjl7zuhymufvfe8776z20wmln2prjrqpf",
-        "tag" : "Bybit",
+        "tag" : "Bybit Exchange",
         "description": "Bybit exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "cosmos1pyarvcy2ehrw86rcvfun34gyu2dlunnthvkc83",
-        "tag" : "Bybit",
+        "tag" : "Bybit Exchange",
         "description": "Bybit exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "cosmos1qtgrfzx7tjkql6fr40t3h7npn44kyyhyx4cq05",
-        "tag" : "Bybit",
+        "tag" : "Bybit Exchange",
         "description": "Bybit exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "cosmos1rwc504n9l4ll5hpszdc59sk4uqj2j4hpjcn4dj",
-        "tag" : "Bybit",
+        "tag" : "Bybit Exchange",
         "description": "Bybit exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "cosmos1xf2crjfqjne20rmhvu8h5pypjuxem8qukg85ye",
-        "tag" : "Bybit",
+        "tag" : "Bybit Exchange",
         "description": "Bybit exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "cosmos1n8xr95j2cun75tq0r0rr9vsvqhehvgx0wujc86",
-        "tag" : "CoinSwitch",
+        "tag" : "CoinSwitch Exchange",
         "description": "CoinSwitch exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "cosmos1qm4zuta0hr5lnlkd7e5rk9vjyf75y3s90k5um7",
-        "tag" : "CoinSwitch",
+        "tag" : "CoinSwitch Exchange",
         "description": "CoinSwitch exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "cosmos17vmmtutms07xlauu37keag85kc309kg9afnyx6",
-        "tag" : "CoinSwitch",
+        "tag" : "CoinSwitch Exchange",
         "description": "CoinSwitch exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "cosmos1al3wpmzyy3m4g6lhlhnc3y9ruq6hycgmyklunu",
-        "tag" : "CoinSwitch",
+        "tag" : "CoinSwitch Exchange",
         "description": "CoinSwitch exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "cosmos15jlv4jfc0593mjm9n5dlkq76ed5k7dr88yr6ks",
-        "tag" : "CoinSwitch",
+        "tag" : "CoinSwitch Exchange",
         "description": "CoinSwitch exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "cosmos1pth8u472jf003zaxhdgy5j5mdlz2n5rf6sn5wc",
-        "tag" : "CoinSwitch",
+        "tag" : "CoinSwitch Exchange",
         "description": "CoinSwitch exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "cosmos1mdhn68w8fvkzagg3qjf8rckhfm22s0rsa2uscd",
-        "tag" : "CoinSwitch",
+        "tag" : "CoinSwitch Exchange",
         "description": "CoinSwitch exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "cosmos1cn6jsd9wae3jv8tk85jsy5qfzse7h8e8qmg7tx",
-        "tag" : "CoinSwitch",
+        "tag" : "CoinSwitch Exchange",
         "description": "CoinSwitch exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "cosmos16ajjq0pnz2vsz2eddad4uqng9qvdcvcguynch7",
-        "tag" : "CoinSwitch",
+        "tag" : "CoinSwitch Exchange",
         "description": "CoinSwitch exchange",
         "type": "WELL_KNOWN"
     },
@@ -397,91 +397,91 @@
     },
     {
         "cosmos_address": "cosmos12m4dshpc5qqvrafw46pu6rg4743aswljupx445",
-        "tag" : "Kraken",
+        "tag" : "Kraken Exchange",
         "description": "Kraken exchange deposit address",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "cosmos1u0463hyz0f5655km9cwua5r3q9h7ddn0a876e9",
-        "tag" : "NBX",
+        "tag" : "NBX Exchange",
         "description": "NBX exchange cold wallet",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "cosmos1tm74ywq039s0e7ys6v76cedxzw5frsaj260360",
-        "tag" : "NBX",
+        "tag" : "NBX Exchange",
         "description": "NBX exchange hot wallet",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "cosmos1dm68mx9jcsyqkyzp3up7gmnu3ku84v8gf6v75u",
-        "tag" : "Paribu",
+        "tag" : "Paribu Exchange",
         "description": "Paribu exchange deposit address",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "cosmos15v50ymp6n5dn73erkqtmq0u8adpl8d3ujv2e74",
-        "tag" : "Binance",
+        "tag" : "Binance Exchange",
         "description": "Binance exchange deposit address",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "cosmos1j8pp7zvcu9z8vd882m284j29fn2dszh05cqvf9",
-        "tag" : "Binance",
+        "tag" : "Binance Exchange",
         "description": "Binance exchange deposit address",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "cosmos1l0znsvddllw9knha3yx2svnlxny676d8ns7uys",
-        "tag" : "Binance",
+        "tag" : "Binance Exchange",
         "description": "Binance exchange hot wallet",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "cosmos1p3ucd3ptpw902fluyjzhq3ffgq4ntddac9sa3s",
-        "tag" : "Binance",
+        "tag" : "Binance Exchange",
         "description": "Binance exchange staking address",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "cosmos1yp8q44e4t4evksnczmzlw0ngxj4hwuv5rjw3a8",
-        "tag" : "Bithumb",
+        "tag" : "Bithumb Exchange",
         "description": "Bithumb exchange hot wallet",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "cosmos1spe44szj45alspv47p7zss595rdd0aup0k663u",
-        "tag" : "Bithumb",
+        "tag" : "Bithumb Exchange",
         "description": "Bithumb exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "cosmos13557nkpqpnnhxmdu3euj3gkta762jym6hljgn4",
-        "tag" : "Bithumb",
+        "tag" : "Bithumb Exchange",
         "description": "Bithumb exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "cosmos1z3a0wasepmcs64drt2gs62lfa0wkhj6rx0l5dt",
-        "tag" : "Bithumb",
+        "tag" : "Bithumb Exchange",
         "description": "Bithumb exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "cosmos1xlp4k2yz6zhhqxlp0hwdfqlpsz9k9gru3ezese",
-        "tag" : "BtcTurk",
+        "tag" : "BtcTurk Exchange",
         "description": "BtcTurk exchange deposit address",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "cosmos1rze80zh5egm2n595a9r3megs6wvsflatn9dl4k",
-        "tag" : "Bybit",
+        "tag" : "Bybit Exchange",
         "description": "Bybit exchange deposit address",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "cosmos1t5u0jfg3ljsjrh2m9e47d4ny2hea7eehxrzdgd",
-        "tag" : "Coinbase",
+        "tag" : "Coinbase Exchange",
         "description": "Coinbase exchange",
         "type": "WELL_KNOWN"
     },
@@ -511,7 +511,7 @@
     },
     {
         "cosmos_address": "cosmos1nynns8ex9fq6sjjfj8k79ymkdz4sqth06xexae",
-        "tag" : "HTX",
+        "tag" : "HTX Exchange",
         "description": "HTX exchange",
         "type": "WELL_KNOWN"
     },
@@ -535,109 +535,109 @@
     },
     {
         "cosmos_address": "cosmos1hgp84me0lze8t4jfrwsr05aep2kr57zrk4gecx",
-        "tag" : "Kraken",
+        "tag" : "Kraken Exchange",
         "description": "Kraken exchange deposit address",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "cosmos1vl8xm7x04cedgh639hc9ucvf6zc754fyfewhef",
-        "tag" : "KuCoin",
+        "tag" : "KuCoin Exchange",
         "description": "KuCoin exchange deposit address",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "cosmos144sh8vyv5nqfylmg4mlydnpe3l4w780jsrmf4k",
-        "tag" : "MEXC",
+        "tag" : "MEXC Exchange",
         "description": "MEXC exchange deposit address",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "cosmos144fzpepuvdftv4u4r9kq8t35ap2crruv4u3udz",
-        "tag" : "OKX",
+        "tag" : "OKX Exchange",
         "description": "OKX exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "cosmos1hjyde2kfgtl78twvhs53u5j2gcsxrt649nn8j5",
-        "tag" : "Upbit",
+        "tag" : "Upbit Exchange",
         "description": "Upbit exchange deposit address",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "cosmos1347r7znpxr9uxsd8t66wjurgfgn93u3vxr348v",
-        "tag" : "Upbit",
+        "tag" : "Upbit Exchange",
         "description": "Upbit exchange hot wallet",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "cosmos1pnfunk0cl7lpwyrxw7m57kt74zd6g2qh4udppy",
-        "tag" : "Upbit",
+        "tag" : "Upbit Exchange",
         "description": "Upbit exchange staking address",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "cosmos176nve774xk0wvtw6atn4vtg9w2nejcscqzd0fm",
-        "tag" : "Upbit",
+        "tag" : "Upbit Exchange",
         "description": "Upbit exchange staking address",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "cosmos1ut6vfjcltr5fmlthr86vpmcxnus9keavxmstlr",
-        "tag" : "Upbit",
+        "tag" : "Upbit Exchange",
         "description": "Upbit exchange staking address",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "cosmos1helwgzrpwqvjsgv5nrflwdc68n5dtcffwgnegu",
-        "tag" : "Upbit",
+        "tag" : "Upbit Exchange",
         "description": "Upbit exchange staking address",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "cosmos1rh65gtzdeavc45t7ylmurvhyd0hcht9hkdg7fz",
-        "tag" : "Upbit",
+        "tag" : "Upbit Exchange",
         "description": "Upbit exchange staking address",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "cosmos1peha5yfjnt2ua8x7th85say0pmm9t5mj35angp",
-        "tag" : "Upbit",
+        "tag" : "Upbit Exchange",
         "description": "Upbit exchange staking address",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "cosmos102pcnjqspyrfplhdccrz8usg5qhxjxv5a0q9dx",
-        "tag" : "Upbit",
+        "tag" : "Upbit Exchange",
         "description": "Upbit exchange staking address",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "cosmos1024dxg29cnwq6ljvwgt284xkk5xgmep79rtw5g",
-        "tag" : "Upbit",
+        "tag" : "Upbit Exchange",
         "description": "Upbit exchange staking address",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "cosmos1kglms05v6jlazkdeel46h0famvpredkluu7c4w",
-        "tag" : "Upbit",
+        "tag" : "Upbit Exchange",
         "description": "Upbit exchange staking address",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "cosmos1ty4z8vumqk7uxd43e22l974ekqj4lta0vf0qtx",
-        "tag" : "Upbit",
+        "tag" : "Upbit Exchange",
         "description": "Upbit exchange staking address",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "cosmos1crje20aj4gxdtyct7z3knxqry2jqt2fuaey6u5",
-        "tag" : "Upbit",
+        "tag" : "Upbit Exchange",
         "description": "Upbit exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "cosmos1spm39dtap4454tutu7xctwgwqd3udstnaptrzw",
-        "tag" : "WhiteBIT",
+        "tag" : "WhiteBIT Exchange",
         "description": "WhiteBIT exchange deposit address",
         "type": "WELL_KNOWN"
     },

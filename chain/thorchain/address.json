@@ -1,49 +1,49 @@
 [
     {
         "cosmos_address": "thor1acj55m7ycy59nvh9lyglq36kem7e9kvwut0fpz",
-        "tag" : "BloFin",
+        "tag" : "BloFin Exchange",
         "description": "BloFin exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "thor1ny7sr4sehuhu3uyv53ln5qh4s6wd7dn528k3rk",
-        "tag" : "Gate US",
+        "tag" : "Gate US Exchange",
         "description": "Gate US exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "thor1xm7q4xv75udvq6y62jmhhjwjchnsrjadk0z4ef",
-        "tag" : "Gate US",
+        "tag" : "Gate US Exchange",
         "description": "Gate US exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "thor1ye3jyw5nfnjrch4wk7zxuuxvx3wjuv9nsyumpr",
-        "tag" : "Bitget",
+        "tag" : "Bitget Exchange",
         "description": "Bitget exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "thor155svs6sgxe55rnvs6ghprtqu0mh69keh95kk4u",
-        "tag" : "Gate",
+        "tag" : "Gate Exchange",
         "description": "Gate exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "thor1jm068whkhkxk48gx80ppm2m0nwy677prse7cu5",
-        "tag" : "Gate",
+        "tag" : "Gate Exchange",
         "description": "Gate exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "thor1xunyznpjmj9jv5e2zwngp2qrzmulr2gg7lc9uf",
-        "tag" : "Gate",
+        "tag" : "Gate Exchange",
         "description": "Gate exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "thor1n5ukn9q2r5vrgt6su0e6cvm5lyxe2cn98mgrzj",
-        "tag" : "Gate",
+        "tag" : "Gate Exchange",
         "description": "Gate exchange",
         "type": "WELL_KNOWN"
     }

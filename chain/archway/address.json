@@ -79,25 +79,25 @@
     },
     {
         "cosmos_address": "archway155svs6sgxe55rnvs6ghprtqu0mh69kehkcnf25",
-        "tag" : "Gate",
+        "tag" : "Gate Exchange",
         "description": "Gate exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "archway1jm068whkhkxk48gx80ppm2m0nwy677prr4m8ru",
-        "tag" : "Gate",
+        "tag" : "Gate Exchange",
         "description": "Gate exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "archway1xunyznpjmj9jv5e2zwngp2qrzmulr2ggdna6rp",
-        "tag" : "Gate",
+        "tag" : "Gate Exchange",
         "description": "Gate exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "archway1n5ukn9q2r5vrgt6su0e6cvm5lyxe2cn95hdua6",
-        "tag" : "Gate",
+        "tag" : "Gate Exchange",
         "description": "Gate exchange",
         "type": "WELL_KNOWN"
     }

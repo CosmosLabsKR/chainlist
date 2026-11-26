@@ -226,133 +226,133 @@
     {
         "cosmos_address": "inj155svs6sgxe55rnvs6ghprtqu0mh69kehf6cfjm",
         "evm_address": "0xa520c86a08366941cd90d22e11ac1C7EEFa2Db37",
-        "tag" : "Gate",
+        "tag" : "Gate Exchange",
         "description": "Gate exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "inj1s52g6m4h96lxyug2hejrqs6ffu26cuf5ym5mgq",
         "evm_address": "0x85148d6eB72EBe62710aBE643043494F15ac7134",
-        "tag" : "Gate",
+        "tag" : "Gate Exchange",
         "description": "Gate exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "inj1jm068whkhkxk48gx80ppm2m0nwy677pruhs8mn",
         "evm_address": "0x96dFa3Baf6BD8D6a9d063Bc21daB6F9b89af7823",
-        "tag" : "Gate",
+        "tag" : "Gate Exchange",
         "description": "Gate exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "inj1xunyznpjmj9jv5e2zwngp2qrzmulr2ggj3k6mw",
         "evm_address": "0x3726414c32DC8B26532a13a680A80316F9f1a908",
-        "tag" : "Gate",
+        "tag" : "Gate Exchange",
         "description": "Gate exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "inj1n5ukn9q2r5vrgt6su0e6cvm5lyxe2cn9t4xu94",
         "evm_address": "0x9d3969940a1d18342f50e3F3ac3374F90D956265",
-        "tag" : "Gate",
+        "tag" : "Gate Exchange",
         "description": "Gate exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "inj10v2gu0vvdeuv8pexnl98lmyva4cq8jkahus3xq",
         "evm_address": "0x7b148e3D8C6e78C387269fCa7FEc8CEd7003cADd",
-        "tag" : "Gate",
+        "tag" : "Gate Exchange",
         "description": "Gate Earn staking wallet",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "inj18njk2lz5q7juryvzgyly2qxetuwqadxzpvmuhj",
         "evm_address": "0x3Ce5657C5407a5C19182413E4500D95f1c0Eb4C2",
-        "tag" : "Gate",
+        "tag" : "Gate Exchange",
         "description": "Gate Earn staking wallet",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "inj1xm7q4xv75udvq6y62jmhhjwjchnsrjad6pv27w",
         "evm_address": "0x36fc0a999Ea71Ac0689A54b77bC9d2c5E701cBad",
-        "tag" : "Gate US",
+        "tag" : "Gate US Exchange",
         "description": "Gate US exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "inj1ny7sr4sehuhu3uyv53ln5qh4s6wd7dn5xfcwy3",
         "evm_address": "0x993d01d619Bf2fc8f08CA47f3a02F5869cDF3674",
-        "tag" : "Gate US",
+        "tag" : "Gate US Exchange",
         "description": "Gate US exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "inj13j9lw3qs47jh9845wr3w4fl44mvcepmyjqq4aa",
         "evm_address": "0x8C8BF74410AFA5729eB470e2EAA7F5aed98c8764",
-        "tag" : "OSL",
+        "tag" : "OSL Exchange",
         "description": "OSL exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "inj1accjy08x47jhng07vy24v5ugh6axak286rpkfd",
         "evm_address": "0xeE31223Ce6AfA579a1fE6115565388bEba6ED947",
-        "tag" : "OSL",
+        "tag" : "OSL Exchange",
         "description": "OSL exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "inj1qfpajnc0ngtkng4uztxusrwzt0k5xg0ag0s6sf",
         "evm_address": "0x0243d94F0F9A1769a2bc12cdc80dC25bed4321FD",
-        "tag" : "OSL",
+        "tag" : "OSL Exchange",
         "description": "OSL exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "inj1jm7qwm6ykhesgh3wz65gtncyj2sl0j9ln842sq",
         "evm_address": "0x96fC076f44b5F3045e2e16a885cF0492A1f7c8Bf",
-        "tag" : "OSL",
+        "tag" : "OSL Exchange",
         "description": "OSL exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "inj1xl77fmp2fgvrmh5vmet52tfdumg5tqw05vlexp",
         "evm_address": "0x37FDe4ec2a4a183ddE8cDe57452D2De6D14581Cf",
-        "tag" : "OSL",
+        "tag" : "OSL Exchange",
         "description": "OSL exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "inj1xdalk5nsudad3vxnnf3t28w4qljfedlnu7pk5e",
         "evm_address": "0x337Bfb5270e37Ad8b0D39A62B51Dd507e49CB7f3",
-        "tag" : "SwissBorg",
+        "tag" : "SwissBorg Exchange",
         "description": "SwissBorg exchange deposit address",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "inj105zqcfv3z9z79yhsfg8v6rql3huzhyfp0sana9",
         "evm_address": "0x7d040C25911145e292F04a0eCD0C1F8df82B9121",
-        "tag" : "SwissBorg",
+        "tag" : "SwissBorg Exchange",
         "description": "SwissBorg exchange hot wallet",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "inj1wvhk7xhzf9kus9a4tpa6v8vhuqvm265rz7zd6n",
         "evm_address": "0x732F6F1ae2496Dc817b5587BA61D97e019B56A83",
-        "tag" : "SwissBorg",
+        "tag" : "SwissBorg Exchange",
         "description": "SwissBorg exchange staking address",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "inj18seg7en3tdhy4ugvfv3s93srapdlkkpv6z56r4",
         "evm_address": "0x3C328f66715B6e4Af10c4B2302c603E85Bfb582c",
-        "tag" : "Bitget",
+        "tag" : "Bitget Exchange",
         "description": "Bitget exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "inj1uyc234cek2ja9ru7a870cmx2lcavt5um2nk6hh",
         "evm_address": "0xe130a8D719B2a5d28F9ee9FCFC6CCAfe3Ac5D39B",
-        "tag" : "LATOKEN",
+        "tag" : "LATOKEN Exchange",
         "description": "LATOKEN exchange hot wallet",
         "type": "WELL_KNOWN"
     }

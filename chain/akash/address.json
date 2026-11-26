@@ -397,37 +397,37 @@
     },
     {
         "cosmos_address": "akash1ny7sr4sehuhu3uyv53ln5qh4s6wd7dn5pmzd0n",
-        "tag" : "Gate US",
+        "tag" : "Gate US Exchange",
         "description": "Gate US exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "akash1xm7q4xv75udvq6y62jmhhjwjchnsrjadankf4v",
-        "tag" : "Gate US",
+        "tag" : "Gate US Exchange",
         "description": "Gate US exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "akash1xunyznpjmj9jv5e2zwngp2qrzmulr2gg4rvesv",
-        "tag" : "Gate",
+        "tag" : "Gate Exchange",
         "description": "Gate exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "akash155svs6sgxe55rnvs6ghprtqu0mh69kehwgz2ee",
-        "tag" : "Gate",
+        "tag" : "Gate Exchange",
         "description": "Gate exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "akash1jm068whkhkxk48gx80ppm2m0nwy677prm92ys3",
-        "tag" : "Gate",
+        "tag" : "Gate Exchange",
         "description": "Gate exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "akash1mq8qwhaajdlnupp04rtyvwe9604l09ynk0lwee",
-        "tag" : "CoinSwitch",
+        "tag" : "CoinSwitch Exchange",
         "description": "CoinSwitch exchange",
         "type": "WELL_KNOWN"
     }

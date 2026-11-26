@@ -97,13 +97,13 @@
     },
     {
         "cosmos_address": "zig155svs6sgxe55rnvs6ghprtqu0mh69kehze2lzt",
-        "tag" : "Gate",
+        "tag" : "Gate Exchange",
         "description": "Gate exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "zig1xunyznpjmj9jv5e2zwngp2qrzmulr2ggejyvt7",
-        "tag" : "Gate",
+        "tag" : "Gate Exchange",
         "description": "Gate exchange",
         "type": "WELL_KNOWN"
     }

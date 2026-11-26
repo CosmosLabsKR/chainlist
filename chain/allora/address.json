@@ -73,19 +73,19 @@
     },
     {
         "cosmos_address": "allo1m2dqn8adrjw9pennccf8v3ttw0ulytzhpuk7ax",
-        "tag" : "Bitget",
+        "tag" : "Bitget Exchange",
         "description": "Bitget exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "allo155svs6sgxe55rnvs6ghprtqu0mh69kehdq4wh6",
-        "tag" : "Gate",
+        "tag" : "Gate Exchange",
         "description": "Gate exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "allo1xunyznpjmj9jv5e2zwngp2qrzmulr2ggktma70",
-        "tag" : "Gate",
+        "tag" : "Gate Exchange",
         "description": "Gate exchange",
         "type": "WELL_KNOWN"
     }

@@ -170,28 +170,28 @@
     {
         "cosmos_address": "canto1p5rs093e2te0hfva6phjksj6eeqtfyh7t2lxuz",
         "evm_address": "0x0D0707963952f2fBA59dD06f2b425ace40b492Fe",
-        "tag" : "Gate",
+        "tag" : "Gate Exchange",
         "description": "Gate exchange hot wallet",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "canto1ezptzyd8tsxx2l79qlqyl07d9nycfur32e392f",
         "evm_address": "0xC882b111A75C0c657fC507C04FbFcD2cC984F071",
-        "tag" : "Gate",
+        "tag" : "Gate Exchange",
         "description": "Gate exchange hot wallet",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "canto1r39hpgukssmtng9feafqt3u8awqmk4vvwmus9l",
         "evm_address": "0x1C4b70a3968436B9A0a9cf5205c787eb81Bb558c",
-        "tag" : "Gate",
+        "tag" : "Gate Exchange",
         "description": "Gate exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "canto1ll4s7cv8rtxmfqudl3k4pqhsv0nn3epp7ltaw9",
         "evm_address": "0xFFEB0f61871acDB4838dFc6d5082f063E738E421",
-        "tag" : "Gate",
+        "tag" : "Gate Exchange",
         "description": "Gate exchange",
         "type": "WELL_KNOWN"
     }

@@ -73,127 +73,127 @@
     },
     {
         "cosmos_address": "celestia155svs6sgxe55rnvs6ghprtqu0mh69kehje7a6w",
-        "tag" : "Gate",
+        "tag" : "Gate Exchange",
         "description": "Gate exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "celestia1jm068whkhkxk48gx80ppm2m0nwy677pr85knnx",
-        "tag" : "Gate",
+        "tag" : "Gate Exchange",
         "description": "Gate exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "celestia1xunyznpjmj9jv5e2zwngp2qrzmulr2ggfjswnm",
-        "tag" : "Gate",
+        "tag" : "Gate Exchange",
         "description": "Gate exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "celestia1n5ukn9q2r5vrgt6su0e6cvm5lyxe2cn9skqgdq",
-        "tag" : "Gate",
+        "tag" : "Gate Exchange",
         "description": "Gate exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "celestia10v2gu0vvdeuv8pexnl98lmyva4cq8jkavlk9w4",
-        "tag" : "Gate",
+        "tag" : "Gate Exchange",
         "description": "Gate Earn staking wallet",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "celestia1ny7sr4sehuhu3uyv53ln5qh4s6wd7dn5a276vy",
-        "tag" : "Gate US",
+        "tag" : "Gate US Exchange",
         "description": "Gate US exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "celestia1xm7q4xv75udvq6y62jmhhjwjchnsrjadpz27km",
-        "tag" : "Gate US",
+        "tag" : "Gate US Exchange",
         "description": "Gate US exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "celestia197v98nkhnxr54x45hrcagnu2rr2ckyn7ugqw3h",
-        "tag" : "SwissBorg",
+        "tag" : "SwissBorg Exchange",
         "description": "SwissBorg exchange deposit address",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "celestia1trvqv850ft2p7ntewneevd690qde2uvtt8hufv",
-        "tag" : "SwissBorg",
+        "tag" : "SwissBorg Exchange",
         "description": "SwissBorg exchange hot wallet",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "celestia1jm9gwpdk0v69kva9hepgnprfjl3u2z4duh9ver",
-        "tag" : "Bitget",
+        "tag" : "Bitget Exchange",
         "description": "Bitget exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "celestia1g2uxd7f04ev8ume2tt8lujmryjz3zw6llz0jln",
-        "tag" : "BloFin",
+        "tag" : "BloFin Exchange",
         "description": "BloFin exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "celestia1qm4zuta0hr5lnlkd7e5rk9vjyf75y3s97u9vpn",
-        "tag" : "CoinSwitch",
+        "tag" : "CoinSwitch Exchange",
         "description": "CoinSwitch exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "celestia1cn6jsd9wae3jv8tk85jsy5qfzse7h8e833ew3t",
-        "tag" : "CoinSwitch",
+        "tag" : "CoinSwitch Exchange",
         "description": "CoinSwitch exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "celestia16lmy8eg44ml607e4yxzaww0tw3r56hl8gpsf9f",
-        "tag" : "CoinSwitch",
+        "tag" : "CoinSwitch Exchange",
         "description": "CoinSwitch exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "celestia1vujdgzt7n2llut998vugs0gwtpyjzvym9mns2x",
-        "tag" : "CoinSwitch",
+        "tag" : "CoinSwitch Exchange",
         "description": "CoinSwitch exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "celestia1feg4zzuthgplu2kyxx6hq8dn48mmvz9855f5r5",
-        "tag" : "CoinSwitch",
+        "tag" : "CoinSwitch Exchange",
         "description": "CoinSwitch exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "celestia1xlf5fwzz8upgx22h6jag9zm4xqq7haxtjkwgcp",
-        "tag" : "CoinSwitch",
+        "tag" : "CoinSwitch Exchange",
         "description": "CoinSwitch exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "celestia15zmjcntld38r575xmeayyw2zdhl8ex7aue9ams",
-        "tag" : "CoinSwitch",
+        "tag" : "CoinSwitch Exchange",
         "description": "CoinSwitch exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "celestia1cquxjgce0mc2cryf7t48qset65708xsu8us89w",
-        "tag" : "CoinSwitch",
+        "tag" : "CoinSwitch Exchange",
         "description": "CoinSwitch exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "celestia1d7vqp2lepmt6xcarw47x694zkazvjcu7duxltw",
-        "tag" : "CoinSwitch",
+        "tag" : "CoinSwitch Exchange",
         "description": "CoinSwitch exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "celestia1r9s5kxn8hs887w0uwwpun43hlvvapmduz9my9s",
-        "tag" : "SwissBorg",
+        "tag" : "SwissBorg Exchange",
         "description": "SwissBorg exchange staking address",
         "type": "WELL_KNOWN"
     }

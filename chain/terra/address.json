@@ -211,31 +211,31 @@
     },
     {
         "cosmos_address": "terra13x5jkljx69vyak47k9e9u9qetu0sckxpfysrp7",
-        "tag" : "LATOKEN",
+        "tag" : "LATOKEN Exchange",
         "description": "LATOKEN exchange hot wallet",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "terra1hnsch5v36w8h5el6x2hc6rcg459t3yfwnvc6gm",
-        "tag" : "Bitfinex",
+        "tag" : "Bitfinex Exchange",
         "description": "Bitfinex exchange cold wallet",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "terra1mmlh4ard48whr86cg0uuxrgj2g3k0jhns56e6u",
-        "tag" : "CoinSwitch",
+        "tag" : "CoinSwitch Exchange",
         "description": "CoinSwitch exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "terra1k6m4qa0trepfdzh4pqtd2vqunq36qhkdscjv0f",
-        "tag" : "CoinSwitch",
+        "tag" : "CoinSwitch Exchange",
         "description": "CoinSwitch exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "terra1sfyxcjfzxenjcxvm4ehhndjwwl9vasfr07xlay",
-        "tag" : "CoinSwitch",
+        "tag" : "CoinSwitch Exchange",
         "description": "CoinSwitch exchange",
         "type": "WELL_KNOWN"
     },

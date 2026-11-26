@@ -67,25 +67,25 @@
     },
     {
         "cosmos_address": "aura155svs6sgxe55rnvs6ghprtqu0mh69kehc9c0z6",
-        "tag" : "Gate",
+        "tag" : "Gate Exchange",
         "description": "Gate exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "aura1jm068whkhkxk48gx80ppm2m0nwy677prdgsptj",
-        "tag" : "Gate",
+        "tag" : "Gate Exchange",
         "description": "Gate exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "aura1xunyznpjmj9jv5e2zwngp2qrzmulr2ggrwkut0",
-        "tag" : "Gate",
+        "tag" : "Gate Exchange",
         "description": "Gate exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "aura1n5ukn9q2r5vrgt6su0e6cvm5lyxe2cn962x645",
-        "tag" : "Gate",
+        "tag" : "Gate Exchange",
         "description": "Gate exchange",
         "type": "WELL_KNOWN"
     }

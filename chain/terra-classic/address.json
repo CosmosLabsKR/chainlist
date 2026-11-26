@@ -163,67 +163,67 @@
     },
     {
         "cosmos_address": "terra155svs6sgxe55rnvs6ghprtqu0mh69keh9h4dzr",
-        "tag" : "Gate",
+        "tag" : "Gate Exchange",
         "description": "Gate exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "terra1f62zqvvm6y2vlp6rhn94k9spsuqmh727twq8e4",
-        "tag" : "Gate",
+        "tag" : "Gate Exchange",
         "description": "Gate exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "terra1jm068whkhkxk48gx80ppm2m0nwy677prs6artt",
-        "tag" : "Gate",
+        "tag" : "Gate Exchange",
         "description": "Gate exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "terra1xunyznpjmj9jv5e2zwngp2qrzmulr2gg7um7tk",
-        "tag" : "Gate",
+        "tag" : "Gate Exchange",
         "description": "Gate exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "terra1n5ukn9q2r5vrgt6su0e6cvm5lyxe2cn98ctc4d",
-        "tag" : "Gate",
+        "tag" : "Gate Exchange",
         "description": "Gate exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "terra1j95fa7sdyudcw2rf96kyxdv42l90k0x8xtc8c3",
-        "tag" : "Bitget",
+        "tag" : "Bitget Exchange",
         "description": "Bitget exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "terra1vq3dyzwxrhlwxkl9ld8yjxzpedcs75h7w3afr2",
-        "tag" : "Bitget",
+        "tag" : "Bitget Exchange",
         "description": "Bitget exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "terra1zjq4jdvqtruvxgug64rn0p06kvp7r3qpxzrxdg",
-        "tag" : "LATOKEN",
+        "tag" : "LATOKEN Exchange",
         "description": "LATOKEN exchange hot wallet",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "terra1hnsch5v36w8h5el6x2hc6rcg459t3yfwnvc6gm",
-        "tag" : "Bitfinex",
+        "tag" : "Bitfinex Exchange",
         "description": "Bitfinex exchange cold wallet",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "terra1t0an4m6t47rp3mj57rdfzw6dpd3lw8erxjppgw",
-        "tag" : "Bitfinex",
+        "tag" : "Bitfinex Exchange",
         "description": "Bitfinex exchange hot wallet",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "terra1tj0a70z6lpaumu5rakesaptzmewhcumpws2gjv",
-        "tag" : "Bitfinex",
+        "tag" : "Bitfinex Exchange",
         "description": "Bitfinex exchange hot wallet",
         "type": "WELL_KNOWN"
     }

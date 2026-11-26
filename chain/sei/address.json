@@ -79,119 +79,119 @@
     {
         "cosmos_address": "sei1xm7q4xv75udvq6y62jmhhjwjchnsrjaday2c2h",
         "evm_address": "0x36fc0a999Ea71Ac0689A54b77bC9d2c5E701cBad",
-        "tag" : "Gate US",
+        "tag" : "Gate US Exchange",
         "description": "Gate US exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "sei1xunyznpjmj9jv5e2zwngp2qrzmulr2gg45sg0h",
         "evm_address": "0x3726414c32DC8B26532a13a680A80316F9f1a908",
-        "tag" : "Gate",
+        "tag" : "Gate Exchange",
         "description": "Gate exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "sei155svs6sgxe55rnvs6ghprtqu0mh69kehwl7mxz",
         "evm_address": "0xa520c86a08366941cd90d22e11ac1C7EEFa2Db37",
-        "tag" : "Gate",
+        "tag" : "Gate Exchange",
         "description": "Gate exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "sei1jm068whkhkxk48gx80ppm2m0nwy677prmjk402",
         "evm_address": "0x96dFa3Baf6BD8D6a9d063Bc21daB6F9b89af7823",
-        "tag" : "Gate",
+        "tag" : "Gate Exchange",
         "description": "Gate exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "sei1n5ukn9q2r5vrgt6su0e6cvm5lyxe2cn9vsqw3v",
         "evm_address": "0x9d3969940a1d18342f50e3F3ac3374F90D956265",
-        "tag" : "Gate",
+        "tag" : "Gate Exchange",
         "description": "Gate exchange",
         "type": "WELL_KNOWN"
     },
     {
         "evm_address": "0xf055616bFC551a314F24ab6C09e8e1582B49cb44",
-        "tag" : "Binance",
+        "tag" : "Binance Exchange",
         "description": "Binance exchange",
         "type": "WELL_KNOWN"
     },
     {
         "evm_address": "0x7Ff8bbf9C8AB106db589e7863fb100525F61CCe5",
-        "tag" : "BloFin",
+        "tag" : "BloFin Exchange",
         "description": "BloFin exchange",
         "type": "WELL_KNOWN"
     },
     {
         "evm_address": "0xf440139a62b2B939699C5b3e09F88E40464Ab9bc",
-        "tag" : "Bybit",
+        "tag" : "Bybit Exchange",
         "description": "Bybit exchange",
         "type": "WELL_KNOWN"
     },
     {
         "evm_address": "0xf89d7b9c864f589bbF53a82105107622B35EaA40",
-        "tag" : "Bybit",
+        "tag" : "Bybit Exchange",
         "description": "Bybit exchange",
         "type": "WELL_KNOWN"
     },
     {
         "evm_address": "0x5A22C49ea09A2995Aa1ad15Fa6953B9C4109f439",
-        "tag" : "Bybit",
+        "tag" : "Bybit Exchange",
         "description": "Bybit exchange",
         "type": "WELL_KNOWN"
     },
     {
         "evm_address": "0x6Fa5B6D93e2539CaEA358518d3fe8f75418e5A1D",
-        "tag" : "Bybit",
+        "tag" : "Bybit Exchange",
         "description": "Bybit exchange",
         "type": "WELL_KNOWN"
     },
     {
         "evm_address": "0x0D0707963952f2fBA59dD06f2b425ace40b492Fe",
-        "tag" : "Gate",
+        "tag" : "Gate Exchange",
         "description": "Gate exchange hot wallet",
         "type": "WELL_KNOWN"
     },
     {
         "evm_address": "0xC882b111A75C0c657fC507C04FbFcD2cC984F071",
-        "tag" : "Gate",
+        "tag" : "Gate Exchange",
         "description": "Gate exchange hot wallet",
         "type": "WELL_KNOWN"
     },
     {
         "evm_address": "0xDA613CA1432FCeEcD2DB9BdBf96F8D8726E42fCB",
-        "tag" : "OSL",
+        "tag" : "OSL Exchange",
         "description": "OSL exchange",
         "type": "WELL_KNOWN"
     },
     {
         "evm_address": "0x4ecD4F080ab38A2C5543e795E171feCf5B7d5FD9",
-        "tag" : "OSL",
+        "tag" : "OSL Exchange",
         "description": "OSL exchange",
         "type": "WELL_KNOWN"
     },
     {
         "evm_address": "0xEB81e7891FE4961fb9786ab4b9b1E754e07dF0A7",
-        "tag" : "OSL",
+        "tag" : "OSL Exchange",
         "description": "OSL exchange",
         "type": "WELL_KNOWN"
     },
     {
         "evm_address": "0xBea0D25Fc5235dAC442a0Da7418FC966AeEb3589",
-        "tag" : "OSL",
+        "tag" : "OSL Exchange",
         "description": "OSL exchange",
         "type": "WELL_KNOWN"
     },
     {
         "evm_address": "0x85AC393adDd65bcf6Ab0999F2a5c064E867F255f",
-        "tag" : "SwissBorg",
+        "tag" : "SwissBorg Exchange",
         "description": "SwissBorg exchange hot wallet",
         "type": "WELL_KNOWN"
     },
     {
         "evm_address": "0x28cC933fecf280E720299b1258e8680355D8841F",
-        "tag" : "SwissBorg",
+        "tag" : "SwissBorg Exchange",
         "description": "SwissBorg exchange storage wallet",
         "type": "WELL_KNOWN"
     }

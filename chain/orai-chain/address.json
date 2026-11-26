@@ -103,31 +103,31 @@
     },
     {
         "cosmos_address": "orai155svs6sgxe55rnvs6ghprtqu0mh69kehsqewps",
-        "tag" : "Gate",
+        "tag" : "Gate Exchange",
         "description": "Gate exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "orai1jm068whkhkxk48gx80ppm2m0nwy677pr9d3qgc",
-        "tag" : "Gate",
+        "tag" : "Gate Exchange",
         "description": "Gate exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "orai1xunyznpjmj9jv5e2zwngp2qrzmulr2ggtthag9",
-        "tag" : "Gate",
+        "tag" : "Gate Exchange",
         "description": "Gate exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "orai1n5ukn9q2r5vrgt6su0e6cvm5lyxe2cn9j08mk7",
-        "tag" : "Gate",
+        "tag" : "Gate Exchange",
         "description": "Gate exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "orai1y2ex6nyqy2yktaa68qtmyctlgqu2cddy0yccpr",
-        "tag" : "Bitget",
+        "tag" : "Bitget Exchange",
         "description": "Bitget exchange",
         "type": "WELL_KNOWN"
     }

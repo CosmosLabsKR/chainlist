@@ -73,25 +73,25 @@
     },
     {
         "cosmos_address": "fetch1s3l4s5f2j79872qjtt9f3p86vxxyf6g854lw4v",
-        "tag" : "Bitget",
+        "tag" : "Bitget Exchange",
         "description": "Bitget exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "fetch155svs6sgxe55rnvs6ghprtqu0mh69kehswxfz5",
-        "tag" : "Gate",
+        "tag" : "Gate Exchange",
         "description": "Gate exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "fetch1xunyznpjmj9jv5e2zwngp2qrzmulr2ggt9g6tp",
-        "tag" : "Gate",
+        "tag" : "Gate Exchange",
         "description": "Gate exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "fetch1fqzrs0xp0w7tqv5zd439xvj2tmzg46ru98zag7",
-        "tag" : "CoinSwitch",
+        "tag" : "CoinSwitch Exchange",
         "description": "CoinSwitch exchange",
         "type": "WELL_KNOWN"
     }

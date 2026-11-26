@@ -128,14 +128,14 @@
     {
         "cosmos_address": "mantra16l5qsgzjueayxa2z78eee53lv3t0kfy3z68pqc",
         "evm_address": "0xD7E8082052e67a437542F1f39Cd23F6456Fb2491",
-        "tag" : "Bitget",
+        "tag" : "Bitget Exchange",
         "description": "Bitget exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "mantra155svs6sgxe55rnvs6ghprtqu0mh69kehgc9fre",
         "evm_address": "0xa520c86a08366941cd90d22e11ac1C7EEFa2Db37",
-        "tag" : "Gate",
+        "tag" : "Gate Exchange",
         "description": "Gate exchange",
         "type": "WELL_KNOWN"
     },

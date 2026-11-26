@@ -1,19 +1,19 @@
 [
     {
         "cosmos_address": "init150mx83aq0jsuczew768maz2dv8krr8zufk6ye0",
-        "tag" : "Bitget",
+        "tag" : "Bitget Exchange",
         "description": "Bitget exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "init1xunyznpjmj9jv5e2zwngp2qrzmulr2ggkwpdz5",
-        "tag" : "Gate",
+        "tag" : "Gate Exchange",
         "description": "Gate exchange",
         "type": "WELL_KNOWN"
     },
     {
         "cosmos_address": "init155svs6sgxe55rnvs6ghprtqu0mh69kehd907tp",
-        "tag" : "Gate",
+        "tag" : "Gate Exchange",
         "description": "Gate exchange",
         "type": "WELL_KNOWN"
     },
