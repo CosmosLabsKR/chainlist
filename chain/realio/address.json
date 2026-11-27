@@ -1,0 +1,86 @@
+[
+    {
+        "cosmos_address": "realio1fl48vsnmsdzcv85q5d2q4z5ajdha8yu3uwd99d",
+        "evm_address": "0x4feA76427B8345861e80A3540a8a9D936FD39391",
+        "tag" : "Bonded Tokens Pool",
+        "description": "Module account that holds tokens staked to active validators",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "realio1tygms3xhhs3yv487phx3dw4a95jn7t7lgw35ne",
+        "evm_address": "0x5911B844d7BC224654FE0DCd16BAbD2D253f2fdF",
+        "tag" : "Not Bonded Tokens Pool",
+        "description": "Module account that holds unbonding tokens and tokens staked to inactive validators",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "realio1jv65s3grqf6v6jl3dp4t6c9t9rk99cd8w2qk49",
+        "evm_address": "0x93354845030274cD4bf1686Abd60AB28EC52e1a7",
+        "tag" : "Distribution",
+        "description": "Module account that holds the community pool and unclaimed staking rewards",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "realio17xpfvakm2amg962yls6f84z3kell8c5lev82h8",
+        "evm_address": "0xf1829676DB577682E944fc3493d451B67Ff3E29F",
+        "tag" : "Fee Collector",
+        "description": "Module account that collects block rewards and transaction fees",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "realio10d07y265gmmuvt4z0w9aw880jnsr700jnhh02f",
+        "evm_address": "0x7b5Fe22B5446f7C62Ea27B8BD71CeF94e03f3dF2",
+        "tag" : "Gov",
+        "description": "Module account that holds governance proposal deposits",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "realio1m3h30wlvsf8llruxtpukdvsy0km2kum8pyrjm6",
+        "evm_address": "0xDc6F17BBEc824FFf8F86587966B2047Db6aB7367",
+        "tag" : "Mint",
+        "description": "Module account that mints new RIO as block rewards (inflation)",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "realio1yl6hdjhmkf37639730gffanpzndzdpmh82jrte",
+        "evm_address": "0x27f576CafbB263ED44BE8bd094f66114Da268777",
+        "tag" : "Transfer",
+        "description": "IBC transfer module account that mints and burns IBC vouchers",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "realio1vqu8rska6swzdmnhf90zuv0xmelej4lqy8p7gj",
+        "evm_address": "0x603871c2ddd41c26Ee77495E2E31e6De7f9957e0",
+        "tag" : "EVM",
+        "description": "EVM module account",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "realio1glht96kr2rseywuvhhay894qw7ekuc4qr3hs4u",
+        "evm_address": "0x47EeB2eac350E1923b8CBDfA4396A077b36E62a0",
+        "tag" : "ERC20",
+        "description": "ERC20 module account that holds coins converted to ERC20 tokens",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "realio1mgydlcxrwfn9kx9u6642t4l5fn5h5kydekwk47",
+        "evm_address": "0xDA08DFE0c372665b18BCD6aAA5d7f44cE97A588D",
+        "tag" : "Multistaking",
+        "description": "Multistaking module account that holds tokens locked for staking with multiple bond tokens",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "realio16kfcdc9wgd0zjta7p67dh92twhk4lvujazjs8w",
+        "evm_address": "0xD59386E0aE435E292fBE0ebcDB954B75ed5Fb392",
+        "tag" : "Asset",
+        "description": "Asset module account that mints and burns tokens issued through the Realio asset module",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "realio1zlefkpe3g0vvm9a4h0jf9000lmqutlh9jzcavp",
+        "evm_address": "0x17F29B073143D8cd97b5bBe492bDEffEC1C5feE5",
+        "tag" : "Bridge",
+        "description": "Bridge module account that mints and burns RIO bridged from other chains",
+        "type": "SYSTEM"
+    }
+]

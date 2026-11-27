@@ -1,156 +1,261 @@
 [
     {
+        "cosmos_address": "kii1fl48vsnmsdzcv85q5d2q4z5ajdha8yu3vsn90g",
+        "evm_address": "0x4feA76427B8345861e80A3540a8a9D936FD39391",
+        "tag" : "Bonded Tokens Pool",
+        "description": "Module account that holds tokens staked to active validators",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "kii1tygms3xhhs3yv487phx3dw4a95jn7t7lcs05eu",
+        "evm_address": "0x5911B844d7BC224654FE0DCd16BAbD2D253f2fdF",
+        "tag" : "Not Bonded Tokens Pool",
+        "description": "Module account that holds unbonding tokens and tokens staked to inactive validators",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "kii1jv65s3grqf6v6jl3dp4t6c9t9rk99cd8757klq",
+        "evm_address": "0x93354845030274cD4bf1686Abd60AB28EC52e1a7",
+        "tag" : "Distribution",
+        "description": "Module account that holds the community pool and unclaimed staking rewards",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "kii17xpfvakm2amg962yls6f84z3kell8c5lfje2az",
+        "evm_address": "0xf1829676DB577682E944fc3493d451B67Ff3E29F",
+        "tag" : "Fee Collector",
+        "description": "Module account that collects block rewards and transaction fees",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "kii1el68mjnzv87uurqks8u29tec0cj32970zh7qs3",
+        "evm_address": "0xcff47DcA6261fDCE0C1681F8a2AF387E251517Cf",
+        "tag" : "Feemarket",
+        "description": "Fee market module account",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "kii10d07y265gmmuvt4z0w9aw880jnsr700jrff0qv",
+        "evm_address": "0x7b5Fe22B5446f7C62Ea27B8BD71CeF94e03f3dF2",
+        "tag" : "Gov",
+        "description": "Module account that holds governance proposal deposits",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "kii1yl6hdjhmkf37639730gffanpzndzdpmhh5vrpu",
+        "evm_address": "0x27f576CafbB263ED44BE8bd094f66114Da268777",
+        "tag" : "Transfer",
+        "description": "IBC transfer module account that mints and burns IBC vouchers",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "kii1vlthgax23ca9syk7xgaz347xmf4nunef7rva60",
+        "evm_address": "0x67d77474CA8e3a5812de323a28D7c6Da6b3e4f29",
+        "tag" : "Interchain Accounts",
+        "description": "IBC Interchain Accounts module account",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "kii1vqu8rska6swzdmnhf90zuv0xmelej4lq5el7zh",
+        "evm_address": "0x603871c2ddd41c26Ee77495E2E31e6De7f9957e0",
+        "tag" : "EVM",
+        "description": "EVM module account",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "kii1glht96kr2rseywuvhhay894qw7ekuc4qn0fsle",
+        "evm_address": "0x47EeB2eac350E1923b8CBDfA4396A077b36E62a0",
+        "tag" : "ERC20",
+        "description": "ERC20 module account that holds coins converted to ERC20 tokens",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "kii1p3de2zhh4yjd4ferpjp4n29t47k7j6qg2lajls",
+        "evm_address": "0x0c5B950Af7a924DAA7230C8359a8aBAfAdE96808",
+        "tag" : "Fee Abstraction",
+        "description": "Fee Abstraction module account that converts fees paid in other tokens to KII",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "kii1jgp27m8fykex4e4jtt0l7ze8q528ux2lg6zamk",
+        "evm_address": "0x9202Af6Ce925b26AE6B25aDfff0B2705147e195F",
+        "tag" : "Oracle",
+        "description": "Oracle module account",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "kii1245yut9zht8q4hz39sd0lzqtzkuw5us5rermc4",
+        "evm_address": "0x55684e2cA2bace0aDc512C1AFF880b15b8eA7214",
+        "tag" : "Rewards",
+        "description": "Rewards module account that holds the rewards pool and releases KII on schedules set by governance",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "kii19ejy8n9qsectrf4semdp9cpknflld0j6yt88m7",
+        "evm_address": "0x2e6443CcA08670b1A6B0CedA12e0369a7Ff6be5a",
+        "tag" : "Token Factory",
+        "description": "Token Factory module account that mints and burns tokens created by users",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "kii1xds4f0m87ajl3a6az6s2enhxrd0wta48fdxq9q",
+        "evm_address": "0x336154Bf67f765F8F75D16a0aCCeE61B5eE5f6a7",
+        "tag" : "Wasm",
+        "description": "CosmWasm module account",
+        "type": "SYSTEM"
+    },
+    {
         "cosmos_address": "kii1peafvgnleuyl20tyfwnyvtvvwwvnaujxmqe5qe",
         "evm_address": "0x0E7A96227fcf09F53D644Ba6462d8c73993eF246",
         "tag" : "Exploiter",
-        "description": "Attacker address #01 of the KiiChain exploit (Aug 2026), frozen at the chain level",
+        "description": "Attacker address of the KiiChain exploit (Aug 2026), frozen at the chain level",
         "type": "DANGER"
     },
     {
         "cosmos_address": "kii1vvwu93nya4ku9yds3v6ns2uq0fsmrnf4cf4yht",
         "evm_address": "0x631Dc2c664ED6dC291B08B35382B807A61b1cD35",
         "tag" : "Exploiter",
-        "description": "Attacker address #02 of the KiiChain exploit (Aug 2026), frozen at the chain level",
+        "description": "Attacker address of the KiiChain exploit (Aug 2026), frozen at the chain level",
         "type": "DANGER"
     },
     {
         "cosmos_address": "kii1p3zmn7m6xq82jna6me04p8awt7k4u4k2alwu99",
         "evm_address": "0x0C45B9FB7a300eA94FBADe5F509faE5fad5e56CA",
         "tag" : "Exploiter",
-        "description": "Attacker address #03 of the KiiChain exploit (Aug 2026), frozen at the chain level",
+        "description": "Attacker address of the KiiChain exploit (Aug 2026), frozen at the chain level",
         "type": "DANGER"
     },
     {
         "cosmos_address": "kii1zamzjyjcwl0dejjvr90rtrwttxx2zhspqx4sm5",
         "evm_address": "0x177629125877deDCCA4C195e358dcB598ca15e01",
         "tag" : "Exploiter",
-        "description": "Attacker address #04 of the KiiChain exploit (Aug 2026), frozen at the chain level",
+        "description": "Attacker address of the KiiChain exploit (Aug 2026), frozen at the chain level",
         "type": "DANGER"
     },
     {
         "cosmos_address": "kii1zlqdn7706xym7q3k2mdleag0uqjnhv8wu4sfsj",
         "evm_address": "0x17c0d9FbCfD189BF023656DBFCF50Fe0253Bb0eE",
         "tag" : "Exploiter",
-        "description": "Attacker address #05 of the KiiChain exploit (Aug 2026), frozen at the chain level",
+        "description": "Attacker address of the KiiChain exploit (Aug 2026), frozen at the chain level",
         "type": "DANGER"
     },
     {
         "cosmos_address": "kii1rehngnge8qn3ngszw4a8xxf2kqwmact602wtm8",
         "evm_address": "0x1e6f344D19382719A202757a73192Ab01dBeE17a",
         "tag" : "Exploiter",
-        "description": "Attacker address #06 of the KiiChain exploit (Aug 2026), frozen at the chain level",
+        "description": "Attacker address of the KiiChain exploit (Aug 2026), frozen at the chain level",
         "type": "DANGER"
     },
     {
         "cosmos_address": "kii1y8m0qyc4n3m0rw4rcd7qnqahjh3r7p9uu3ert8",
         "evm_address": "0x21F6F013159C76F1baa3C37C0983b795e23F04bC",
         "tag" : "Exploiter",
-        "description": "Attacker address #07 of the KiiChain exploit (Aug 2026), frozen at the chain level",
+        "description": "Attacker address of the KiiChain exploit (Aug 2026), frozen at the chain level",
         "type": "DANGER"
     },
     {
         "cosmos_address": "kii19p9h2nw2y4fs85sgwgj2qrhhx7jmz6zujldh3n",
         "evm_address": "0x284b754Dca255303D2087224A00Ef737A5B1685c",
         "tag" : "Exploiter",
-        "description": "Attacker address #08 of the KiiChain exploit (Aug 2026), frozen at the chain level",
+        "description": "Attacker address of the KiiChain exploit (Aug 2026), frozen at the chain level",
         "type": "DANGER"
     },
     {
         "cosmos_address": "kii183h7rz9p4r8a7j8q2ardnrc7pgwnjp9jvhc8kq",
         "evm_address": "0x3C6Fe188A1A8cFdf48E05746d98F1E0a1d3904B2",
         "tag" : "Exploiter",
-        "description": "Attacker address #09 of the KiiChain exploit (Aug 2026), frozen at the chain level",
+        "description": "Attacker address of the KiiChain exploit (Aug 2026), frozen at the chain level",
         "type": "DANGER"
     },
     {
         "cosmos_address": "kii1gp7ar4hdlqntl5qkerm5n8mfxhqkegm76zqskr",
         "evm_address": "0x407dd1d6EDF826bFd016c8F7499F6935C16cA37e",
         "tag" : "Exploiter",
-        "description": "Attacker address #10 of the KiiChain exploit (Aug 2026), frozen at the chain level",
+        "description": "Attacker address of the KiiChain exploit (Aug 2026), frozen at the chain level",
         "type": "DANGER"
     },
     {
         "cosmos_address": "kii1gf9a9jjnnv8q3zcr8kczx0r5425zcfgpdw72tt",
         "evm_address": "0x424BD2CA539b0e088b033dB0233c74AaA82c2501",
         "tag" : "Exploiter",
-        "description": "Attacker address #11 of the KiiChain exploit (Aug 2026), frozen at the chain level",
+        "description": "Attacker address of the KiiChain exploit (Aug 2026), frozen at the chain level",
         "type": "DANGER"
     },
     {
         "cosmos_address": "kii1t7gzjh4gsrcuyfx3xdsem05chluqfsa43j9g54",
         "evm_address": "0x5F90295ea880f1C224D133619dbe98BFF804c3b5",
         "tag" : "Exploiter",
-        "description": "Attacker address #12 of the KiiChain exploit (Aug 2026), frozen at the chain level",
+        "description": "Attacker address of the KiiChain exploit (Aug 2026), frozen at the chain level",
         "type": "DANGER"
     },
     {
         "cosmos_address": "kii1wucgj4wxe0zvmmew2000cltc5qrl99eedtrzv4",
         "evm_address": "0x77308955C6CBc4cdEf2e53DeFc7D78a007f29739",
         "tag" : "Exploiter",
-        "description": "Attacker address #13 of the KiiChain exploit (Aug 2026), frozen at the chain level",
+        "description": "Attacker address of the KiiChain exploit (Aug 2026), frozen at the chain level",
         "type": "DANGER"
     },
     {
         "cosmos_address": "kii1syetlh585kl6yv5hmflhfehla5re7ay4um2skh",
         "evm_address": "0x8132bfDE87A5bfa23297da7F74e6FFEd079F7495",
         "tag" : "Exploiter",
-        "description": "Attacker address #14 of the KiiChain exploit (Aug 2026), frozen at the chain level",
+        "description": "Attacker address of the KiiChain exploit (Aug 2026), frozen at the chain level",
         "type": "DANGER"
     },
     {
         "cosmos_address": "kii1s7jw5ffqgjfn4ywxtgtq3nhpgcn05z28fsmkhm",
         "evm_address": "0x87A4Ea252044933a91C65A1608cEE14626fa0947",
         "tag" : "Exploiter",
-        "description": "Attacker address #15 of the KiiChain exploit (Aug 2026), frozen at the chain level",
+        "description": "Attacker address of the KiiChain exploit (Aug 2026), frozen at the chain level",
         "type": "DANGER"
     },
     {
         "cosmos_address": "kii13ndtp734ntzx0jqvr80rlmj62slztqm9agzwce",
         "evm_address": "0x8Cdab0fa359AC467C80C19dE3fee5a543E258365",
         "tag" : "Exploiter",
-        "description": "Attacker address #16 of the KiiChain exploit (Aug 2026), frozen at the chain level",
+        "description": "Attacker address of the KiiChain exploit (Aug 2026), frozen at the chain level",
         "type": "DANGER"
     },
     {
         "cosmos_address": "kii13umhqxg56cxwa9wv4gu6l9v4vyz9e70g4hupvn",
         "evm_address": "0x8F37701914d60CeE95CcAa39AF959561045CF9E8",
         "tag" : "Exploiter",
-        "description": "Attacker address #17 of the KiiChain exploit (Aug 2026), frozen at the chain level",
+        "description": "Attacker address of the KiiChain exploit (Aug 2026), frozen at the chain level",
         "type": "DANGER"
     },
     {
         "cosmos_address": "kii156expaxlymu5uhepe2dh647c9lu4slxpyml28q",
         "evm_address": "0xa6B260f4df26F94e5F21CA9B7d57D82FF9587cc1",
         "tag" : "Exploiter",
-        "description": "Attacker address #18 of the KiiChain exploit (Aug 2026), frozen at the chain level",
+        "description": "Attacker address of the KiiChain exploit (Aug 2026), frozen at the chain level",
         "type": "DANGER"
     },
     {
         "cosmos_address": "kii1k8vyx8d9ru2hk3k207p3az84xedjxz2gkdyle0",
         "evm_address": "0xb1d8431da51f157B46ca7F831e88f5365B230948",
         "tag" : "Exploiter",
-        "description": "Attacker address #19 of the KiiChain exploit (Aug 2026), frozen at the chain level",
+        "description": "Attacker address of the KiiChain exploit (Aug 2026), frozen at the chain level",
         "type": "DANGER"
     },
     {
         "cosmos_address": "kii16tr429kvneexqf4jttueuecm75ptc5l3gtj34q",
         "evm_address": "0xD2C75516Cc9E726026B25aF99e671bf502Bc53f1",
         "tag" : "Exploiter",
-        "description": "Attacker address #20 of the KiiChain exploit (Aug 2026), frozen at the chain level",
+        "description": "Attacker address of the KiiChain exploit (Aug 2026), frozen at the chain level",
         "type": "DANGER"
     },
     {
         "cosmos_address": "kii1mkhdmdgklsskgcgzz699nzhafav2hkea4qp2dj",
         "evm_address": "0xddAEDdB516fC21646102168a598AFd4f58abDB3d",
         "tag" : "Exploiter",
-        "description": "Attacker address #21 of the KiiChain exploit (Aug 2026), frozen at the chain level",
+        "description": "Attacker address of the KiiChain exploit (Aug 2026), frozen at the chain level",
         "type": "DANGER"
     },
     {
         "cosmos_address": "kii1a5v3eaeaugdh3vk57nlh8q8xcu7z46w0ttlrw9",
         "evm_address": "0xED191cf73DE21b78b2D4F4ff7380e6c73c2ae9Cf",
         "tag" : "Exploiter",
-        "description": "Attacker address #22 of the KiiChain exploit (Aug 2026), frozen at the chain level",
+        "description": "Attacker address of the KiiChain exploit (Aug 2026), frozen at the chain level",
         "type": "DANGER"
     }
 ]

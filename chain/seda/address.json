@@ -1,0 +1,68 @@
+[
+    {
+        "cosmos_address": "seda1fl48vsnmsdzcv85q5d2q4z5ajdha8yu3r49h6k",
+        "tag" : "Bonded Tokens Pool",
+        "description": "Module account that holds tokens staked to active validators",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "seda1tygms3xhhs3yv487phx3dw4a95jn7t7lh4exvz",
+        "tag" : "Not Bonded Tokens Pool",
+        "description": "Module account that holds unbonding tokens and tokens staked to inactive validators",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "seda1jv65s3grqf6v6jl3dp4t6c9t9rk99cd833gy27",
+        "tag" : "Distribution",
+        "description": "Module account that holds the community pool and unclaimed staking rewards",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "seda17xpfvakm2amg962yls6f84z3kell8c5lxh0cgu",
+        "tag" : "Fee Collector",
+        "description": "Module account that collects block rewards and transaction fees",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "seda10d07y265gmmuvt4z0w9aw880jnsr700jvvla4j",
+        "tag" : "Gov",
+        "description": "Module account that holds governance proposal deposits",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "seda1m3h30wlvsf8llruxtpukdvsy0km2kum87ltqyp",
+        "tag" : "Mint",
+        "description": "Module account that mints new SEDA as block rewards (inflation)",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "seda1yl6hdjhmkf37639730gffanpzndzdpmhc3635z",
+        "tag" : "Transfer",
+        "description": "IBC transfer module account that mints and burns IBC vouchers",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "seda1vlthgax23ca9syk7xgaz347xmf4nunef3x6003",
+        "tag" : "Interchain Accounts",
+        "description": "IBC Interchain Accounts module account",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "seda176rcyfn5k9d0wcxel3kmwvxh0hy3xcwe0z0m99",
+        "tag" : "Fee IBC",
+        "description": "IBC fee middleware module account that escrows relayer fees",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "seda1xds4f0m87ajl3a6az6s2enhxrd0wta48xgsjs7",
+        "tag" : "Wasm",
+        "description": "CosmWasm module account",
+        "type": "SYSTEM"
+    },
+    {
+        "cosmos_address": "seda1p95ew5ykt9q6ueqg9g0ue5anjueflq9y089gz3",
+        "tag" : "Data Proxy",
+        "description": "Data Proxy module account for data proxies that serve data to SEDA oracle requests",
+        "type": "SYSTEM"
+    }
+]
