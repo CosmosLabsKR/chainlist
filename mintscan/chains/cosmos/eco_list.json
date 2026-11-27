@@ -1,38 +1,23 @@
 [
     {
-        "name": "IBC Eureka (Skip)",
-        "type": "IBC, Swap",
-        "description": "IBC Eureka, launched by Cosmos’ Interchain Labs, enables secure and transparent connections between blockchains—marking a key step toward building a decentralized internet.",
-        "status": "open",
-        "thumbnail" : "eureka",
-        "link": "https://go.cosmos.network/",
-        "social": {
-            "webSite": "https://www.skip.build/",
-            "twitter": "https://x.com/SkipProtocol",
-            "github": "https://github.com/skip-mev",
-            "docs": "https://docs.skip.build/go"
-        }
-    },
-    {
         "name": "Skip Go",
-        "type": "DeFi",
-        "description": "Provides MEV solutions for Cosmos and Evm blockchains, enabling revenue generation through block space auctions and transaction prioritization.",
+        "type": "Swap",
+        "description": "Cross-chain swaps and transfers, including IBC Eureka transfers between Cosmos Hub and Ethereum.",
         "status": "open",
-        "thumbnail" : "skip",
+        "thumbnail": "skip",
         "link": "https://go.skip.build/",
         "social": {
             "webSite": "https://www.skip.build/",
-            "twitter": "https://x.com/SkipProtocol",
             "github": "https://github.com/skip-mev",
             "docs": "https://docs.skip.build/go"
         }
     },
     {
         "name": "Squid Router",
-        "type": "Defi",
-        "description": "Squid lets you swap tokens between blockchains, and unlocks access to apps across chains in 1 click ✨ EVM + Cosmos.",
+        "type": "Bridge",
+        "description": "Cross-chain swaps and bridging between Cosmos Hub and other blockchain networks.",
         "status": "open",
-        "thumbnail" : "squid",
+        "thumbnail": "squid",
         "link": "https://app.squidrouter.com",
         "social": {
             "webSite": "https://app.squidrouter.com",
@@ -53,17 +38,17 @@
         }
     },
     {
-	    "name": "Validatorinfo",
-	    "type": "Explorer",
-	    "description": "Multichain explorer",
-	    "status": "open",
-	    "thumbnail" : "validatorinfo",
-	    "link": "https://validatorinfo.com/networks/cosmoshub/overview"
-	},
-	{
+        "name": "Validatorinfo",
+        "type": "Explorer",
+        "description": "Multichain explorer",
+        "status": "open",
+        "thumbnail": "validatorinfo",
+        "link": "https://validatorinfo.com/networks/cosmoshub/overview"
+    },
+    {
         "name": "ATOM Circuit",
-        "type": "IBC, Swap, Staking",
-        "description": "Swap fees buy ATOM. Staked forever. Creates continuous buy pressure.",
+        "type": "Swap",
+        "description": "Token swaps that convert a portion of swap fees into permanently staked ATOM on Cosmos Hub.",
         "status": "open",
         "thumbnail": "atomcircuit",
         "link": "https://atomcircuit.net",
@@ -74,11 +59,11 @@
         }
     },
     {
-        "name": "Hydro Auctions",
-        "type": "DeFi",
-        "description": "Hydro gives ATOM stakers the opportunity to allocate the Hub’s liquidity by voting on bids submitted by projects, and receive tributes for their support.",
+        "name": "Hydro",
+        "type": "Yield",
+        "description": "Liquidity allocation through locked ATOM voting and DeFi yield opportunities through Inflow vaults.",
         "status": "open",
-        "thumbnail" : "hydroauctions",
+        "thumbnail": "hydroauctions",
         "link": "https://hydro.markets/v2",
         "social": {
             "webSite": "https://hydro.markets/v2",
@@ -86,20 +71,6 @@
             "twitter": "https://x.com/hydromarkets",
             "github": "https://github.com/informalsystems/hydro",
             "docs": "https://hydro.markets/docs"
-        }
-    },
-    {
-        "name": "Inflow",
-        "type": "Earn",
-        "description": "Deposit and earn stable, risk-adjusted yield while Hydro manages DeFi complexity across protocols and chains, security and risk assessments included.",
-        "status": "open",
-        "thumbnail" : "hydroinflow",
-        "link": "https://hydro.markets/inflow",
-        "social": {
-            "webSite": "https://hydro.markets/inflow",
-            "telegram": "https://t.me/hydro_community",
-            "twitter": "https://x.com/hydromarkets",
-            "github": "https://github.com/informalsystems/hydro"
         }
     }
 ]
